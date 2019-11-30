@@ -36,6 +36,24 @@ than them to support them financially or with other resources.
 
 # The Human Mind
 
+## Perspective
+
+The brain only understands the world as it perceives it through the senses.
+Although the senses can take in a high volume of information, there is still
+heavy processing that must be done for this information to be useful/actionable
+by the rest of the brain.  There are many points along this chain of processing
+where learned perspective shapes what the rest of the brain sees.  For instance,
+an image of an engine may just look like metal to an untrained brain, but tells
+a very different story to a mechanic.  
+
+In a way, learning or training is just the process of acquiring new perspectives
+from which to see the world.  This explains why learning can be such a "stop and
+go" process - it's easy to be stuck on a concept for a while before it finally
+clicks.  
+
+
+
+
 ## Frames of Mind
 
 ### Flow (State of Doing)
@@ -87,6 +105,7 @@ that is too far removed from reality to be useful.
 For learning new things, riding the edge between mindfulness and flow is
 extremely helpful.  This can manifest as making assumptions mindfully and
 testing them through flow.  
+
 
 
 ## Mind as Multiple Actors
