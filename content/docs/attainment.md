@@ -1,3 +1,7 @@
+---
+draft: true
+---
+
 ## Attainment
 
 I am motivated by attainment.  My mind/body strive to attain:

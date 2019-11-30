@@ -1,7 +1,3 @@
----
-draft: true
----
-
 # Climbing Safety Checklist
 
 At time of writing, I recently finished reading [*The Checklist
