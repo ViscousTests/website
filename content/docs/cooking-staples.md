@@ -9,6 +9,11 @@ Boil water, add oats, cook for 5 mins.
 Try adding Mexican blend cheese and red pepper flakes!
 
 
+## Roasted Brussel Sprouts
+
+Cut in half, bake at 400F for ~18mins.  Add oil, salt, and flavors after!
+
+
 ## Chia Oat Pudding
 
 1/4 cup of rolled oats (2 cups)
