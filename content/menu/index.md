@@ -12,4 +12,4 @@ headless: true
   - [Music]({{< relref "/docs/music.md" >}})
 - **How To**
   - [Finances]({{< relref "/docs/finances.md" >}})
-  - [Cooking]({{< relref "/docs/cooking-staples.md" >}})
+  - [Cooking]({{< relref "/docs/cooking.md" >}})
