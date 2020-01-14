@@ -14,6 +14,9 @@ disablePathToLower: true
 pygmentsStyle: monokailight
 pygmentsCodeFences: true
 
+markup:
+  defaultMarkdownHandler: blackfriday
+
 params:
   # (Optional, default true) Show or hide table of contents globally
   # You can also specify this parameter per page in front matter
