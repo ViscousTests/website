@@ -5,18 +5,51 @@
  - 1 cup rolled oats
  - 2 cups water
 
-Boil water, add oats, cook for 5 mins.
+Boil water, add oats, cook for 5 mins on stovetop.  Watch out for boiling over
+in first couple minutes!
+
 Try adding Mexican blend cheese and red pepper flakes!
 
 
-## Roasted Brussel Sprouts
+## Roasted Vegetables
 
-Cut in half, bake at 400F for ~18mins.  Add oil, salt, and flavors after!
+All at 425F.
+
+Vegetable      | Size     | Time (mins)
+---------      | -------- | -----------
+Potato         | 1/2 in   | 40 - 50
+Zucchini       | 1/2 in   | 20
+Broccoli       | floret   | 20
+Brussel Sprout | halved   | 20
+Tomato (roma)  | sliced   | 15
+
+See also [this
+chart](https://www.myfrugalhome.com/vegetable-roasting-times-chart/).
+
+Add thyme, rosemary, salt, garlic for extra flavor!  Add olive oil after or
+before.
 
 
 ## Green Beans
 
 Boil for 3 mins.  Good in pasta!
+
+
+## Apple Oat Almond Cookies/Smoothie
+
+ - 3 large apples
+ - 1 cup rolled oats
+ - 1 cup whole almonds (soaked for 1 hour)
+
+1. Preheat oven to 375F.
+2. Blend all ingredients in blender.
+3. Enjoy your smoothie!  Or...
+4. Pour cookie shapes onto baking sheet with parchment paper over it (or oiled,
+   haven't tried).
+5. Bake for 30+ mins depending on size of cookie, cool for 10 mins.
+
+From
+[vegevega.com](https://vegevega.com/healthy-3-ingredient-apple-almond-breakfast-cookies/)
 
 
 ## Chia Oat Pudding
@@ -57,20 +90,6 @@ Remove from oven and transfer into a large bowl. Add raisins and mix until
 evenly distributed.
 
 Recipe courtesy of Alton Brown.
-
-
-## Vegan rice pudding (untested)
-
- - 1/2 cup white rice (uncooked)
- - 4 cups soy milk
- - 2 tsp vanilla extract
- - 1 tsp cinnamon
- - dash nutmeg
- - 1/4 cup sugar
- - 1/2 cup rasins
-
-Mix all ingredients and place in ovenproof dish.  Bake covered at 275F for 3
-hours.  Try uncovered if no setting occurs during that time.
 
 
 # Desserts
