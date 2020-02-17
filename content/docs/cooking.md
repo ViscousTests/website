@@ -92,6 +92,11 @@ evenly distributed.
 Recipe courtesy of Alton Brown.
 
 
+## Sweet Potato Pancakes
+
+TODO find recipe that we used!
+
+
 # Desserts
 
 ## Creme Brulee
