@@ -97,13 +97,29 @@ Every turn, when crops expire, you can plant new crops with your current seeds.
 Seeds are permanent/infinite (when you get a seed in a given game, you can plant
 it wherever).
 
+As you spread across the map, your land is split into provinces when they hit a
+certain size.  A province can only contain ~5 tiles before it splits into 2.
+Provinces attack and defend alone - only the food within them is used to make
+units.  
+
 ### Fighting
 
 Every round, either the player has a chance to expand to a "x" tile, or an
-existing farm tile is attacked.  Either way, turn based grid combat is
-triggered.  **The crops in a small radius around the combat site are the only
-ones that give benefit!**  This makes for interesting decision making about
-where to plant what crops.
+existing farm tile is attacked.  Either way, combat is triggered.  **The crops
+in a small radius around the combat site are the only ones that give benefit!**
+This makes for interesting decision making about where to plant what crops.
+
+Combat occurs on a tile grid and is very similar to chess.  Units start in
+certain locations, then each side gets to make a move.  If a unit moves onto
+another unit, that unit is taken/routed.  You can revive units by moving to
+specific locations with specific healer units.  Food from overworld/farming
+system gives units different abilities/move patterns.  Some ideas:
+
+1. change move pattern (e.g. knight, rook, bishop, some combination)
+2. allow to revive units
+3. "overwatch" or "defend" - tiles around the unit or in a certain pattern are
+   watched: if an enemy moves through/onto them they are taken.  this could
+   include the tile the unit is on!
 
 #### Enemies
 
