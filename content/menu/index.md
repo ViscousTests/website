@@ -2,8 +2,6 @@
 headless: true
 ---
 
-- **Philosophy**
-  - [Software]({{< relref "/docs/software.md" >}})
 - **Projects**
   - [This Website]({{< relref "/docs/website.md" >}})
   - [Desktop Environment]({{< relref "/docs/desktop.md" >}})  
@@ -13,3 +11,4 @@ headless: true
 - **How To**
   - [Finances]({{< relref "/docs/finances.md" >}})
   - [Cooking]({{< relref "/docs/cooking.md" >}})
+- [**Great Talks/Articles**]({{< relref "/docs/great-talks-and-articles.md" >}})

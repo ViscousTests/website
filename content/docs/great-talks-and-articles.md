@@ -17,6 +17,9 @@ After each talk/article are listed my major takeaways from it.
   - It is easy to trick yourself that you are thinking rationally when you do
     not share your thoughts by writing them down or speaking them out loud.  If
     you are serious about solving a problem, write down your thought process!
+- [Things You Should Never Do by Joel Spolsky](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/)
+  - Rewriting code is tempting, but can destroy solutions to many
+    micro-problems that are hard to see from the top level.
 
 ## General Problem Solving
 
