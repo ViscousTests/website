@@ -1,6 +1,6 @@
-# Great Talks
+# Great Talks/Articles
 
-After each talk are listed my major takeaways from it.
+After each talk/article are listed my major takeaways from it.
 
 ## Software
 
@@ -18,8 +18,18 @@ After each talk are listed my major takeaways from it.
     not share your thoughts by writing them down or speaking them out loud.  If
     you are serious about solving a problem, write down your thought process!
 
+## General Problem Solving
+
+- [Inversion by James Clear](https://jamesclear.com/inversion)
+  - Imagining how to avoid failure is often more useful than imagining how to
+    succeed.
+
 ## Game Design
 
 - [20 Lessons from 20 Years of MTG by Mark Rosewater](https://www.youtube.com/watch?v=QHHg99hwQGY)
   - Creativity comes from constraining your problem space
 
+## Blogs
+
+- [danluu](http://danluu.com)
+- [Paul Graham](http://www.paulgraham.com/articles.html)
