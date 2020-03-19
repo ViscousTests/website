@@ -97,6 +97,23 @@ Recipe courtesy of Alton Brown.
 TODO find recipe that we used!
 
 
+# Bread Machine Recipes
+
+## Black Bean Bread
+
+ - 1  cup  water
+ - 3/4  cup  beans
+ - black, , dry, cooked, drained  
+ - 1 1/2  tablespoons  applesauce
+ - 1 1/2  tablespoons  honey
+ - ¾  teaspoon  salt
+ - 1 1/2  cups  whole-wheat flour
+ - 1 1/2  cups  bread flour
+ - 1 1/2  teaspoons  yeast, active dry
+
+ Use whole wheat cycle on 1.5 lb loaf.
+
+
 # Desserts
 
 ## Creme Brulee
