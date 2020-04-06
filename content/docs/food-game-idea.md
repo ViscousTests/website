@@ -83,13 +83,14 @@ x x x x x x x x x x x x x x x x x x x x x
 
 ### Farming
 
-Start out in middle of map with some basic crop farms.  Different types of crops
-give different benefits.  Categories:
+Start out in middle of map with some basic villages that grow different types
+of crops.  Each village has a "hero", who starts with a basic ability based on
+his/her village type.  If different types of villages are next to each other,
+heros from the different villages can learn skills from each other in some way
+that makes them still unique.
 
-1. more units for combat
-2. better units for combat
-3. better crops (either around this crop or if planted on the field after this
-   crop dies/is harvested).
+Each land type (field, mountain, etc.) only accepts 2-3 different village
+types.
 
 Crops expire after certain number of turns (different crops take longer to
 grow).  When expired, you cannot plant the same crop on the same tile again.
@@ -128,3 +129,14 @@ is struggle of civilization against nature.  Try to characterize nature as
 brutal.
 
 
+
+# Nomad Idea
+
+Given a randomly generated map, a list of enemy units, and their general
+direction of attack, the player must place down farms/villages.  These
+farms/villages each produce one fighting unit of different classes.  Adjacent
+farms/villages can create hybrid class units (or give their units special
+skills?).  
+
+After placement, enemies start to trickle in and the player must survive as
+long as they can without their farms being destroyed/captured.  
