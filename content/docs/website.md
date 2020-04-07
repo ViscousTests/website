@@ -10,3 +10,4 @@ modifying the pages.
 Cool tips to check out for improvement:
 - https://gohugo.io/content-management/shortcodes/#figure
 - https://marcmolla.bitbucket.io/blog/bitbucket-and-continuous-integration-of-a-hugo-site/
+- https://tkainrad.dev/posts/using-hugo-gitlab-pages-and-cloudflare-to-create-and-run-this-website/
