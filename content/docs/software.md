@@ -1,8 +1,5 @@
-# Great Talks/Articles
 
-After each talk/article are listed my major takeaways from it.
-
-## Software
+## Talks/Articles
 
 - [Simple made Easy by Rich Hickey](https://www.infoq.com/presentations/Simple-Made-Easy/)
   - Complex = entangled = difficult to reason about
@@ -20,19 +17,8 @@ After each talk/article are listed my major takeaways from it.
 - [Things You Should Never Do by Joel Spolsky](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/)
   - Rewriting code is tempting, but can destroy solutions to many
     micro-problems that are hard to see from the top level.
-
-## General Problem Solving
-
-- [Inversion by James Clear](https://jamesclear.com/inversion)
-  - Imagining how to avoid failure is often more useful than imagining how to
-    succeed.
-
-## Game Design
-
-- [20 Lessons from 20 Years of MTG by Mark Rosewater](https://www.youtube.com/watch?v=QHHg99hwQGY)
-  - Creativity comes from constraining your problem space
-
-## Blogs
-
-- [danluu](http://danluu.com)
-- [Paul Graham](http://www.paulgraham.com/articles.html)
+- [The Origin of Complexity by Joakim
+  Tengstrand](https://itnext.io/the-origin-of-complexity-8ecb39130fc)
+  - Complexity arises when systems are not changeable.  To make systems more
+    chachangeable, increase their **usability** and reduce **coordination**
+    between their pieces.

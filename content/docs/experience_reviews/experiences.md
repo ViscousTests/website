@@ -31,9 +31,7 @@ but don't remember the details.  Started climbing regularly when working at
 Arzeda, since it was so close.
 
 
-## Working in Water Treatment lab - 2013
-
-TODO get professor's name
+## Working in Water Treatment lab (Prof. Mark Benjamin) - 2013
 
 
 ## Working in EE Building as Tech Support - 

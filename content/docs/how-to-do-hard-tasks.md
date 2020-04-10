@@ -3,7 +3,13 @@ bookShowToc: false
 draft: true
 ---
 
-# How to Learn
+# How to Do Hard Tasks
+
+## What Makes Tasks Hard?
+
+Tasks are hard when you don't already have pathways in your brain that script
+them, or your existing pathways are incomplete.
+
 
 http://gregorygundersen.com/blog/2020/01/12/why-research-blog/
 
@@ -27,6 +33,10 @@ In a way, learning or training is just the process of acquiring new perspectives
 from which to see the world.  This explains why learning can be such a "stop and
 go" process - it's easy to be stuck on a concept for a while before it finally
 clicks.  
+
+- [Inversion by James Clear](https://jamesclear.com/inversion)
+  - Imagining how to avoid failure is often more useful than imagining how to
+    succeed.
 
 
 ## States of Mind
