@@ -129,6 +129,13 @@ is struggle of civilization against nature.  Try to characterize nature as
 brutal.
 
 
+COMBAT IDEA: on your turn you can either move OR attack with ANY of your
+characters (like chess, except attack ranges are more restrictive than movement
+instead of being the same).  This might lead to strategy like penning in
+opponents so that they can be attacked.  Might need some movement restricting
+abilities too.
+
+
 
 # Nomad Idea
 
