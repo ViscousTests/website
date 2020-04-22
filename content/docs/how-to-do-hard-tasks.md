@@ -38,6 +38,11 @@ clicks.
   - Imagining how to avoid failure is often more useful than imagining how to
     succeed.
 
+### Getting Overwhelmed
+
+Meditation/stepping outside yourself:
+https://www.youtube.com/watch?v=i7kh8pNRWOo
+
 
 ## States of Mind
 
@@ -88,6 +93,8 @@ extremely helpful.  This can manifest as making assumptions mindfully and
 testing them through flow.  
 
 See also https://www.youtube.com/watch?v=ryB_VQ__KeE
+
+and https://www.youtube.com/watch?v=4Ej_3NKA3pk
 
 
 ### The Chase
