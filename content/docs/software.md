@@ -1,6 +1,9 @@
 
 ## Talks/Articles
 
+- [Getting things done by Johnathan Blow](https://www.youtube.com/watch?v=vCzrKjbXZQY)
+  - Depth first approach to problem solving can be bad because you end up going
+    in the wrong direction (which you would have avoided going breath-first)
 - [Simple made Easy by Rich Hickey](https://www.infoq.com/presentations/Simple-Made-Easy/)
   - Complex = entangled = difficult to reason about
   - To make systems more understandable, need to reduce them to small,

@@ -87,6 +87,14 @@ For learning new things, riding the edge between absorbing and professing is
 extremely helpful.  This can manifest as making assumptions mindfully and
 testing them through flow.  
 
+See also https://www.youtube.com/watch?v=ryB_VQ__KeE
+
+
+### The Chase
+
+Having a set of clear objectives that are each quick, but demanding to achieve
+is a good way to enter flow.
+
 
 
 ## Mind as Multiple Actors
