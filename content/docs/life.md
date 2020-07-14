@@ -5,6 +5,8 @@ draft: true
 
 # How to Feel Good
 
+https://www.perell.com/blog/50-ideas-that-changed-my-life?ref=alexcarpenter.me
+
 ## Satisfaction
 
 Happiness is an emotion.  I
