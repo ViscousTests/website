@@ -3,6 +3,9 @@ bookShowToc: false
 draft: true
 ---
 
+Good points about rationalization:
+https://medium.dave-bailey.com/how-to-resolve-a-conflict-when-both-sides-are-right-1f375bc82f7f
+
 # Emotions (and Relationships)
 
 If someone has a strong model in their head for how things should go (certain
