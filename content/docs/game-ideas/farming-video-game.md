@@ -3,9 +3,7 @@ bookShowToc: false
 draft: true
 ---
 
-# Game Ideas
-
-## Farming Game
+# Farming Game
 
 Into the breach like isometric map.
 Turn based XCOM like combat.
@@ -26,3 +24,5 @@ events you will have to contend with in the future.
 
 Game consists of different environments to "master".  An environment is mastered
 when all events can be dealt with easily for a certain time.
+
+See https://github.com/kovasap/farming_strategy_game.
