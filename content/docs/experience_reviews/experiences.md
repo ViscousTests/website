@@ -80,7 +80,10 @@ cool to surprise some people hanging out on their own balconies : ).
 ## Apex Legends - 2019-2020
 
 Awesome game that I've enjoyed more the more I've played it.  Much better to play
-when in voice chat with teammates.
+when in voice chat with teammates.  Highly recommend using a mic actively (not just
+saying "hi" when you first join, but really making callouts and strategy calls) when
+playing alone.  Doing this will attract other similar players, which you can then
+friend and play with later.
 
 ### Tips to be better
 
