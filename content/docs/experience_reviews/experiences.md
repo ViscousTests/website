@@ -77,6 +77,21 @@ cool to surprise some people hanging out on their own balconies : ).
 
 ## Counter Strike: Global Offensive
 
+## Apex Legends - 2019-2020
+
+Awesome game that I've enjoyed more the more I've played it.  Much better to play
+when in voice chat with teammates.
+
+### Tips to be better
+
+Focus on using cover.  Always try to engage enemies with some object in between you
+that you can use to cover ~40% of your screen with to make you harder to hit.  Avoid
+situations where an opponent can easily catch you without a easy bit of cover to
+move to.
+
+Positioning is very helpful to win games.  Staying above opponents consistantly will
+let you keep an advantage and win against mechanically better players.
+
 ## Rainbow 6: Siege
 
 Very intense and engaging game that requires a high level of focus.  
