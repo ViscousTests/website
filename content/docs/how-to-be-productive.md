@@ -16,6 +16,19 @@ experience, it's not worth interrupting a flow state with 25m timers - using
 this as a guideline generally works better for me.
 
 
+# Distraction and Friction
+
+Working in the presence of distractions or other environmental factors that
+make work require more effort can actually boost productivity to a certain
+extent.  I find that more difficult or "stressful" problems can more fully
+engage me, leading to a personal response than more than compensates for the
+increased difficulty.  Listening to energetic music, or working with others
+around are good examples of this.  Standing desks might also have a similar
+effect.
+
+See the book "Antifragile" for more on this, specifically Book 1 Chapter 2.
+
+
 # Food
 
 Personally, eating - especially being full - can derail my ability to be in a
@@ -27,4 +40,4 @@ minimize the time I spend full when I want to be productive:
 
 For both cases, I should delay the meal as long as I don't feel hungry, and
 even delay a bit if I do feel hungry, to take advantage of the productivity
-boost that comes when anticipating food.
+boost that comes when anticipating food (see "Distraction and Friction").
