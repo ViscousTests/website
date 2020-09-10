@@ -1,9 +1,3 @@
----
-bookShowToc: false
-draft: true
----
-
-
 # What should I eat?
 
 Mostly vegan, with fish 2-3 times per week[^1].
