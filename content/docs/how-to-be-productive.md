@@ -24,7 +24,8 @@ extent.  I find that more difficult or "stressful" problems can more fully
 engage me, leading to a personal response than more than compensates for the
 increased difficulty.  Listening to energetic music, or working with others
 around are good examples of this.  Standing desks might also have a similar
-effect.
+effect.  People who watch TV/videos/streams when working may also be tapping
+into this effect.
 
 See the book "Antifragile" for more on this, specifically Book 1 Chapter 2.
 
