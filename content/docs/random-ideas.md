@@ -3,6 +3,15 @@ bookShowToc: false
 draft: true
 ---
 
+# Water Saving Toilet
+
+Make a toilet where urine is redirected (like a composting toilet) into a
+separate area with no water in it (the back of the toilet still has water).
+Then, when you pee in that area you don't need to flush, but when you poop (or
+otherwise flush), the rising water will drain into the pee area as well,
+washing it.  This should reduce the number of flushes per day by a lot for the
+average toilet.  
+
 
 # Album Cover Quiz Site
 
