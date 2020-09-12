@@ -14,7 +14,4 @@
   - Long and varied.
 - [Found My Fitness](https://www.foundmyfitness.com/)
   - Deep dives into health related topics.
-
-## To Listen
-
 - [Peter Attia Drive](https://peterattiamd.com/podcast/)

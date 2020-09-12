@@ -5,6 +5,8 @@ Mostly vegan, with fish 2-3 times per week[^1].
 ## Things to avoid
 
  - Refined sugars
+    - [Danger of Fast
+       Carbs](https://www.theatlantic.com/ideas/archive/2020/03/carbs-are-killing-us/609040/)
  - Red meat
 
 
@@ -12,6 +14,11 @@ Mostly vegan, with fish 2-3 times per week[^1].
 
 Probably mostly earlier in the day[^2][^3], and within a 8-12 hour
 window[^3][^4].
+
+- [Meal Timing And Frequency Effects on Cardiovascular
+  Disease](https://www.ahajournals.org/doi/full/10.1161/CIR.0000000000000476)
+  - Eating meals earlier in the day **might** be healthier
+  - Eating meals on a regular schedule is likely healthier
 
 
 # Should I fast for prolonged periods?

@@ -5,7 +5,8 @@ draft: true
 # Experiences
 
 Each experience has a approximate date when I had it, or first started
-experiencing it if it is recurring.
+experiencing it if it is recurring.  The order of the experiences roughly
+corresponds to the impact they have/had on my life.
 
 
 ## Climbing
