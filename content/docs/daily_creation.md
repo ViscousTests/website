@@ -10,4 +10,4 @@ draft: true
  - 9/8/2020: [reorganization of fulfillment writing](https://github.com/kovasap/website/commit/c448efbb62df1b4a258f13d4f96962ad8e6eb422)
  - 9/9/2020: [eating habit draft](https://github.com/kovasap/website/commit/9ef992668b7dec476fa86d16a3da971834c7dc63)
  - 9/10/2020: [distractions and productivity](https://github.com/kovasap/website/commit/576786317d35590c85e6a084dc575bee94caa102)
-
+ - 9/11/2020: [light reorg](https://github.com/kovasap/website/commit/b56616586e73197cd869aa7d5d25cf0355cc2257)
