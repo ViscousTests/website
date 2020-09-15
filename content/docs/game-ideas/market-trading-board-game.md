@@ -3,6 +3,8 @@ bookShowToc: false
 draft: true
 ---
 
+TODO trying using http://playingcards.io/ for this.
+
 # Market Trading
 
 ## Core ideas
