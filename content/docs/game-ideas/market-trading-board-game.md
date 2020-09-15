@@ -20,6 +20,7 @@ complementary resources.
 Each player takes an agricola-style random game board with a grid of different
 terrain types.  For example:
 
+```
 F F F F F F
 F F F W W W
 M M F F W W
@@ -28,6 +29,7 @@ M F F F F W
 M = mountain
 F = field
 W = water
+```
 
 
 ## Flow of Game
