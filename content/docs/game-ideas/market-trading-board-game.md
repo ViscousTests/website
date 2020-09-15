@@ -37,14 +37,12 @@ W = water
 Players do not have a "hand" of resources, all resources must be dynamically
 used from either your board or from the markets.
 
-On your turn, you can develop up to one (???) tile on your board with a
-resource.  You can also trade your existing resources with market resources as
-much as you want, assuming you have places to put them.  
+At the start of your turn, each improvement is used once to create whatever resource it can.
+These improvement can happen in any order.
 
-At the end of your turn, each resource developed onto your board replicates
-itself and puts extra copies on top.  The amount of replication depends on the
-resource.  Also some developments may consume multiple resources to produce
-their product.
+Then, you can develop up to one (???) tile on your board with an
+improvement.  You can also trade your existing resources with market resources as
+much as you want, assuming you have places to put them.  
 
 
 ## Markets
@@ -71,11 +69,35 @@ stack is trashed, and a new random resource from each deck is revealed and
 added.
 
 
-## Resource cards
+## How to Win
 
-Card | Tier | Location | Production
----- | ---- | -------- | ----------
-Water | T1   | W        | -> Water
-Wheat | T1  | F        | -> Wheat
-Grindstone | T2  | F        | Wheat -> Flour
-Bakery | T2  | F        | Wheat + Water -> Bread
+Winners are determined by whoever has the most valuable harvest at the end of
+the last round of the game.
+
+
+## Improvement Cards
+
+Card | Tier | Location | Production | Cost to Build
+---- | ---- | -------- | ---------- | ---------------
+Well | T1   | W        | -> Water | 1 Stone
+Farm | T1  | F        | -> <whatever was planted> | 1 of the resource the farm will produce
+Grindstone | T2  | F        | Wheat -> Flour | 1 Stone
+Bakery | T2  | F        | Wheat + Water -> Bread | 1 Wood
+Mine | T1  | M        | -> Salt | 1 Metal
+Workshop | T1  | F      | <improvement's cost> -> Any T2 improvement | 2 Wood
+Forge | T2 | F        | 1 Metal + 1 Wood -> 1 Tool | 3 Stone
+Lumberyard | T1 | F  | -> Wood | 1 Stone
+
+
+## Resource Cards
+
+Card      | Tier | Points | Bonus
+--------  | ---- | ------ | -----
+Wheat     | T1   | 1      |
+Bread     | T2   | 3      |
+Berries   | T1   | 2      |
+Water     | T1   | 1      |
+Metal     | T1   | 2      |
+Stone     | T1   | 1      |
+Wood      | T1   | 1      |
+Tools     | T2   | 1      | Doubles production of a T1 improvement
