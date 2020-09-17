@@ -13,3 +13,4 @@ draft: true
  - 9/11/2020: [light reorg](https://github.com/kovasap/website/commit/b56616586e73197cd869aa7d5d25cf0355cc2257)
  - 9/12/2020: [banana whaffle](https://github.com/kovasap/daily_pixels/commit/ad9eb39504283cdcc48e39044c01a5c9e317c1dc)
  - 9/13/2020: [backup script](https://github.com/kovasap/dotfiles)
+ - 9/14/2020: [some board game idea refining](https://github.com/kovasap/website)
