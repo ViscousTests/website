@@ -10,7 +10,6 @@ draft: true
 Tasks are hard when you don't already have pathways in your brain that script
 them, or your existing pathways are incomplete.
 
-
 http://gregorygundersen.com/blog/2020/01/12/why-research-blog/
 
 [Hammock Driven Development](https://www.youtube.com/watch?v=f84n5oFoZBc)
@@ -18,6 +17,45 @@ http://gregorygundersen.com/blog/2020/01/12/why-research-blog/
 https://www.deprocrastination.co/blog/3-tricks-to-start-working-despite-not-feeling-like-it
 
 https://jamesclear.com/atomic-habits
+
+Antifragile by Nassim Taleb
+
+One way to model a task is as a tree of possibilities, where each node is a
+decision with any number of possible outcomes.  With this model, tasks can be
+seen as difficult for multiple reasons:
+
+### Complexity
+
+Tasks are **complex** with they contain many potential decision points which in
+turn reveal many others.
+
+### Committing
+
+Committing tasks include decisions that are costly to reverse (or
+cannot be reversed).
+
+### Opaque
+
+Opaque tasks contain many hidden decision points, or decision points that take
+effort to discover.
+
+
+## What Makes Tasks Easy?
+
+Tasks are easy when a pathway has already been constructed in your head to
+execute that task effectively (traverse the tree of decisions in a
+predetermined way).
+
+It's good to be cautious of tasks that you find to be easy.  In my experience
+it's a human tendency to strongly defend the solutions to the tasks that one
+holds (see [a reddit post about political
+beliefs](https://www.reddit.com/r/dataisbeautiful/comments/iu865f/oc_i_did_some_presidential_economic_statistics_to/g5k93df/)
+and Claire's old lab's observation that ideas/theories can become "precious"
+once created).  This makes sense, since it takes effort/time/resources to
+create a task-solving pathway.  However, this strong defense can blind one to
+obvious flaws or much better pathways.  It's probably a good habit to re-learn
+from scratch hard tasks that are important to do well.
+
 
 ## Mental Perspective
 
