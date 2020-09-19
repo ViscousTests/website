@@ -57,6 +57,24 @@ obvious flaws or much better pathways.  It's probably a good habit to re-learn
 from scratch hard tasks that are important to do well.
 
 
+## Hard Task Solving Strategies
+
+### Depth First Search of Task Tree
+
+Perhaps a habit of iNtuitive Myers-Briggs personalities, this can lead to fast
+good solutions, but also blindness to obvious other paths.
+
+### Breath First Search of Task Tree
+
+Perhaps a habit of Sensing Myers-Briggs personalities, this can lead to good
+scoping of the task space, but may exhaust energy to "go deep" on a specific
+task solution.
+
+I think this is what Nassim Taleb advocates for doing more in complex task
+space.  He writes that exposing oneself to many decision points and giving
+oneself the option to travel will long term find one the most success.
+
+
 ## Mental Perspective
 
 The brain only understands the world as it perceives it through the senses.
