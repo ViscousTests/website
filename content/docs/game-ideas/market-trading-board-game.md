@@ -33,6 +33,18 @@ F = field
 W = water
 ```
 
+Then all players draft 5 "prospector cards", which allow them to build T1 improvements
+over certain terrain types.  The prospectors may also have additional benefits they
+convey to the players over the course of the game.
+
+Prospector | T1 resources | Effect
+---------- | ------------ | -----------
+Farmer     | Wheat | 
+Fisher     | Fish  |
+Forager    | Berries |
+Jeweler    | Gems |
+Woodsman   | Wood |
+
 
 ## Flow of Game
 
