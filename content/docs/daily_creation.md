@@ -17,3 +17,4 @@ draft: true
  - 9/17/2020: [hydroponics planning](https://github.com/kovasap/website)
  - 9/18/2020: [hard tasks thoughts](https://github.com/kovasap/website)
  - 9/20/2020: [laundry workflow idea](https://docs.google.com/document/d/1_JOTVqB6sC3O8zS_7LejfaCAoDJHkzVw7D-wCyv-bKA/edit#heading=h.71pewmorv6qb)
+ - 9/21/2020: [set up cardmaker for trading game](https://github.com/kovasap/market_trading_game)
