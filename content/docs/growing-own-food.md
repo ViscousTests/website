@@ -17,6 +17,7 @@ fairly small actually.
 
 To make things easy, it would be cool to come up with a reusable solution for
 the material to plant the seeds in, since I would be harvesting and replanting
-2 per day.
+2 per day.  Could use [mixture of course soils](https://youtu.be/jYOlzqIq9OM)
+for this!
 
 See https://hennepinmastergardeners.org/hydroponics-for-year-round-salad-greens/
