@@ -42,3 +42,7 @@ minimize the time I spend full when I want to be productive:
 For both cases, I should delay the meal as long as I don't feel hungry, and
 even delay a bit if I do feel hungry, to take advantage of the productivity
 boost that comes when anticipating food (see "Distraction and Friction").
+
+# Motivation
+
+See https://www.scientificamerican.com/article/we-learn-faster-when-we-arent-told-what-choices-to-make/

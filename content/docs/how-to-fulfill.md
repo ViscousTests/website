@@ -35,6 +35,27 @@ philosophies are tempting goals, but can lead to extreme frustration or, worse,
 acceptance of a false conclusion just to reach attainment.
 
 
+## Positive, Fulfilling Actions
+
+Actions that are positive and fulfilling are usually personally engaging, and
+have some long lasting impact.
+
+### Examples
+
+#### Indoor Climbing
+
+Requires active learning of sequences of actions that constantly change.
+
+Accomplishment feels satisfying.  It:
+ - Validates a personal physical capability (I can do this, and here is proof).
+ - Demonstrates ability to peers.
+ - Requires physical and mental focus/attention to achive.
+
+
+#### Magic Arena
+
+
+
 ## Self-sufficiency
 
 I want my life to be full of good emotions.  I feel good emotions when I attain

@@ -5,3 +5,6 @@
 	path = public
 	url = git@github.com:kovasap/kovasap.github.io.git
 	branch = master
+[submodule "generative-art"]
+	path = generative-art
+	url = git@github.com:kovasap/generative-art.git

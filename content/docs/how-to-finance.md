@@ -1,7 +1,4 @@
----
-bookShowToc: false
-draft: true
----
+# Financial Strategy
 
 ## Stock options
 
