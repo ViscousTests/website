@@ -23,12 +23,22 @@ built.
 
 I find that dim screens make it easier for me to read and work for longer
 without straining or fatiguing my eyes.  Therefore, I generally keep my screen
-at a low brightness level.  I also use [Redshift](http://jonls.dk/redshift/) to
+at a low brightness level.  
+
+#### On Linux
+
+I use [Redshift](http://jonls.dk/redshift/) to
 keep my screen at a low temperature (low 3000Ks).  Currently I use a constant
 temperature all the time, as opposed to making the color lower at night.
 
+#### On Windows
+
+I use [f.lux](https://justgetflux.com/) with default settings (changing color over
+the day).  I frequently mess with the color temperature slider based on what I am doing.
 
 ### Selective Window Brightness {#selective-brightness}
+
+#### On Linux
 
 I prefer dark, lower contrast color schemes for coding or working on the command
 line.  They feel easier on my eyes and allow for more variety of color for use
@@ -99,5 +109,10 @@ Another thing to try going forward would be other color representation models,
 such as [CIELAB](https://en.wikipedia.org/wiki/CIELAB_color_space) or
 [YCbCr](https://en.wikipedia.org/wiki/YCbCr).
 
+#### On Windows
 
+Because I often game on windows, I prefer to have my secondary monitor be dimmer
+than the primary to not distract from the game I'm playing, but still be there to
+look stuff up.  I use the exellent [Pangolin Screen Brightness](https://www.pangobright.com/)
+utility to do this.
 
