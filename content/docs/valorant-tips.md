@@ -15,4 +15,5 @@ are, try using abilities to escape.
 
 If you are pushing a site, try using abilities to cut off bad angles.
 
-
+Generally, moving targets are harder to hit.  If you are moving and your opponent
+isn't, you likely have the advantage for the all-important first shot.
