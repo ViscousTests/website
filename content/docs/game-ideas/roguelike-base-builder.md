@@ -37,3 +37,11 @@ once, then the entire friendly team moves/attacks at once.
 
 Survive X number of waves.  Perhaps the more waves you survive
 the more interesting the game gets (or there are multiple endings).
+
+## Progression
+
+When starting the game, you can choose from multiple "biomes" or "campaigns"
+that play out in a predictable way.  I want the player to feel like they are
+learning with every defeat, just like in every time loop in Outer Wilds.  I
+want to avoid unfair/random mechanics that many roguelikes utilize to perhaps
+artificially extend the game and make it more grindy.

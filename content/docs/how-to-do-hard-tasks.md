@@ -8,7 +8,8 @@ draft: true
 ## What Makes Tasks Hard?
 
 Tasks are hard when you don't already have pathways in your brain that script
-them, or your existing pathways are incomplete.
+them, or your existing pathways are incomplete.  Doing hard tasks requires
+learning.
 
 http://gregorygundersen.com/blog/2020/01/12/why-research-blog/
 
@@ -52,17 +53,52 @@ holds (see [a reddit post about political
 beliefs](https://www.reddit.com/r/dataisbeautiful/comments/iu865f/oc_i_did_some_presidential_economic_statistics_to/g5k93df/)
 and Claire's old lab's observation that ideas/theories can become "precious"
 once created).  This makes sense, since it takes effort/time/resources to
-create a task-solving pathway.  However, this strong defense can blind one to
-obvious flaws or much better pathways.  It's probably a good habit to re-learn
-from scratch hard tasks that are important to do well.
+create a task-solving pathway.  See also David Eagleman's neuroscience books,
+which talk about this.  However, this strong defense can blind one to obvious
+flaws or much better pathways.  It's probably a good habit to re-learn from
+scratch hard tasks that are important to do well.
 
 
-## Hard Task Solving Strategies
+## Hard Task Solving Strategies - How to Learn
+
+Learning requires active exploration of the real world task tree for the task
+you want to learn to do.  Through this exploration, the tree is transcribed
+from the real world into mental pathways.  So one way to think about learning
+hard tasks is learning how to most efficiently explore/transcribe the task
+tree.
+
+
+### Questions
+
+Some parts of the task tree may already exist in your brain from another task
+you've done - for example, most of the muscle movement mental pathways needed
+to run already exist in someone who knows how to walk.  Other parts may be
+completely new, or even contradictory to existing mental pathways.  A very
+efficient way to more quickly learn these alien pathways is to question them
+via:
+
+ - Asking a task expert
+ - Asking a reference (e.g. A book or Google search)
+ - Tinkering with the task space (e.g. Attempting to run some computer code)
+
+
+### Environmental Influence
+
+The human brain constantly absorbs new information from its perspective on the
+environment where it is.
+For learning therefore, it can be helpful to place oneself in an environment
+conducive to learning what you want to learn.  This usually makes it more
+obvious what questions to ask to further map out the task space.
+
+https://github.com/matthiasn/talk-transcripts/blob/master/Hickey_Rich/HammockDrivenDev.md
+
+"The soul becomes dyed with the color of its thoughts" (Marcus Aurelius)
+
 
 ### Depth First Search of Task Tree
 
-Perhaps a habit of iNtuitive Myers-Briggs personalities, this can lead to fast
-good solutions, but also blindness to obvious other paths.
+Perhaps a preference of iNtuitive Myers-Briggs personalities, this can lead to
+fast good solutions, but also blindness to obvious other paths.
 
 ### Breath First Search of Task Tree
 
@@ -129,7 +165,7 @@ are being created actively in this state.
 
 This state of mind can be paralyzing, as it lays bare the overwhelming
 complexity of everything as you continue to zoom out.  However, it also leads to
-interesting connections that you may not see in flow.
+interesting connections that you may not see otherwise.
 
 
 In the mind-tree analogy, mindfulness means seeing all the branches of the tree,
@@ -157,34 +193,6 @@ and https://www.youtube.com/watch?v=4Ej_3NKA3pk
 
 Having a set of clear objectives that are each quick, but demanding to achieve
 is a good way to enter flow.
-
-
-
-## Mind as Multiple Actors
-
-Informed by:
- - https://en.wikipedia.org/wiki/Inside_Out_(2015_film)
- - https://www.eagleman.com/incognito
-
-I find a useful way to think about my mind is as a congress of many (simple-ish)
-actors.
-
-
-## Learning
-
-Learning is a process during which neurons in a human brain rearrange to store
-patterns either taken in by the senses, or observed in the brain itself.
-This process requires either change of existing patterns, or accretion of new
-ones.
-
-The human brain constantly absorbs new information from its perspective on the
-environment where it is.
-For learning therefore, it is very important to place oneself in an environment
-conducive to learning what you want to learn.
-
-https://github.com/matthiasn/talk-transcripts/blob/master/Hickey_Rich/HammockDrivenDev.md
-
-"The soul becomes dyed with the color of its thoughts" (Marcus Aurelius)
 
 
 ## "Intelligence"
