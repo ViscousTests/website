@@ -20,6 +20,10 @@ window[^3][^4].
   - Eating meals earlier in the day **might** be healthier
   - Eating meals on a regular schedule is likely healthier
 
+Recently I've found eating a small, high fat/fiber meal at ~11am, then eating
+the rest of my food after I'm done being productive for the day is good for
+focus.
+
 
 # Should I fast for prolonged periods?
 

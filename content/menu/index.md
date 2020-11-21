@@ -7,6 +7,8 @@ headless: true
   - [Desktop Environment]({{< relref "/docs/desktop.md" >}})  
   - [Climbing Checklist]({{< relref "/docs/climbing-checklist.md" >}})
   - [Generative Art]({{< relref "/docs/art.md" >}})
+- **Experiences**
+  - [Mile High Club]({{< relref "/docs/event-reports/2020-8-12-mile-high-club.md" >}})
 - **Media**
   - [Music]({{< relref "/docs/music.md" >}})
 - **How To**

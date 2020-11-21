@@ -43,6 +43,10 @@ For both cases, I should delay the meal as long as I don't feel hungry, and
 even delay a bit if I do feel hungry, to take advantage of the productivity
 boost that comes when anticipating food (see "Distraction and Friction").
 
+My first meal should mostly be fatty/with complex carbs.  Eating a
+high-refined-carb (bread/sugar) meal will likely start a "snack train" that
+will make it very hard to focus.
+
 # Motivation
 
 See https://www.scientificamerican.com/article/we-learn-faster-when-we-arent-told-what-choices-to-make/
