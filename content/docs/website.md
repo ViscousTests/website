@@ -8,6 +8,7 @@ started by copying the example project in the hugo-book repository, and
 modifying the pages.  
 
 Cool tips to check out for improvement:
-- https://gohugo.io/content-management/shortcodes/#figure
-- https://tkainrad.dev/posts/using-hugo-gitlab-pages-and-cloudflare-to-create-and-run-this-website/
-- https://stackoverflow.com/questions/17207458/how-to-add-google-analytics-tracking-id-to-github-pages
+
+  - https://gohugo.io/content-management/shortcodes/#figure
+  - https://tkainrad.dev/posts/using-hugo-gitlab-pages-and-cloudflare-to-create-and-run-this-website/
+  - https://stackoverflow.com/questions/17207458/how-to-add-google-analytics-tracking-id-to-github-pages
