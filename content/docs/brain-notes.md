@@ -20,6 +20,7 @@ it (either via memories or present sensations).  A more **Intuitive** mind will
 gather less bricks from around it and instead spent more time combining the bricks it already has into new "fusion" bricks to build into the wall.
 
 See http://paulgraham.com/think.html for a possible description of this.
+Good discussion about that post at https://news.ycombinator.com/item?id=25227651.
 
 ### Thinking - Feeling
 
