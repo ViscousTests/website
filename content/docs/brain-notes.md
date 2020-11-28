@@ -19,6 +19,8 @@ One perspective: If your brain is trying to build a wall of information, a more
 it (either via memories or present sensations).  A more **Intuitive** mind will
 gather less bricks from around it and instead spent more time combining the bricks it already has into new "fusion" bricks to build into the wall.
 
+See http://paulgraham.com/think.html for a possible description of this.
+
 ### Thinking - Feeling
 
 ### Judging - Prospecting
