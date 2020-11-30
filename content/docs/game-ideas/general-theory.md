@@ -13,3 +13,12 @@ rate of state betterment per step is convex.  In the end, the state may be able 
  - The game board is an engine in Magic: TG.
  - The player boards + cards in Agricola.
  - The player boards in Wingspan.
+ 
+
+## Knowledge Building
+
+Playing through the games gives insight that allows progression.
+
+### Examples
+ - Outer Wilds
+ - Roguelikes
