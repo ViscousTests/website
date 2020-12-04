@@ -67,3 +67,12 @@ force on them.  For instance, when doing push-ups, my hands would start
 tingling.  And when putting my ankle on my knee when sitting, it would tingle
 strongly.  Apparently, [this is
 expected](https://www.theartofketo.com/tag/tingling-while-fasting/).
+
+One thing that I also definitely noticed during my fast was a shift in my
+brain activity.  I felt much more "on" than usual - I had a consistant motivation
+to be busy in one way or another.  However, I also felt a bit more impaitient.
+If a task I was busy doing started to stall, I would eagerly try to shift to
+another task, or even multitask.  This was good for gettings lots done, but not
+as helpful for cracking a difficult problem (e.g. debugging a computer program)
+I could use this feature of fasting in the future if I need to be particularly
+productive in this way.
