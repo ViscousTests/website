@@ -9,6 +9,7 @@ headless: true
   - [Generative Art]({{< relref "/docs/art.md" >}})
 - **Experiences**
   - [Mile High Club]({{< relref "/docs/event-reports/2020-8-12-mile-high-club.md" >}})
+  - [Fasting]({{< relref "/docs/fasting.md" >}})
 - **Media**
   - [Music]({{< relref "/docs/music.md" >}})
 - **How To**

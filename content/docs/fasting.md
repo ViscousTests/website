@@ -24,7 +24,7 @@ this time, so I wouldn't consider this a "stress test" of the diet.
 
 ## Water Only Fast - December 2020
 
-Further exposure to fasting proponents, especially Peter Attia (via e.g. (his
+Further exposure to fasting proponents, especially Peter Attia (via e.g. [his
 podcast with Eileen White](https://peterattiamd.com/eileenwhite/), made me
 think about the simpler prospect of doing a water only fast.  I finally
 attempted this during a work week in December 2020.  My schedule looked like:
