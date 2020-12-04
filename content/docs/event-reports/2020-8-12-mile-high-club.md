@@ -1,5 +1,7 @@
 # Mile High Club
 
+Done in Mid-August 2020.
+
 A climb I discovered on [Mountain
 Project](/docs/event-reports/https://www.mountainproject.com/route/112553808/mile-high-club) to do
 while I was in the area on a camping trip.

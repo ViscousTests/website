@@ -4,14 +4,14 @@ headless: true
 
 - **Projects**
   - [This Website]({{< relref "/docs/website.md" >}})
-  - [Desktop Environment]({{< relref "/docs/desktop.md" >}})  
+  - [Desktop Environment ]({{< relref "/docs/desktop.md" >}})  
   - [Climbing Checklist]({{< relref "/docs/climbing-checklist.md" >}})
   - [Generative Art]({{< relref "/docs/art.md" >}})
 - **Experiences**
   - [Fasting]({{< relref "/docs/fasting.md" >}})
   - **Climbing**
-    - [8/2020 - Mt. Erie]({{< relref "/docs/event-reports/2020-8-10-lake-erie.md" >}})
-    - [8/2020 - Mile High Club]({{< relref "/docs/event-reports/2020-8-12-mile-high-club.md" >}})
+      - [Aug. 2020 - Mt. Erie]({{< relref "/docs/event-reports/2020-8-10-lake-erie.md" >}})
+      - [Aug. 2020 - Mile High Club]({{< relref "/docs/event-reports/2020-8-12-mile-high-club.md" >}})
 - **Media**
   - [Music]({{< relref "/docs/music.md" >}})
 - **How To**
