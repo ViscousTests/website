@@ -32,6 +32,10 @@ Eventually the trail turned into a treeless alpine meadow...
 ...and then into a talus field.  The transition was marked by this cute
 campsite.  
 
+![Meadow opening](/docs/event-reports/2020-8-12-mile-high-club-pics/matthew/approach.jpeg)
+*Kovas trying to find which switchback is the last one, so we could break off. Don't 
+worry, you still have a ways to go.*
+
 ![Talus Campsite](/docs/event-reports/2020-8-12-mile-high-club-pics/talus-campsite.jpg)
 
 A short ways up we saw this ice cave, reminiscent of the Big Four Ice caves we
@@ -43,6 +47,13 @@ On the talus, the trail became hard to follow, and we lost it on our way up.
 We knew we had to leave the trail at some point, but were not sure which
 direction (should have brought a map...).  Luckily we eventually found this
 trail marker, which marked our fork left, with the pass trail going right.
+
+![Switch Back Marker from Mountain Project](/docs/event-reports/2020-8-12-mile-high-club-pics/matthew/where-the-switchbacks-are.jpeg)
+
+On the mountain project there were directions to break off before the last set
+of switchbacks. But because we didn't have a map, we didn't know when the last set
+were. This led to a lot of confusion on the approach, and likely added 30 minutes
+to the approach in my (Matthew) opinion.
 
 ![Turn Right](/docs/event-reports/2020-8-12-mile-high-club-pics/turn-right.jpg)
 
@@ -92,12 +103,17 @@ sections of hiking-with-a-rope.  The views were beautiful the whole way.
 ![Corner Pitch](/docs/event-reports/2020-8-12-mile-high-club-pics/pitch-4-or-5.jpg)
 *Matthew starting up pitch 4 or 5.*
 
+![Corner Pitch Kovas](/docs/event-reports/2020-8-12-mile-high-club-pics/matthew/from-belay.jpeg)
+*Kovas starting up pitch 4 or 5.*
+
 ![Looking Up](/docs/event-reports/2020-8-12-mile-high-club-pics/looking-up.jpg)
 *The summit!?*
 
 ![Cool Rock](/docs/event-reports/2020-8-12-mile-high-club-pics/cool-rock.jpg)
 
 ![Finishing Corner Pitch](/docs/event-reports/2020-8-12-mile-high-club-pics/matthew-corner-pitch.jpg)
+
+![I think this is near the top](/docs/event-reports/2020-8-12-mile-high-club-pics/matthew/setting-up-anchor.jpeg)
 
 ![Across the Valley](/docs/event-reports/2020-8-12-mile-high-club-pics/grand-cliff.jpg)
 
