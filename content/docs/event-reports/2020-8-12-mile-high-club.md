@@ -3,7 +3,7 @@
 Done in Mid-August 2020.
 
 A climb I discovered on [Mountain
-Project](/docs/event-reports/https://www.mountainproject.com/route/112553808/mile-high-club) to do
+Project](https://www.mountainproject.com/route/112553808/mile-high-club) to do
 while I was in the area on a camping trip.
 
 We started the day a bit after 8, taking a quick sub-30 minute drive to get to
@@ -30,13 +30,13 @@ Eventually the trail turned into a treeless alpine meadow...
 ![Meadow](/docs/event-reports/2020-8-12-mile-high-club-pics/meadow.jpg)
 
 ...and then into a talus field.  The transition was marked by this cute
-campsite.  
+campsite:  
+
+![Talus Campsite](/docs/event-reports/2020-8-12-mile-high-club-pics/talus-campsite.jpg)
 
 ![Meadow opening](/docs/event-reports/2020-8-12-mile-high-club-pics/matthew/approach.jpeg)
 *Kovas trying to find which switchback is the last one, so we could break off. Don't 
 worry, you still have a ways to go.*
-
-![Talus Campsite](/docs/event-reports/2020-8-12-mile-high-club-pics/talus-campsite.jpg)
 
 A short ways up we saw this ice cave, reminiscent of the Big Four Ice caves we
 visited the previous day:
@@ -45,20 +45,21 @@ visited the previous day:
 
 On the talus, the trail became hard to follow, and we lost it on our way up.
 We knew we had to leave the trail at some point, but were not sure which
-direction (should have brought a map...).  Luckily we eventually found this
-trail marker, which marked our fork left, with the pass trail going right.
-
-![Switch Back Marker from Mountain Project](/docs/event-reports/2020-8-12-mile-high-club-pics/matthew/where-the-switchbacks-are.jpeg)
-
-On the mountain project there were directions to break off before the last set
-of switchbacks. But because we didn't have a map, we didn't know when the last set
-were. This led to a lot of confusion on the approach, and likely added 30 minutes
-to the approach in my (Matthew) opinion.
+direction.  On the Mountain Project guide there were directions to break off
+before the last set of switchbacks. But because we didn't have a map, we didn't
+know when the last set were.  Luckily we eventually found this trail marker,
+which marked our fork left, with the pass trail going right.  This whole
+process led to a lot of confusion on the approach, and likely added 30 minutes
+to it.
 
 ![Turn Right](/docs/event-reports/2020-8-12-mile-high-club-pics/turn-right.jpg)
 
-Embarrassingly, it took us a bit to disambiguate which of the peaks we were
-actually planning to climb...
+![Switch Back Marker from Mountain Project](/docs/event-reports/2020-8-12-mile-high-club-pics/matthew/where-the-switchbacks-are.jpeg)
+*A view from much higher up that shows the switchback clearly.*
+
+
+After finding our turn off, it still embarrassingly took us a bit to
+disambiguate which of the peaks we were actually planning to climb...
 
 ![Mountain Talus](/docs/event-reports/2020-8-12-mile-high-club-pics/mtn-talus.jpg)
 

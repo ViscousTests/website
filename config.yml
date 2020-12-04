@@ -1,6 +1,8 @@
 # hugo server --themesDir ... --baseURL=http://0.0.0.0:1313/example
 
-baseURL: https://kovasap.bitbucket.io/
+googleAnalytics: UA-184778596-1
+
+baseURL: https://kovasap.github.io/
 title: Things to Remember
 theme: hugo-book
 disableKinds: ["taxonomy", "taxonomyTerm"]

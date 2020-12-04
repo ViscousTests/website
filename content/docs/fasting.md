@@ -59,8 +59,8 @@ fasting.
 One thing I also noticed was it was even harder than normal for me to keep warm
 in my ~65F apartment, especially when sleeping.  The Wed-Thurs night I did not
 sleep very well because of this.  Any kind of draft under the blankets was very
-noticeable and interrupted my sleep.  I think wearing long underwear or other
-pajamas of some kind would have helped (usually I sleep close to naked).  
+noticeable and interrupted my sleep.  I wearing light sweatpants and a shirt
+the next night helped a lot (usually I sleep close to naked).  
 
 I did notice some tingling in my arms/legs, especially when putting a acute
 force on them.  For instance, when doing push-ups, my hands would start
@@ -70,9 +70,9 @@ expected](https://www.theartofketo.com/tag/tingling-while-fasting/).
 
 One thing that I also definitely noticed during my fast was a shift in my
 brain activity.  I felt much more "on" than usual - I had a consistant motivation
-to be busy in one way or another.  However, I also felt a bit more impaitient.
+to be busy in one way or another.  However, I also felt a bit more impatient.
 If a task I was busy doing started to stall, I would eagerly try to shift to
-another task, or even multitask.  This was good for gettings lots done, but not
+another task, or even multitask.  This was good for getting lots done, but not
 as helpful for cracking a difficult problem (e.g. debugging a computer program)
 I could use this feature of fasting in the future if I need to be particularly
 productive in this way.
