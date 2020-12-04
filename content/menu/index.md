@@ -8,6 +8,7 @@ headless: true
   - [Climbing Checklist]({{< relref "/docs/climbing-checklist.md" >}})
   - [Generative Art]({{< relref "/docs/art.md" >}})
 - **Experiences**
+  - [Lake Erie]({{< relref "/docs/event-reports/2020-8-10-lake-erie.md" >}})
   - [Mile High Club]({{< relref "/docs/event-reports/2020-8-12-mile-high-club.md" >}})
   - [Fasting]({{< relref "/docs/fasting.md" >}})
 - **Media**
