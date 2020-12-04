@@ -33,7 +33,8 @@ Eventually the trail turned into a treeless alpine meadow...
 campsite.  
 
 ![Meadow opening](/docs/event-reports/2020-8-12-mile-high-club-pics/matthew/approach.jpeg)
-*Kovas trying to find which switchback is the last one, so we could break off. See below*
+*Kovas trying to find which switchback is the last one, so we could break off. Don't 
+worry, you still have a ways to go.*
 
 ![Talus Campsite](/docs/event-reports/2020-8-12-mile-high-club-pics/talus-campsite.jpg)
 
