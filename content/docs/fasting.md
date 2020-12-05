@@ -67,7 +67,8 @@ I did notice some tingling in my arms/legs, especially when putting a acute
 force on them.  For instance, when doing push-ups, my hands would start
 tingling.  And when putting my ankle on my knee when sitting, it would tingle
 strongly.  Apparently, [this is
-expected](https://www.theartofketo.com/tag/tingling-while-fasting/).
+expected](https://www.theartofketo.com/tag/tingling-while-fasting/).  This was
+reduced when I starting drinking broth.
 
 One thing that I also definitely noticed during my fast was a shift in my
 brain activity.  I felt much more "on" than usual - I had a consistant motivation
