@@ -60,13 +60,15 @@ One thing I also noticed was it was even harder than normal for me to keep warm
 in my ~65F apartment, especially when sleeping.  The Wed-Thurs night I did not
 sleep very well because of this.  Any kind of draft under the blankets was very
 noticeable and interrupted my sleep.  I wearing light sweatpants and a shirt
-the next night helped a lot (usually I sleep close to naked).  
+the next night helped a lot (usually I sleep close to naked).  On the whole, I
+would say my sleep was worse during the fast than normal.
 
 I did notice some tingling in my arms/legs, especially when putting a acute
 force on them.  For instance, when doing push-ups, my hands would start
 tingling.  And when putting my ankle on my knee when sitting, it would tingle
 strongly.  Apparently, [this is
-expected](https://www.theartofketo.com/tag/tingling-while-fasting/).
+expected](https://www.theartofketo.com/tag/tingling-while-fasting/).  This was
+reduced when I starting drinking broth.
 
 One thing that I also definitely noticed during my fast was a shift in my
 brain activity.  I felt much more "on" than usual - I had a consistant motivation
