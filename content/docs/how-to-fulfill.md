@@ -49,7 +49,7 @@ Requires active learning of sequences of actions that constantly change.
 Accomplishment feels satisfying.  It:
  - Validates a personal physical capability (I can do this, and here is proof).
  - Demonstrates ability to peers.
- - Requires physical and mental focus/attention to achive.
+ - Requires physical and mental focus/attention to achieve.
 
 
 #### Magic Arena
