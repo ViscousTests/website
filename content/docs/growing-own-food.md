@@ -9,6 +9,8 @@ to grow hydroponically.  Therefore, if I want to eat two plants a day, I need
 60 plant growing stations in my system.  This is a 10x6 system, which seems
 fairly small actually.
 
+I should also try https://www.nosoilsolutions.com/how-to-grow-hydroponic-broccoli/ with my sprouting broccoli seeds.
+
 ## Grow Lights
 
 Useful reference: https://www.urbanvine.co/blog/11-core-guidelines-urban-farmers-must-know-before-buying-grow-lights#intro-c
