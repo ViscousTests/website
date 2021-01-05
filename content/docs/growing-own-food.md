@@ -54,3 +54,7 @@ attached to the raspberry pi if i use that.
 ### 12/30/2020
 
 [Assembled grow system](https://photos.app.goo.gl/GEtHNZCn71pov2b39) and planted two net pots with kale/lettuce seeds.  The net pots had holes that didn't hold in the small vermiculite particles, so I lined them with a paper towel.  After planting, I watered them until water was running through without filling the container itself.  Hopefully they will stay moist enough this way to sprout.  Otherwise I'll fill the container.
+
+### 1/5/2021
+
+Getting sprouts for Kale seeds as of yesterday!  No activity for lettuce seeds yet.  Put some in a ziploc bag with a paper towel to try getting activity that way.
