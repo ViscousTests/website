@@ -58,3 +58,7 @@ attached to the raspberry pi if i use that.
 ### 1/5/2021
 
 Getting sprouts for Kale seeds as of yesterday!  No activity for lettuce seeds yet.  Put some in a ziploc bag with a paper towel to try getting activity that way.
+
+### 1/10/2021
+
+First roots penetrating the bottom of the net pots today.  I filled the water tank ~4 gallons and added 4tsp of nutrients (MaxiGro 10-5-14) - TDS was 700 ppm.  Fiddled with pH to get final value of around 6; this required adding ~1tsp of baking soda.  Looking forward to fast growth - sprouts are still small (one leaf pair each).
