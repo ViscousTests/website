@@ -1,3 +1,4 @@
 # Cool Links
 
-https://www.heywhatsthat.com/
+* https://www.heywhatsthat.com/
+* https://wallpapercave.com/pc-4k-macro-wallpapers
