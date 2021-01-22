@@ -15,6 +15,17 @@ followed by short breaks, usually in a 25m on, 5m off cadence.  In my
 experience, it's not worth interrupting a flow state with 25m timers - using
 this as a guideline generally works better for me.
 
+One way to look at this issue is that as you do something hard (requiring
+learning), your mind contracts/focuses on the problem until it becomes so rigid
+that even the slightest unexpected event is hard to handle.  This is counter to
+an "expanded" mind where many possibilities are open and easy to handle.  If
+you have been focusing hard on one thing, a way to expand your mind is to do
+something you might find boring and let your mind wander its way to expansion.
+Going for a walk or otherwise exercising I find hastens this process.  So going
+for a walk with no stimulation (no reading on phone, no listening to anything,
+no conversations with people) is a great technique.  Some of this is inspired
+by the last part of Chapter 5 of "How to Change Your Mind" by Michael Pollan.
+
 
 # Distraction and Friction
 
