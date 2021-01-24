@@ -6,7 +6,7 @@
  - 2 cups water
 
 Boil water, add oats, cook for 5 mins on stovetop.  Watch out for boiling over
-in first couple minutes!
+in first couple minutes!  Can also microwave for 3 mins.
 
 Try adding Mexican blend cheese and red pepper flakes!
 
@@ -115,6 +115,24 @@ TODO find recipe that we used!
 
 
 # Desserts
+
+## Apple Crisp
+
+Filling:
+ - ~5 apples
+ - ~3 tbsp chia seeds
+ - ~1 tbsp lemon juice
+ - dusting of cinnamon
+
+ Mix the above together in baking/pie pan, then mix the below in a separate
+ container (after using it to melt the coconut oil) and layer it on top.
+
+ Crisp:
+ - ~1/3 cup chopped walnuts
+ - ~3/4 cup rolled oats
+ - ~2 tbsp melted coconut oil
+ 
+ Bake at 400F for 45 minutes.
 
 ## Creme Brulee
 
