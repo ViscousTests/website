@@ -52,8 +52,6 @@ Accomplishment feels satisfying.  It:
  - Requires physical and mental focus/attention to achieve.
 
 
-#### Magic Arena
-
 
 
 ## Self-sufficiency
@@ -118,6 +116,20 @@ Happiness is an emotion.  I
 Emotions are reactions to changes in perception of environment.
 Therefore, to spark happiness, you must see your environment as better than it
 was before somehow.  
+
+
+## Meaning
+
+One definition of meaning goes like this:  Something is *menaingful* when it
+has implications/effects on things beyond itself.  For example, a CPU is
+meaningful to a computer, since without it the system would be unable to
+function.  Eating food is meaningful, since it enables organisms to survive and
+thrive.
+
+Learning how different concepts interact to lead to greater effect can feel
+meaningful - discovering meaning is meaningful, since that discovery usually has
+greater implications.  Many games feel fulfilling or meaningful through this
+mechanism.
 
 
 ## Fulfillment
