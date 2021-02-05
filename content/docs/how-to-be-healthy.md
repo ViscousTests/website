@@ -1,3 +1,7 @@
+# General Philosophy
+
+https://wiki.earlyretirementextreme.com/wiki/What_is_ERE%3F
+
 # What should I eat?
 
 Mostly vegan, with fish 2-3 times per week[^1].
