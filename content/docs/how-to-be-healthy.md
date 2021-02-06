@@ -1,7 +1,3 @@
-# General Philosophy
-
-https://wiki.earlyretirementextreme.com/wiki/What_is_ERE%3F
-
 # What should I eat?
 
 Mostly vegan, with fish 2-3 times per week[^1].
@@ -39,3 +35,22 @@ Probably[^1].
 [^3]: https://doi.org/10.1177/0748730419892105
 [^4]: https://doi.org/10.1016/j.cmet.2019.11.004
 
+
+
+I eat primarily:
+ - leafy green vegetables (e.g. kale)
+ - nuts (e.g. peanut butter, walnuts)
+ - olive oil
+ - beans
+ - whole grains (e.g. oats, popcorn)
+
+I eat occasionally (<3x week):
+ - fish
+
+I try to avoid:
+ - meat
+ - dairy
+
+
+
+# Typical Week Breakdown (#breakdown)
