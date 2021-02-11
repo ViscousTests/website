@@ -22,7 +22,8 @@ window[^3][^4].
 
 Recently I've found eating a small, high fat/fiber meal at ~11am, then eating
 the rest of my food after I'm done being productive for the day is good for
-focus.
+focus.  Especially avoiding higher-carb/starch foods earlier (beans, oats,
+potatos, other grains) seems to be ideal.  
 
 
 # Should I fast for prolonged periods?
