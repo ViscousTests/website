@@ -1,7 +1,16 @@
-# Growing your own food
+# My Hydroponics Setup
 
+## Goals
 
-## Hydroponics for leafy greens
+My [diet goals](/docs/eating/food.md) suggest that I eat a lot of leafy greens.
+Unfortunately, these greens do not keep well and are somewhat expensive to buy.
+Therefore, they are at the highest risk (out of all foods I want to eat) of not
+being eaten simply because they are not around.  
+
+Luckily, leafy greens are some of the easiest plants to grow hydroponically,
+and hydroponic systems provide one of the easiest ways to grow plants.
+
+## Method
 
 Most leafy greens should take [about a
 month](https://homeguides.sfgate.com/quick-growing-plants-hydroponic-systems-27438.html#:~:text=best%20for%20you.-,Lettuce,ready%20as%20the%20leafy%20types.)
@@ -9,14 +18,17 @@ to grow hydroponically.  Therefore, if I want to eat two plants a day, I need
 60 plant growing stations in my system.  This is a 10x6 system, which seems
 fairly small actually.
 
-I should also try https://www.nosoilsolutions.com/how-to-grow-hydroponic-broccoli/ with my sprouting broccoli seeds.
+The [Kratky method](https://university.upstartfarmers.com/blog/kratky-method)
+provides a simple and easy (no moving parts) method to grow, and seems to be
+effective for the leafy greens I want to grow.
 
-## Grow Lights
+I want to use grow lights to keep my setup consistent.  LED lights have fairly
+low power consumption anyway (~20W per light).
 
-Useful reference: https://www.urbanvine.co/blog/11-core-guidelines-urban-farmers-must-know-before-buying-grow-lights#intro-c
+  - A useful reference: https://www.urbanvine.co/blog/11-core-guidelines-urban-farmers-must-know-before-buying-grow-lights#intro-c
 
 
-## Materials List
+## My Materials List
 
  - Grow lights [$30/2ft](https://www.amazon.com/Byingo-2ft-Plant-Grow-Light/dp/B0792P3YPQ/ref=as_li_ss_tl?ie=UTF8&qid=1543443557&sr=8-4&keywords=24%22+grow+light&&linkCode=sl1&tag=growjourney-20&linkId=8ef750b460d78406d53989694159a1f4&language=en_US), maybe [this](https://www.amazon.com/gp/product/B07FKF6BT4/ref=ox_sc_act_title_1?smid=AHA091K9FJYEL&th=1)?
  - Net pots [50/$8](https://www.amazon.com/xGarden-Lightweight-Economy-Hydroponics-Aquaponics/dp/B07W9H8ZRH/ref=sr_1_6?dchild=1&keywords=net+cups&qid=1608176074&sr=8-6)
@@ -35,7 +47,7 @@ See https://hennepinmastergardeners.org/hydroponics-for-year-round-salad-greens/
 
 https://igworks.com/blogs/the-igworks-indoor-gardening-blog/nutrient-and-ph-chart-for-growing-fruits-and-vegetables-with-hydroponics
 
-## Data logging
+## Data logging - not done yet!
 
 Could use either arduino or [raspberry
 pi](https://www.adafruit.com/product/4292).
@@ -50,18 +62,3 @@ https://raspberrypi.stackexchange.com/questions/83960/accurate-water-level
 Need to figure out how to get 
 https://www.amazon.com/diymore-Waterproof-Ultrasonic-Measuring-Transducer/dp/B01J5KZU8M
 attached to the raspberry pi if i use that.
-
-
-## Journal
-
-### 12/30/2020
-
-[Assembled grow system](https://photos.app.goo.gl/GEtHNZCn71pov2b39) and planted two net pots with kale/lettuce seeds.  The net pots had holes that didn't hold in the small vermiculite particles, so I lined them with a paper towel.  After planting, I watered them until water was running through without filling the container itself.  Hopefully they will stay moist enough this way to sprout.  Otherwise I'll fill the container.
-
-### 1/5/2021
-
-Getting sprouts for Kale seeds as of yesterday!  No activity for lettuce seeds yet.  Put some in a ziploc bag with a paper towel to try getting activity that way.
-
-### 1/10/2021
-
-First roots penetrating the bottom of the net pots today.  I filled the water tank ~4 gallons and added 4tsp of nutrients (MaxiGro 10-5-14) - TDS was 700 ppm.  Fiddled with pH to get final value of around 6; this required adding ~1tsp of baking soda.  Looking forward to fast growth - sprouts are still small (one leaf pair each).

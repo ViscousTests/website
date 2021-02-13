@@ -1,5 +1,10 @@
 # Financial Strategy
 
+## Real Estate and Housing
+
+ - [NYT Buy vs Rent
+   Calculator](https://www.nytimes.com/interactive/2014/upshot/buy-rent-calculator.html)
+
 ## Stock options
 
  - [Excellent Reference](

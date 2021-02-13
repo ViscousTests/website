@@ -1,3 +1,10 @@
+# Oxygen Not Included
+
+A cool base building game with a focus on designing complex interacting
+systems.
+
+## Build Ideas
+
 Arbor tree -> ethanol setup: 
  - https://forums.kleientertainment.com/forums/topic/110495-trees-petroleum-generator/
  - https://forums.kleientertainment.com/forums/topic/111356-arbor-tree-farming/?tab=comments

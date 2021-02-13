@@ -1,6 +1,13 @@
-# Valorant Tips
+# Valorant
 
-## Angle Pushing
+Well made Counter-Strike inspired FPS with Overwatch-like abilities.
+
+## Tips
+
+Disclaimer: I am not that great at this game, these are my random thoughts that
+I'm hoping will lead to me playing better, but are not proven!
+
+### Angle Pushing
 
 In a scenario with two people fighting around a corner, the person further from
 the corner should have an advantage - they will be able to see their opponent
@@ -15,5 +22,5 @@ are, try using abilities to escape.
 
 If you are pushing a site, try using abilities to cut off bad angles.
 
-Generally, moving targets are harder to hit.  If you are moving and your opponent
-isn't, you likely have the advantage for the all-important first shot.
+Generally, moving targets are harder to hit.  If you are moving and your
+opponent isn't, you likely have the advantage for the all-important first shot.
