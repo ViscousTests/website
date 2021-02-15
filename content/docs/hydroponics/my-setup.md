@@ -58,7 +58,8 @@ google drive.
 
 ### Water depth
 
-https://raspberrypi.stackexchange.com/questions/83960/accurate-water-level
+ - https://raspberrypi.stackexchange.com/questions/83960/accurate-water-level
+ - https://thepihut.com/blogs/raspberry-pi-tutorials/hc-sr04-ultrasonic-range-sensor-on-the-raspberry-pi
 
 Need to figure out how to get 
 https://www.amazon.com/diymore-Waterproof-Ultrasonic-Measuring-Transducer/dp/B01J5KZU8M
