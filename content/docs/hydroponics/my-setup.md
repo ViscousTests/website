@@ -56,6 +56,8 @@ pi](https://www.adafruit.com/product/4292).
 Not sure exactly the best way to log data.  Ideally I would log to github or
 google drive.
 
+ - https://linuxize.com/post/how-to-enable-ssh-on-raspberry-pi/#connecting-raspberry-pi-via-ssh
+
 ### Water depth
 
  - https://raspberrypi.stackexchange.com/questions/83960/accurate-water-level
