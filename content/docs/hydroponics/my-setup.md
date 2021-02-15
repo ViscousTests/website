@@ -46,6 +46,7 @@ See https://hennepinmastergardeners.org/hydroponics-for-year-round-salad-greens/
 ## Reference links
 
 https://igworks.com/blogs/the-igworks-indoor-gardening-blog/nutrient-and-ph-chart-for-growing-fruits-and-vegetables-with-hydroponics
+https://theschoolofaquaponics.com/courses/128108/lectures/8665205
 
 ## Data logging - not done yet!
 
