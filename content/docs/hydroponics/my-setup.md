@@ -48,6 +48,12 @@ See https://hennepinmastergardeners.org/hydroponics-for-year-round-salad-greens/
 https://igworks.com/blogs/the-igworks-indoor-gardening-blog/nutrient-and-ph-chart-for-growing-fruits-and-vegetables-with-hydroponics
 https://theschoolofaquaponics.com/courses/128108/lectures/8665205
 
+## Seed Generation - not done yet!
+
+It would be cool to have a separate growing bin in a warmer place where plants
+would go to seed.  This way I could generate my own seeds and not worry about
+needing to go buy them!
+
 ## Data logging - not done yet!
 
 Could use either arduino or [raspberry
