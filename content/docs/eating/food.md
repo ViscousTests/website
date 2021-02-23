@@ -113,6 +113,24 @@ the impact of stuff on them often depends on the greater context.  For example,
 our body's ability to absorb certain nutrients depends on what those nutrients
 are dissolved/complexed within.  
 
+## [The Queen of Fats by Susan Allport](http://www.susanallport.com/)
+
+Really interesting read about the science of omega-3 fatty acids.  One of the
+core thesis is that our western diet has a higher-than-historical ratio of
+omega-6 to omega-3 fatty acids, which causes problems.  This is because the
+body can use these fats for the same purposes, but they have different
+performances for those purposes.  For example,
+[prostaglandins](https://en.wikipedia.org/wiki/Prostaglandin) can be made with
+omega-3 or omega-6 fatty acids, but the omega-3 variants are less "strong" and
+may contribute less to heart disease.
+
+Does a really excellent job of telling the story of the scientists who
+study/studied these fats, instead of just passing down diet rules without
+context.
+
+https://en.wikipedia.org/wiki/Fatty_acid_ratio_in_food has some data about
+omega-3/omega-6 ratios.
+
 ## [How Not to Die by Michael Gregor](https://nutritionfacts.org/book/how-not-to-die/)
 
 This book is a good survey of diet from the "Whole Food Plant Based"
