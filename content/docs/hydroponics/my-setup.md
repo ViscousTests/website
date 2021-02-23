@@ -49,6 +49,7 @@ See https://hennepinmastergardeners.org/hydroponics-for-year-round-salad-greens/
  - https://igworks.com/blogs/the-igworks-indoor-gardening-blog/nutrient-and-ph-chart-for-growing-fruits-and-vegetables-with-hydroponics
  - https://theschoolofaquaponics.com/courses/128108/lectures/8665205
  - https://ezgrogarden.com/
+ - [Auto Aquaponics Setup](https://www.youtube.com/watch?v=VBspR2p0YYM)
 
 ## Seed Generation - not done yet!
 
