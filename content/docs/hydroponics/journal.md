@@ -17,3 +17,7 @@ First roots penetrating the bottom of the net pots today.  I filled the water ta
 Kale is growing really well!  I filled 3 more tanks last night, as the
 broccoli, spinach, more kale, and basil have now sprouted.  I used the same
 proportion of nutrients as the first tank, and didn't measure the pH this time.
+
+## 2/24/2021
+
+First kale plant has become so big it is hitting the light and crowding other plants.  Probably need to make more space between the lights and the plants in the future.  Plants first batch of cabbage.
