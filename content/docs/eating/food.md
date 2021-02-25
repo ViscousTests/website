@@ -101,6 +101,19 @@ period of the day.  I've also [had good success with prolonged
 fasting](/docs/eating/fasting.md).
 
 
+# Measuring Personal Dietary Effects
+
+Ideally, I would measure the effects of different foods on my personal health
+directly so that I know what works for me (as opposed to what should work
+generally).  This takes work unfortunately.  Here are some options that I
+should probably explore at some point:
+
+ - [Viome microbiome testing](https://www.viome.com/products/gut-intelligence)
+ - [Regular blood testing w/Morgan Levine's biological age
+   calculation](https://biohackstack.com/posts/levines-phenotypic-age/).  See
+   also [Aging.ai](http://aging.ai/).
+
+
 # Good Resources on Diet
 
 ## [In Defense of Food by Michael Pollan](https://michaelpollan.com/books/in-defense-of-food/)
