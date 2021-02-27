@@ -116,6 +116,13 @@ should probably explore at some point:
 
 # Good Resources on Diet
 
+## [Michael Lustgarten's
+Diet](https://michaellustgarten.com/2019/11/10/12-16-years-younger-than-my-chronological-age-whats-my-diet/)
+
+Michael Lustgarten is heroically tracking all the food he eats and doing
+regular blood testing.  His diet, although very personalized, may be a good
+starting point for a generally healthy diet.
+
 ## [In Defense of Food by Michael Pollan](https://michaelpollan.com/books/in-defense-of-food/)
 
 I highly recommend this book!  The biggest takeaway I got from it is that our
