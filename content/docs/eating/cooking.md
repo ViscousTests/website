@@ -97,6 +97,24 @@ Recipe courtesy of Alton Brown.
 TODO find recipe that we used!
 
 
+## Flax Bread
+
+ - 2 and 1/2 cups flaxseed meal
+ - 1 tablespoon baking powder
+ - 1/2 teaspoon salt (optional)
+ - 1 and 1/3 cups water
+
+1. Preheat oven to 400 degrees F.
+1. Grease a 9×5-inch bread pan.
+1. Mix the flaxseed meal, baking powder and salt. Add water, stirring until
+   completely combined (the dough will be very thick, but moist).
+1. Bake for 60 to 65 minutes until risen and browned.
+
+From https://www.powerhungry.com/2019/06/2-ingredient-flax-sandwich-bread-vegan-keto-grain-free/.
+
+TODO Try adding carrots to this!
+
+
 # Bread Machine Recipes
 
 ## Black Bean Bread
