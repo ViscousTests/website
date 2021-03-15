@@ -114,6 +114,34 @@ should probably explore at some point:
    also [Aging.ai](http://aging.ai/).
 
 
+# Specific Food Notes
+
+## Advanced Glycation End Products
+
+Created by high heat cooking of especially protein-rich foods (e.g. meat/nuts).
+But all foods contain.  Ideal to reduce the amount of this eaten.
+
+ - [Michael Lustgarten evidence
+   video](https://www.youtube.com/watch?v=8gKFWBTpXWE)
+ - Great overview/reference: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3704564/
+
+It would be cool to measure this in blood.  Perhaps a1c inflammation test is a
+good proxy.
+
+## Flax Seeds
+
+It seems like baking flax seeds will not degrade omega-3 content ([biased
+source](https://www.goldenvalleyflax.com/flax-facts/health-research-articles/flaxseed-storage-baking-stability/)).
+
+## Nutritional Yeast
+
+Contains MSG ([probably not
+harmful](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6952072/)) and uric acid
+([probably harmful in large quantity](https://peterattiamd.com/rickjohnson/))
+([source](https://selfhacked.com/blog/nutritional-yeast/)).  Also is a fairly
+processed food.
+
+
 # Good Resources on Diet
 
 ## [Michael Lustgarten's

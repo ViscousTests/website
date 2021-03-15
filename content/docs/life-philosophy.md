@@ -106,8 +106,8 @@ Web anti-synergies:
 
 ## Reddit
 
-I browse Reddit on my phone when I feel bored or not motivated.  Some of my
-favorite subreddits include:
+I browse Reddit on my phone when I feel bored, unmotivated, or unfocused.  Some
+of my favorite subreddits include:
  - r/AnimalsBeingDerps
  - r/DataIsBeautiful
  - (subreddit for whatever video game I'm current playing actively)
@@ -123,21 +123,39 @@ Web anti-synergies:
  - Stifles the [personal creativity that comes from being
    bored](https://www.youtube.com/watch?v=LKPwKFigF8U&vl=pt) (This is a pretty
    big effect for me personally).
+ - Can fragment my focus - add new ideas to my mind that make me drop other
+   ideas before I fully execute on them.
 
 ## YouTube
 
 I watch various YouTubers while I eat or when I notice an interesting video.  I
-frequently watch [NorthernLion]() when eating or chilling out almost as an
-interesting conversation substitute.  I more actively watch [Veritasium](), [CGP
-Grey](), [Kertkezat](), and other educational channels when I see new videos
-from them.
+frequently watch
+[NorthernLion](https://www.youtube.com/channel/UC3tNpTOHsTnkmbwztCs30sA) when
+eating or chilling out almost as an interesting conversation substitute.  I
+more actively watch [Veritasium](https://www.youtube.com/user/1veritasium),
+[CGP Grey](https://www.youtube.com/user/CGPGrey),
+[Kurzgesagt](https://www.youtube.com/user/Kurzgesagt), and other educational
+channels when I see new videos from them.
 
 Web synergies:
- - 
+ - Helps me discover new ideas, or better understand new concepts.
+ - Helps me relax.
 
-## Email newsletters
+Web anti-synergies:
+ - Similar to Reddit.
 
 ## Hacker News
+
+When I don't know what to do next (or feel bored/unmotivated), I browse [hacker
+news](https://news.ycombinator.com/).
+
+Web synergies:
+ - Helps me discover new ideas.
+ - Gives me a sense of what the tech startup world is like and informs me about
+   that culture.
+
+Web anti-synergies:
+ - Very similar to Reddit.
 
 ## Music
 
