@@ -21,3 +21,7 @@ proportion of nutrients as the first tank, and didn't measure the pH this time.
 ## 2/24/2021
 
 First kale plant has become so big it is hitting the light and crowding other plants.  Probably need to make more space between the lights and the plants in the future.  Plants first batch of cabbage.
+
+## 3/9/2021
+
+Three more bins have sprouted; I filled them with water today.
