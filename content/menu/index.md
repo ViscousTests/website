@@ -15,9 +15,12 @@ headless: true
   - [What Food and When?]({{< relref "/docs/eating/food.md" >}})
   - [Fasting]({{< relref "/docs/eating/fasting.md" >}})
   - [Cooking]({{< relref "/docs/eating/cooking.md" >}})
+- **Personal Data Management and Tracking**
+  - [Tools I Use]({{< relref "/docs/personal-data/tools.md" >}})
 - **Reading**
   - [Recommended non-fiction]({{< relref "/docs/recommended-non-fiction.md" >}})
 - **Games**
+  - [Top 10 All Time]({{< relref "/docs/games/top-10.md" >}})
   - [Oxygen Not Included]({{< relref "/docs/games/oxygen-not-included.md" >}})
   - [Valorant]({{< relref "/docs/games/valorant.md" >}})
 - **Media**
