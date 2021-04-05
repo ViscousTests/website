@@ -44,11 +44,11 @@ then to do one load of laundry takes 6kWh.  In Seattle, this would cost
 I hang my cloths above my 4-poster bed, which I find is a pretty efficient use
 of space:
 
-![Empty](https://photos.app.goo.gl/P2EnbGddcjvxFKDj6)
+![Empty](https://lh3.googleusercontent.com/hl1LcVBoja_2GU6FprNhf7y9BQYafNIkDOwQKdfeCndHK5ZakGU-ADtDDxulY6t56hN7GPwPtvSMNrOgv9hnsiB27C3jhDvo6R9gGpiKM61wCZvt-gJ06WOwCYvFC3rAcTNs9A6i5t8=w2400)
 
-![Corner](https://photos.app.goo.gl/rcPQPgxZz9meGMuV6)
+![Corner](https://lh3.googleusercontent.com/gGe-CRep0Y80Nsf4RvequnkzTJ0fdz3hAA8JeaoH2I5t1vwECWhyB9tIjb7an8mZ6fYTzSKrwVVqlNHzb5uhDwkJxagJKpUh6ZWQiw2eiJkMZuBMuQCwFgkL5-hh1tKuA21PG9iWriY=w2400)
 
-![Cloths](https://photos.app.goo.gl/8htBZPvUEMvLKjm29)
+![Cloths](https://lh3.googleusercontent.com/KYh_H0WnC-_2hH8acCdnNXibKdHbKgBDmuc6P8R7S0nZVkUohAqe5qutcbY5fvZMa04i18BWLmH5NDWx3os7AEVsKpcnP2xV2HR9fn_e2hAI7ieLburs0g-UYTOcxmHM7UsHrqu3TOE=w2400)
 
 One thing to be careful of is the weight of the cloths on the structure you're
 using, which can be significant!
