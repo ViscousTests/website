@@ -6,6 +6,9 @@ headless: true
   - [This Website]({{< relref "/docs/website.md" >}})
   - [Desktop Environment]({{< relref "/docs/desktop.md" >}})  
   - [Generative Art]({{< relref "/docs/art.md" >}})
+- **Lifestyle Hacks**
+  - [Hang Drying Cloths]({{< relref "/docs/lifestyle-hacks/hang-drying-cloths.md" >}})
+  - [Phone Case]({{< relref "/docs/lifestyle-hacks/phone-case.md" >}})
 - **Longevity**
   - [Overview]({{< relref "/docs/longevity/overview.md" >}})
 - **Hydroponics**

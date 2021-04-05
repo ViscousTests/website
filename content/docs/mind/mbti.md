@@ -1,13 +1,3 @@
-## Mind as Multiple Actors
-
-Informed by:
- - https://en.wikipedia.org/wiki/Inside_Out_(2015_film)
- - https://www.eagleman.com/incognito
-
-I find a useful way to think about my mind is as a congress of many (simple-ish)
-actors.
-
-
 ## Myers-Briggs Type Indication (MBTI)
 
 ### Extroverted - Introverted
@@ -30,3 +20,8 @@ Good discussion about that post at https://news.ycombinator.com/item?id=25227651
 
 A great explanation can be found at
 https://www.careerplanner.com/8CognitiveFunctions/Cognitive-Functions-Simply-Explained.cfm.
+
+![In a Nutshell](/docs/mind/congitive-functions-nutshell.jpg)
+
+Above description [found on
+Reddit](https://www.reddit.com/r/mbti/comments/mjqz59/the_cognitive_functions_in_a_nutshell)
