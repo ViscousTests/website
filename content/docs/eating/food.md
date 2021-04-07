@@ -144,6 +144,12 @@ processed food.
 
 # Good Resources on Diet
 
+## [Red Pen Reviews](https://www.redpenreviews.org/)
+
+I haven't dug deeply into this website, but my skimming has found that it's a
+pretty good way to determine which books to trust and which not to - a **very**
+important task given the plethora of bad nutrition advice out there.
+
 ## [Michael Lustgarten's
 Diet](https://michaellustgarten.com/2019/11/10/12-16-years-younger-than-my-chronological-age-whats-my-diet/)
 
