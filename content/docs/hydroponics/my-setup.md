@@ -1,5 +1,12 @@
 # My Hydroponics Setup
 
+## Overview Presentation
+
+I gave a rough overview of my interest in hydroponics for some colleagues at
+work; see [my
+slides](https://docs.google.com/presentation/d/15ld4dWkpqrHlZe9BtNFHWjIHNZ1D6AGCyu9sLCiGeSg/edit?usp=sharing)
+for a summary.
+
 ## Goals
 
 My [diet goals](/docs/eating/food.md) suggest that I eat a lot of leafy greens.
