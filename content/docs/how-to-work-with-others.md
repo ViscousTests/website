@@ -9,8 +9,16 @@ Everyone you are working with will have a model in their heads that describes
 their best solution to the problem at hand.  Everyone involved must take their
 models out of their heads so that others can amend their own models in an
 effort to reach some kind of consensus.  This is hard work and is not always
-treated as such.  
+treated as such.
 
+Not only is it hard work to do this model-sharing, but it can create [cognitive
+dissonance](https://en.wikipedia.org/wiki/Cognitive_dissonance), which causes
+pain.  This can necessitate further model-sharing to resolve, which can balloon
+a small issue into a massive ordeal.  I like this quote from Valarie Kaur:
+
+   "Deep listening is an act of surrender. We risk being changed by what we hear."
+
+To expect people to readily do this is in my opinion expecting too much.
 
 https://medium.dave-bailey.com/how-to-resolve-a-conflict-when-both-sides-are-right-1f375bc82f7f
 
