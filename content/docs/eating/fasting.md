@@ -13,8 +13,8 @@ I used [eatthismuch](https://www.eatthismuch.com/) to pre-plan my meals for the
 FMD.  I think it would have been much harder for me to adhere to the diet if I
 did not do this.  Here is what I ate:
 
-![DIY-FMD-1](/docs/DIY-FMD-1.png)
-![DIY-FMD-2](/docs/DIY-FMD-2.png)
+![DIY-FMD-1](/docs/eating/DIY-FMD-1.png)
+![DIY-FMD-2](/docs/eating/DIY-FMD-2.png)
 
 If my memory serves me well, I remember feeling quite good during my fast,
 which some minor headaches on day 2-3.  I did this during my vacation from
@@ -43,8 +43,8 @@ attempted this during a work week in December 2020.  My schedule looked like:
 
 Here are the stock ingredients I used:
 
-![stock-front](/docs/stock-front.jpg)
-![stock-back](/docs/stock-back.jpg)
+![stock-front](/docs/eating/stock-front.jpg)
+![stock-back](/docs/eating/stock-back.jpg)
 
 I felt surprisingly normal during my fast.  Especially when exercising - I went
 on my normal ~3 mile run on Thursday with 25 * 2 sets of push ups and 10 * 3

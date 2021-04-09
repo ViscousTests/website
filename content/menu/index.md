@@ -9,6 +9,8 @@ headless: true
 - **Lifestyle Hacks**
   - [Hang Drying Cloths]({{< relref "/docs/lifestyle-hacks/hang-drying-cloths.md" >}})
   - [Phone Case]({{< relref "/docs/lifestyle-hacks/phone-case.md" >}})
+- **Interpersonal**
+  - [Working with Others]({{< relref "/docs/how-to-work-with-others.md" >}})
 - **Longevity**
   - [Overview]({{< relref "/docs/longevity/overview.md" >}})
 - **Hydroponics**

@@ -1,8 +1,3 @@
----
-bookShowToc: false
-draft: true
----
-
 # How to Work With Others
 
 Everyone you are working with will have a model in their heads that describes
@@ -18,7 +13,12 @@ a small issue into a massive ordeal.  I like this quote from Valarie Kaur:
 
    "Deep listening is an act of surrender. We risk being changed by what we hear."
 
-To expect people to readily do this is in my opinion expecting too much.
+To expect people to readily do this is in my opinion expecting too much.  Of
+course, putting effort into this process is necessary for many types of work;
+lots of problems arise when someone is not willing to *ever* do this.
+
+This article does a good job of providing a methodology for resolving friction
+around model-sharing:
 
 https://medium.dave-bailey.com/how-to-resolve-a-conflict-when-both-sides-are-right-1f375bc82f7f
 
