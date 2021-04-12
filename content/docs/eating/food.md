@@ -17,8 +17,11 @@
 
 The most convincing diet structure I've found has been [The Longevity Diet by
 Valter Longo](https://www.valterlongo.com/daily-longevity-diet-for-adults/).
-This diet is mostly vegan, with fish 2-3 times per week, keeping protein intake
-low.
+This diet is mostly vegan, with fish 2-3 times per week, keeping [protein intake
+low](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3988204/).  Note that
+personalizing protein intake levels while optimizing longevity seems to be
+possible by [measuring Blood Urea Nitrogen levels as described by Michael
+Lustgarten](https://www.youtube.com/watch?v=u654YTubFRM).
 
 There are a couple of amendments I've made based on my personal experience (in
 service of goal 2 above).  These include:
@@ -76,7 +79,6 @@ focus in the afternoon.  Then I shower and eat around an hour later.
 
 ### Things I try to avoid
 
- - Eggs
  - Dairy
  - Meat
  - Refined carbs (e.g. flour containing foods)

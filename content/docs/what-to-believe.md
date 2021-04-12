@@ -9,7 +9,7 @@ in world modelling or decision making.
 
 There are many reasons why information people share with each other may be
 misleading or wrong.  One useful lens to look at this further is to think about
-where the information the person who is sharing it is ultimately coming from:
+where the shared information is ultimately coming from:
 
 ## From Past Personal Experience
 
