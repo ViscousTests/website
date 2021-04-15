@@ -57,6 +57,9 @@ See https://hennepinmastergardeners.org/hydroponics-for-year-round-salad-greens/
  - https://theschoolofaquaponics.com/courses/128108/lectures/8665205
  - https://ezgrogarden.com/
  - [Auto Aquaponics Setup](https://www.youtube.com/watch?v=VBspR2p0YYM)
+ - **[Incredible hydroponic
+   system](https://www.youtube.com/watch?v=bWebs3ID6Hw)** (website at
+   https://simplegreenshydroponics.com/)
 
 ## Seed Generation - not done yet!
 
