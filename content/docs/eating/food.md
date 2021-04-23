@@ -169,6 +169,14 @@ the impact of stuff on them often depends on the greater context.  For example,
 our body's ability to absorb certain nutrients depends on what those nutrients
 are dissolved/complexed within.  
 
+## [The Good Gut](https://sonnenburglab.stanford.edu/press.html)
+
+Great book about microbiome health.  Does a good job revealing what we do know
+about the gut and how frighteningly little that is!  Unfortunately, due to how
+little we know about the gut, there isn't a lot of super actionable advice
+here, except eating lots of fiber or "Microbiota Accessible Carbohydrates"
+("MACS") as they're referred to in the book.
+
 ## [The Queen of Fats by Susan Allport](http://www.susanallport.com/)
 
 Really interesting read about the science of omega-3 fatty acids.  One of the
