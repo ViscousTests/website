@@ -18,9 +18,14 @@
 The most convincing diet structure I've found has been [The Longevity Diet by
 Valter Longo](https://www.valterlongo.com/daily-longevity-diet-for-adults/).
 This diet is mostly vegan, with fish 2-3 times per week, keeping [protein intake
-low](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3988204/).  Note that
-personalizing protein intake levels while optimizing longevity seems to be
-possible by [measuring Blood Urea Nitrogen levels as described by Michael
+low](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3988204/).  [This
+podcast](https://podcasts.google.com/feed/aHR0cDovL21hcmtiZWxsc3Bvd2VycHJvamVjdC5saWJzeW4uY29tL3Jzcw/episode/MWZmYTNmZDQtNzFjYS00ZjFhLTg4M2YtMjJlZjNhNWFkZjRj?hl=en&ved=2ahUKEwj-nLjVwKfwAhVzCjQIHY2XA70QjrkEegQICBAF&ep=6) has
+a compelling dissent of Longo's thoughts here; basically it states that Longo's
+ideas makes sense, but so do many other ideas and we know now that insufficient
+protein can be unhealthy (I need to dig more into this) - the evidence to lower
+intake in spite of this is not strong enough yet.  Note that personalizing
+protein intake levels while optimizing longevity seems to be possible by
+[measuring Blood Urea Nitrogen levels as described by Michael
 Lustgarten](https://www.youtube.com/watch?v=u654YTubFRM).
 
 There are a couple of amendments I've made based on my personal experience (in
