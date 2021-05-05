@@ -8,7 +8,122 @@ one must also make sure that the information is of high enough quality to use
 in world modelling or decision making.
 
 There are many reasons why information people share with each other may be
-misleading or wrong.  One useful lens to look at this further is to think about
+misleading or wrong.  
+
+
+https://thedietwars.com/how-to-determine-who-is-a-legitimate-science-based-health-expert/
+
+
+## Stories
+
+To transfer information, people share stories with each other.  These stories
+get etched in people's minds as they hear them, and can get more deeply etched
+with repetition or other validation.
+
+Many (technically most) stories are not accurate descriptions of the real,
+physical world.  
+
+Inaccurate stories can be useful.  For instance, they can be "stepping stones
+to the truth", like our story about how electrons are particles that orbit the
+nucleus of an atom (Bohr model).  They can also provide practical ways to
+encourage a behavior; for instance, the story that virtuous people are rewarded
+in the afterlife.  Or auervedic medicine promoting health.
+
+Unfortunately, inaccuracy can also lead to bad decision making with serious
+consequences.  To be safe, it would be ideal if we could clearly determine
+inaccuracy and weight that in our consideration of whether or not to use the
+story in informing our behavior.
+
+
+## Detecting Inaccurate Stories
+
+Firstly, it is important to know that **plausability DOES NOT correlate well
+with accuracy**, especially in complex systems.  There are many, many more
+plausable statements about systems like our economy or the human body that
+there are statements which are actually true.  Some random examples (NOT MY
+OPINIONS):
+
+### Health
+
+ - Any dietary sugar crystallizes in the blood, causing arterial damage.
+ - Sugar has no harmful effects on the body when <50g/day are consumed.
+ - Saturated fat hardens in the blood, clogging arteries.
+ - Saturated fat does not clog arteries.
+
+### Economy
+
+ - Poor people are poor because they don't work hard.
+ - Poor people are poor because powerful people with malicious intent are
+   taking their resources.
+ - Poor people are poor because our economy makes it hard to increase your net
+   worth.
+
+
+### Education
+
+ - Girls and boys have inherent (from birth) differences in what topics they
+   are interested in, and therefore end up finding careers in.
+ - Girls and boys have the same chance to become interested in something at
+   birth, but are unevenly distributed in careers due to how they are raised.
+
+More theories like this that were widely believed but are now disproven can be
+found on [this Wikipedia
+page](https://en.wikipedia.org/wiki/Superseded_theories_in_science).
+
+For each of the above statements/stories, there are groups of people who would
+find them plausible.  Since some directly contradict each other, how are we to
+know which to believe?
+
+
+## The Scientific Method
+
+We can use scientific reasoning to falsify inaccurate stories!  Ideally, we
+would do this 
+
+https://en.wikipedia.org/wiki/Karl_Popper
+
+Science is hard, so many falsification studies have not been done
+
+
+## People and Stories
+
+When it comes to deciding what stories are accurate, or worth etching deeply
+into your own mind, it is important to select stories which have had a lot of
+effort put towards their falsification, but still hold up.  To verify this
+process, it is ideal to try your hardest to falsify the story in question
+yourself.  
+
+Looking at what others believe is a good way to find new stories, and also can
+be a good way to vet stories.  It is crucial however to think about WHY
+believers trust the stories they do.  If they have not actively tried to
+falsify their own stories, that is a red flag that their belief may not be
+sound.  Evidence that people have tried this falsification includes:
+
+ - Advertisement of conditions under which their story does not hold true.
+ - Write ups of experiments that were done in the effort of falsification.
+
+At a higher level, if the person in question has a history of changing their
+believes when shown new evidence, that is also a good sign.
+
+For those people who have a long history of believing the same story, or have
+financial or social incentives to believe said story, be wary that their
+confirmation bias may blind them a bit to new information.
+
+
+One thing to note is that people holding hard to old believes seems to be a
+natural thing for humans to do, and there are ways to exploit this without
+changing people's minds: 
+
+ - [VSauce reasoning video](https://www.youtube.com/watch?v=_ArVh3Cj9rw)_
+ - [Antifragile](https://en.wikipedia.org/wiki/Antifragile) discusses how it
+   might be ideal to have many strongly supported ideas fight it out in e.g. a
+   market to find the best ones and move the whole system forward optimally.
+
+
+
+----------------------- OLD THOUGHTS BELOW HERE ------------------------------
+
+One useful lens to look at this further is to think about
 where the shared information is ultimately coming from:
 
 ## From Past Personal Experience
@@ -37,17 +152,3 @@ But has these problems:
  - Reproducing the logic behind the information can be very difficult or
    impossible, since it requires walking though the life experience of the
    tinkerer.  This can make it easy for the tinkerer to hide bias.
-
-### From the Scientific Method
-
-This is a great source of information, as it (should) explicitly state how
-certain we are and in what context something is true.
-
-
-## From Combining Knowledge of Others
-
-Selective combination
-
-
-
-
