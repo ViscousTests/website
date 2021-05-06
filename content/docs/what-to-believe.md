@@ -35,7 +35,7 @@ inaccuracy and weight that in our consideration of whether or not to use the
 story in informing our behavior.
 
 
-## Detecting Inaccurate Stories
+## Story Plausability vs Accuracy
 
 Firstly, it is important to know that **plausability DOES NOT correlate well
 with accuracy**, especially in complex systems.  There are many, many more
@@ -69,6 +69,11 @@ OPINIONS):
 More theories like this that were widely believed but are now disproven can be
 found on [this Wikipedia
 page](https://en.wikipedia.org/wiki/Superseded_theories_in_science).
+
+Note that some stories can be completely true, but still not have the effect
+they imply.  For instance, certain foods contain toxins that kill and/or
+mutate our cells.  But this does not mean that we shouldn't eat those foods
+(perhaps every foods falls into this category?).
 
 For each of the above statements/stories, there are groups of people who would
 find them plausible.  Since some directly contradict each other, how are we to
