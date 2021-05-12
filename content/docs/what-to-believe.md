@@ -114,8 +114,12 @@ For those people who have a long history of believing the same story, or have
 financial or social incentives to believe said story, be wary that their
 confirmation bias may blind them a bit to new information.
 
+In extreme cases, people who do not try to falsify their own stories can become
+zealots; so blind to the limitation of their own beliefs that there is no
+practical difference between them and someone who is intentionally promoting a
+belief they know to be wrong (lying).
 
-One thing to note is that people holding hard to old believes seems to be a
+One thing to note is that people holding hard to old beliefs seems to be a
 natural thing for humans to do, and there are ways to exploit this without
 changing people's minds: 
 
