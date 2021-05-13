@@ -28,6 +28,9 @@ protein intake levels while optimizing longevity seems to be possible by
 [measuring Blood Urea Nitrogen levels as described by Michael
 Lustgarten](https://www.youtube.com/watch?v=u654YTubFRM).
 
+Cool paper about food group epidemiology:
+https://academic.oup.com/ajcn/article/105/6/1462/4569801.
+
 There are a couple of amendments I've made based on my personal experience (in
 service of goal 2 above).  These include:
 
