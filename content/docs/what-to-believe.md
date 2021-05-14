@@ -83,11 +83,23 @@ know which to believe?
 ## The Scientific Method
 
 We can use scientific reasoning to falsify inaccurate stories!  Ideally, we
-would do this 
+would do this for all information we incorporate into our decisions; if no one
+has tried to falsify a certain piece of information, then we probably shouldn't
+use it for important decision making.
+
+Unfortunately, science is really hard, so many falsification studies have not
+been done.  Additionally, science doesn't give hard yes-or-no answers - it
+gives probabilities (e.g. p-values) that something might be true given a long
+list of assumptions or constraints.  In order to accurately incorporate a
+scientific finding into a justification for making a certain decision, all
+these uncertainties should be understood.  
+
+It is hard to do this, just like it is hard to come up with scientific findings
+in the first place.  If we as a society deeply recognized this difficulty, it
+may give more respect to good scientific findings, and help us have more
+informed debated about what actions to take on big important issues.
 
 https://en.wikipedia.org/wiki/Karl_Popper
-
-Science is hard, so many falsification studies have not been done
 
 
 ## People and Stories
@@ -127,6 +139,13 @@ changing people's minds:
  - [Antifragile](https://en.wikipedia.org/wiki/Antifragile) discusses how it
    might be ideal to have many strongly supported ideas fight it out in e.g. a
    market to find the best ones and move the whole system forward optimally.
+
+This is related to the idea of "science advances one funeral at a time",
+which assumes that (1) famous accomplished sciences direct future research and
+(2) these scientists have entrenched beliefs.  These things combined mean new
+research directions that do not fit into the beliefs of the accomplished
+scientists do not get funding/attention.  It would be nice if this wasn't as
+true, but at the least there is still advancement \*shrug\*.
 
 
 
