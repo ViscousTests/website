@@ -16,6 +16,7 @@ headless: true
 - **Hydroponics**
   - [My Setup]({{< relref "/docs/hydroponics/my-setup.md" >}})
   - [Journal]({{< relref "/docs/hydroponics/journal.md" >}})
+- [**Sleep**]({{< relref "/docs/sleep.md" >}})
 - **Eating**
   - [What Food and When?]({{< relref "/docs/eating/food.md" >}})
   - [Fasting]({{< relref "/docs/eating/fasting.md" >}})
