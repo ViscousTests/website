@@ -4,7 +4,7 @@ headless: true
 
 - **Misc Projects**
   - [This Website]({{< relref "/docs/website.md" >}})
-  - [Desktop Environment]({{< relref "/docs/desktop.md" >}})  
+  - [Computing Environment]({{< relref "/docs/computing-config.md" >}})  
   - [Generative Art]({{< relref "/docs/art.md" >}})
 - **Lifestyle Hacks**
   - [Hang Drying Cloths]({{< relref "/docs/lifestyle-hacks/hang-drying-cloths.md" >}})
