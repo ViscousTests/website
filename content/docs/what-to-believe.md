@@ -97,7 +97,15 @@ these uncertainties should be understood.
 It is hard to do this, just like it is hard to come up with scientific findings
 in the first place.  If we as a society deeply recognized this difficulty, it
 may give more respect to good scientific findings, and help us have more
-informed debated about what actions to take on big important issues.
+informed debated about what actions to take on big important issues.  This
+recognition may also make people more patient and willing to embrace the
+difficulty, instead of looking for shortcuts. 
+
+(I have nothing against finding the most efficient ways to solve problems,
+except when these shortcuts are less rigorous or otherwise worse than harder
+solutions AND we pretend that they are just as good just because of their
+convenience).
+
 
 https://en.wikipedia.org/wiki/Karl_Popper
 
