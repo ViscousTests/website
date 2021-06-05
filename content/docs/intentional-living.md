@@ -11,4 +11,8 @@ It's worth taking a step back and consciously running through whether you agree
 with your environment's influence or not frequently.  Otherwise you might end
 up less happy/satisfied/fulfilled than you might otherwise be.
 
+Doing this takes time and energy.  Therefore, if you want to live more
+intentionally, it is important to give yourself that space/energy and not fill
+it with other things.
+
 

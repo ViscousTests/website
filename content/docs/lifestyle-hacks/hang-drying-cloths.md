@@ -29,8 +29,7 @@ physically easier than folding them and putting them away.
 
 Cloths seem to wear out less quickly for me using this technique.
 Unfortunately I have no evidence of this and am a biased source, so this may
-not actually be true.  I'd be surprised if cloths wore out more quickly though
-: ).
+not actually be true.  I'd be surprised if cloths wore out more quickly though!
 
 ### Cheaper
 

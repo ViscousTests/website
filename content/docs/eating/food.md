@@ -2,8 +2,7 @@
 
 1. Delay chronic diseases as long as possible.  Described well in [this talk by
    Peter Attia](https://vimeo.com/228845024).  The
-   [big](https://www.cdc.gov/nchs/fastats/leading-causes-of-death.htm)
-   (linked!) ones are:
+   [big ones](https://www.cdc.gov/nchs/fastats/leading-causes-of-death.htm) are:
    1. Cardiovascular disease.
    1. Cancer.
    1. Neurodegenerative disease.
@@ -160,8 +159,7 @@ I haven't dug deeply into this website, but my skimming has found that it's a
 pretty good way to determine which books to trust and which not to - a **very**
 important task given the plethora of bad nutrition advice out there.
 
-## [Michael Lustgarten's
-Diet](https://michaellustgarten.com/2019/11/10/12-16-years-younger-than-my-chronological-age-whats-my-diet/)
+## [Michael Lustgarten's Diet](https://michaellustgarten.com/2019/11/10/12-16-years-younger-than-my-chronological-age-whats-my-diet/)
 
 Michael Lustgarten is heroically tracking all the food he eats and doing
 regular blood testing.  His diet, although very personalized, may be a good
