@@ -3,7 +3,7 @@ headless: true
 ---
 
 <ul>
-<li><a href="/docs/values/" >Values</a></li>
+<li><a href="/docs/values/" ><strong>Values</strong></a></li>
 <li><details><summary><strong>Core Habits</strong></summary><ul>
   <li><a href="/docs/sleep/">Sleep</a></li>
   <li><details><summary><strong>Eating</strong></summary><ul>
