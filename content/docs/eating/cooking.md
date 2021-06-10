@@ -134,6 +134,30 @@ TODO Try adding carrots to this!
 
 # Desserts
 
+## Strawberry Rhubarb Crisp
+
+**For the rhubarb:**
+ - 3 cups rhubarb sliced
+ - 1 cup applesauce unsweetened or ~1.5 apples chopped
+ - 3 tablespoons almond flour
+**For the strawberries:**
+ - 2 ½ cups chopped sweet strawberries or 4 cups halved frozen strawberries
+   microwaved until warm
+**For the topping:**
+ - 1 ½ cups almond flour
+ - 1 ½ cups rolled oats gluten-free if needed
+ - splash of walnut oil
+ - splash of maple syrup (probably not needed)
+
+1. Preheat oven to 375F.
+1. Combine rhubarb ingredients in bowl, then pout into 9x13 pan.
+1. Add strawberries onto rhubarb.
+1. Add topping onto strawberries.
+1. Bake for 35mins or more.  Sometimes mixing the crumble on top helps more
+   evenly brown.
+
+Inspired by https://beautifulingredient.com/strawberry-rhubarb-crisp/#recipe.
+
 ## Apple Crisp
 
 Filling:
