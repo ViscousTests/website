@@ -15,8 +15,6 @@ http://gregorygundersen.com/blog/2020/01/12/why-research-blog/
 
 [Hammock Driven Development](https://www.youtube.com/watch?v=f84n5oFoZBc)
 
-https://www.deprocrastination.co/blog/3-tricks-to-start-working-despite-not-feeling-like-it
-
 https://jamesclear.com/atomic-habits
 
 Antifragile by Nassim Taleb
@@ -134,60 +132,6 @@ clicks.
 
 Meditation/stepping outside yourself:
 https://www.youtube.com/watch?v=i7kh8pNRWOo
-
-
-## States of Mind
-
-### Professing (State of Doing)
-
-In this state, the information already contained in your neural patterns is
-simply being projected as in into the world onto some medium.  This could be
-into the air as speech, onto paper as writing, or into your body as any physical
-activity (e.g. dancing, biking, etc.).  In this model, pure professing involves
-no self reflection or change whatsoever.  If there is adaptation to the
-unpredictable physical world, it is through if/then branches that choose simply
-between already constructed neural patterns.  
-
-Being in this state requires some combination of practice or training to build
-the mental patterns, and a framework of assumptions that keeps the mind from
-examining what it is doing too closely.  
-
-In the extreme, pure profession can be animalistic and stubborn.  
-
-### Absorbing (State of Observing)
-
-In counter to profession, a state of absorption occurs when making few/no
-assumptions about the world.  In this state, instead of continually acting, one
-continually questions, expanding the problem space without looking at it's
-details.  This happens often when being exposed to new information or
-questioning assumptions one has about old information.  New mental connections
-are being created actively in this state.
-
-This state of mind can be paralyzing, as it lays bare the overwhelming
-complexity of everything as you continue to zoom out.  However, it also leads to
-interesting connections that you may not see otherwise.
-
-
-In the mind-tree analogy, mindfulness means seeing all the branches of the tree,
-but not diving down any particular route.  
-Instead, it means continually looking for new starting points.
-
-Mindfulness can discover new connections that can then be reinforced through
-flow.
-
-Extreme mindfulness can lead to analysis paralysis or meaningless theorizing
-that is too far removed from reality to be useful. 
-
-### The Edge (Flow)
-
-For learning new things, riding the edge between absorbing and professing is
-extremely helpful.  This can manifest as making assumptions mindfully and
-testing them through flow.  
-
-See also https://www.youtube.com/watch?v=ryB_VQ__KeE
-
-and https://www.youtube.com/watch?v=4Ej_3NKA3pk
-
 
 ### The Chase
 
