@@ -115,6 +115,28 @@ From https://www.powerhungry.com/2019/06/2-ingredient-flax-sandwich-bread-vegan-
 TODO Try adding carrots to this!
 
 
+## Banana Bread
+
+ - 5 very ripe bananas, mashed
+ - 1 egg
+ - 1 tsp vanilla extract
+ - 1 1/2 cups whole wheat pastry flour or almond flour + 1/6 cup flaxmeal
+ - 1 tsp baking soda
+ - 1/2 tsp ground cinnamon
+ - 1/8 tsp sea salt
+ - 1/2 cup raw walnuts, **chopped**
+ - 1/2 tsp coconut oil, for greasing loaf pan
+
+Preheat oven to 350 degrees F and coat a 9x5 inch loaf pan with oil.
+
+In a medium mixing bowl, mash the bananas then add everything else and mix.
+
+Pour the mix into the prepared loaf pan.  Bake for 50-60 minutes, or until a
+toothpick inserted comes out clean and top is golden brown
+
+Inspired by https://www.asweetpeachef.com/banana-nut-bread/#wprm-recipe-container-29897
+
+
 # Bread Machine Recipes
 
 ## Black Bean Bread
@@ -197,39 +219,6 @@ Filling:
    thin layer. Place ramekins in a broiler 2 to 3 inches from heat source.  Turn
    on broiler. Cook until sugar melts and browns or even blackens a bit, about 5
    minutes. Serve within two hours.
-
-
-## Rice Pudding (Pressure Cooker)
-
- - 1 cup Arborio rice
- - 1 1/2 cups water
- - 1/4 teaspoon salt
- - 2 cups whole milk, divided (half heavy cream for more richness)
- - 1/2 cup sugar
- - 2 eggs
- - 1/2 teaspoon vanilla extract
- - 3/4 cup raisins
-
-In pressure cooking pot, combine rice, water, and salt. Lock the lid in place
-and select High Pressure and 3 (OR 4 PLUS) minutes cook time. When beep sounds
-turn off pressure cooker and use a natural pressure release for 10 minutes.
-After 10 minutes, release any remaining pressure with a quick pressure release.
-
-Add 1 1/2 cups milk and sugar to rice in pressure cooking pot; stir to combine.
-
-In a small mixing bowl, whisk eggs with remaining 1/2 cup milk and vanilla. Pour
-through a fine mesh strainer into pressure cooking pot. Select sauté and cook,
-stirring constantly, until mixture starts to boil. Turn off pressure cooker.
-Remove pot from the pressure cooker. Stir in raisins.
-
-Pudding will thicken as it cools. Serve warm or pour into serving dishes and
-chill.
-
-Served topped with whipped cream, and a sprinkle of cinnamon or nutmeg, if
-desired.
-
-The rice will continue to absorb liquid as it cools. Stir in additional milk or
-cream until your desired consistency is achieved.
 
 
 ## Oil Pie Crust
