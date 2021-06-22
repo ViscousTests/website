@@ -1,7 +1,7 @@
 # Personal Manifesto
 
-I aspire to be a **vigorous**, **wise**, **well-rounded** person that is
-capable of **intentionally crafting and living a consistently fulfilling life**.
+I aspire to be a **vigorous** and **wise** person that feels **empowered** to
+both help myself and others become more vigorous and wise.
 
 ## Personal Characteristics
 
@@ -9,15 +9,17 @@ capable of **intentionally crafting and living a consistently fulfilling life**.
 
 Energy to achieve goals in my experience comes from two main sources:
 
-**Physical Health**: [Exercise]({{< relref "/docs/exercise.md" >}}),
-[sleep]({{< relref "/docs/sleep.md" >}}), [food]({{< relref
-"/docs/eating/food.md" >}}), [cronic stress]({{< relref
-"/docs/cronic-stress.md" >}}), [circadian rhythm]({{< relref
-"/docs/circadian-rhythm.md" >}}), and other environmental influences all
-effect personal vigor in complex and inter-dependant ways.  Spending time
-untangling this web of interactions for oneself is a worthy endeavor that has
-personally helped me feel more consistently energetic.  Also a deeper
-understanding of these interactions will probably make you live longer!
+**Physical Health**: [Exercise]({{< relref
+"/docs/health_and_longevity/exercise.md" >}}), [sleep]({{< relref
+"/docs/health_and_longevity/sleep.md" >}}), [food]({{< relref
+"/docs/health_and_longevity/food.md" >}}), [cronic stress]({{< relref
+"/docs/health_and_longevity/chronic-stress.md" >}}), [circadian rhythm]({{<
+relref "/docs/health_and_longevity/circadian-rhythm.md" >}}), and other
+environmental influences all effect personal vigor in complex and
+inter-dependant ways.  Spending time untangling this web of interactions for
+oneself is a worthy endeavor that has personally helped me feel more
+consistently energetic.  Also a deeper understanding of these interactions will
+probably make you live longer!
 
 **Vision**: Vision is a clear path for how to achieve the goal in question, or
 at least for how to get closer to achieving said goal.  Acquiring vision can be
@@ -61,11 +63,16 @@ universal reason (logos), the more in harmony with the universe one will be.
 Wisdom also means recognizing that attaining accurate knowledge is often
 painstaking work, and therefore to be wise is to be patient with learning and
 not try to take shortcuts when understanding the truth is important.  See [What
-to believe]({{< relref "/docs/what-to-believe.md" >}}) for discussion of this.
+to believe]({{< relref "/docs/understanding-the-world/what-to-believe.md" >}})
+for discussion of this.
 
-Wisdom goes hand-in-hand with well-roundedness.
+Wisdom may be related to a well developed "System 1" as described in
+[_Thinking, Fast and Slow_ by Daniel
+Kahneman](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow).
 
-### Well-Roundedness
+In practice, wisdom naturally leads to well-roundedness:
+
+#### Well-Roundedness
 
 Being well rounded to me means having a wide range of capabilities.  This has
 several strong benefits:
@@ -96,13 +103,11 @@ man"](https://en.wikipedia.org/wiki/Polymath) (See
 [ERE](https://wiki.earlyretirementextreme.com/wiki/What_is_ERE%3F) for more
 discussion of this.
 
-Becoming more well rounded can be achieved by taking on more personal
-responsibility for life issues.  At the highest level, this involves
-determining personal values and then creating and owning life goals in line
-with those values.  At a more mechanical level, this involves seeing roadblocks
-in life as opportunities for growth. Energetically tackling these roadblocks
-and learning the bests ways to get around them should improve one's breath of
-knowledge, making similar issues one might encounter later easier to navigate.
+Becoming more well rounded can be achieved by seeing roadblocks in life as
+personal opportunities for growth. Energetically owning and tackling these
+roadblocks will lead to learning the best ways to get around them, improving
+one's breath of knowledge and making similar issues one might encounter later
+easier to navigate.
 
 The "I can do this" or "I can learn how to do this" sentiment when faced with
 any issue should lead to an increase in well-roundedness over time.
@@ -117,20 +122,19 @@ more well rounded + tasks to try:
  - Food production - try growing/cooking your own food.
 
 
-## Crafting a Fulfilling Life
+## Empowerment
 
-Living a fulfilling life to me means building an empowering living environment,
-consistently setting and meeting personal goals, rarely if ever feeling
-disempowered, making meaningful relationships, and acting as a model that has
-the potential to inspire and empower others (including your future self!).
+To me, empowerment is about leveraging vigor and wisdom to achieve goals.
+Empowerment and motivation are near synonyms to me.
 
-### Building an Empowering Living Environment
+TODO: Merge this with [motivation]({{< relref "/docs/mind/motivation.md" >}}).
 
-A large [chuck of my brain]({{< relref "/docs/mind/mental-congress.md" >}})
-does things in response to environmental stimuli. If I see tasty food, part of
-my brain will want to eat it. If I am too hot or cold, part of my brain will
-make a fuss. If I'm with other people, part of my brain will want to impress or
-entertain them. 
+### Environment
+
+A large chuck of my brain does things in response to environmental stimuli. If
+I see tasty food, part of my brain will want to eat it. If I am too hot or
+cold, part of my brain will make a fuss. If I'm with other people, part of my
+brain will want to impress or entertain them. 
 
 Because of this, crafting an environment that encourages healthy behaviors that
 help you achieve personal goals is really important. I [agree with James
@@ -138,15 +142,22 @@ Clear](https://jamesclear.com/atomic-habits) that it is foolish to think your
 conscious mind can muscle its way past all the other parts that manage
 environmental stimuli to reach its goals.
 
-### Personal Goals
+It's easy to get swept up in life and let your behavior be dictated by your
+environment (e.g. what others around you are doing).
 
-#### 1. Choosing Goals
+It's dangerous to do this since your environment is not a sentient being and
+therefore does not care about anything, let alone your personal
+happiness/satisfaction/fulfillment.
 
-Good goals should **resonate with your personal values**.
+It's worth taking a step back and consciously running through whether you agree
+with your environment's influence or not frequently.  Otherwise you might end
+up less happy/satisfied/fulfilled than you might otherwise be.
 
-Good goals **are clearly described**. 
+Doing this takes time and energy.  Therefore, if you want to live more
+intentionally, it is important to give yourself that space/energy and not fill
+it with other things.
 
-#### 2. Executing
+### Execution
 
 For me, the hardest part of executing on goals is getting my entire brain on
 board to apply effort towards my current goal.  The best way I've found to do
@@ -174,11 +185,3 @@ this.  If I'm really stuck, describing the issue in writing or to an outside
 observer will often give me to differing (and correct) perspective I need to
 move forward. I'm consistently amazed by how narrow my focus on problems can
 become compared to the focus a random outside observer would have.
-
-### Avoiding Disempowerment
-
-### Meaningful Relationships
-
-TODO figure this out : P
-
-### Inspiring Others

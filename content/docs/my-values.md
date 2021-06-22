@@ -1,3 +1,0 @@
-# My Values
-
- - Independence

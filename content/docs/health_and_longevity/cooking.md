@@ -8,9 +8,6 @@
 Boil water, add oats, cook for 5 mins on stovetop.  Watch out for boiling over
 in first couple minutes!  Can also microwave for 3 mins.
 
-Try adding Mexican blend cheese and red pepper flakes!
-
-
 ## Roasted Vegetables
 
 All at 425F.

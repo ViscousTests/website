@@ -1,8 +1,10 @@
 # This Website
 
-This website was setup using
+This website serves as a useful place to organize and share my thoughts.
+
+Website setup was done using
 [Hugo](https://gohugo.io/getting-started/quick-start) and is hosted using
-[Github](https://github.com/).  It uses the
+[Github Pages](https://pages.github.com/).  It uses the
 [hugo-book](https://github.com/alex-shpak/hugo-book) theme.  Originally, it was
 started by copying the example project in the hugo-book repository, and
 modifying the pages.  

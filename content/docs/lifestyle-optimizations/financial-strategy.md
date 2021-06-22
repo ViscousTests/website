@@ -4,7 +4,7 @@
 
  - [NYT Buy vs Rent
    Calculator](https://www.nytimes.com/interactive/2014/upshot/buy-rent-calculator.html)
- - My house comparison speadsheet (TODO add when finalized)
+ - My house comparison spreadsheet (TODO add when finalized)
 
 ## Stock options
 
