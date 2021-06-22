@@ -4,6 +4,14 @@ These works have guided by thinking about how to maintain good health for as
 long as possible. They are roughly sorted by their level of influence on my
 thinking.
 
+
+## [The Longevity Diet by Valter
+Longo](https://www.valterlongo.com/daily-longevity-diet-for-adults/).
+
+Good examination of fasting, as well as an overview of different ways to think
+about how to determine which diet is the healthiest long term (Longo's "5
+Pillars").
+
 ## [Lifespan by David Sinclair](https://lifespanbook.com/)
 
 Cool review of a new theory of aging that seems promising to be.  Also does some
