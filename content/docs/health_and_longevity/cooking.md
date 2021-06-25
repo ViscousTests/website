@@ -159,9 +159,11 @@ Inspired by https://www.asweetpeachef.com/banana-nut-bread/#wprm-recipe-containe
  - 3 cups rhubarb sliced
  - 1 cup applesauce unsweetened or ~1.5 apples chopped
  - 3 tablespoons almond flour
+
 **For the strawberries:**
  - 2 ½ cups chopped sweet strawberries or 4 cups halved frozen strawberries
    microwaved until warm
+
 **For the topping:**
  - 1 ½ cups almond flour
  - 1 ½ cups rolled oats gluten-free if needed
