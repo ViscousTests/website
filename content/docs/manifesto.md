@@ -158,6 +158,20 @@ Doing this takes time and energy.  Therefore, if you want to live more
 intentionally, it is important to give yourself that space/energy and not fill
 it with other things.
 
+One common and strong environmental force is momentum. It is easier to continue
+doing something you are already doing than to switch tasks. This can be used to
+help complete less pleasurable tasks (finishing homework or a workout), but
+also can make you continue doing an activity past the point of it's benefit to
+you.  Examples of this for me include: eating after already full, playing a
+game to the point of frustration, and continuing to browse Reddit or YouTube
+without feeling inspired about what I find. Stopping and checking yourself in
+these situations with this idea in mind can help you switch tasks to something
+that will be a better overall use of time.  I have a pet theory that your brain
+gets specifically tired with particular tasks after a couple hours of doing
+them, and switching at this point to another task often uses enough different
+parts of your brain to make you feel very fresh in the new context.
+
+
 ### Expectations
 
 For me, the hardest part of executing on goals is getting my entire brain on
