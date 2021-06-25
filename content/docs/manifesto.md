@@ -125,7 +125,8 @@ more well rounded + tasks to try:
 ## Empowerment
 
 To me, empowerment is about leveraging vigor and wisdom to achieve goals.
-Empowerment and motivation are near synonyms to me.
+Empowerment and motivation are near synonyms to me.  Good environment and
+expectations dramatically help keep up motivation/empowerment.
 
 TODO: Merge this with [motivation]({{< relref "/docs/mind/motivation.md" >}}).
 
@@ -157,7 +158,7 @@ Doing this takes time and energy.  Therefore, if you want to live more
 intentionally, it is important to give yourself that space/energy and not fill
 it with other things.
 
-### Execution
+### Expectations
 
 For me, the hardest part of executing on goals is getting my entire brain on
 board to apply effort towards my current goal.  The best way I've found to do
