@@ -44,9 +44,9 @@ headless: true
   <li><a href="/docs/hydroponics/journal/" >Journal</a></li>
 </ul></details></li>
 <li><details><summary><strong>Games</strong></summary><ul>
+  <li><a href="/docs/games/fps-principles/">FPS Principles</a></li>
   <li><a href="/docs/games/top-10/">Top 10 All Time</a></li>
   <li><a href="/docs/games/oxygen-not-included/">Oxygen Not Included</a></li>
-  <li><a href="/docs/games/valorant/">Valorant</a></li>
   <li><a href="/docs/games/chess/">Chess</a></li>
 </ul></details></li>
 <li><details><summary><strong>Media</strong></summary><ul>
