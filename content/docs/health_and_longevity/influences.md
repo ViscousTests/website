@@ -4,6 +4,14 @@ These works have guided by thinking about how to maintain good health for as
 long as possible. They are roughly sorted by their level of influence on my
 thinking.
 
+## Kevin Bass
+
+Excellent science advocate that fights hard to avoid believing good stories
+that are not backed by evidence.  Some of his work that resonates most strongly
+with me includes:
+
+ - [Good measured discussion of the Keto diet (on the Healthcare Unfiltered podcast)](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjg4NzExODg2OC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMTA3MzUxNDQ1MQ?ep=14).  Does a really good job here discussing keto movement context and how LDL cholesterol is treated by the movement.
+ - https://twitter.com/kevinnbass/status/1409061791980793858
 
 ## [The Longevity Diet by Valter
 Longo](https://www.valterlongo.com/daily-longevity-diet-for-adults/).
