@@ -29,6 +29,15 @@ this (that I have yet to follow):
  - https://www.pwlcapital.com/wp-content/uploads/2019/03/PWL-WP-Felix-Factor-Investing-with-ETFs_08-2019-Final.pdf
  - https://investor.vanguard.com/etf/profile/portfolio/vtv
 
+## Leverage
+
+Using leverage (taking loans to buy investments) can be a power way to "time
+diversify", as explained in [this Ben Felix
+video](https://www.youtube.com/watch?v=Ll3TCEz4g1k).
+
+See also this investment strategy: https://www.reddit.com/r/financialindependence/comments/o7tnm5/my_guide_to_hedgefundies_portfolio_and_why_im_100/
+
+
 
 ## Retirement Finance
 
