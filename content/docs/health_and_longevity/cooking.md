@@ -1,3 +1,12 @@
+# General Cooking Tips
+
+If you're interested in experimenting with new food combinations, one technique
+that has served me pretty well I call the "trifecta of flavor".  The way it
+works is you take two foods that go well together (e.g. banana and peanut
+butter) and you add a third food that goes well with one of the foods but would
+be weird to combine with the other (e.g. spinach in this case).  More often
+than not, the result is actually pretty good!
+
 # Staples
 
 ## Oats
