@@ -50,6 +50,9 @@ service of goal 2 above).  These include:
     uniquely mess with my energy levels.  I'm eager to get some Continuous
     Glucose Monitoring (CGM) data to see if I can quantitate this.  
 
+Some interesting thoughts on meal timing for energy levels can be found at
+https://www.workingagainstgravity.com/guides/nutrition-guide/meal-timing.
+
 Other tenants I try to live by:
  1. Eating whole foods as much as possible.
 
