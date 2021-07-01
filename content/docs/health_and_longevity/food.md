@@ -92,8 +92,7 @@ focus in the afternoon.  Then I shower and eat around an hour later.
  - Dairy
  - Meat
  - Refined carbs (e.g. flour containing foods)
-    - [Danger of Fast
-       Carbs](https://www.theatlantic.com/ideas/archive/2020/03/carbs-are-killing-us/609040/)
+    - [Danger of Fast Carbs](https://www.theatlantic.com/ideas/archive/2020/03/carbs-are-killing-us/609040/)
  - Sugars/Syrups
 
 In practice I may have small amounts (<1 "serving") of these things about once
@@ -102,6 +101,16 @@ a week.
 Note also that avoiding animals products is partially for health reasons
 (avoiding cancer primarily), but also partially because the animal food
 industry is not easy for me to support.
+
+
+
+# What fats to eat?
+
+Probably mostly mono- and poly-unsaturated fatty acids (not saturated fatty
+acids).
+
+ - https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.119.040331
+ - https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.118.038908
 
 
 # Fasting
