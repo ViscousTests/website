@@ -95,6 +95,7 @@ focus in the afternoon.  Then I shower and eat around an hour later.
     - [Danger of Fast Carbs](https://www.theatlantic.com/ideas/archive/2020/03/carbs-are-killing-us/609040/)
  - Sugars/Syrups
 
+
 In practice I may have small amounts (<1 "serving") of these things about once
 a week.
 
@@ -103,6 +104,11 @@ Note also that avoiding animals products is partially for health reasons
 industry is not easy for me to support.
 
 
+### Things I try to moderate
+
+ - Eating more than 1/2 cup of (dry volume) beans or grains at once. A large amount of
+   my calories come from these foods - I've just noticed that eating a lot in one
+   sitting saps my energy, I assume because they take work to digest.
 
 # What fats to eat?
 
