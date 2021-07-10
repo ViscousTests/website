@@ -17,6 +17,7 @@ headless: true
 <li><details><summary><strong>Understanding the World</strong></summary><ul>
   <li><a href="/docs/understanding-the-world/influences/">Influences</a></li>
   <li><a href="/docs/understanding-the-world/what-to-believe/">What to Believe</a></li>
+  <li><a href="/docs/understanding-the-world/physics/">Physics</a></li>
   <li><a href="/docs/understanding-the-world/notetaking/">Notetaking</a></li>
 </ul></details></li>
 <li><details><summary><strong>The Human Mind</strong></summary><ul>
@@ -52,8 +53,8 @@ headless: true
   <li><a href="/docs/gaming/chess/">Chess</a></li>
 </ul></details></li>
 <li><details><summary><strong>Game Development</strong></summary><ul>
-  <li><a href="/docs/gamedev/common-patterns/">Common Patterns Found in Games</a></li>
-  <li><a href="/docs/gamedev/gamedev-context/">Good context about game dev</a></li>
+  <li><a href="/docs/gamedev/common-patterns/">Common patterns found in games</a></li>
+  <li><a href="/docs/gamedev/gamedev-context/">Good context about game development</a></li>
 </ul></details></li>
 <li><details><summary><strong>Media</strong></summary><ul>
   <li><a href="/docs/music/" >Music</a></li>
