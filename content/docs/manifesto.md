@@ -42,6 +42,8 @@ tricky and fickle.  For me, it helps to:
  - Set up my environment and habits so that I am consistently exposed to the
    goal, making it more likely my thoughts will wander to it and make progress
    decoding it.
+ - See also [creativity]({{< relref "/docs/mind/creativity.md" >}}) (maybe I
+   should merge these sections).
 
 ### Wisdom
 

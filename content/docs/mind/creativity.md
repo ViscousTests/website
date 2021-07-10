@@ -23,6 +23,12 @@ of this is [Everything is a
 Remix](https://www.youtube.com/watch?v=nJPERZDfyWc).
 
 
+## Vision and Confidence
+
+Being "Determinant" as described by Peter Thiel in [You Are Not a
+Lottery](https://www.youtube.com/watch?v=iZM_JmZdqCw) may help with this.
+
+
 ## See Also
 
  - [My thoughts on game development]({{< relref
