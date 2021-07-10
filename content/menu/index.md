@@ -5,14 +5,14 @@ headless: true
 <ul>
 <li><a href="/docs/manifesto/" ><strong>Personal Manifesto</strong></a></li>
 <li><details><summary><strong>Health and Longevity</strong></summary><ul>
-  <li><a href="/docs/health_and_longevity/influences/">Influences</a></li>
-  <li><a href="/docs/health_and_longevity/sleep/">Sleep</a></li>
-  <li><a href="/docs/health_and_longevity/food/">What Food and When?</a></li>
-  <li><a href="/docs/health_and_longevity/cooking/">Cooking</a></li>
-  <li><a href="/docs/health_and_longevity/fasting/">Fasting</a></li>
-  <li><a href="/docs/health_and_longevity/dna-testing/">DNA Testing</a></li>
-  <li><a href="/docs/health_and_longevity/chronic-stress/">Chronic Stress</a></li>
-  <li><a href="/docs/health_and_longevity/exercise/">Exercise</a></li>
+  <li><a href="/docs/health-and-longevity/influences/">Influences</a></li>
+  <li><a href="/docs/health-and-longevity/sleep/">Sleep</a></li>
+  <li><a href="/docs/health-and-longevity/food/">What Food and When?</a></li>
+  <li><a href="/docs/health-and-longevity/cooking/">Cooking</a></li>
+  <li><a href="/docs/health-and-longevity/fasting/">Fasting</a></li>
+  <li><a href="/docs/health-and-longevity/dna-testing/">DNA Testing</a></li>
+  <li><a href="/docs/health-and-longevity/chronic-stress/">Chronic Stress</a></li>
+  <li><a href="/docs/health-and-longevity/exercise/">Exercise</a></li>
 </ul></details></li>
 <li><details><summary><strong>Understanding the World</strong></summary><ul>
   <li><a href="/docs/understanding-the-world/influences/">Influences</a></li>
@@ -22,6 +22,8 @@ headless: true
 <li><details><summary><strong>The Human Mind</strong></summary><ul>
   <li><a href="/docs/mind/influences/">Influences</a></li>
   <li><a href="/docs/mind/mbti/">Myers-Briggs Personality Typing</a></li>
+  <li><a href="/docs/mind/creativity/">Creativity</a></li>
+  <li><a href="/docs/mind/motivation/">Motivation</a></li>
 </ul></details></li>
 <li><details><summary><strong>Lifestyle Optimizations</strong></summary><ul>
   <li><em>Projects and tricks that make my life run smoothly.</em></li>
@@ -43,11 +45,15 @@ headless: true
   <li><a href="/docs/hydroponics/my-setup/" >My Setup</a></li>
   <li><a href="/docs/hydroponics/journal/" >Journal</a></li>
 </ul></details></li>
-<li><details><summary><strong>Games</strong></summary><ul>
-  <li><a href="/docs/games/fps-principles/">FPS Principles</a></li>
-  <li><a href="/docs/games/top-10/">Top 10 All Time</a></li>
-  <li><a href="/docs/games/oxygen-not-included/">Oxygen Not Included</a></li>
-  <li><a href="/docs/games/chess/">Chess</a></li>
+<li><details><summary><strong>Gaming</strong></summary><ul>
+  <li><a href="/docs/gaming/fps-principles/">FPS Principles</a></li>
+  <li><a href="/docs/gaming/top-10/">Top 10 All Time</a></li>
+  <li><a href="/docs/gaming/oxygen-not-included/">Oxygen Not Included</a></li>
+  <li><a href="/docs/gaming/chess/">Chess</a></li>
+</ul></details></li>
+<li><details><summary><strong>Game Development</strong></summary><ul>
+  <li><a href="/docs/gamedev/common-patterns/">Common Patterns Found in Games</a></li>
+  <li><a href="/docs/gamedev/gamedev-context/">Good context about game dev</a></li>
 </ul></details></li>
 <li><details><summary><strong>Media</strong></summary><ul>
   <li><a href="/docs/music/" >Music</a></li>

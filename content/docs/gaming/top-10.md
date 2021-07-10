@@ -1,8 +1,8 @@
 # My Top 10 Favorite (Video) Games
 
-TODO finish and explain
+Currently this list does not have a strict order.
 
-## 1. [Fire Emblem 7 & 8](https://en.wikipedia.org/wiki/Fire_Emblem_(video_game))
+## [Fire Emblem 7 & 8](https://en.wikipedia.org/wiki/Fire_Emblem_(video_game))
 
 I first played this game on the Game Boy Advance when I was in middle school.
 For some reason the art style and especially animation really spoke to me, and
@@ -28,11 +28,14 @@ Because these challenges are self directed they make me feel like I am
 expressing myself more as a player, which makes the game feel more interesting
 than if I was just solving the same battle puzzles as everyone else.  
 
+## [XCOM 2 + War of the Chosen](https://en.wikipedia.org/wiki/XCOM_2)
 
-## 2. [Overwatch](https://en.wikipedia.org/wiki/Overwatch_(video_game))
+Very similar appeal to Fire Emblem.
 
-## 3. [Darkest Dungeon](https://en.wikipedia.org/wiki/Darkest_Dungeon)
+## [Overwatch](https://en.wikipedia.org/wiki/Overwatch_(video_game))
 
-## 4. Islanders (maybe)
+## [Darkest Dungeon](https://en.wikipedia.org/wiki/Darkest_Dungeon)
 
-## 5. Bad North (maybe)
+## Islanders (maybe)
+
+## Bad North (maybe)

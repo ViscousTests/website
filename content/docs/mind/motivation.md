@@ -113,3 +113,46 @@ happen on a smaller scale as well.
 
 TODO explore ideas from https://www.scientificamerican.com/article/we-learn-faster-when-we-arent-told-what-choices-to-make/
 
+
+## Holding loosely and Ego
+
+Becoming highly personally invested in a task often surfaces a lot of
+paralyzing emotions like fear of failure. Even for work that could be
+life-changing, I find "holding loosely" or not caring too much about the
+outcome is a highly effective strategy.  This frees your mind up to perform in
+the moment, which will often be what determines the ultimate result of the
+work.
+
+This mindset avoids the problem of focusing on things not in your control
+(explored in [this gamedev post about
+SNKRX](https://www.a327ex.com/posts/snkrx_log/#control)). By definition, this
+thinking can't directly lead to positive action that would improve your
+situation. The best it can do is _maybe_ make you stumble upon some new
+information if you are doing research about the thing not in your control, but
+much more often I find that it leads to dead-end thoughts that make you lose
+motivation entirely.
+
+I found this concept to be extremely helpful when interviewing for jobs. Here
+this is particularly relevant because interviewing involves being social with
+your interviewer, and having a positive social interaction usually requires
+sharing positive emotions.  It's much easier to do this if you are actually
+feeling these emotions, and not faking them while internally feeling fear or
+panic.
+
+This concept is really helpful in sports too, or anything that requires high
+in-the-moment performance.  In fact, I was first introduced to this concept
+when playing tennis.  I was taught to hold my racket like a tube of toothpaste
+- if I squeezed too hard (get too tense), the toothpaste would come out.  This
+  relaxed physical state is tightly coupled to a relaxed mental state of being
+  "in the moment". 
+
+One great exploration of this is the concept of "effortless effort" in Zen
+philosophy.  I was first introduced to this by the book [Zen in the Martial
+Arts by Joe
+Hyams](https://www.goodreads.com/book/show/424340.Zen_in_the_Martial_Arts).
+There are also some good thoughts about this in [Zen Mind, Beginners Mind by
+Shunryu Suzuki](https://en.wikipedia.org/wiki/Zen_Mind,_Beginner%27s_Mind).
+
+See [my thoughts on creativity]({{< relref "/docs/mind/creativity.md" }}) for
+more exploration of related ideas.
+

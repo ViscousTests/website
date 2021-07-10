@@ -10,11 +10,11 @@ both help myself and others become more vigorous and wise.
 Energy to achieve goals in my experience comes from two main sources:
 
 **Physical Health**: [Exercise]({{< relref
-"/docs/health_and_longevity/exercise.md" >}}), [sleep]({{< relref
-"/docs/health_and_longevity/sleep.md" >}}), [food]({{< relref
-"/docs/health_and_longevity/food.md" >}}), [cronic stress]({{< relref
-"/docs/health_and_longevity/chronic-stress.md" >}}), [circadian rhythm]({{<
-relref "/docs/health_and_longevity/circadian-rhythm.md" >}}), and other
+"/docs/health-and-longevity/exercise.md" >}}), [sleep]({{< relref
+"/docs/health-and-longevity/sleep.md" >}}), [food]({{< relref
+"/docs/health-and-longevity/food.md" >}}), [cronic stress]({{< relref
+"/docs/health-and-longevity/chronic-stress.md" >}}), [circadian rhythm]({{<
+relref "/docs/health-and-longevity/circadian-rhythm.md" >}}), and other
 environmental influences all effect personal vigor in complex and
 inter-dependant ways.  Spending time untangling this web of interactions for
 oneself is a worthy endeavor that has personally helped me feel more
