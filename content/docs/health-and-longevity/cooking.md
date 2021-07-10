@@ -9,6 +9,17 @@ than not, the result is actually pretty good!
 
 # Staples
 
+## Flax Peanut Butter
+
+Mixing ground flaxseed and natural peanut butter in around a 1:1 ratio makes a
+great nut butter!  You'll need to add some water to make it a paste (and not
+just powdery).  
+
+This recipe has a good omega-3/6 ratio too.  Per 100g, peanut butter has 9.7g
+omega-6 and 0.3g omega-3 fatty acids.  Per 100g, flax seeds have 5.9g omega-6
+and 22.8g omega-3 fatty acids.  So combined, we have 23.1g omega3 and 15.6g
+omega-6, a **~1.5 ratio**!  Data was taken from NCCDB via Cronometer.
+
 ## Oats
 
  - 1 cup rolled oats

@@ -9,6 +9,10 @@ Refreshing read that shows that building good habits and systems in your life
 is much more effective and doable than using raw willpower to get achieve
 goals.
 
+## [Thinking, Fast and Slow by Daniel Kahneman](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow)
+
+Video inspired by book done by Veritasium [here](https://www.youtube.com/watch?v=UBVV8pch1dM&ab_channel=Veritasium).
+
 ## Books by David Eagleman
 
 Incognito, Livewired, The Brain: The Story of You.  All great pop-neuroscience
