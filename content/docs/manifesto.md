@@ -123,6 +123,14 @@ more well rounded + tasks to try:
    investment plan yourself.
  - Food production - try growing/cooking your own food.
 
+Apropos quote:
+
+>Philosophers are people who know less and less about more and more, until they
+know nothing about everything. Scientists are people who know more and more
+about less and less, until they know everything about nothing.
+>
+>― Konrad Lorenz
+
 
 ## Empowerment
 
