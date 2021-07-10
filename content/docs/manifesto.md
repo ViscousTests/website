@@ -170,33 +170,3 @@ that will be a better overall use of time.  I have a pet theory that your brain
 gets specifically tired with particular tasks after a couple hours of doing
 them, and switching at this point to another task often uses enough different
 parts of your brain to make you feel very fresh in the new context.
-
-
-### Expectations
-
-For me, the hardest part of executing on goals is getting my entire brain on
-board to apply effort towards my current goal.  The best way I've found to do
-this so far is by keeping the quality of the final product out of my head.  In
-other words, I try to not have expectations for a specific result or, if that's
-too hard, I at least try to keep my expectations low.
-
-Not worrying about my goal's final product makes it much easier to just start
-doing something.  My ego is protected from failure, and I can utilize all the
-parts of my brain that live in the moment.  Usually, the best final products
-are honed as they are made anyway - attempting to plan out the perfect product
-from the start without getting feedback from the work often just leads me to a
-state of analysis paralysis.
-
-Some great resources for goal execution:
-
- - https://waitbutwhy.com/2015/03/procrastination-matrix.html
- - https://jamesclear.com/atomic-habits
-
-If getting started on a task is hard even with low/no expectations, or if I am
-stuck on said task and am having trouble re-starting, it is usually because the
-I don't have the right understanding of the problem.  Asking lots of questions
-and (re-)verifying all the assumptions I've made usually helps me get around
-this.  If I'm really stuck, describing the issue in writing or to an outside
-observer will often give me to differing (and correct) perspective I need to
-move forward. I'm consistently amazed by how narrow my focus on problems can
-become compared to the focus a random outside observer would have.
