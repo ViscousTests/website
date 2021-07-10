@@ -26,5 +26,5 @@ Remix](https://www.youtube.com/watch?v=nJPERZDfyWc).
 ## See Also
 
  - [My thoughts on game development]({{< relref
-   "/docs/gamedev/gamedev-context.md" }}), which play with a lot of these
+   "/docs/gamedev/gamedev-context.md" >}}), which play with a lot of these
    ideas.

@@ -153,6 +153,6 @@ Hyams](https://www.goodreads.com/book/show/424340.Zen_in_the_Martial_Arts).
 There are also some good thoughts about this in [Zen Mind, Beginners Mind by
 Shunryu Suzuki](https://en.wikipedia.org/wiki/Zen_Mind,_Beginner%27s_Mind).
 
-See [my thoughts on creativity]({{< relref "/docs/mind/creativity.md" }}) for
+See [my thoughts on creativity]({{< relref "/docs/mind/creativity.md" >}}) for
 more exploration of related ideas.
 
