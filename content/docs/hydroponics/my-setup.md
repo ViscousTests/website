@@ -9,7 +9,7 @@ for a summary.
 
 ## Goals
 
-My [diet goals](/docs/eating/food.md) suggest that I eat a lot of leafy greens.
+My [diet goals](/docs/health-and-longevity/food.md) suggest that I eat a lot of leafy greens.
 Unfortunately, these greens do not keep well and are somewhat expensive to buy.
 Therefore, they are at the highest risk (out of all foods I want to eat) of not
 being eaten simply because they are not around.  
@@ -60,6 +60,8 @@ See https://hennepinmastergardeners.org/hydroponics-for-year-round-salad-greens/
  - **[Incredible hydroponic
    system](https://www.youtube.com/watch?v=bWebs3ID6Hw)** (website at
    https://simplegreenshydroponics.com/)
+ - **[Highly automated hydroponic
+   system](https://www.youtube.com/watch?v=nyqykZK2Ev4)**
 
 ## Seed Generation - not done yet!
 
