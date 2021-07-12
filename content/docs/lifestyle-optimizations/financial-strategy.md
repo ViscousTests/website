@@ -26,6 +26,10 @@ Good descriptions:
    >30 days after the original sale.
    - **Make sure that your intermediate investment hasn't gone up in value when you do this, otherwise you will cancel out your losses!**
 
+Probably a good strategy is to, when the market is falling, set a reminder to
+sell all losing shares and buy a similar investment twice a week.  This way you
+will be sure to get the maximum losses and won't miss the bottom.
+
 ### Tax Gain Harvesting
 
 Useful if you are in the 0% capital gains tax bracket:
