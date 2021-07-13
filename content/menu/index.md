@@ -62,8 +62,8 @@ headless: true
 <li><details><summary><strong>How To</strong></summary><ul>
   <li><a href="/docs/how-to-finance/" >Finances</a></li>
 </ul></details></li>
-<li><details><summary><strong>Ideas</strong></summary><ul>
-  <li><a href="/docs/software/" >Software</a></li>
+<li><details><summary><strong>Software Dev</strong></summary><ul>
+  <li><a href="/docs/software-dev/influences/" >Influences</a></li>
 </ul></details></li>
 <li><details><summary><strong>Climbing</strong></summary><ul>
   <li><a href="/docs/climbing/media/" >Media/Inspiration</a></li>

@@ -1,5 +1,4 @@
-
-## Talks/Articles
+## Influences
 
 - [Getting things done by Johnathan Blow](https://www.youtube.com/watch?v=vCzrKjbXZQY)
   - Depth first approach to problem solving can be bad because you end up going
