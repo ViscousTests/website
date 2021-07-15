@@ -10,6 +10,10 @@ only fold the page and do nothing else?  Suddenly, it's much easier (for me at
 least) to start just doing something. This helps a lot with "Just Getting
 Started".
 
+Constraining the problem space could also involve setting a hard deadline for
+finishing X in 30-60mins.  This will often introduce an urgency that can help
+produce something.
+
 ## Just Getting Started
 
 Once you get on the path of creation, the small choices you encounter will
