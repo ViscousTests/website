@@ -10,6 +10,7 @@ headless: true
   <li><a href="/docs/health-and-longevity/food/">What Food and When?</a></li>
   <li><a href="/docs/health-and-longevity/cooking/">Cooking</a></li>
   <li><a href="/docs/health-and-longevity/fasting/">Fasting</a></li>
+  <li><a href="/docs/health-and-longevity/cgm/">Continuous Glucose Monitoring</a></li>
   <li><a href="/docs/health-and-longevity/dna-testing/">DNA Testing</a></li>
   <li><a href="/docs/health-and-longevity/chronic-stress/">Chronic Stress</a></li>
   <li><a href="/docs/health-and-longevity/exercise/">Exercise</a></li>
@@ -55,6 +56,7 @@ headless: true
 <li><details><summary><strong>Game Development</strong></summary><ul>
   <li><a href="/docs/gamedev/common-patterns/">Common patterns found in games</a></li>
   <li><a href="/docs/gamedev/gamedev-context/">Good context about game development</a></li>
+  <li><a href="/docs/gamedev/mechanic-ideas/low-friction-turn-based-tactics/">Mechanic Idea: Low Friction Turn Based Tactics</a></li>
 </ul></details></li>
 <li><details><summary><strong>Media</strong></summary><ul>
   <li><a href="/docs/music/" >Music</a></li>
