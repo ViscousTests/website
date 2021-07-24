@@ -27,12 +27,16 @@ headless: true
   <li><a href="/docs/mind/creativity/">Creativity</a></li>
   <li><a href="/docs/mind/motivation/">Motivation</a></li>
 </ul></details></li>
+<li><details><summary><strong>Investing and Finances</strong></summary><ul>
+  <li><a href="/docs/investing-and-finances/strategies/">Strategies</a></li>
+  <li><a href="/docs/investing-and-finances/housing/">Housing</a></li>
+  <li><a href="/docs/investing-and-finances/expected-house-return/">My Comprehensive Housing Return Estimator</a></li>
+</ul></details></li>
 <li><details><summary><strong>Lifestyle Optimizations</strong></summary><ul>
   <li><em>Projects and tricks that make my life run smoothly.</em></li>
   <li><a href="/docs/lifestyle-optimizations/website/">This Website</a></li>
   <li><a href="/docs/lifestyle-optimizations/computing-config/">My Computer Configuration (dotfiles)</a></li>
   <li><a href="/docs/lifestyle-optimizations/personal-data-tracking/">Personal Data Tracking</a></li>
-  <li><a href="/docs/lifestyle-optimizations/financial-strategy/">Financial Strategy</a></li>
   <li><a href="/docs/lifestyle-optimizations/hang-drying-cloths/">Hang Drying Cloths</a></li>
   <li><a href="/docs/lifestyle-optimizations/phone-case/">Phone Case</a></li>
   <li><a href="/docs/lifestyle-optimizations/vim-tricks/">Vim Tricks</a></li>
@@ -60,9 +64,6 @@ headless: true
 </ul></details></li>
 <li><details><summary><strong>Media</strong></summary><ul>
   <li><a href="/docs/music/" >Music</a></li>
-</ul></details></li>
-<li><details><summary><strong>How To</strong></summary><ul>
-  <li><a href="/docs/how-to-finance/" >Finances</a></li>
 </ul></details></li>
 <li><details><summary><strong>Software Dev</strong></summary><ul>
   <li><a href="/docs/software-dev/influences/" >Influences</a></li>

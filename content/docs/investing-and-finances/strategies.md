@@ -1,19 +1,11 @@
-# Financial Strategy
-
-## Real Estate and Housing
-
- - [NYT Buy vs Rent
-   Calculator](https://www.nytimes.com/interactive/2014/upshot/buy-rent-calculator.html)
- - My house comparison spreadsheet (TODO add when finalized)
+# Investment Strategies
 
 ## Stock options
 
  - [Excellent Reference](
 http://www.scribd.com/doc/55945011/An-Introduction-to-Stock-Options-for-the-Tech-Entrepreneur-or-Startup-Employee)
 
-## Stocks
-
-### Tax Loss Harvesting
+## Tax Loss Harvesting
 
 Good descriptions:
 
@@ -30,13 +22,13 @@ Probably a good strategy is to, when the market is falling, set a reminder to
 sell all losing shares and buy a similar investment twice a week.  This way you
 will be sure to get the maximum losses and won't miss the bottom.
 
-### Tax Gain Harvesting
+## Tax Gain Harvesting
 
 Useful if you are in the 0% capital gains tax bracket:
 
  - https://www.madfientist.com/tax-gain-harvesting/
 
-### The Value Factor
+## The Value Factor
 
 Investment returns can theoretically be explained by different factors
 [described here](https://www.youtube.com/watch?v=ViTnIebSzj4).  Total market

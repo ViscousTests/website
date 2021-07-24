@@ -1,0 +1,17 @@
+@import "variables";
+
+img {
+    width: 100%;
+}
+
+.book-brand {
+  margin-top: 0;
+
+  img {
+    height: 6em;
+    width: auto;
+    vertical-align: middle;
+    margin-left: 2em;
+    margin-right: 2em;
+  }
+}
