@@ -15,6 +15,9 @@ On the left side of the spreadsheet are a bunch of blue fields where details
 about the house should be filled in.  On the right are shown the results, in
 gory detail.
 
+Note that I was looking for live-in multi-plex properties, so the spreadsheet
+has features to judge the effect of rent on the ultimate return.
+
 **If you have any questions or** ***especially*** **if you notice errors in the
 spreadsheet, please comment on it to let me know.**
 

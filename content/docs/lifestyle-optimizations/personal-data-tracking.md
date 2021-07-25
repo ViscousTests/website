@@ -9,6 +9,12 @@ Excellent generous free storage, with good integrations.
 Excellent free and _detailed_ food tracking.  If you want to use the free plan,
 https://pi-hole.net/ is really helpful to make the app more usable.
 
+## [ActivityWatch](https://activitywatch.net/)
+
+Superb way to track computer and phone usage. Great UI and general feature set.
+
+See also https://karpathy.github.io/2014/08/03/quantifying-productivity/.
+
 ## Heart Rate Monitoring
 
 I have yet to find a good solution here.  Notes:
