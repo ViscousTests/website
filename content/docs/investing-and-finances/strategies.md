@@ -5,29 +5,6 @@
  - [Excellent Reference](
 http://www.scribd.com/doc/55945011/An-Introduction-to-Stock-Options-for-the-Tech-Entrepreneur-or-Startup-Employee)
 
-## Tax Loss Harvesting
-
-Good descriptions:
-
- - https://www.moneyunder30.com/profit-from-tax-loss-harvesting
- - https://www.madfientist.com/tax-loss-harvesting/
-
-1. Sell your losing investment.
-1. Buy another (intermediate) investment that you are happy holding.
-1. If you want, sell your intermediate investment and buy back your original
-   >30 days after the original sale.
-   - **Make sure that your intermediate investment hasn't gone up in value when you do this, otherwise you will cancel out your losses!**
-
-Probably a good strategy is to, when the market is falling, set a reminder to
-sell all losing shares and buy a similar investment twice a week.  This way you
-will be sure to get the maximum losses and won't miss the bottom.
-
-## Tax Gain Harvesting
-
-Useful if you are in the 0% capital gains tax bracket:
-
- - https://www.madfientist.com/tax-gain-harvesting/
-
 ## The Value Factor
 
 Investment returns can theoretically be explained by different factors
