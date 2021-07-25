@@ -2,6 +2,11 @@
 
 These books/blogs/podcasts/people have most shaped how I understand finances.
 
+## [Early Retirement Extreme](http://earlyretirementextreme.com/)
+
+The ERE book and the blog's most popular posts are an excellent view into a
+strongly coherent and appealing life philosophy. Highly, highly recommend.
+
 ## [Mr Money Mustache](https://www.mrmoneymustache.com/)
 
 My first introduction to the idea of financial independance. I haven't read a lot of the articles, but the ones I did read were very influential.
