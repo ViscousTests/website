@@ -88,6 +88,12 @@ spreadsheet, please comment on it to let me know.**
    the house per month **on average**. You should always have some buffer,
    since many housing expenses come in large lump payments.  Used for color
    coding.
+ - **Portfolio Start Size**: <br/> The amount of money you have in your
+   investment portfolio when you buy the home. Used to calculate how much of
+   your investment portfolio is made up of by the house
+ - **Yearly Investment**: <br/> The amount of money you are investing per year
+   into your portfolio.  Used to calculate how much of your investment
+   portfolio is made up of by the house
 
 
 ### Income
@@ -176,8 +182,12 @@ front.
  - **"Rent" Cashflow**: <br/> Cashflow considering the "rent" you are "paying".
  - **Money Put In**: <br/> The total amount of money you have spent on the
    property.
- - **Money Put In w/"Rent"**: <br/> The last column considering the "rent" you
-   are "paying".
+ - **Rest of Portfolio Value**: <br/> The value of your investments, minus the
+   house.
+ - **Percent of Portfolio**: <br/> The percentage of the portfolio that is made
+   up of by the house.
+ - **Money Put In w/"Rent"**: <br/> The "Money Put In" column considering the
+   "rent" you are "paying".
  - **Cost to Sell**: <br/> The amount of money you need to pay to others when
    selling the house.  This includes paying off the mortgage, paying realtors,
    etc.
@@ -197,7 +207,10 @@ front.
    money you put into the property.
  - **IRR w/"Rent"**: <br/> The time-adjusted rate of return you have made on
    all the money you put into the property, considering also the value you got
-   out of it by living in it.
+   out of it by living in it.  **If this value is less than your expected
+   investment growth rate, financially you probably shouldn't buy the house.**
+ - **Portfolio Return w/"Rent"**: <br/> The return of your entire portfolio
+   including the house, given that you sell the house this year.
  - **Rental Delta**: <br/> To translate the rate of return to a "dollars per
    month" figure, fill in the top cell of this column until the **IRR w/Rent
    Delta** column matches your expected **Investment Growth Rate** for the year
