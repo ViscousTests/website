@@ -38,7 +38,7 @@ tricky and fickle.  For me, it helps to:
    and/or help grow the seeds.  Not sure how this helps (more blood flow to the
    brain?), but it usually does for me.
  - Take a long break from the goal and work on another goal.  Having multiple
-   in-flight projects at onces makes the natural.
+   in-flight projects at once makes this more natural.
  - Set up my environment and habits so that I am consistently exposed to the
    goal, making it more likely my thoughts will wander to it and make progress
    decoding it.

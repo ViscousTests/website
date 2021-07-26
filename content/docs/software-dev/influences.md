@@ -22,5 +22,5 @@
 - [The Origin of Complexity by Joakim
   Tengstrand](https://itnext.io/the-origin-of-complexity-8ecb39130fc)
   - Complexity arises when systems are not changeable.  To make systems more
-    chachangeable, increase their **usability** and reduce **coordination**
+    changeable, increase their **usability** and reduce **coordination**
     between their pieces.
