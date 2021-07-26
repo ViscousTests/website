@@ -26,6 +26,7 @@ headless: true
   <li><a href="/docs/mind/mbti/">Myers-Briggs Personality Typing</a></li>
   <li><a href="/docs/mind/creativity/">Creativity</a></li>
   <li><a href="/docs/mind/motivation/">Motivation</a></li>
+  <li><a href="/docs/mind/working-with-others/">Workings with Others</a></li>
 </ul></details></li>
 <li><details><summary><strong>Investing and Finances</strong></summary><ul>
   <li><a href="/docs/investing-and-finances/influences/">Influences</a></li>
@@ -45,9 +46,6 @@ headless: true
 </ul></details></li>
 <li><details><summary><strong>Art</strong></summary><ul>
   <li><a href="/docs/art/generative-art/">Generative Art</a></li>
-</ul></details></li>
-<li><details><summary><strong>Interpersonal</strong></summary><ul>
-  <li><a href="/docs/how-to-work-with-others/" >Working with Others</a></li>
 </ul></details></li>
 <li><details><summary><strong>Hydroponics</strong></summary><ul>
   <li><a href="/docs/hydroponics/my-setup/" >My Setup</a></li>

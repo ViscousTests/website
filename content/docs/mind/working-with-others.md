@@ -23,6 +23,20 @@ around model-sharing:
 https://medium.dave-bailey.com/how-to-resolve-a-conflict-when-both-sides-are-right-1f375bc82f7f
 
 
+## [Reactance](https://en.wikipedia.org/wiki/Reactance_(psychology))
+
+People inherently like to be in control of what happens to them in their lives.
+When this control is threatened, resistance to the threat is the natural
+response. I definitely have felt this when in a situation where someone tells
+me to do something - even something I know I want to do. The very fact that I
+was told to do it makes me _less_ interested in doing it! Sometimes this effect
+can be extreme.
+
+This is one of the reasons why micromanagement of others leads to all sorts of
+problems. It is much move motivating to let people come to their own decisions
+about whether to do something if possible.
+
+
 ## Complaining
 
 People complain for at least two main reasons:
