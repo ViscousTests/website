@@ -43,6 +43,7 @@ headless: true
   <li><a href="/docs/lifestyle-optimizations/hang-drying-cloths/">Hang Drying Cloths</a></li>
   <li><a href="/docs/lifestyle-optimizations/phone-case/">Phone Case</a></li>
   <li><a href="/docs/lifestyle-optimizations/vim-tricks/">Vim Tricks</a></li>
+  <li><a href="/docs/lifestyle-optimizations/youtube-downloading/">No-Ad YouTube Viewing</a></li>
 </ul></details></li>
 <li><details><summary><strong>Art</strong></summary><ul>
   <li><a href="/docs/art/generative-art/">Generative Art</a></li>
