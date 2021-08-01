@@ -68,6 +68,8 @@ headless: true
 </ul></details></li>
 <li><details><summary><strong>Software Dev</strong></summary><ul>
   <li><a href="/docs/software-dev/influences/" >Influences</a></li>
+  <li><a href="/docs/software-dev/impact/" >Impact</a></li>
+  <li><a href="/docs/software-dev/choosing-a-language/" >Languages</a></li>
 </ul></details></li>
 <li><details><summary><strong>Climbing</strong></summary><ul>
   <li><a href="/docs/climbing/media/" >Media/Inspiration</a></li>
