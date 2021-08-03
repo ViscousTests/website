@@ -18,11 +18,15 @@ overhanging and the sandy rock meant it was a bit tricky to get a firm grip.
 
 ![Profile](/docs/climbing/event-reports/2019-10-07-namaste-wall-zion-pics/profile.jpg)
 
-![Rock](/docs/climbing/event-reports/2019-10-07-namaste-wall-zion-pics/rock.jpg)
-
 ![Clip](/docs/climbing/event-reports/2019-10-07-namaste-wall-zion-pics/silouette-clip.jpg)
 
-![Trees](/docs/climbing/event-reports/2019-10-07-namaste-wall-zion-pics/trees.jpg)
+One close mishap we had was the first climb I tried with Claire as my belay.
+The large overhang made her swing more that we anticipated into a nearby rock
+when I uncliped my first quickdraw from the wall (after getting lowered).
+Luckily she wasn't hurt, but it was a good lesson to be very sure about rope
+geometry before unclipping!
+
+![Claire Belay](/docs/climbing/event-reports/2019-10-07-namaste-wall-zion-pics/claire-belay.jpg)
 
 We were extremely luckly to run into a pair of Canadian guys with a nice camera
 that were also climbing at Namaste at the same time. In exchange for me taking
@@ -30,3 +34,7 @@ pictures of them, we traded belays, which let me try several more routes than I
 would have otherwise with just Claire as my belay.
 
 Here is a complete album: https://photos.app.goo.gl/kLGvWTqGBEjh2Dzv7
+
+![Rock](/docs/climbing/event-reports/2019-10-07-namaste-wall-zion-pics/rock.jpg)
+
+![Trees](/docs/climbing/event-reports/2019-10-07-namaste-wall-zion-pics/trees.jpg)
