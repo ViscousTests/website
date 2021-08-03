@@ -69,15 +69,10 @@ It would be cool to have a separate growing bin in a warmer place where plants
 would go to seed.  This way I could generate my own seeds and not worry about
 needing to go buy them!
 
-## Data logging - not done yet!
+## Data logging
 
-Could use either arduino or [raspberry
-pi](https://www.adafruit.com/product/4292).
-
-Not sure exactly the best way to log data.  Ideally I would log to github or
-google drive.
-
- - https://linuxize.com/post/how-to-enable-ssh-on-raspberry-pi/#connecting-raspberry-pi-via-ssh
+See https://github.com/kovasap/plant-data for code that I run on my Raspberry
+Pi to log data.
 
 ### Water depth
 

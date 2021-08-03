@@ -75,6 +75,8 @@ headless: true
   <li><a href="/docs/climbing/media/" >Media/Inspiration</a></li>
   <li><a href="/docs/climbing/safety-checklist/" >Safety Checklist</a></li>
   <li><details><summary><strong>Event Reports</strong></summary><ul>
+    <li><a href="/docs/climbing/event-reports/mcmahon-hall/" >2014 - McMahon Hall</a></li>
+    <li><a href="/docs/climbing/event-reports/2019-10-7-namaste-wall-zion/" >Oct. 2019 - Namaste Wall, Zion</a></li>
     <li><a href="/docs/climbing/event-reports/2020-8-10-lake-erie/" >Aug. 2020 - Mt. Erie</a></li>
     <li><a href="/docs/climbing/event-reports/2020-8-12-mile-high-club/" >Aug. 2020 - Mile High Club</a></li>
     <li><a href="/docs/climbing/event-reports/first-512/" >Jan 12, 2018 - My first 5.12!</a></li>

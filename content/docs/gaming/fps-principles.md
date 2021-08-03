@@ -80,6 +80,11 @@ timing.  Be careful that this can be difficult when close to a corner, since
 every unit of movement you make will expose a lot more of you than if you were
 further from the corner.
 
+## Cover
+
+In games like Apex Legends, it's a good principle to keep part of your screen
+obscured by cover when fighting, to give your opponent a smaller area to hit.
+
 ## Influences
 
  - [Great break down by CoachNihil of kandyrew's
