@@ -90,4 +90,8 @@ their water cups.  Could have four streams for easier filling.
 
 Try to (using google maps or pre-collected data) model an object in the real
 world at its exact real world position in a VR or AR simulation.  For example,
-model a toothbrush in a bathroom so that when using VR in the living room you can "see through walls" to see exactly the toothbrush.  Could be used to show large objects around the world at their exact positions (like the Eiffel tower or Mt Everest).  This would have a cool effect of giving you a really good bearing on your location with respect to the rest of the world.  
+model a toothbrush in a bathroom so that when using VR in the living room you
+can "see through walls" to see exactly the toothbrush.  Could be used to show
+large objects around the world at their exact positions (like the Eiffel tower
+or Mt Everest).  This would have a cool effect of giving you a really good
+bearing on your location with respect to the rest of the world.  
