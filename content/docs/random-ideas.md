@@ -3,6 +3,11 @@ bookShowToc: false
 draft: true
 ---
 
+# "System 1" Chatbot
+
+A chatbot that simulates talking to the "system 1" part of the brain only as
+described in "Thinking, Fast and Slow".
+
 # Water Saving Toilet
 
 Make a toilet where urine is redirected (like a composting toilet) into a
