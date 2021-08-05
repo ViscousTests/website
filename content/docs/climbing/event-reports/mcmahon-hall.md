@@ -9,7 +9,7 @@ going to a balcony right above the current one, making me step onto the
 railing, doing a bit of an undercling on the bottom on the upper balcony, and
 reaching out to grab the steel railing above.  Then pulling myself up was easy.
 
-TODO add picture here.
+![McMahon Route](/docs/climbing/event-reports/mcmahon.jpg)
 
 This experience made me feel powerful and capable, even though it was probably
 in the 5.8 range of difficulty - made a bit easier given my height.  It was
