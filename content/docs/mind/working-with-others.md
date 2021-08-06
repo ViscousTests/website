@@ -37,6 +37,19 @@ problems. It is much move motivating to let people come to their own decisions
 about whether to do something if possible.
 
 
+## Assuming Good Intentions
+
+It's pretty hard sometimes to figure out why someone is doing something in
+particular.  [This clip from Malcolm in the Middle about changing a light
+bulb](https://www.youtube.com/watch?v=AbSehcT19u0) is a pretty funny extreme
+example, but I find this kind of situation comes up in smaller ways fairly
+often. If you must have expectations for someone doing something for you (which
+are best avoided entirely), it's good to keep in mind that their approach is
+probably going to be different from yours in ways that are hard to predict.
+Trying to figure it out - or worse, micromanage them - may often be wasted
+effort and lead to interpersonal frustration.
+
+
 ## Complaining
 
 People complain for at least two main reasons:
