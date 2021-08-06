@@ -110,14 +110,29 @@ industry is not easy for me to support.
    my calories come from these foods - I've just noticed that eating a lot in one
    sitting saps my energy, I assume because they take work to digest.
 
-# What fats to eat?
+# Hunger, and Physical States of Being
 
-Probably mostly mono- and poly-unsaturated fatty acids (not saturated fatty
-acids).
+One thing I've noticed is that my body can be in different "states" that affect
+my hunger levels. Some examples:
 
- - https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.119.040331
- - https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.118.038908
+ - When sitting around for a while (not moving), I tend to want food.
+ - When eating some food (e.g. a snack sized meal), I tend to want food.
+ - When exercising (and afterward), I tend to not want food.
+ - When being busy with many straitforward tasks, I tend to not want food.
+ - When working on something hard that isn't going well, but doesn't have a
+   time pressue, I tend to want food as a distraction.
+ - When interacting with other people, I tend to not want food.
 
+One theory I have is that my body gets hungry when it notices that (1) there is
+food around and (2) I have time/space to digest after I eat (I wont need to
+immediately do something that requires lots of energy).
+
+Some habits that take advantage of this concept include:
+
+ - Distracting myself with busywork when I feed hungry but don't (consciously)
+   want to eat.
+ - Eating one meal a day, so that I don't have a "snack-train" problem of
+   having future meals induce hunger.
 
 # Fasting
 
@@ -139,6 +154,15 @@ should probably explore at some point:
  - [Regular blood testing w/Morgan Levine's biological age
    calculation](https://biohackstack.com/posts/levines-phenotypic-age/).  See
    also [Aging.ai](http://aging.ai/).
+
+
+# What fats to eat?
+
+Probably mostly mono- and poly-unsaturated fatty acids (not saturated fatty
+acids).
+
+ - https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.119.040331
+ - https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.118.038908
 
 
 # Specific Food Notes
