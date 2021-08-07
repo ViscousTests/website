@@ -27,6 +27,7 @@ headless: true
   <li><a href="/docs/mind/mbti/">Myers-Briggs Personality Typing</a></li>
   <li><a href="/docs/mind/creativity/">Creativity</a></li>
   <li><a href="/docs/mind/motivation/">Motivation</a></li>
+  <li><a href="/docs/mind/things-to-do-when-unmotivated/">Things to do When Unmotivated</a></li>
   <li><a href="/docs/mind/contentment/">Contentment (pet theory)</a></li>
   <li><a href="/docs/mind/working-with-others/">Workings with Others</a></li>
 </ul></details></li>
