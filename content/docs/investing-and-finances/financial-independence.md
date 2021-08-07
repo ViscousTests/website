@@ -14,3 +14,13 @@ So you can pursue what you find is most valuable in life. Some projects that FI
 has enabled:
 
  - https://www.longevityadvice.com/about/
+
+
+## Estimating Progress
+
+Lots of tools have popped up over the years online to help with this. Some that
+look promising to me:
+
+ - https://cfiresim.com/
+ - https://projectifi.io/
+ - https://fiers.co/
