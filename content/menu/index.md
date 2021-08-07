@@ -33,6 +33,7 @@ headless: true
 <li><details><summary><strong>Investing and Finances</strong></summary><ul>
   <li><a href="/docs/investing-and-finances/influences/">Influences</a></li>
   <li><a href="/docs/investing-and-finances/strategies/">Strategies</a></li>
+  <li><a href="/docs/investing-and-finances/financial-independence/">Financial Independence</a></li>
   <li><a href="/docs/investing-and-finances/taxes/">Taxes</a></li>
   <li><a href="/docs/investing-and-finances/housing/">Housing</a></li>
   <li><a href="/docs/investing-and-finances/expected-house-return/">My Comprehensive Housing Return Estimator</a></li>

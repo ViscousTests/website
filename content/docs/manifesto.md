@@ -134,9 +134,9 @@ about less and less, until they know everything about nothing.
 
 ## Empowerment
 
-To me, empowerment is about leveraging vigor and wisdom to achieve goals.
-Empowerment and motivation are near synonyms to me.  Good environment and
-expectations dramatically help keep up motivation/empowerment.
+To me, personal empowerment is about leveraging vigor and wisdom to achieve
+goals.  Empowerment and motivation are near synonyms to me.  Good environment
+and expectations dramatically help keep up motivation/empowerment.
 
 TODO: Merge this with [motivation]({{< relref "/docs/mind/motivation.md" >}}).
 
@@ -180,3 +180,8 @@ that will be a better overall use of time.  I have a pet theory that your brain
 gets specifically tired with particular tasks after a couple hours of doing
 them, and switching at this point to another task often uses enough different
 parts of your brain to make you feel very fresh in the new context.
+
+
+### Expectations
+
+TODO: fill this in (potentially from the "motivation" doc)
