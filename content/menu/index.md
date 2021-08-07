@@ -37,6 +37,7 @@ headless: true
   <li><a href="/docs/investing-and-finances/taxes/">Taxes</a></li>
   <li><a href="/docs/investing-and-finances/housing/">Housing</a></li>
   <li><a href="/docs/investing-and-finances/expected-house-return/">My Comprehensive Housing Return Estimator</a></li>
+  <li><a href="/docs/investing-and-finances/monthly-costs-of-car-ownership/">Monthly Costs of Car Ownership</a></li>
 </ul></details></li>
 <li><details><summary><strong>Lifestyle Optimizations</strong></summary><ul>
   <li><em>Projects and tricks that make my life run smoothly.</em></li>
