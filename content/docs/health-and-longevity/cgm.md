@@ -7,6 +7,9 @@ lot of info that can be gleaned from this kind of data.
 A great article about what CGM might be able to tell us can be found at
 https://thedietwars.com/peter-attia-cgm/.
 
+An interesting anecdote about GCM learnings can be found at
+https://medium.com/lifetizr/what-i-learned-from-wearing-a-continuous-glucose-monitor-as-a-non-diabetic-bca4c3a9ce28.
+
 ## My Usage
 
 I tried out a Freestyle Libre CGM that I was prescribed by my doctor

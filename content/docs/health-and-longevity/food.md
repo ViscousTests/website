@@ -165,6 +165,15 @@ acids).
  - https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.118.038908
 
 
+# Organic?
+
+I haven't found strong evidence that organic food is healthier than non
+organic. But it could be that the right studies just haven't been done yet.
+Here is an interesting review:
+
+ - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5658984/
+
+
 # Specific Food Notes
 
 ## Advanced Glycation End Products

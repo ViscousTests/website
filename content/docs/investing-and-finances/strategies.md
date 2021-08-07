@@ -3,7 +3,7 @@
 ## Stock options
 
  - [Excellent Reference](
-http://www.scribd.com/doc/55945011/An-Introduction-to-Stock-Options-for-the-Tech-Entrepreneur-or-Startup-Employee)
+   http://www.scribd.com/doc/55945011/An-Introduction-to-Stock-Options-for-the-Tech-Entrepreneur-or-Startup-Employee)
 
 ## The Value Factor
 
@@ -22,8 +22,8 @@ Using leverage (taking loans to buy investments) can be a power way to "time
 diversify", as explained in [this Ben Felix
 video](https://www.youtube.com/watch?v=Ll3TCEz4g1k).
 
-See also this investment strategy: https://www.reddit.com/r/financialindependence/comments/o7tnm5/my_guide_to_hedgefundies_portfolio_and_why_im_100/
-
+See also this (crazy?) investment strategy:
+https://www.reddit.com/r/financialindependence/comments/o7tnm5/my_guide_to_hedgefundies_portfolio_and_why_im_100/
 
 
 ## Retirement Finance
