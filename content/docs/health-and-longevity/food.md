@@ -117,10 +117,12 @@ my hunger levels. Some examples:
 
  - When sitting around for a while (not moving), I tend to want food.
  - When eating some food (e.g. a snack sized meal), I tend to want food.
+ - A couple hours after  overeating, my body enters a low energy state where it
+   seems to just want to eat more food since other tasks seem harder to do.
  - When exercising (and afterward), I tend to not want food.
- - When being busy with many straitforward tasks, I tend to not want food.
+ - When being busy with many straightforward tasks, I tend to not want food.
  - When working on something hard that isn't going well, but doesn't have a
-   time pressue, I tend to want food as a distraction.
+   time pressure, I tend to want food as a distraction.
  - When interacting with other people, I tend to not want food.
 
 One theory I have is that my body gets hungry when it notices that (1) there is
