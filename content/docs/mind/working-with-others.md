@@ -36,6 +36,9 @@ This is one of the reasons why micromanagement of others leads to all sorts of
 problems. It is much move motivating to let people come to their own decisions
 about whether to do something if possible.
 
+One way to get around this (maybe) is to ask for people's opinions about
+something, as opposed to asking them to DO something.
+
 
 ## Assuming Good Intentions
 
