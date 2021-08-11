@@ -11,7 +11,7 @@ that are not backed by evidence.  Some of his work that resonates most strongly
 with me includes:
 
  - [Good measured discussion of the Keto diet (on the Healthcare Unfiltered podcast)](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjg4NzExODg2OC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMTA3MzUxNDQ1MQ?ep=14).  Does a really good job here discussing keto movement context and how LDL cholesterol is treated by the movement.
- - https://twitter.com/kevinnbass/status/1409061791980793858
+ - [This tweet about how science in unnatural](https://twitter.com/kevinnbass/status/1409061791980793858).
 
 ## [The Longevity Diet by Valter Longo](https://www.valterlongo.com/daily-longevity-diet-for-adults/).
 

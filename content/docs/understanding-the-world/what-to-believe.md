@@ -68,7 +68,9 @@ OPINIONS):
 
 More theories like this that were widely believed but are now disproven can be
 found on [this Wikipedia
-page](https://en.wikipedia.org/wiki/Superseded_theories_in_science).
+page](https://en.wikipedia.org/wiki/Superseded_theories_in_science). Also [this
+study of medical
+therapies](https://twitter.com/kevinnbass/status/1184599630312427520).
 
 Note that some stories can be completely true, but still not have the effect
 they imply.  For instance, certain foods contain toxins that kill and/or
