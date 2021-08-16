@@ -18,4 +18,14 @@ I tried out a Freestyle Libre CGM that I was prescribed by my doctor
 I was hoping to see clear correlation between my energy/focus levels and my
 blood glucose, but didn't really.
 
-TODO add plots here showing food consumption and CGM data.
+I used [cronometer](https://cronometer.com/) to track my food intake,
+Google Fit to track my activity, and [Sleep as
+Android](https://sleep.urbandroid.org/) to track my sleep (shown as a blue
+shaded background in the plot).
+
+I ingested and visualized my data with my
+["autojournal"](https://github.com/kovasap/autojournal) code using this command
+line: `poetry run report_generator --start_date=2021-04-09
+--end_date=2021-04-22`. 
+
+**[The data visualization can be found here!](/cgm-data.html)**
