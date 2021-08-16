@@ -1,8 +1,3 @@
----
-bookShowToc: false
-draft: true
----
-
 # "System 1" Chatbot
 
 A chatbot that simulates talking to the "system 1" part of the brain only as
