@@ -178,6 +178,12 @@ Here is an interesting review:
 
 # Specific Food Notes
 
+## Processed Meat
+
+[Carcinogenic according to the
+WHO](https://www.iarc.who.int/wp-content/uploads/2018/07/pr240_E.pdf). I don't
+eat this.
+
 ## Advanced Glycation End Products
 
 Created by high heat cooking of especially protein-rich foods (e.g. meat/nuts).
