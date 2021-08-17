@@ -26,6 +26,7 @@ shaded background in the plot).
 I ingested and visualized my data with my
 ["autojournal"](https://github.com/kovasap/autojournal) code using this command
 line: `poetry run report_generator --start_date=2021-04-09
---end_date=2021-04-22`. 
+--end_date=2021-04-22`. This code uses [plotly](https://plotly.com/python/) to
+do its visualization.
 
 **[The data visualization can be found here!](/cgm-data.html)**
