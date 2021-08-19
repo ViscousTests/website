@@ -67,11 +67,18 @@ seeker doesn't follow the theory, the giver would conclude that the seeker
 push the theory and start to feel unheard or ignored. The issue here is that it
 is really really hard to know what is going on in the seeker's mind (only they
 might know, but even that is not guaranteed). For the giver to presume they do
-is already a massive error. 
+is already a massive error.
 
-This is true even in a very technical field (e.g. engineering) where the giver
-might be confident that eventually the seeker will realize that truth of what
-they are saying.  Even here, in order to properly incorporate the advice, the
-seeker's mind must be prepared (e.g. have taken the prerequisite courses). Just
-because the advice is good in this case does not mean it's good in general!
+This can happen a lot (with bad consequences) in power-asymmetrical
+relationships like child-parent or teacher-student or wife-husband in some
+cultures. As far as I've experienced, it's best as a giver to just listen to
+the seeker as much as possible to help them work through their problem,
+providing lightly-held hypotheses as they think of them.
+
+This can be true even in a very technical field (e.g. engineering) where the
+giver might be confident that eventually the seeker will realize that truth of
+what they are saying.  Even here, in order to properly incorporate the advice,
+the seeker's mind must be prepared (e.g. have taken the prerequisite courses).
+Just because the advice is good in this case does not mean it's good in
+general!
 
