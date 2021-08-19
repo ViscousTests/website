@@ -111,11 +111,11 @@ Some habits that take advantage of this concept include:
 ## "Snack Train"-ing
 
 One pattern I've noticed in myself that eating food will put me in a
-lower-focus mood. If I try to do something that requires focus in this mood, my
-body will resist me and often want to eat more food instead as an alternative
-activity. Unfortunately, eating more food will just perpetuate the cycle; in
-fact it will become even harder to focus as more of my energy needs to go to
-digestion.
+lower-focus mood for 1-4 hours depending on how much and what I ate. If I try
+to do something that requires focus in this mood, my body will resist me and
+often want to eat more food instead as an alternative activity. Unfortunately,
+eating more food will just perpetuate the cycle; in fact it will become even
+harder to focus as more of my energy needs to go to digestion.
 
 The key here is to break the cycle by somehow riding through the low energy
 mood without pushing myself so much that I want to eat. Sometimes this is
