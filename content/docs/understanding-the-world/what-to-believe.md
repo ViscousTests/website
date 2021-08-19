@@ -96,6 +96,12 @@ list of assumptions or constraints.  In order to accurately incorporate a
 scientific finding into a justification for making a certain decision, all
 these uncertainties should be understood.  
 
+Oh yeah, also scientific studies can just be wrong due to errors in their
+execution, even if the experimenters themselves were unbiased. A good practical
+way to get around this problem is to [read review articles instead of
+individual
+studies](https://slatestarcodex.com/2014/12/12/beware-the-man-of-one-study/).
+
 It is hard to do this, just like it is hard to come up with scientific findings
 in the first place.  If we as a society deeply recognized this difficulty, it
 may give more respect to good scientific findings, and help us have more
