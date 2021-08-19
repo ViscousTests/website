@@ -184,3 +184,7 @@ this.  If I'm really stuck, describing the issue in writing or to an outside
 observer will often give me to differing (and correct) perspective I need to
 move forward. I'm consistently amazed by how narrow my focus on problems can
 become compared to the focus a random outside observer would have.
+
+## See Also
+
+ - https://guzey.com/productivity/

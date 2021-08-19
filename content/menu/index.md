@@ -23,6 +23,7 @@ headless: true
   <li><a href="/docs/understanding-the-world/notetaking/">Notetaking</a></li>
   <li><a href="/docs/understanding-the-world/individuals-vs-groups/">Individuals Vs Groups</a></li>
   <li><a href="/docs/understanding-the-world/efficiency-morality/">Efficient Living and Morality</a></li>
+  <li><a href="/docs/understanding-the-world/applying-theories/">Applying Theories</a></li>
 </ul></details></li>
 <li><details><summary><strong>The Human Mind</strong></summary><ul>
   <li><a href="/docs/mind/influences/">Influences</a></li>

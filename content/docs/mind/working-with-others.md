@@ -33,11 +33,21 @@ was told to do it makes me _less_ interested in doing it! Sometimes this effect
 can be extreme.
 
 This is one of the reasons why micromanagement of others leads to all sorts of
-problems. It is much move motivating to let people come to their own decisions
-about whether to do something if possible.
+problems. It is much more motivating to let people come to their own decisions
+about whether to do something if possible. 
 
-One way to get around this (maybe) is to ask for people's opinions about
-something, as opposed to asking them to DO something.
+In my experience, learning is also easier when the topic of study is not
+dictated to me, but instead I explore it "freely". Even reading a linear
+textbook can feel free (and I absorb the information better) when I set the
+pace and am able to jump around at will.
+
+### Circumventing Reactance
+
+Sometimes you still need to tell people what to do to effectively get things
+done. For cases where reactance is strong, creating an environment in which a
+person can explore and independently come to your conclusion for what needs to
+be done may be an effective strategy. This has the added benefit (?) of
+allowing them to come to an even better conclusion than your own!
 
 
 ## Assuming Good Intentions
