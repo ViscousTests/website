@@ -53,3 +53,25 @@ results (here helping the two people see eye-to-eye) is to move on to the next
 theory in the toolbox that could help.
 
 
+## Giving Advice
+
+Often advice takes the form of an abstract adage or theory that the advice
+giver thinks will help the advice seeker. Just like with applying theories in
+other ways, IMO advice is best given as a hypotheses; a "this might help you"
+kind of statement.
+
+A lot of interpersonal tension and harm can come when the advice giver assumes
+that the theory 100% applies to the seekers situation. In this case, if the
+seeker doesn't follow the theory, the giver would conclude that the seeker
+"just doesn't get it" or is otherwise misinterpreting them. Then they might
+push the theory and start to feel unheard or ignored. The issue here is that it
+is really really hard to know what is going on in the seeker's mind (only they
+might know, but even that is not guaranteed). For the giver to presume they do
+is already a massive error. 
+
+This is true even in a very technical field (e.g. engineering) where the giver
+might be confident that eventually the seeker will realize that truth of what
+they are saying.  Even here, in order to properly incorporate the advice, the
+seeker's mind must be prepared (e.g. have taken the prerequisite courses). Just
+because the advice is good in this case does not mean it's good in general!
+
