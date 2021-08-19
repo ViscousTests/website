@@ -54,38 +54,10 @@ Some interesting thoughts on meal timing for energy levels can be found at
 https://www.workingagainstgravity.com/guides/nutrition-guide/meal-timing.
 
 Other tenants I try to live by:
- 1. Eating whole foods as much as possible.
+
+1. Eating whole foods as much as possible.
 
 ## My Current Food Strategy
-
-### First Meal: ~11:30am
-
- - Leafy greens (cabbage, kale, collard greens, salad mix, spinach).
- - Extra virgin olive oil (a lot of it).
- - Onions, carrots, garlic, celery, bell pepper
- - Avocado
- - Walnuts, pecans, almonds
- - Nutritional yeast
- - Salt/spices/vinegar/soy sauce/etc.
-
-This usually manifests as a large salad or stir fry.
-
-### Second Meal: ~6 to 8pm
-
-I try to exercise in some way daily when I have a lull in my energy levels or
-focus in the afternoon.  Then I shower and eat around an hour later.
-
- - Peanut butter
- - More leafy greens
- - Oatmeal
- - Potatoes
- - Oily fish (sardines, salmon)
- - More nuts
- - More olive oil or coconut oil
- - Popcorn
-   - This food is uniquely good at starting a "snack train" for some reason.
- - Beans (chickpeas, pinto, etc.)
-   - Eating too many destroys my energy level unfortunately : (.
 
 ### Things I try to avoid
 
@@ -135,6 +107,22 @@ Some habits that take advantage of this concept include:
    want to eat.
  - Eating one meal a day, so that I don't have a "snack-train" problem of
    having future meals induce hunger.
+
+## "Snack Train"-ing
+
+One pattern I've noticed in myself that eating food will put me in a
+lower-focus mood. If I try to do something that requires focus in this mood, my
+body will resist me and often want to eat more food instead as an alternative
+activity. Unfortunately, eating more food will just perpetuate the cycle; in
+fact it will become even harder to focus as more of my energy needs to go to
+digestion.
+
+The key here is to break the cycle by somehow riding through the low energy
+mood without pushing myself so much that I want to eat. Sometimes this is
+really hard, because doing things that require focus is fulfilling :(. 
+
+I'm basically just writing this as a reminder to myself to push through when
+I'm in this mood for the sake of my future self!
 
 # Fasting
 
