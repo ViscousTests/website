@@ -58,6 +58,9 @@ headless: true
   <li><a href="/docs/art/generative-art/">Generative Art</a></li>
   <li><a href="/docs/music/" >Cool Music</a></li>
 </ul></details></li>
+<li><details><summary><strong>Data Visualization</strong></summary><ul>
+  <li><a href="/docs/datavis/seattle-rain/">Rain in Seattle</a></li>
+</ul></details></li>
 <li><details><summary><strong>Hydroponics</strong></summary><ul>
   <li><a href="/docs/hydroponics/my-setup/" >My Setup</a></li>
   <li><a href="/docs/hydroponics/journal/" >Journal</a></li>
