@@ -23,6 +23,19 @@ around model-sharing:
 https://medium.dave-bailey.com/how-to-resolve-a-conflict-when-both-sides-are-right-1f375bc82f7f
 
 
+## Emotional Disagreement
+
+One thing I've noticed in conversations is that sometimes when two people are
+clashing about something they are not clashing about the actual subject matter
+being discussed, but instead on how they each **feel** about the subject
+matter. I've had several talks where it seems like I agree with my
+conversation partner, but there is still an unresolved tension in the air. This
+tension existed because, although we clarified facts, we still had different
+emotional reactions to the topic, implying that we hadn't created a fully
+shared perspective. Identifying that this is the root cause of the tension can
+be a good way to get to the bottom of the disagreement.
+
+
 ## [Reactance](https://en.wikipedia.org/wiki/Reactance_(psychology))
 
 People inherently like to be in control of what happens to them in their lives.
