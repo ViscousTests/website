@@ -23,17 +23,24 @@ around model-sharing:
 https://medium.dave-bailey.com/how-to-resolve-a-conflict-when-both-sides-are-right-1f375bc82f7f
 
 
-## Emotional Disagreement
+## Emotional Consensus and Disagreement {#emotional-conversations}
 
-One thing I've noticed in conversations is that sometimes when two people are
-clashing about something they are not clashing about the actual subject matter
-being discussed, but instead on how they each **feel** about the subject
-matter. I've had several talks where it seems like I agree with my
-conversation partner, but there is still an unresolved tension in the air. This
-tension existed because, although we clarified facts, we still had different
-emotional reactions to the topic, implying that we hadn't created a fully
-shared perspective. Identifying that this is the root cause of the tension can
-be a good way to get to the bottom of the disagreement.
+People are very sensitive to emotions of others (accurately understood or not)
+in conversations. This is especially true of negative emotions. Because of
+this, it can very easily become the goal of a conversation to help resolve
+negative emotions present in your conversation partner. This can be good, but
+can also be a problem if your are mis-reading your partner's emotions or if
+they don't want those emotions resolved. I think it's good to be aware of this
+tendency and catch yourself if you see issues arising because of it.
+
+Related, one thing I've noticed that sparks involved discussions (or heated
+arguments) is lack of **emotional** consensus on a topic. I've had several
+talks where it seems like I agree with my conversation partner, but there is
+still an unresolved tension in the air. This tension existed because, although
+we clarified facts, we still had different emotional reactions to the topic,
+implying that we hadn't created a fully shared perspective. Identifying that
+this is the root cause of the tension can be a good way to get to the bottom of
+the disagreement.
 
 
 ## [Reactance](https://en.wikipedia.org/wiki/Reactance_(psychology))

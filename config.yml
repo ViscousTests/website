@@ -17,7 +17,15 @@ pygmentsStyle: monokailight
 pygmentsCodeFences: true
 
 markup:
-  defaultMarkdownHandler: blackfriday
+  defaultMarkdownHandler: goldmark
+  goldmark:
+    renderer:
+      unsafe: true
+
+module:
+  module.mounts:
+    source = "static/cljs-out"
+    target = "generative-art/built_works/cljs-out"
 
 params:
   BookLogo: 'crow.png'
