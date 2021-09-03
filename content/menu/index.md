@@ -47,6 +47,7 @@ headless: true
   <li><em>Projects and tricks that make my life run smoothly.</em></li>
   <li><a href="/docs/lifestyle-optimizations/website/">This Website</a></li>
   <li><a href="/docs/lifestyle-optimizations/task-tracking/">Task Tracking</a></li>
+  <li><a href="/docs/lifestyle-optimizations/android-apps/">Android Apps</a></li>
   <li><a href="/docs/lifestyle-optimizations/computing-config/">My Computer Configuration (dotfiles)</a></li>
   <li><a href="/docs/lifestyle-optimizations/personal-data-tracking/">Personal Data Tracking</a></li>
   <li><a href="/docs/lifestyle-optimizations/hang-drying-cloths/">Hang Drying Cloths</a></li>
