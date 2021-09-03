@@ -19,6 +19,10 @@ Incognito, Livewired, The Brain: The Story of You.  All great pop-neuroscience
 reads!  Incognito especially left a big impression of me when I read it as a
 freshman in college.
 
+## [Investing in Happiness by Ben Felix](https://www.youtube.com/watch?v=iNZk-N6uDcg&ab_channel=BenFelix)
+
+Great review of a lot of happiness literature, presented in a direct, clear way.
+
 ## [How to Change your Mind by Michael Pollan](https://michaelpollan.com/books/how-to-change-your-mind/)
 
 Interesting history of psychedelics in the USA, with some particularly
