@@ -15,6 +15,7 @@ headless: true
   <li><a href="/docs/health-and-longevity/chronic-stress/">Chronic Stress</a></li>
   <li><a href="/docs/health-and-longevity/exercise/">Exercise</a></li>
   <li><a href="/docs/health-and-longevity/avoiding-accidents/">Avoiding Accidents</a></li>
+  <li><a href="/docs/health-and-longevity/dental-health/">Dental Health</a></li>
 </ul></details></li>
 <li><details><summary><strong>Understanding the World</strong></summary><ul>
   <li><a href="/docs/understanding-the-world/influences/">Influences</a></li>
