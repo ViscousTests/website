@@ -22,10 +22,8 @@ markup:
     renderer:
       unsafe: true
 
-module:
-  module.mounts:
-    source = "static/cljs-out"
-    target = "generative-art/built_works/cljs-out"
+staticDir:
+  - generative-art/built_works/
 
 params:
   BookLogo: 'crow.png'
