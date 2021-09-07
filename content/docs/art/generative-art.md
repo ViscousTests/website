@@ -11,6 +11,12 @@ these gifs were generated - each one is like a visual puzzle.
 Click on each piece to see it in motion!
 
 [![double helix](/docs/art/double-helix.png)](/docs/art/double-helix)
-[![perlin flow](/docs/art/perlin-flow.png)](/docs/art/perlin-flow)
 
-Source can be found at https://github.com/kovasap/generative-art.
+
+<figure>
+  <img src="/docs/art/perlin-flow.png" alt="perlin flow"/>
+  <figcaption><small>Note this was done from a tutorial - it's not an original!</small></figcaption>
+</figure>
+
+Source code for these gifs can be found at
+https://github.com/kovasap/generative-art.
