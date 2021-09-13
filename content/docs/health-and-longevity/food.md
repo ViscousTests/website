@@ -155,6 +155,12 @@ acids).
  - https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.118.038908
 
 
+# Protein
+
+Cool table of calories per gram of protein:
+https://www.healthyalyona.com/nutrition/plant-based-protein-lowest-calories/
+
+
 # Organic?
 
 I haven't found strong evidence that organic food is healthier than non
