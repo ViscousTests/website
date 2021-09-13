@@ -43,6 +43,44 @@ this is the root cause of the tension can be a good way to get to the bottom of
 the disagreement.
 
 
+## Pitfalls in Productive Conversations
+
+If we say a "productive conversation" is one where people are trying to find
+consensus on a particular question, there are a couple patterns that can make
+these conversations take much more time and energy to achieving their goal:
+
+### Having unclear definitions
+
+It can sometimes be easy for a lot of conversation to happen before the
+participants realize that the definitions they are assuming are not the same
+for the relevant terms/concepts. It's usually worth the time to get core
+definitions really nailed down before moving past them into what effects they
+have on other concepts.
+
+### Exploding the Scope
+
+Often conversations lead to tangents that might be even more interesting to
+some participants than the original conversation. Being explicit about when
+one is making a jump to discussing a tangent can be really helpful for several
+reasons:
+
+1. The other participants may not care about the tangent.
+1. The other participants may feel like the tangent-follower is assuming that
+   they believe something about the tangent based on the previous conversation,
+   when that's actually not true. 
+
+A common reason for following a tangent is when trying to argue for a
+particular viewpoint, and not finding a good path forward with the current
+argument. For instance, take an example where one is arguing why book X is
+better than a similar book Y.  They might start by describing why they think
+the main character is more relatable, but then shift into talking about the
+world being more fleshed out when they run out of points. This can be jarring
+if the other participants are still thinking about character-relatableness, and
+feel like the tangent-follower is just glossing over their own points. Worst
+case, the tangent follower can to this intentionally to confuse their
+"opponents" to "win" a debate.
+
+
 ## [Reactance](https://en.wikipedia.org/wiki/Reactance_(psychology))
 
 People inherently like to be in control of what happens to them in their lives.

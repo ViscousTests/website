@@ -1,5 +1,8 @@
 # Applying Theories
 
+**NOTE: This is a very rough draft, and in some ways doesn't really make sense
+: )**
+
 One way to look at learning is as a cyclical process:
 
 1. Have some experiences in the world.
@@ -20,7 +23,11 @@ experience. They just must be applied as hypotheses, and held lightly.
 
 This kind of thinking can be hard sometimes, because it sort-of involves
 holding two conflicting ideas in your head ([which is
-painful](https://en.wikipedia.org/wiki/Cognitive_dissonance)). These are:
+painful](https://en.wikipedia.org/wiki/Cognitive_dissonance))[^1]. These are:
+
+[^1]: Note this this isn't the most common way the term cognitive dissonance is
+  used - usually it explains the pain that directs people towards ignoring new
+  information that conflicts with their existing beliefs.
 
 1. The theory explains how something abstract works.
 1. The theory is only applicable in some concrete scenerios (and even then, may
