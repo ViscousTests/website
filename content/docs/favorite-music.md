@@ -18,7 +18,7 @@
 
 ## Catchy
 
-- [Tender](https://tender.bandcamp.com/)
+- [Tender](https://tender.bandcamp.com/album/fear-of-falling-asleep)
 - [Metal Mother](https://metalmother.bandcamp.com/)
 - [Pair of Arrows](https://pairofarrows.bandcamp.com/)
 - Neon Trees
