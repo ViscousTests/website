@@ -58,8 +58,8 @@ headless: true
   <li><a href="/docs/lifestyle-optimizations/youtube-downloading/">No-Ad YouTube Viewing</a></li>
 </ul></details></li>
 <li><details><summary><strong>Art</strong></summary><ul>
-  <li><a href="/docs/art/generative-art/">Generative Art</a></li>
-  <li><a href="/docs/music/" >Cool Music</a></li>
+  <li><a href="/docs/visual-art/generative-art/">Generative Art</a></li>
+  <li><a href="/docs/favorite-music/" >My Favorite Music</a></li>
 </ul></details></li>
 <li><details><summary><strong>Data Visualization</strong></summary><ul>
   <li><a href="/docs/datavis/seattle-rain/">Rain in Seattle</a></li>

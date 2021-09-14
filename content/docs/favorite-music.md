@@ -1,6 +1,4 @@
-# Music
-
-Roughly ordered by current into-ness.  
+# My Favorite Music
 
 ## Flow/Immersive
 
