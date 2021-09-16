@@ -20,3 +20,13 @@ to caregiver to caretaker relationships (e.g. child -> parent)? Romantic relatio
 
 How much responsibility should we assume members of the same society should
 have for each other?
+
+## My Defaults
+
+This stuff is hard to think about and, in lieu of doing that work for specific
+situations, I usually just default to valuing personal freedoms over mitigating
+damage, especially for single people who have distanced themselves from strong
+binding relationships. I realize that if I'm placed in a position where I have
+to make a consequential decision, this default belief is not strong enough to
+use :).
+
