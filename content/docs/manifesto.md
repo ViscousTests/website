@@ -72,6 +72,13 @@ Wisdom may be related to a well developed "System 1" as described in
 [_Thinking, Fast and Slow_ by Daniel
 Kahneman](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow).
 
+One danger with chasing wisdom is believing that all the time you've spend
+"getting wiser" by thinking justifies confident snap-opinions on new issues.
+Building models to understand the world requires abstraction, and abstract
+models never perfectly fit new concrete situations. In my opinion recognizing
+this limitation, and being willing to put in the work of describing and
+modelling the new situation is itself wise.
+
 In practice, wisdom naturally leads to well-roundedness:
 
 #### Well-Roundedness
