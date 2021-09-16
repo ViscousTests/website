@@ -34,6 +34,7 @@ headless: true
   <li><a href="/docs/mind/things-to-do-when-unmotivated/">Things to do When Unmotivated</a></li>
   <li><a href="/docs/mind/contentment/">Contentment (pet theory)</a></li>
   <li><a href="/docs/mind/working-with-others/">Working with Others</a></li>
+  <li><a href="/docs/mind/desires-and-deprivation/">Desires and Deprivation</a></li>
 </ul></details></li>
 <li><details><summary><strong>Investing and Finances</strong></summary><ul>
   <li><a href="/docs/investing-and-finances/influences/">Influences</a></li>
