@@ -77,7 +77,9 @@ One danger with chasing wisdom is believing that all the time you've spend
 Building models to understand the world requires abstraction, and abstract
 models never perfectly fit new concrete situations. In my opinion recognizing
 this limitation, and being willing to put in the work of describing and
-modelling the new situation is itself wise.
+modelling the new situation is itself wise. This is highly related to the
+concept of [Beginner's Mind](https://en.wikipedia.org/wiki/Shoshin), which IMO
+it is wise to cultivate, as opposed to an "expert's mind".
 
 In practice, wisdom naturally leads to well-roundedness:
 
