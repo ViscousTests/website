@@ -23,7 +23,6 @@ headless: true
   <li><a href="/docs/understanding-the-world/physics/">Physics</a></li>
   <li><a href="/docs/understanding-the-world/notetaking/">Notetaking</a></li>
   <li><a href="/docs/understanding-the-world/individuals-vs-groups/">Individuals Vs Groups</a></li>
-  <li><a href="/docs/understanding-the-world/efficiency-morality/">Efficient Living and Morality</a></li>
   <li><a href="/docs/understanding-the-world/applying-theories/">Applying Theories</a></li>
 </ul></details></li>
 <li><details><summary><strong>The Human Mind</strong></summary><ul>
@@ -35,6 +34,10 @@ headless: true
   <li><a href="/docs/mind/contentment/">Contentment (pet theory)</a></li>
   <li><a href="/docs/mind/working-with-others/">Working with Others</a></li>
   <li><a href="/docs/mind/desires-and-deprivation/">Desires and Deprivation</a></li>
+</ul></details></li>
+<li><details><summary><strong>Morality</strong></summary><ul>
+  <li><a href="/docs/morality/efficiency-morality/">Efficient Living and Morality</a></li>
+  <li><a href="/docs/morality/right-to-risk/">Right to Risk</a></li>
 </ul></details></li>
 <li><details><summary><strong>Investing and Finances</strong></summary><ul>
   <li><a href="/docs/investing-and-finances/influences/">Influences</a></li>
