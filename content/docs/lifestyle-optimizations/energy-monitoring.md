@@ -10,3 +10,4 @@ effects power consumption.
  - All-in-one solution: https://www.amazon.com/Aeotec-Energy-Z-Wave-electricity-monitor/dp/B00XD8WZX6?pldnSite=1#customerReviews
  - DIY power monitoring: https://power-monitor.dalbrecht.tech/overview/
  - Open source system: https://guide.openenergymonitor.org/setup/
+ - Cheaper system: https://shop.emporiaenergy.com/collections/emporia-products/products/gen-2-emporia-vue-whole-home-energy-monitor
