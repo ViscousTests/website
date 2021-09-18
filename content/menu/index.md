@@ -54,6 +54,7 @@ headless: true
   <li><a href="/docs/lifestyle-optimizations/task-tracking/">Task Tracking</a></li>
   <li><a href="/docs/lifestyle-optimizations/android-apps/">Android Apps</a></li>
   <li><a href="/docs/lifestyle-optimizations/computing-config/">My Computer Configuration (dotfiles)</a></li>
+  <li><a href="/docs/lifestyle-optimizations/internet-troubleshooting/">Home Network and Internet Troubleshooting</a></li>
   <li><a href="/docs/lifestyle-optimizations/personal-data-tracking/">Personal Data Tracking</a></li>
   <li><a href="/docs/lifestyle-optimizations/hang-drying-cloths/">Hang Drying Cloths</a></li>
   <li><a href="/docs/lifestyle-optimizations/taut-line-hitch/">Taut-line hitch (most useful knot I know)</a></li>
