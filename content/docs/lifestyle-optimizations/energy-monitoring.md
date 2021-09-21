@@ -11,3 +11,9 @@ effects power consumption.
  - DIY power monitoring: https://power-monitor.dalbrecht.tech/overview/
  - Open source system: https://guide.openenergymonitor.org/setup/
  - Cheaper system: https://shop.emporiaenergy.com/collections/emporia-products/products/gen-2-emporia-vue-whole-home-energy-monitor
+
+## Emporia Vue Gen 2 Resources:
+
+ - https://github.com/jertel/vuegraf
+ - https://github.com/magico13/PyEmVue
+ - Installation: https://www.youtube.com/watch?v=dJ9Q3Ft5pOg
