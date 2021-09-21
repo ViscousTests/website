@@ -32,6 +32,17 @@ Remix](https://www.youtube.com/watch?v=nJPERZDfyWc).
 Being "Determinant" as described by Peter Thiel in [You Are Not a
 Lottery](https://www.youtube.com/watch?v=iZM_JmZdqCw) may help with this.
 
+### Being Unreasonable
+
+One (unpolished) thought I've had is that being "unreasonable" could help with
+creativity. By unreasonable, I mean **not** considering all possibilities,
+ignoring objectively better optimizations, and ignoring people's good opinions
+when in the process of creating. I've found for myself that, although this
+consideration in theory makes for a better end result, it can fracture the
+strong focus on a vision that is required to make something at all. Or it can
+warp the vision into something that is "better", but actually different to the
+point where the original vision is unfulfilled in some way.
+
 
 ## See Also
 
