@@ -10,18 +10,23 @@ these gifs were generated - each one is like a visual puzzle.
 
 Click on each piece to see it in motion!
 
-[![double helix](/docs/art/double-helix.png)](/docs/art/double-helix)
-
+[![double helix](/docs/visual-art/double-helix.png)](/docs/visual-art/double-helix)
 
 <figure>
-  <img src="/docs/art/perlin-flow.png" alt="perlin flow"/>
+  <a href="/docs/visual-art/perlin-flow">
+    <img src="/docs/visual-art/perlin-flow.png" alt="perlin flow"/>
+  </a>
   <figcaption><small>Note this was done from a tutorial - it's not an original!</small></figcaption>
 </figure>
 
-Source code for these gifs can be found at
+Source code for the above gifs can be found at
 https://github.com/kovasap/generative-art.
 
-Some older doodles I made can be found at
+<a href="https://github.com/kovasap/geometrical_gifs/blob/master/encircle.gif">
+  <img src="/docs/visual-art/encircle.png" alt="encircle" style="width:300px;"/>
+</a>
+
+Source code for the above gif can be found at
 https://github.com/kovasap/geometrical_gifs.
 
 An even older project can be found at
