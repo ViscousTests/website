@@ -82,6 +82,19 @@ industry is not easy for me to support.
    my calories come from these foods - I've just noticed that eating a lot in one
    sitting saps my energy, I assume because they take work to digest.
 
+## One Meal A Day (OMAD)
+
+I tried this for a while, and I found myself falling into the recurring pattern
+of overeating because "this is all the food I'll eat today". This is especially
+bad with lots of low-calorie-density, high-fiber foods (which I want to eat no
+matter what). The overeating would make me feel unfocused and uncomfortable for
+4+ hours, which is not worth it for me.
+
+Recently, I've found that a better thought pattern for me is to say "I'll eat
+that later" when I get a craving for something right after a meal. This avoids
+a state of overeating, and I may later end up not craving that thing, which
+means I'll eat less overall that day (which is generally good).
+
 # Hunger, and Physical States of Being
 
 One thing I've noticed is that my body can be in different "states" that affect
