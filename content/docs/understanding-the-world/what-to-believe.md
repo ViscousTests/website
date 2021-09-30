@@ -48,7 +48,7 @@ OPINIONS):
  - Any dietary sugar crystallizes in the blood, causing arterial damage.
  - Sugar has no harmful effects on the body when <50g/day are consumed.
  - Saturated fat hardens in the blood, clogging arteries.
- - Saturated fat does not clog arteries.
+ - Saturated fat does not clog arteries, it gets dissolved in blood just fine.
 
 ### Economy
 
@@ -92,9 +92,11 @@ use it for important decision making.
 Unfortunately, science is really hard, so many falsification studies have not
 been done.  Additionally, science doesn't give hard yes-or-no answers - it
 gives probabilities (e.g. p-values) that something might be true given a long
-list of assumptions or constraints.  In order to accurately incorporate a
-scientific finding into a justification for making a certain decision, all
-these uncertainties should be understood.  
+list of assumptions or constraints.  Context is crucially important - studies
+generally are very narrow in the situations they apply to! In order to
+accurately incorporate a scientific finding into a justification for making a
+certain decision, the uncertainties in the study and the required context to
+apply it should be understood.  
 
 Oh yeah, also scientific studies can just be wrong due to errors in their
 execution, even if the experimenters themselves were unbiased. A good practical
@@ -114,8 +116,9 @@ except when these shortcuts are less rigorous or otherwise worse than harder
 solutions AND we pretend that they are just as good just because of their
 convenience).
 
+See also:
 
-https://en.wikipedia.org/wiki/Karl_Popper
+ - https://en.wikipedia.org/wiki/Karl_Popper
 
 
 ## People and Stories
@@ -163,12 +166,61 @@ research directions that do not fit into the beliefs of the accomplished
 scientists do not get funding/attention.  It would be nice if this wasn't as
 true, but at the least there is still advancement \*shrug\*.
 
+### Belief Matrix
 
+The following matrix provides a simplified view of how a person can stand **on
+a single statement**.  The East/West axis describes how strongly the person
+agrees or disagrees with a statement. The North/South axis describes the level
+of evidence that person **personally understands and accepts** that supports
+the statement. Note that "scientific concensus" does **not** mean agreement of
+many trusted scientists, but rather the agreement of their work itself (e.g.
+compiled and reviewed by the person trying to form an opinion).  Therefore, for
+example, if a person personally accepts strong evidence supporting the
+statement, yet disagrees with the statement, they must be lying.
+
+```
+                             Scientific Concensus
+                             Understood by Person
+             --------------------------------------------------
+             |                         |                      |
+             |  A Liar or propagandist |  Someone spreading   |
+             |  with hidden motives    |  knowledge           |
+Vocal        |  (good or bad).         |                      | Vocal
+Disagreement -------------------------------------------------- Agreement
+             |                         |                      |
+             |    A skeptic            |  A zealot or person  |
+             |                         |  with blind belief   |
+             |                         |                      |
+             --------------------------------------------------
+                               A Plausible Idea
+```
+
+I personally believe the plausible idea (I haven't looked for or found studies
+yet) that certain people can be more amenable to falling into a certain
+quadrant quickly when given some idea. And additionally, if someone is shown to
+be OK with lying about ideas in one area, they are probably more likely to do
+so in other areas as well. Probably then, if one wants to save
+time/energy/resources reviewing ideas, they could discount those that are
+supported by people who have lied or shown blind belief in other ideas.
+
+**However**, if one has the time and wants the most complete picture, in my
+opinion it is worth examining ideas from these people, since (again, in my
+opinion) it is very unlikely that they are **completely** incorrect in all
+their opinions. In fact, some of the most novel, and therefore potentially
+useful, ideas can come especially from people who fall in the Southeast
+quadrant.
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 ----------------------- OLD THOUGHTS BELOW HERE ------------------------------
 
-One useful lens to look at this further is to think about
-where the shared information is ultimately coming from:
+One useful lens to look at this further is to think about where the shared
+information is ultimately coming from:
 
 ## From Past Personal Experience
 
