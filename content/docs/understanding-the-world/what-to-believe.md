@@ -172,7 +172,7 @@ The following matrix provides a simplified view of how a person can stand **on
 a single statement**.  The East/West axis describes how strongly the person
 agrees or disagrees with a statement. The North/South axis describes the level
 of evidence that person **personally understands and accepts** that supports
-the statement. Note that "scientific concensus" does **not** mean agreement of
+the statement. Note that "scientific consensus" does **not** mean agreement of
 many trusted scientists, but rather the agreement of their work itself (e.g.
 compiled and reviewed by the person trying to form an opinion).  Therefore, for
 example, if a person personally accepts strong evidence supporting the
@@ -186,22 +186,27 @@ studies; if an "expert" in a field ignores very available work, it's more
 likely they are not an honest knowledge spreader.
 
 ```
-                             Scientific Concensus
+                             Scientific Consensus
                              Understood by Person
+             ----------------------------------------------------
+             |                         |                        |
+             |  A Liar or propagandist |  Someone spreading     |
+             |  with hidden motives    |  real information      |
+             |  (good or bad).         |                        | 
+             ------------------A Plausible Idea------------------
+             |                         |                        |
+Vocal        |    A skeptic            |  A zealot or person    | Vocal
+Disagreement |                         |  with blind belief     | Agreement
+             |                         |                        |
+             ------------------A Plausible Idea------------------
+             |                         |                        |
+             | Someone spreading       | A liar or propagandist |
+             | real information        | with hidden motives    |
+             |                         | (good or bad).         |
              --------------------------------------------------
-             |                         |                      |
-             |  A Liar or propagandist |  Someone spreading   |
-             |  with hidden motives    |  knowledge           |
-Vocal        |  (good or bad).         |                      | Vocal
-Disagreement -------------------------------------------------- Agreement
-             |                         |                      |
-             |    A skeptic            |  A zealot or person  |
-             |                         |  with blind belief   |
-             |                         |                      |
-             --------------------------------------------------
-                               A Plausible Idea
+                            Scientific Rejection
+                            Understood by Person
 ```
-
 I personally believe the plausible idea (I haven't looked for or found studies
 yet) that certain people can be more amenable to falling into a certain
 quadrant quickly when given some idea. And additionally, if someone is shown to
@@ -214,8 +219,8 @@ supported by people who have lied or shown blind belief in other ideas.
 opinion it is worth examining ideas from these people, since (again, in my
 opinion) it is very unlikely that they are **completely** incorrect in all
 their opinions. In fact, some of the most novel, and therefore potentially
-useful, ideas can come especially from people who fall in the Southeast
-quadrant.
+useful, ideas can come especially from strong believers in yet-untested
+plausible ideas.
 
 <br/>
 <br/>
