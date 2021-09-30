@@ -178,6 +178,13 @@ compiled and reviewed by the person trying to form an opinion).  Therefore, for
 example, if a person personally accepts strong evidence supporting the
 statement, yet disagrees with the statement, they must be lying.
 
+Note that it is very difficult to know the extent of understanding a person has
+about an issue. Therefore, it can be hard to distinguish between liars and
+skeptics, or even zealots supporting the counter-idea and liars. At least we
+can make some assumptions about the popularity/availability of scientific
+studies; if an "expert" in a field ignores very available work, it's more
+likely they are not an honest knowledge spreader.
+
 ```
                              Scientific Concensus
                              Understood by Person
