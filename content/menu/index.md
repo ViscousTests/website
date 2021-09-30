@@ -81,6 +81,7 @@ headless: true
   <li><a href="/docs/gaming/chess/">Chess</a></li>
 </ul></details></li>
 <li><details><summary><strong>Game Development</strong></summary><ul>
+  <li><a href="/docs/gamedev/my-projects/">My Projects</a></li>
   <li><a href="/docs/gamedev/common-patterns/">Common patterns found in games</a></li>
   <li><a href="/docs/gamedev/gamedev-context/">Good context about game development</a></li>
   <li><a href="/docs/gamedev/mechanic-ideas/low-friction-turn-based-tactics/">Mechanic Idea: Low Friction Turn Based Tactics</a></li>
