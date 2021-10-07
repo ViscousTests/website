@@ -14,6 +14,12 @@ Constraining the problem space could also involve setting a hard deadline for
 finishing X in 30-60mins.  This will often introduce an urgency that can help
 produce something.
 
+Another idea along these lines is to intentionally try to come up with the
+dumbest solution/idea and start implementing it. Since you are intentionally
+trying to do a bad job, all the thinking and anxiety that comes when trying to
+do stuff right is removed, which may facilitate doing something which can later
+be polished.
+
 ## Just Getting Started
 
 Once you get on the path of creation, the small choices you encounter will
