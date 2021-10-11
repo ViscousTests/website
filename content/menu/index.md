@@ -86,6 +86,9 @@ headless: true
   <li><a href="/docs/gamedev/gamedev-context/">Good context about game development</a></li>
   <li><a href="/docs/gamedev/mechanic-ideas/low-friction-turn-based-tactics/">Mechanic Idea: Low Friction Turn Based Tactics</a></li>
 </ul></details></li>
+<li><details><summary><strong>Thought Experiments</strong></summary><ul>
+  <li><a href="/docs/thought-experiments/two-glasses/" >Mixing Milk Tea</a></li>
+</ul></details></li>
 <li><details><summary><strong>Misc</strong></summary><ul>
   <li><a href="/docs/random-ideas/" >Random Ideas</a></li>
 </ul></details></li>
