@@ -89,3 +89,4 @@ the seeker's mind must be prepared (e.g. have taken the prerequisite courses).
 Just because the advice is good in this case does not mean it's good in
 general!
 
+Some good thinking on advice giving: https://guzey.com/advice/
