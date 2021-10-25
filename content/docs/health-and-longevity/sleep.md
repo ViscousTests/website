@@ -29,6 +29,22 @@ In practice, I best accomplish this by:
    skin is constantly in contact with something constant and not exposed to
    fluctuations in air temperature or movement.
 
+One common pattern I fall into that leads to poor sleep is being too cold when
+going to sleep. This leads me to tightly hug my arms close to my self and tuck
+my sheets up to my neck (holding onto them with my hands). While this is
+comfortable when going to sleep, I find that it leads me to overheat once I
+actually do fall asleep. This leads to me getting sweaty, and then cold and
+uncomfortable.  I feel a similar effect when using sleeping bags or wearing
+cloths when going to bed.
+
+Due to this pattern, I find that it's paradoxically better for me to use more
+blankets and/or a heated mattress pad and fall asleep in a more relaxed posture
+with looser sheets/more airflow. This is less likely to cause the overheating ->
+sweaty -> cold/uncomfortable issue.
+
+Going to sleep with wet hair from a shower might exacerbate temperature issues.
+At the very least it make my pillow wet, which is annoying.
+
 ## Activities
 
 Playing FPS or other games within and hour or so of sleeping can make it harder
