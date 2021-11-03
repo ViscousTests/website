@@ -92,6 +92,7 @@ headless: true
 </ul></details></li>
 <li><details><summary><strong>Misc</strong></summary><ul>
   <li><a href="/docs/random-ideas/" >Random Ideas</a></li>
+  <li><a href="/docs/purposeful-work/" >Purposeful Work</a></li>
 </ul></details></li>
 <li><details><summary><strong>Software Dev</strong></summary><ul>
   <li><a href="/docs/software-dev/influences/" >Influences</a></li>
