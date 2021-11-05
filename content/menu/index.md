@@ -6,6 +6,7 @@ headless: true
 <li><a href="/docs/manifesto/" ><strong>Personal Manifesto</strong></a></li>
 <li><details><summary><strong>Health and Longevity</strong></summary><ul>
   <li><a href="/docs/health-and-longevity/influences/">Influences</a></li>
+  <li><a href="/docs/health-and-longevity/tracking-health/">Tracking Health</a></li>
   <li><a href="/docs/health-and-longevity/sleep/">Sleep</a></li>
   <li><a href="/docs/health-and-longevity/food/">What Food and When?</a></li>
   <li><a href="/docs/health-and-longevity/cooking/">Cooking</a></li>

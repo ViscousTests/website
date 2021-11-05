@@ -47,7 +47,7 @@ nutrients/aspects and pretend that is all they are (for easier study) leads
 often to bad models of reality.  Biological systems are highly interwoven and
 the impact of stuff on them often depends on the greater context.  For example,
 our body's ability to absorb certain nutrients depends on what those nutrients
-are dissolved/complexed within.  
+are dissolved/complexed within.
 
 ## [The Good Gut](https://sonnenburglab.stanford.edu/press.html)
 
