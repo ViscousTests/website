@@ -71,6 +71,7 @@ headless: true
 </ul></details></li>
 <li><details><summary><strong>Data Visualization</strong></summary><ul>
   <li><a href="/docs/datavis/seattle-rain/">Rain in Seattle</a></li>
+  <li><a href="/reddit-tree.html">Reddit Comment Analyzer</a></li>
 </ul></details></li>
 <li><details><summary><strong>Hydroponics</strong></summary><ul>
   <li><a href="/docs/hydroponics/my-setup/" >My Setup</a></li>

@@ -8,3 +8,6 @@
 [submodule "generative-art"]
 	path = generative-art
 	url = git@github.com:kovasap/generative-art.git
+[submodule "reddit-tree"]
+	path = reddit-tree
+	url = git@github.com:kovasap/reddit-tree.git

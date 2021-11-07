@@ -25,6 +25,7 @@ markup:
 staticDir:
   - static
   - generative-art/built_works/
+  - reddit-tree/release/
 
 params:
   BookLogo: 'crow.png'
