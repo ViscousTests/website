@@ -43,8 +43,7 @@ experience has a "monopoly" on specific emotions**, except for very low level
 drives (like eating satisfying hunger, drinking satisfying thirst, etc).
 
 
-## Assumption 3: Experience-having requires resource destruction (cost), which
-often has negative emotional cost.
+## Assumption 3: Experience-having requires resource destruction (cost), which often has negative emotional cost.
 
 Most experiences require some destruction of resources to have. All experiences
 require the experiencer's time at the very least, but many also require:
