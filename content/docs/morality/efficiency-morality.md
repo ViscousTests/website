@@ -66,8 +66,7 @@ it can be very low. One outlier is medical care, but the minimum necessary cost
 of this is controversial.
 
 
-## Assumption 5: Emotional effects of an experience are uncoupled to cost past
-their lower threshold.
+## Assumption 5: Emotional effects of an experience are uncoupled to cost past their lower threshold.
 
 Past the lower threshold for basic need type experiences, my observation is
 that the emotional effects of experiences are not well correlated to their
