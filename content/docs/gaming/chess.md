@@ -1,6 +1,6 @@
 # Chess
 
-I play my chess on [chess.com](https://www.chess.com/home), which has a great UI and cool analysis features.
+I play my chess on [lichess.org](https://www.lichess.org), which has a great UI and cool analysis features.
 
 I've learned a lot from watching GothamChess on YouTube, especially his opening videos.
 
