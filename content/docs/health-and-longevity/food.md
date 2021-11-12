@@ -203,6 +203,10 @@ But all foods contain.  Ideal to reduce the amount of this eaten.
 It would be cool to measure this in blood.  Perhaps a1c inflammation test is a
 good proxy.
 
+These are also formed endogenously when sugars react with proteins/fats
+(https://en.wikipedia.org/wiki/Advanced_glycation_end-product). This may be one
+of the reasons why sugar is bad for you.
+
 ## Flax Seeds
 
 It seems like baking flax seeds will not degrade omega-3 content ([biased
