@@ -97,6 +97,10 @@ See [Michael Lustgarten's
 site](https://michaellustgarten.com/2021/09/11/quantifying-biological-age-blood-test-4-in-2021/)
 for details.
 
+I created a spreadsheet for myself based off of Lustgarten's with a custom
+Google Sheets function to calculate biological age at
+https://docs.google.com/spreadsheets/d/1ZhbaKATK2hERSFHq21pJ1fqn-EVKtMqIU1iv2Z01_EY/edit?usp=sharing.
+
 ### Weight
 
 Correlates with healthspan (citation needed).
