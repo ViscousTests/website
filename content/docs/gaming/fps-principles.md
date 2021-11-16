@@ -32,7 +32,7 @@ the timing of the fight.
 
 To win as many fights as possible, it's crucial to take those fights with an
 information advantage. But how do you get this advantage and keep it as much as
-possible?  
+possible?
 
 ### The Cone of Danger
 
@@ -59,7 +59,7 @@ while making your opponent's cone as large as possible:
 The best way to do this is by making it possible for yourself to move around
 your opponent freely without them seeing you, while making it so any movement
 they make is detectable by you. This generally involves controlling (knowing
-for certain no enemies are in) most of the map. 
+for certain no enemies are in) most of the map.
 
 Practically, moving around a lot also helps mess with your opponents cone. Even
 if you have the ability to move around your opponent freely, your opponent will
@@ -69,6 +69,61 @@ after an enemy sees you if possible.
 
 Different games provide different tools to help determine where opponents are.
 Use these!
+
+### Stealth vs Spotted Mode
+
+One helpful thought pattern is always knowing if you are operating in "stealth
+mode" or in "spotted mode".
+
+In "stealth mode", your opponents don't know where you are. When in stealth
+mode, the goal is to get into a position where you can get some free shots in on
+your opponents from an angle they aren't looking at. Once you do get those shots
+in, or are otherwise spotted, you immediately transition to "spotted mode".
+
+In "spotted mode", your opponents know your position and (you should assume)
+they are taking steps to peek you as unpredictably as they can. Here, the
+primary goal is to get back to either the safety of your teammates or a hidden
+location in which you can't easily be trapped (e.g. a room with many exits as
+opposed to one or two).
+
+Because the transition between stealth mode and spotted mode is so instant, it's
+helpful to always keep in mind an escape route when you are in stealth mode,
+just in case you are spotted. This is for instance why a flank like this can be
+bad:
+
+```
+<T>           |        <O>
+     <T>      |      <O>          |   <You>
+                     <O>
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+<T> = Teammate
+<O> = Opponent
+<You> = You
+| or - = cover
+```
+
+In this case, even if you get a free kill from surprise, your opponents could easily surround and 3v1 you once you are spotted.
+
+It may be better to take an approach like this:
+
+```
+<T>           |        <O>
+     <T>      |      <O>
+                     <O>
+
+                |
+
+                    -------
+
+                   <You>
+```
+
+Here at the very least once you are spotted you have a clear, safe path back to
+your teammates.
+
+Of course, doing a 180 degree flank may be totally fine if you have some other
+way to escape, either due to some map feature or character ability.
 
 ## Peeking Unknown Corners
 
@@ -83,7 +138,10 @@ further from the corner.
 ## Cover
 
 In games like Apex Legends, it's a good principle to keep part of your screen
-obscured by cover when fighting, to give your opponent a smaller area to hit.
+obscured by cover when fighting, to give your opponent a smaller area to hit. At
+the very least, make it so that when you are peeking out of cover you are also
+shooting - this way worst case you are trading damage one-to-one with your
+opponent.
 
 ## Influences
 
