@@ -3,13 +3,13 @@
 NOTE This is a random theory of mine; don't put too much stock into it!
 
 Motivation to do something requires that the "something" is **attainable**
-and **meaningful** (has a point/purpose).  
+and **meaningful** (has a point/purpose).
 
 ## (Perceived) Attainability
 
 Objectives that are *perceived* - which is really all that matters with respect
 to motivation - to be attainable have a trivially easy to accomplish next step
-on the path toward them.  
+on the path toward them.
 
 What makes a next step trivially easy?  If your body/mind are primed to do the
 task such that you could do it with minimal/no conscious intervention.  For
@@ -33,12 +33,14 @@ When something feels unattainable because either (a) it seems so hard you would
 fail if you tried or (b) its unclear what step to take next, I have found
 several tricks that work pretty well:
 
-**The first trick** is to take a step back both from the problem at hand AND
-from anything else that engages your mind.  The goal here is to put yourself in
-a state of boredom, then slightly nudge your thoughts toward your issue.  Often
-I find my mind much more eagerly thinks about something when the prospect of
-boredom is there as an alternative.  One way to do this is by going and sitting
-in another chair far from distractions.  
+#### Taking a Step Back
+
+Taking a step back both from the problem at hand AND from anything else that
+engages your mind.  The goal here is to put yourself in a state of boredom, then
+slightly nudge your thoughts toward your issue.  Often I find my mind much more
+eagerly thinks about something when the prospect of boredom is there as an
+alternative.  One way to do this is by going and sitting in another chair far
+from distractions.
 
 Another alternative is going for a walk or run, preferably with no audio or
 other distractions.  This method also usually engages my creativity, which
@@ -46,21 +48,36 @@ helps open up new potential paths to issue resolution.  There is the drawback
 that sometimes here my creativity will wander, and I will end up with good
 ideas about something other than my issue.
 
-**The second trick** is to talk to someone about the issue.  Sometimes the act
-of putting your issue into works can snap some clarity into it.  The person
-your are talking to may also offer useful insights.  Writing thoughts down can
-also sometimes work here, if no-one is available to talk to.
+#### Talking it Out
 
-**The third trick** only applies when you find the task hard, but you see the
-path you would take to do it.  In this case, for me listening to energetic
-music or putting myself in an energetic, stimulating, or even stressful
-environment (e.g. with other people around) can help me feel more active and
-therefore more able to do my hard task.  I think part of this is that the
-stimulation occupies the higher level part of my mind that's telling me the
-task is hard, and just lets the less conscious parts of me simply execute.
-Again, this only works for a case (a) above, **not** when it's unclear what to
-do next.  See the book "Antifragile" for more on this, specifically Book 1
-Chapter 2.
+Talk to someone (or yourself?) about the issue.  Sometimes the act of putting
+your issue into works can snap some clarity into it.  The person you are
+talking to may also offer useful insights.  Writing thoughts down can also
+sometimes work here, if no-one is available to talk to.
+
+#### Getting Psyched Up
+
+This only applies when you find the task hard, but you see the path you would
+take to do it.  In this case, for me listening to energetic music or putting
+myself in an energetic, stimulating, or even stressful environment (e.g. with
+other people around) can help me feel more active and therefore more able to do
+my hard task.  I think part of this is that the stimulation occupies the higher
+level part of my mind that's telling me the task is hard, and just lets the less
+conscious parts of me simply execute. Again, this only works for a case (a)
+above, **not** when it's unclear what to do next.  See the book "Antifragile"
+for more on this, specifically Book 1 Chapter 2.
+
+#### Making Concrete Sub-Tasks
+
+One highly effective way to keep something consistently attainable is to break
+it into smaller, concrete pieces that are each attainable even to a tired or
+distracted mind. The actual act of doing this can be very difficult, so this
+isn't a great solution when you are already finding your motivation flagging.
+This strategy shines when you let your past self do this for you when it is
+energized and fresh. Of course, your past self wont have the direct motivation
+to do this (as it's doing fine) so it helps to set reminders for yourself to do
+this work when you are fresh.
+
 
 ### How to make things LESS attainable
 
@@ -103,7 +120,7 @@ to bring it closer to solution.
 What you or others may find meaningful in a certain situation varies a lot for
 many reasons.  I have found myself obsessed with completing certain goals, and
 then having my obsession and motivation completely evaporate after reframing
-the larger context those goals fit into.  
+the larger context those goals fit into.
 
 One way to lose motivation for a task is to follow the meaning of the task up
 through all the ways it impacts the world, coming to the final conclusion that
@@ -111,7 +128,16 @@ there is no greater meaning in the world (or you don't know what it is), and
 therefore the task itself is meaningless.  This kind of "bubbling up" can
 happen on a smaller scale as well.
 
-TODO explore ideas from https://www.scientificamerican.com/article/we-learn-faster-when-we-arent-told-what-choices-to-make/
+TODO explore ideas from
+https://www.scientificamerican.com/article/we-learn-faster-when-we-arent-told-what-choices-to-make/
+
+There are many sources of meaning (just see the above linked virtues list). Some
+of the sources that are strong for me personally:
+
+1. Proving competence. This involves demonstrating to myself and others that I
+   can overcome difficult challenges. What the challenge actually is isn't
+   really that important, only that I can succeed at it where others (including
+   my past self) fail.
 
 
 ## Holding loosely and Ego
@@ -144,7 +170,7 @@ in-the-moment performance.  In fact, I was first introduced to this concept
 when playing tennis.  I was taught to hold my racket like a tube of toothpaste
 - if I squeezed too hard (get too tense), the toothpaste would come out.  This
   relaxed physical state is tightly coupled to a relaxed mental state of being
-  "in the moment". 
+  "in the moment".
 
 One great exploration of this is the concept of "effortless effort" in Zen
 philosophy.  I was first introduced to this by the book [Zen in the Martial
@@ -189,3 +215,6 @@ become compared to the focus a random outside observer would have.
 
  - https://guzey.com/productivity/
  - http://www.aaronsw.com/weblog/productivity
+ - Meditation to help when getting overwhelmed:
+   https://www.youtube.com/watch?v=i7kh8pNRWOo
+

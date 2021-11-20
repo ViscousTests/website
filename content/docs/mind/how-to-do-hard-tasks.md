@@ -1,9 +1,6 @@
----
-bookShowToc: false
-draft: true
----
-
 # How to Do Hard Tasks
+
+This goes hand-in-hand with [motivation]({{< relref "/docs/mind/motivation.md" >}}).
 
 ## What Makes Tasks Hard?
 
@@ -13,30 +10,17 @@ learning.
 
 http://gregorygundersen.com/blog/2020/01/12/why-research-blog/
 
-[Hammock Driven Development](https://www.youtube.com/watch?v=f84n5oFoZBc)
-
-https://jamesclear.com/atomic-habits
-
-Antifragile by Nassim Taleb
-
 One way to model a task is as a tree of possibilities, where each node is a
-decision with any number of possible outcomes.  With this model, tasks can be
-seen as difficult for multiple reasons:
+decision with any number of possible outcomes. Here I'll discuss tasks that are
+hand because this tree is complex (has many nodes). Tasks can be hard for other
+reasons (e.g. physically hard), but I wont discuss those here.
 
-### Complexity
+Task trees can have many nodes because:
 
-Tasks are **complex** with they contain many potential decision points which in
-turn reveal many others.
-
-### Committing
-
-Committing tasks include decisions that are costly to reverse (or
-cannot be reversed).
-
-### Opaque
-
-Opaque tasks contain many hidden decision points, or decision points that take
-effort to discover.
+1. There simply are many steps to take to complete the task,
+1. Because some steps in the process are committing, making it so that you need
+   to try to predict a lot of the future decisions that will come up in order to
+   be confident in your decision (like playing a game of chess),
 
 
 ## What Makes Tasks Easy?
@@ -53,8 +37,8 @@ and Claire's old lab's observation that ideas/theories can become "precious"
 once created).  This makes sense, since it takes effort/time/resources to
 create a task-solving pathway.  See also David Eagleman's neuroscience books,
 which talk about this.  However, this strong defense can blind one to obvious
-flaws or much better pathways.  It's probably a good habit to re-learn from
-scratch hard tasks that are important to do well.
+flaws or much better pathways.  It's probably a good habit to occasionally
+re-learn from scratch originally hard tasks that are important to do well.
 
 
 ## Hard Task Solving Strategies - How to Learn
@@ -90,13 +74,12 @@ obvious what questions to ask to further map out the task space.
 
 https://github.com/matthiasn/talk-transcripts/blob/master/Hickey_Rich/HammockDrivenDev.md
 
-"The soul becomes dyed with the color of its thoughts" (Marcus Aurelius)
-
 
 ### Depth First Search of Task Tree
 
 Perhaps a preference of iNtuitive Myers-Briggs personalities, this can lead to
 fast good solutions, but also blindness to obvious other paths.
+
 
 ### Breath First Search of Task Tree
 
@@ -109,7 +92,7 @@ space.  He writes that exposing oneself to many decision points and giving
 oneself the option to travel will long term find one the most success.
 
 
-## Mental Perspective
+### Mental Perspective
 
 The brain only understands the world as it perceives it through the senses.
 Although the senses can take in a high volume of information, there is still
@@ -117,47 +100,13 @@ heavy processing that must be done for this information to be useful/actionable
 by the rest of the brain.  There are many points along this chain of processing
 where learned perspective shapes what the rest of the brain sees.  For instance,
 an image of an engine may just look like metal to an untrained brain, but tells
-a very different story to a mechanic.  
+a very different story to a mechanic.
 
-In a way, learning or training is just the process of acquiring new perspectives
-from which to see the world.  This explains why learning can be such a "stop and
-go" process - it's easy to be stuck on a concept for a while before it finally
-clicks.  
+In a way, learning or training is partially (or completely?) the process of
+acquiring new perspectives from which to see the world.  This explains why
+learning can be such a "stop and go" process - it's easy to be stuck on a
+concept for a while before it finally clicks.
 
 - [Inversion by James Clear](https://jamesclear.com/inversion)
   - Imagining how to avoid failure is often more useful than imagining how to
     succeed.
-
-### Getting Overwhelmed
-
-Meditation/stepping outside yourself:
-https://www.youtube.com/watch?v=i7kh8pNRWOo
-
-### The Chase
-
-Having a set of clear objectives that are each quick, but demanding to achieve
-is a good way to enter flow.
-
-
-## "Intelligence"
-
-Informed by:
- - WASL/SAT/GRE tests I've taken
- - https://www.wnycstudios.org/story/g-miseducation-larry-p
-
-In my opinion, intelligence as a concept is a harmful oversimplification.  My
-thoughts on several contexts in which the word is used are described here:
-
-### Ability to Learn
-
-
-Tests judging intelligence, or general mental ability, are used to decide
-whether students at all levels are capable of participating in certain
-educational activities.  
-These activities include taking certain courses and being admitted into certain
-programs or schools.
-
-
-### Social Perception
-
-People use intelligence to describe each other in a general way.  
