@@ -23,3 +23,10 @@ Playing through the games gives insight that allows progression.
 ### Examples
  - Outer Wilds
  - Roguelikes
+
+
+## Urgency
+
+Some sense that the player needs to do something to avoid loss is important to
+avoid players getting bored. If nothing happens when they do nothing, how much
+do the player's actions really mean?
