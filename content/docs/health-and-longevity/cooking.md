@@ -7,6 +7,29 @@ butter) and you add a third food that goes well with one of the foods but would
 be weird to combine with the other (e.g. spinach in this case).  More often
 than not, the result is actually pretty good!
 
+# Microwave Steam Bowls
+
+A really easy and convenient way to make some pretty tasty (and healthy!) food.
+The basic premise is that you add your vegetables with a splash of water to a
+bowl, cover it with a plate, and microwave for 5-8 minutes. Then you add extra
+flavors and enjoy! It's easy to get creative with the cooking technique, but
+here are some examples:
+
+## Carrots/Onions
+
+Chop carrots and onions, add water and cook, finish with almond butter and
+salt.  Add chia seeds optionally to soak up the water!
+
+## Thai Carrots/Onions
+
+Same recipe as before, but instead of almond butter, use natural (e.g. Adams)
+peanut butter with soy sauce, ginger, garlic, and optionally lime juice.
+
+## Honey Walnut Shrimp Inspired
+
+Chop cabbage, add water and cook with brown rice, finish with walnuts and
+mayonnaise. 
+
 # Staples
 
 ## Flax Peanut Butter
