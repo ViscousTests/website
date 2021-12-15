@@ -36,6 +36,13 @@ Very similar appeal to Fire Emblem.
 
 ## [Darkest Dungeon](https://en.wikipedia.org/wiki/Darkest_Dungeon)
 
+## Bananagrams
+
+Fun variants:
+
+ - Open a book in text format with some program that can search text and make
+   it so that you can only use words that exist in that book.
+
 ## Islanders (maybe)
 
 ## Bad North (maybe)
