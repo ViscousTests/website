@@ -73,4 +73,6 @@ drones that make noise when they move around.  These are easily destroyed, but
 can be used to determine the locations of defenders, giving attackers
 advantage.
 
+## CoD: MW2
 
+This game was trash but at least it let me [make a YouTube video with 160k views](https://www.youtube.com/watch?v=fx1vtMZCFvI&ab_channel=s1lentProtector).
