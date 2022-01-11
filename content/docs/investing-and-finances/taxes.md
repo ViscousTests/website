@@ -52,3 +52,11 @@ Useful if you are in the 0% capital gains tax bracket:
  - https://www.madfientist.com/tax-gain-harvesting/
 
 
+## Deducting Housing Expenses
+
+Things to deduct for a rental property:
+
+ - Mortgage interest
+ - Insurance
+ - Depreciation
+ - Large capital improvements (via "safe harbor" law for small landlords)
