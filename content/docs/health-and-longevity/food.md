@@ -188,8 +188,10 @@ Here is an interesting review:
 ## Processed Meat
 
 [Carcinogenic according to the
-WHO](https://www.iarc.who.int/wp-content/uploads/2018/07/pr240_E.pdf). I don't
-eat this.
+WHO](https://www.who.int/news-room/questions-and-answers/item/cancer-carcinogenicity-of-the-consumption-of-red-meat-and-processed-meat).
+[They](https://www.healthdata.org/gbd/about) estimate that 34k cancer deaths
+worldwide can be attributed to processed meat, compared to 1mil to smoking,
+600k to drinking alcohol, and 200k to air pollution.
 
 ## Advanced Glycation End Products
 
