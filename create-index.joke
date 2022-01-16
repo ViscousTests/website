@@ -1,0 +1,5 @@
+
+(def create-index [])
+  ; Get datascript of all filenames under /content/docs
+  ; Create content/menu/index.md
+  
