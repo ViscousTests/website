@@ -1,5 +1,46 @@
+#!/usr/bin/env joker
 
-(def create-index [])
-  ; Get datascript of all filenames under /content/docs
-  ; Create content/menu/index.md
+(ns script
+    (:require [joker.filepath :as fp]
+              [joker.string :as s]
+              [joker.core :as j]))
+
+(defn capitalize-words [string]
+  (s/join " "
+          (for [word (s/split string " ")]
+            (s/capitalize word))))
+
+(defn to-title [filepath]
+  (capitalize-words
+    (-> filepath
+        (fp/base)
+        (s/replace "-" " ")
+        ; Remove extension
+        (s/split ".")
+        (first))))
+
+
+(defn make-file-into-li [file-map]
+  "Converts dict from fp/file-seq like
+  {:name content/docs/understanding-the-world/influences.md, :size 2701,
+   :mode 416, :modtime 2022-01-14 10:58:55.151057301 -0800 PST, :dir? false}
+  into a li for the index page like
+  <li><a href='/docs/understanding-the-world/influences/'>Influences</a></li>"
+  (let [path (:name file-map)]
+    (format "<li><a href=\"%s\">%s</a></li>"
+            (-> path
+                (s/replace-first "content" "")
+                (s/replace #".md" "/"))
+            (to-title path))))
+
+(defn should-include? [file-map]
+  (let [filepath (:name file-map)]
+    (and (s/starts-with? filepath "content/docs")
+         (not (s/includes? filepath "DRAFT"))
+         (not (s/includes? filepath "FREEWRITE")))))
   
+
+(defn create-index []
+  (map make-file-into-li (filter should-include? (fp/file-seq "."))))
+  
+(j/print (create-index))
