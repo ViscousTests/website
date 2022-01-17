@@ -19,13 +19,12 @@
         (s/split ".")
         (first))))
 
-
+;; Probably should have used joker.hiccup for this...
 (defn make-dir-into-header [file-map]
   (format "<li><details><summary><strong>%s</strong></summary><ul>\n"
           (to-title (:name file-map))))
 
 (def close-header "</ul></details></li>\n")
-
 
 (defn make-file-into-li [file-map]
   "Converts dict from fp/file-seq like
@@ -64,7 +63,7 @@
   (count (s/split (:name file-map) "/")))
 
 (defn make-section-for-dir [file-map]
-  (let [indent-level (get-dir-depth file-map)
+  (let [indent-level (- (get-dir-depth file-map) 3)
         indents (s/join (for [i (range indent-level)] " "))
         files (get-files-in-dir (:name file-map))]
     (if (= 0 (count files))
@@ -83,6 +82,8 @@
   
 
 (defn create-index []
-  (map #(make-section-for-dir %) (get-all-dirs))) 
+  (s/join ["---\nheadless: true\n---\n<ul>\n"
+           (s/join (map #(make-section-for-dir %) (get-all-dirs))) 
+           "</ul>"]))
   
-(j/print (create-index))
+(spit "content/menu/index.md" (create-index))
