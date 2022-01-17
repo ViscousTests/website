@@ -20,6 +20,13 @@
         (first))))
 
 
+(defn make-dir-into-header [file-map]
+  (format "<li><details><summary><strong>%s</strong></summary><ul>\n"
+          (to-title (:name file-map))))
+
+(def close-header "</ul></details></li>\n")
+
+
 (defn make-file-into-li [file-map]
   "Converts dict from fp/file-seq like
   {:name content/docs/understanding-the-world/influences.md, :size 2701,
@@ -27,20 +34,55 @@
   into a li for the index page like
   <li><a href='/docs/understanding-the-world/influences/'>Influences</a></li>"
   (let [path (:name file-map)]
-    (format "<li><a href=\"%s\">%s</a></li>"
+    (format "<li><a href=\"%s\">%s</a></li>\n"
             (-> path
                 (s/replace-first "content" "")
                 (s/replace #".md" "/"))
             (to-title path))))
 
+(defn convert-file [file-map]
+  (if (:dir? file-map)
+    (make-dir-into-header file-map)
+    (make-file-into-li file-map)))
+
+(defn is-md? [file-map]
+  (= "md" (last (s/split (:name file-map) "."))))
+
 (defn should-include? [file-map]
   (let [filepath (:name file-map)]
-    (and (s/starts-with? filepath "content/docs")
+    (and (s/starts-with? filepath "content/docs/")
          (not (s/includes? filepath "DRAFT"))
-         (not (s/includes? filepath "FREEWRITE")))))
+         (not (s/includes? filepath "FREEWRITE"))
+         (or (is-md? file-map)
+             (:dir? file-map))))) 
+
+(defn get-files-in-dir [dir]
+  (filter #(and (should-include? %) (is-md? %) (= dir (fp/dir (:name %))))
+          (fp/file-seq dir)))
+
+(defn get-dir-depth [file-map]
+  (count (s/split (:name file-map) "/")))
+
+(defn make-section-for-dir [file-map]
+  (let [indent-level (get-dir-depth file-map)
+        indents (s/join (for [i (range indent-level)] " "))
+        files (get-files-in-dir (:name file-map))]
+    (if (= 0 (count files))
+      ""
+      (s/join [indents (make-dir-into-header file-map)
+               (s/join (for [file files] 
+                         (s/join [indents indents (make-file-into-li file)])))
+               indents close-header]))))
+
+
+; new paradigm to try: for each directory, find all files in that directory and
+; put them underneath it.
+
+(defn get-all-dirs []
+  (filter #(and (should-include? %) (:dir? %)) (fp/file-seq ".")))
   
 
 (defn create-index []
-  (map make-file-into-li (filter should-include? (fp/file-seq "."))))
+  (map #(make-section-for-dir %) (get-all-dirs))) 
   
 (j/print (create-index))
