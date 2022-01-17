@@ -3,6 +3,8 @@
 (ns script
     (:require [joker.filepath :as fp]
               [joker.string :as s]
+              [joker.os :as os]
+              [joker.hiccup :as h]
               [joker.core :as j]))
 
 (defn capitalize-words [string]
@@ -19,71 +21,63 @@
         (s/split ".")
         (first))))
 
-;; Probably should have used joker.hiccup for this...
-(defn make-dir-into-header [file-map]
-  (format "<li><details><summary><strong>%s</strong></summary><ul>\n"
-          (to-title (:name file-map))))
-
-(def close-header "</ul></details></li>\n")
-
-(defn make-file-into-li [file-map]
-  "Converts dict from fp/file-seq like
-  {:name content/docs/understanding-the-world/influences.md, :size 2701,
-   :mode 416, :modtime 2022-01-14 10:58:55.151057301 -0800 PST, :dir? false}
-  into a li for the index page like
-  <li><a href='/docs/understanding-the-world/influences/'>Influences</a></li>"
-  (let [path (:name file-map)]
-    (format "<li><a href=\"%s\">%s</a></li>\n"
-            (-> path
-                (s/replace-first "content" "")
-                (s/replace #".md" "/"))
-            (to-title path))))
-
-(defn convert-file [file-map]
-  (if (:dir? file-map)
-    (make-dir-into-header file-map)
-    (make-file-into-li file-map)))
-
 (defn is-md? [file-map]
   (= "md" (last (s/split (:name file-map) "."))))
 
 (defn should-include? [file-map]
   (let [filepath (:name file-map)]
-    (and (s/starts-with? filepath "content/docs/")
+    (and (not (s/ends-with? filepath "-pics"))
+         (not (s/includes? filepath "-unindexed"))
          (not (s/includes? filepath "DRAFT"))
          (not (s/includes? filepath "FREEWRITE"))
          (or (is-md? file-map)
              (:dir? file-map))))) 
 
-(defn get-files-in-dir [dir]
-  (filter #(and (should-include? %) (is-md? %) (= dir (fp/dir (:name %))))
-          (fp/file-seq dir)))
+(defn make-file-into-li [filepath]
+  "Converts filename like content/docs/understanding-the-world/influences.md
+  into a li for the index page like
+  <li><a href='/docs/understanding-the-world/influences/'>Influences</a></li>"
+  [:li [:a {:href (-> filepath
+                      (s/replace-first "content" "")
+                      (s/replace #".md" "/"))}
+        (to-title filepath)]])
 
-(defn get-dir-depth [file-map]
-  (count (s/split (:name file-map) "/")))
+(declare make-dir-into-header)
 
-(defn make-section-for-dir [file-map]
-  (let [indent-level (- (get-dir-depth file-map) 3)
-        indents (s/join (for [i (range indent-level)] " "))
-        files (get-files-in-dir (:name file-map))]
-    (if (= 0 (count files))
-      ""
-      (s/join [indents (make-dir-into-header file-map)
-               (s/join (for [file files] 
-                         (s/join [indents indents (make-file-into-li file)])))
-               indents close-header]))))
-
-
-; new paradigm to try: for each directory, find all files in that directory and
-; put them underneath it.
-
-(defn get-all-dirs []
-  (filter #(and (should-include? %) (:dir? %)) (fp/file-seq ".")))
+(defn make-dir-contents [filepath]
+  [:ul (for [file (sort-by (fn [file-map] [(:dir? file-map) (:name file-map)])
+                           (filter should-include?
+                                   (os/ls filepath)))] 
+         (cond
+            (:dir? file)
+            (make-dir-into-header file filepath)
+            (is-md? file)
+            (make-file-into-li (fp/join filepath (:name file)))
+            :else
+            [:div "bad " file]))])
   
+(defn make-dir-into-header [file-map cur-path]
+  "Converts file map like {:dir? true :name my-dir} into collapsed html ul with 
+  a bold header. Recursively generates all sub-directories."
+  (let [filepath (fp/join cur-path (:name file-map))
+        inner-list (make-dir-contents filepath)]
+    (j/println filepath)
+    (if (= (count (last inner-list)) 0)
+      nil
+      [:li [:details [:summary [:strong (to-title filepath)]] inner-list]])))
 
 (defn create-index []
-  (s/join ["---\nheadless: true\n---\n<ul>\n"
-           (s/join (map #(make-section-for-dir %) (get-all-dirs))) 
-           "</ul>"]))
+   (h/html (make-dir-contents "content/docs")))
   
-(spit "content/menu/index.md" (create-index))
+(def index-path "content/menu/index.md")
+(spit index-path (create-index))
+; Requires `sudo apt install tidy`
+(os/sh "tidy"
+       "-indent"
+       "--show-body-only" "yes"
+       "--doctype" "omit"
+       "--tidy-mark" "no"
+       "-omit"
+       "-o" index-path index-path) 
+; Prepend hugo fontmatter
+(os/sh "sed" "-i" "1s;^;---\\nheadless: true\\n---\\n;" index-path)

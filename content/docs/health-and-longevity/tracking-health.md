@@ -22,7 +22,8 @@ I try to store as much personal data in Google Drive as possible. I find it
 convenient to access both manually and programmatically. I've written a program
 called ["autojournal"](https://github.com/kovasap/autojournal) to parse data
 from my Drive (and some other places) and display it both in graphs (see my
-[CGM]({{< relref "/docs/health-and-longevity/cgm.md" >}}) page) and on my Google
+[CGM]({{< relref "/docs/health-and-longevity/continuous-glucose-monitoring.md"
+>}}) page) and on my Google
 calendar.
 
 For tracing of general information, I've found
@@ -71,7 +72,8 @@ vigorous and health for the longest possible time).
 
 ### Sleep Quality
 
-### [Continuous Glucose Monitoring]({{< relref "/docs/health-and-longevity/cgm.md" >}})
+### [Continuous Glucose Monitoring]({{< relref
+"/docs/health-and-longevity/continuous-glucose-monitoring.md" >}})
 
 ### Resting Heart Rate
 

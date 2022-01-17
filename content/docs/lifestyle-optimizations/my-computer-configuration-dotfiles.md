@@ -112,6 +112,13 @@ Another thing to try going forward would be other color representation models,
 such as [CIELAB](https://en.wikipedia.org/wiki/CIELAB_color_space) or
 [YCbCr](https://en.wikipedia.org/wiki/YCbCr).
 
+UPDATE: One promising solution is https://github.com/yshui/picom/pull/247. This
+feature for picom (a fork of compton) gets an average brightness for a window
+by averaging the colors of all its pixels, then dims the window if that
+brightness is above a threshold. It didn't work super well in my hands, but is
+in theory a better solution to this problem than dimming all windows of a
+certain app.
+
 #### On Windows
 
 Because I often game on windows, I prefer to have my secondary monitor be dimmer

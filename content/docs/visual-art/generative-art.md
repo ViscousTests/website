@@ -10,10 +10,10 @@ these gifs were generated - each one is like a visual puzzle.
 
 Click on each piece to see it in motion!
 
-[![double helix](/docs/visual-art/double-helix.png)](/docs/visual-art/double-helix)
+[![double helix](/docs/visual-art/double-helix.png)](/docs/visual-art/double-helix-unindexed)
 
 <figure>
-  <a href="/docs/visual-art/perlin-flow">
+  <a href="/docs/visual-art/perlin-flow-unindexed">
     <img src="/docs/visual-art/perlin-flow.png" alt="perlin flow"/>
   </a>
   <figcaption><small>Note this was done from a tutorial - it's not an original!</small></figcaption>
