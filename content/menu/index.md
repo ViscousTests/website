@@ -271,6 +271,8 @@ headless: true
       </summary>
       <ul>
         <li><a href=
+        "/docs/software-dev/actionable-tips/">Actionable Tips</a>
+        <li><a href=
         "/docs/software-dev/choosing-a-language/">Choosing A
         Language</a>
         <li><a href="/docs/software-dev/impact/">Impact</a>
