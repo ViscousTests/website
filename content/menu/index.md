@@ -273,6 +273,9 @@ headless: true
         <li><a href=
         "/docs/software-dev/actionable-tips/">Actionable Tips</a>
         <li><a href=
+        "/docs/software-dev/auto-input-data-collection/">Auto Input
+        Data Collection</a>
+        <li><a href=
         "/docs/software-dev/choosing-a-language/">Choosing A
         Language</a>
         <li><a href="/docs/software-dev/impact/">Impact</a>
