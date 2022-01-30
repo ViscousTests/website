@@ -4,7 +4,8 @@ Reading https://www.piratewires.com/p/the-crime-of-curiosity made me think
 about how much **personally** dangerous/risky behavior we should legally allow.
 Should we allow unhealthy eating? Motorcycle riding? Messing with your own gut
 microbiome? Messing with your own genes? Climbing? Self-harm? Attempted
-suicide?
+suicide?  [Not getting vaccinated for
+COVID-19?](https://peterattiamd.com/a-follow-up-to-my-article-on-vaccine-mandates/)
 
 ## Insurance
 

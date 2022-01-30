@@ -34,3 +34,10 @@ return value and any print/log statement outputs.
 
 Probably this is much easier to implement (or much more likely to already
 exist) in an interpreted language like Python or Javascript.
+
+This could also make reading code much easier, as example data would be just a
+hotkey away.
+
+This is similar to using a REPL in Clojure with generative test case-ing via
+spec, but crucially captures data that causes errors in a real run of the
+program (unlike Clojure with a REPL and random data).
