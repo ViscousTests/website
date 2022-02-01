@@ -167,10 +167,10 @@ panic.
 
 This concept is really helpful in sports too, or anything that requires high
 in-the-moment performance.  In fact, I was first introduced to this concept
-when playing tennis.  I was taught to hold my racket like a tube of toothpaste
-- if I squeezed too hard (get too tense), the toothpaste would come out.  This
-  relaxed physical state is tightly coupled to a relaxed mental state of being
-  "in the moment".
+when playing tennis.  I was taught to hold my racket like a tube of toothpaste -
+if I squeezed too hard (get too tense), the toothpaste would come out.  This
+relaxed physical state is tightly coupled to a relaxed mental state of being
+"in the moment".
 
 One great exploration of this is the concept of "effortless effort" in Zen
 philosophy.  I was first introduced to this by the book [Zen in the Martial
@@ -197,10 +197,22 @@ are honed as they are made anyway - attempting to plan out the perfect product
 from the start without getting feedback from the work often just leads me to a
 state of analysis paralysis.
 
+The expectations of others are often even more extreme of a factor than my own
+expectations. For example, if I am given a task (or collaboratively come up
+with a task) that is perceived as very difficult or impossible, any progress at
+all will make me extremely motivated to continue. Conversely, if a task is seen
+as trivial to accomplish, I may not be motivated to start right away or, worse,
+I will feel very stressed if it ends up taking longer than expected.
+
+## Execution
+
 Some great resources for goal execution:
 
  - https://waitbutwhy.com/2015/03/procrastination-matrix.html
  - https://jamesclear.com/atomic-habits
+
+
+## Problem Reframing
 
 If getting started on a task is hard even with low/no expectations, or if I am
 stuck on said task and am having trouble re-starting, it is usually because the
