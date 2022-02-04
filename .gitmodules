@@ -11,3 +11,6 @@
 [submodule "reddit-tree"]
 	path = reddit-tree
 	url = git@github.com:kovasap/reddit-tree.git
+[submodule "biomarker-correlator"]
+	path = biomarker-correlator
+	url = git@github.com:kovasap/biomarker-correlator.git
