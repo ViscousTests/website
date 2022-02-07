@@ -9,6 +9,6 @@ This is an excellent visualization: https://vizhub.healthdata.org/gbd-compare/
 From the same healthdata.org source, this shows which activities lead to the
 highest risk of death:
 
-[![activity-risk-deaths](/docs/health-and-longevity/activity-risk-deaths.png)](https://vizhub.healthdata.org/gbd-compare/#)
+[![activity-risk-deaths](/docs/health-and-longevity/activity-risk-deaths.png)](http://ihmeuw.org/5o5h)
 
-[![activity-risk-dalys](/docs/health-and-longevity/activity-risk-dalys.png)](https://vizhub.healthdata.org/gbd-compare/#)
+[![activity-risk-dalys](/docs/health-and-longevity/activity-risk-dalys.png)](http://ihmeuw.org/5o5h)
