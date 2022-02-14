@@ -49,3 +49,8 @@ At the very least it make my pillow wet, which is annoying.
 
 Playing FPS or other games within and hour or so of sleeping can make it harder
 to fall asleep, but may not affect sleep quality after falling asleep.
+
+## Sleep Resources
+
+ - Interesting take on the effects sleep has on your physiology:
+   https://guzey.com/theses-on-sleep/
