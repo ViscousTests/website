@@ -12,3 +12,6 @@ highest risk of death:
 [![activity-risk-deaths](/docs/health-and-longevity/activity-risk-deaths.png)](http://ihmeuw.org/5o5h)
 
 [![activity-risk-dalys](/docs/health-and-longevity/activity-risk-dalys.png)](http://ihmeuw.org/5o5h)
+
+Another lens to look at this from is using a [micromort](https://micromorts.rip/).
+
