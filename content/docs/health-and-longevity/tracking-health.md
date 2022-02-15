@@ -1,5 +1,7 @@
 # Tracking Health
 
+![Health Stats XKCD](xkcd_health_stats.png)
+
 ## Why?
 
 A common (the most common?) way people try to stay healthy is by adopting habits
