@@ -37,3 +37,10 @@ re-remember every task when figuring out what to do next.
 This system also makes it easy to set recurring tasks, or tasks in the far
 future (months to years away). I've never been able to consistently remember to
 do these kinds of tasks before using this system.
+
+## Building Habits
+
+Setting recurring reminders at specific times is also an extremely effective
+way of building [atomic habits](https://jamesclear.com/atomic-habits). I find
+that doing this proactively is much better than trying to track adherence to a
+habit reactively (e.g. tracking workouts).
