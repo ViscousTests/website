@@ -110,6 +110,9 @@ headless: true
       </summary>
       <ul>
         <li><a href=
+        "/docs/health-and-longevity/aging-science/">Aging
+        Science</a>
+        <li><a href=
         "/docs/health-and-longevity/avoiding-accidents/">Avoiding
         Accidents</a>
         <li><a href=
@@ -240,6 +243,7 @@ headless: true
         <li><a href="/docs/mind/creativity/">Creativity</a>
         <li><a href="/docs/mind/desires-and-deprivation/">Desires
         And Deprivation</a>
+        <li><a href="/docs/mind/education/">Education</a>
         <li><a href="/docs/mind/how-to-do-hard-tasks/">How To Do
         Hard Tasks</a>
         <li><a href="/docs/mind/influences/">Influences</a>
@@ -293,6 +297,9 @@ headless: true
         <strong>Thought Experiments</strong>
       </summary>
       <ul>
+        <li><a href=
+        "/docs/thought-experiments/artificial-intelligence/">Artificial
+        Intelligence</a>
         <li><a href="/docs/thought-experiments/two-glasses/">Two
         Glasses</a>
       </ul>
