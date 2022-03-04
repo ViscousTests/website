@@ -61,6 +61,8 @@ Tracking them is useful to correlate them with outputs.
  - Oura Ring
  - Location Tracking
 
+### Blood Pressure
+
 ### Sleep Time
 
 ### Dental Care
