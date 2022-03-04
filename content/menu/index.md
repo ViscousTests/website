@@ -99,6 +99,9 @@ headless: true
         Principles</a>
         <li><a href="/docs/gaming/oxygen-not-included/">Oxygen Not
         Included</a>
+        <li><a href=
+        "/docs/gaming/recommended-puzzle-games/">Recommended Puzzle
+        Games</a>
         <li><a href="/docs/gaming/top-10-all-time/">Top 10 All
         Time</a>
       </ul>

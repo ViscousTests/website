@@ -65,6 +65,15 @@ Tracking them is useful to correlate them with outputs.
 
 ### Dental Care
 
+### Socializing
+
+Use a microphone to detect how much I personally am talking, use this as a
+proxy for how social I am being.
+
+### Temperature
+
+Both body temperature and external ambient temperature/humidity.
+
 ## Outputs
 
 These are metrics that correlate in some way with health goals (e.g. staying
