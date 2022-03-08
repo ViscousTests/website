@@ -102,6 +102,9 @@ headless: true
         <li><a href=
         "/docs/gaming/recommended-puzzle-games/">Recommended Puzzle
         Games</a>
+        <li><a href=
+        "/docs/gaming/recommended-social-games/">Recommended Social
+        Games</a>
         <li><a href="/docs/gaming/top-10-all-time/">Top 10 All
         Time</a>
       </ul>
