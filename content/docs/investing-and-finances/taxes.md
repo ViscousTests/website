@@ -52,6 +52,13 @@ Useful if you are in the 0% capital gains tax bracket:
  - https://www.madfientist.com/tax-gain-harvesting/
 
 
+## Tax Return Filing
+
+https://tpc-marriage-calculator.urban.org/ is a good resource for checking if
+filing jointly when married is a good idea.
+
+https://www.freetaxusa.com/ is a great service for actually filing taxes.
+
 ## Deducting Housing Expenses
 
 Things to deduct for a rental property:
