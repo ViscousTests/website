@@ -7,6 +7,14 @@ so I put them in this section of the website.  These sources are roughly sorted
 by their level of influence on my thinking.
 
 
+## [The Beginning of Infinity by David Deutsch](https://en.wikipedia.org/wiki/The_Beginning_of_Infinity)
+
+Excellent book that addresses (a theory for) how knowledge is created and the
+implications that has for humankind, and "people" more generally. David's
+theory is that knowledge is created by filtering many creative conjectures into
+those that give the best explanations for things via a tradition of criticism.
+
+
 ## [Antifragile by Nassim Taleb](https://en.wikipedia.org/wiki/Antifragile)
 
 Really insightful book into types of systems in the world and how they behave.

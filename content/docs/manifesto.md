@@ -28,7 +28,7 @@ tricky and fickle.  For me, it helps to:
  - Somewhat aimlessly learn about the area of knowledge the goal is in by
    reading what other people have written/said about it.  Sometimes reading
    about even completely unrelated topics can spark ideas about the original
-   goal.
+   goal. Audiobooks and podcasts are great for getting this exposure.
  - Plant "seeds" in my head relating to the goal.  These usually manifest as
    questions I'm curious to know the answers to, or very rough theories that I
    can't even put into words for how the goals might be achieved.
@@ -81,6 +81,12 @@ modelling the new situation is itself wise. This is highly related to the
 concept of [Beginner's Mind](https://en.wikipedia.org/wiki/Shoshin), which IMO
 it is wise to cultivate, as opposed to an "expert's mind".
 
+Realizing that human knowledge is fallible, but also objectively meaningful and
+the accumulation of it makes one objectively wiser is discussed in detail in
+[The Beginning of
+Infinity](https://en.wikipedia.org/wiki/The_Beginning_of_Infinity) by David
+Deutsch. 
+
 In practice, wisdom naturally leads to well-roundedness:
 
 #### Well-Roundedness
@@ -114,11 +120,11 @@ man"](https://en.wikipedia.org/wiki/Polymath) (See
 [ERE](https://wiki.earlyretirementextreme.com/wiki/What_is_ERE%3F) for more
 discussion of this.
 
-Becoming more well rounded can be achieved by seeing roadblocks in life as
-personal opportunities for growth. Energetically owning and tackling these
-roadblocks will lead to learning the best ways to get around them, improving
-one's breath of knowledge and making similar issues one might encounter later
-easier to navigate.
+Becoming more well rounded is mostly achieved (in my experience) by seeing
+roadblocks in life as personal opportunities for growth. Energetically owning
+and tackling these roadblocks will lead to learning the best ways to get around
+them, improving one's breath of knowledge and making similar issues one might
+encounter later easier to navigate.
 
 The "I can do this" or "I can learn how to do this" sentiment when faced with
 any issue should lead to an increase in well-roundedness over time.
@@ -131,15 +137,6 @@ more well rounded + tasks to try:
  - Investing savings - try researching, creating, and executing a personal
    investment plan yourself.
  - Food production - try growing/cooking your own food.
-
-Apropos quote:
-
->Philosophers are people who know less and less about more and more, until they
-know nothing about everything. Scientists are people who know more and more
-about less and less, until they know everything about nothing.
->
->― Konrad Lorenz
-
 
 ## Empowerment
 
