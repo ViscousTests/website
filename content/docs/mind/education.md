@@ -1,5 +1,45 @@
 # Thoughts on Education
 
+## High School as Survey
+
+In my opinion, (at least my) high school education focused too much on
+fulfilling prerequisites and teaching fundamental topics and too little on
+surveying possible areas of study and career paths. I believe this is due to
+the assumption that prerequisites are necessary for students to be able to
+study higher level concepts (e.g. algebra before calculus before physics).
+While this is strictly speaking true, it ignores the power of motivating
+context.  By this I mean that if you want to learn how a ball moves through
+space in physics, it is very obvious how calculus is helpful towards achieving
+your goal.  However, if you are just learning calculus (or algebra!) without
+this context, it can feel like what you are learning is pointless (because it
+is to you at that moment).
+
+Trying to learn complex topics without understanding why they are useful is
+extremely difficult and leads to less memory retention of the things you
+learned if you end up do learning them. IMO this is one of the primary reason
+many people struggle in school. Conversely, if you DO have a strong reason to
+learn something, it is much easier to do so, and you may be able to pack much
+more learning into a shorter period of time.  Plus, the learning will be more
+useful, as it is already shown to have at least the one motivating use.
+
+Not only can focus on hierarchical prerequisites stifle learning rate, it also
+does a disservice to students who are trying to figure out what to specialize
+in at college (if they attend) and in their careers. I personally knew a lot of
+abstract concepts in high school, and knew I was interested in STEM, but had
+pretty much no conception of the different types of STEM careers available to
+me and what kinds of day-to-day work they each would entail. If half the time
+spent in high school on academic classes was instead spent on career/field
+survey talks/activities/classes, I would have been much better prepared to set
+myself up for a fulfilling life after graduation, and I would have been more
+motivated to independently study those careers/fields.
+
+As it stands, I feel like I got extremely lucky to land in the jobs I did.  I
+very nearly joined a PhD program after college that in retrospect I'm quite
+certain I would have liked less than the companies I randomly was exposed to in
+my last years in college. It scares me that the only thing that saved me from
+this misstep was a random email on a mailing list I randomly joined, as opposed
+to something built into the educational system.
+
 ## Extended Education Concept
 
 In high school and college I often felt extremely mentally busy. I was usually
