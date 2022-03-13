@@ -48,8 +48,8 @@ Each column value follows this legend:
 
 | Tool                                                                        | Specialty      | Data Entry | Data Export | Analysis | DB Comparison | Recommendations |
 |-----------------------------------------------------------------------------|----------------|------------|-------------|----------|---------------|-----------------|
-| [Cronometer](https://getbitesnap.com/)                                      | Food           | 🛠️         | 🛠️          | ✔️        | ✔️             | 🚫              |
-| [Bitesnap](https://cronometer.com/)                                         | Food           | 🛠️         | 🛠️          | ✔️        | ✔️             | 🚫              |
+| [Cronometer](https://cronometer.com/)                                       | Food           | 🛠️         | 🛠️          | ✔️        | ✔️             | 🚫              |
+| [Bitesnap](https://getbitesnap.com/)                                        | Food           | 🛠️         | 🛠️          | ✔️        | ✔️             | 🚫              |
 | [SleepAsAndroid](https://sleep.urbandroid.org/)                             | Sleep          | 🛠️+🤖      | 🤖          | ✔️        | 🚫            | ✔️               |
 | [MomentoDB](https://mementodatabase.com/)                                   | General Data   | 🛠️         | 🤖          | ✔️        | 🚫            | 🚫              |
 | [ActivityWatch](https://activitywatch.net/)                                 | PC/Phone Usage | 🤖         | 🛠️*         | ✔️        | 🚫            | 🚫              |
@@ -200,3 +200,9 @@ healthspan?
 ## Things to try
 
  - Mood tracking via heart data: https://upmood.com/
+
+
+## Inspirational Projects
+
+ - Time tracking: https://www.reddit.com/r/dataisbeautiful/comments/radi1e/oc_i_tracked_every_minute_of_every_day_for_the/
+ - http://karpathy.github.io/2014/08/03/quantifying-productivity/
