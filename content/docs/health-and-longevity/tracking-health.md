@@ -1,6 +1,6 @@
 # Tracking Health
 
-![Health Stats XKCD](xkcd_health_stats.png)
+![Health Stats XKCD](/docs/health-and-longevity/xkcd_health_stats.png)
 
 ## Why?
 
@@ -17,6 +17,51 @@ Probably the most reliable way to stay vigorous and healthy for the longest
 possible time is by self-experimenting to see what behaviors work best for you.
 Of course, using anecdotes/epidemiology/randomized controlled trials to inform
 what to try will greatly accelerate your ability to settle on the best habits.
+
+## Software Tools
+
+This table summarizes the functionalities of different software tools I've
+tried for personal data tracking. Here are what the columns mean:
+
+**Data Entry/Export**: Descriptions of how possible/easy it is to enter data
+into the tool and get it back out for custom storage or analysis. They use this
+legend:
+  - 🚫 = Impossible
+  - ⛏️ = Manual and Difficult
+  - 🛠️ = Manual and Ergonomic
+  - 🤖 = Automatic
+
+**Analysis**: The tool provides some way to analyzer and visualize your data to
+see trends over time or other views into the data.
+
+**DB Comparison**: The tool compares your data to external data sources as part
+of the visualization to help put said data into context (e.g. is my value too
+high or too low).
+
+**Recommendations**: The tool makes specific recommendations about how you
+should behave given your input data.
+
+Each column value follows this legend:
+ - 🚫 = Feature Doesn't Exist
+ - ✔️ = Feature Available
+
+
+| Tool                                                                        | Specialty      | Data Entry | Data Export | Analysis | DB Comparison | Recommendations |
+|-----------------------------------------------------------------------------|----------------|------------|-------------|----------|---------------|-----------------|
+| [Cronometer](https://getbitesnap.com/)                                      | Food           | 🛠️         | 🛠️          | ✔️        | ✔️             | 🚫              |
+| [Bitesnap](https://cronometer.com/)                                         | Food           | 🛠️         | 🛠️          | ✔️        | ✔️             | 🚫              |
+| [SleepAsAndroid](https://sleep.urbandroid.org/)                             | Sleep          | 🛠️+🤖      | 🤖          | ✔️        | 🚫            | ✔️               |
+| [MomentoDB](https://mementodatabase.com/)                                   | General Data   | 🛠️         | 🤖          | ✔️        | 🚫            | 🚫              |
+| [ActivityWatch](https://activitywatch.net/)                                 | PC/Phone Usage | 🤖         | 🛠️*         | ✔️        | 🚫            | 🚫              |
+| [Google Drive](https://drive.google.com)                                    | General Data   | ⛏️          | 🤖          | 🚫       | 🚫            | 🚫              |
+| [GPSLogger](https://gpslogger.app/)                                         | Location       | 🤖         | 🤖          | 🚫       | 🚫            | 🚫              |
+| [Google Maps Timeline](https://maps.google.com/timeline)                    | Location       | 🤖         | ⛏️           | ✔️        | 🚫            | 🚫              |
+| [Google Fit](https://www.google.com/fit/)                                   | Fitness        | 🛠️+🤖      | ⛏️           | ✔️        | 🚫            | 🚫              | :
+| [Biomarker Correlator](https://kovasap.github.io/biomarker-correlator.html) | General Data   | ⛏️          | 🚫          | ✔️        | ✔️             | 🚫              | :
+| [Young.ai](https://www.young.ai/)                                           | Health Data    | ⛏️?         | ⛏️?          | ✔️        | ✔️             | ✔️               | :
+
+*ActivityWatch automatic export is [in progress](https://github.com/ActivityWatch/activitywatch/issues/35).
+
 
 ## General Methods
 
@@ -46,6 +91,8 @@ Tracking them is useful to correlate them with outputs.
    - Upsides: You get lots of data about even very specific micronutrients,
      helping spot difficiencies.
    - Downsides: Difficult but doable, especially with food you don't prepare yourself.
+   - Tip: If using the free version https://pi-hole.net/ will help make the ad
+     experience less painful.
  - Taking pictures of food, using [bitesnap](https://getbitesnap.com/)
    - Upsides: Easy to do
    - Downsides: Not super accurate for quantities
@@ -89,6 +136,10 @@ vigorous and health for the longest possible time).
 "/docs/health-and-longevity/continuous-glucose-monitoring.md" >}})
 
 ### Resting Heart Rate
+
+Notes for how to accomplish:
+
+ - https://forum.quantifiedself.com/t/heart-rate-monitor-recommendations-for-24-7-continuous-monitoring-and-logging/327/57
 
 Correlates with healthspan (citation needed).
 
@@ -146,3 +197,6 @@ Might correlate with gut health somehow, which might correlate to longer
 healthspan?
 
 
+## Things to try
+
+ - Mood tracking via heart data: https://upmood.com/
