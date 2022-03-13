@@ -203,8 +203,8 @@ headless: true
         "/docs/lifestyle-optimizations/android-apps/">Android
         Apps</a>
         <li><a href=
-        "/docs/lifestyle-optimizations/hang-drying-cloths/">Hang
-        Drying Cloths</a>
+        "/docs/lifestyle-optimizations/hang-drying-clothes/">Hang
+        Drying Clothes</a>
         <li><a href=
         "/docs/lifestyle-optimizations/home-energy-monitoring/">Home
         Energy Monitoring</a>
@@ -217,9 +217,6 @@ headless: true
         <li><a href=
         "/docs/lifestyle-optimizations/no-ad-youtube-viewing/">No
         Ad Youtube Viewing</a>
-        <li><a href=
-        "/docs/lifestyle-optimizations/personal-data-tracking/">Personal
-        Data Tracking</a>
         <li><a href=
         "/docs/lifestyle-optimizations/phone-case/">Phone Case</a>
         <li><a href=
