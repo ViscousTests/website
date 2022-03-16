@@ -12,7 +12,123 @@
    1. "Food coma-ing".
    1. "Snack train-ing", or continuous distraction by a desire to eat more.
 
-# What should I eat and when?
+# Current Eating Habits and Opinions (3/2022)
+
+## Food Timing
+
+I try to eat a breakfast after I wake up - around 9am, since I wake up around
+8:30am.  Then I tend not to eat lunch, and instead eat my second (and last)
+meal of the day at around 5 or 6pm.
+
+I converged on this strategy via the observation that eating food when I am not
+hungry (too quickly after my last meal) really kills my energy levels. With
+this strategy, I can eat two large meals and avoid this problem, maximizing the
+amount of time I can stay capable of doing whatever I want during the day.
+
+With this strategy (and any food timing strategy IMO) it's important for me to
+suppress suggestions from my mind to combat momentary ebbs in energy with a
+snack. This pretty much never works for me, always making me more tired then
+before I ate the snack. Green tea is a good placeholder to have instead. Or
+even better, an engaging activity that captures my attention.
+
+## Diet Composition
+
+### Confidence Levels
+
+Because it is hard (for me at least) to get good, immediate feedback from my
+body about which foods are the "healthiest" for me in the long term, I instead
+have to rely on information from other people to figure out what food I should
+eat. I'm [working to combat this]({{< relref
+"/docs/health-and-longevity/biomarker-correlator.md" >}}) but realistically
+will need to continue to do this for a while. Unfortunately, there are many
+opinions out there about what food is healthy, and trusting one necessarily
+means discounting others, which might be right. Here I try to be honest with
+myself about where my personal opinions come from so that I can more
+effectively identify and correct them.
+
+ - 📺 = I've been exposed to a lot of random media supporting this opinion, but
+   don't really understand the details.
+ - 📈 = This is an interesting statistical trend, but correlation != causation.
+ - 💡 = This is a plausible idea, but I haven't found evidence that it has
+   health effects in humans. In other words, it's [a nice conjecture, but
+   requires more criticism]({{< relref
+   "/docs/understanding-the-world/influences.md#the-beginning-of-infinity-by-david-deutschhttpsenwikipediaorgwikithe_beginning_of_infinity"
+   >}}).
+ - 📚 = This is the best explanation I know of, and has withstood a good amount
+   of criticism, although of course it might still be wrong.
+ - 🧠 = This is a personal observation I've made about myself.
+
+### Meat (non-fish)
+
+I try to avoid eating meat. There are a bunch of weak reasons for this:
+
+1. I perceive the supply chain that produces meat as being messy and
+   suffering-causing 📺. Another way to phrase this is: I don't think I would
+   want to run my own personal meat-producing supply chain even if it was
+   low-effort.
+1. Meat consumption using our current supply chain is energy/space/time
+   inefficient compared to other food sources 📚. I don't think this is a
+   problem that we should rely on individual choices to solve (like other
+   climate change related problems), so it's a pretty weak reason for an
+   individual to not eat meat IMO. Larger systemic changes like taxes on meat
+   seem to me like the more effective way to take action on this information.
+1. Meat consumption seems be to [weakly associated with
+   cancer](https://www.who.int/news-room/questions-and-answers/item/cancer-carcinogenicity-of-the-consumption-of-red-meat-and-processed-meat)
+   📈 and other common causes of death. This may be because of the proteins in
+   meat causing up-regulation of growth factors like IGF-1, which may
+   accelerate aging 💡.
+1. The "blue zone" communities around the world with high health- and
+   life-spans [eat little
+   meat](https://www.bluezones.com/recipes/food-guidelines/) 📈.
+
+### Fish
+
+I eat fish and other seafood, but rarely (I don't cook it myself).
+
+### Eggs
+
+I eat ~4 eggs a day ~4 times per week.
+
+### Dairy
+
+I eat a small amount of yogurt and cheese. I try to avoid all other dairy
+products as best I can. My throat is irritated when I drink plain milk and
+excessive consumption of any dairy product upsets my digestion, so I think I am
+somewhat personally intolerant of at least dairy from cows 🧠.
+
+### Whole Foods
+
+This includes any food that has not had components stripped from it at a small
+scale. For instance, I would consider a berry a whole food even though it was
+separated from the plant at the macro scale. But jam would not be a whole food
+because it involves removing some fiber and other unknown stuff from the berry
+and adding parts of other plants (sugars) that were themselves removed from
+their whole plant part.
+
+I like the story I've heard about whole foods 📺. At the very least, it seems
+like we evolved to eat whole foods, so the floor for how bad they can be for us
+is fairly high and well known. Note that this theory does **not** say
+**anything** suggesting that whole food are the best diet, just that they
+aren't that bad.
+
+It also seems well supported and not controversial that eating whole foods
+helps delay the onset of the most common causes of death (cardiovascular
+disease, cancer, and neurodegenerative disease) 📚. 
+
+### Organic?
+
+I haven't found strong evidence that organic food is healthier than non
+organic. But it could be that the right studies just haven't been done yet or I
+haven't seen them. Here is an interesting review:
+
+ - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5658984/
+
+ I buy mostly non organic food because it is cheaper.
+
+
+
+
+# What should I eat and when? (2021)
 
 The most convincing diet structure I've found has been [The Longevity Diet by
 Valter Longo](https://www.valterlongo.com/daily-longevity-diet-for-adults/).
@@ -172,15 +288,6 @@ acids).
 
 Cool table of calories per gram of protein:
 https://www.healthyalyona.com/nutrition/plant-based-protein-lowest-calories/
-
-
-# Organic?
-
-I haven't found strong evidence that organic food is healthier than non
-organic. But it could be that the right studies just haven't been done yet.
-Here is an interesting review:
-
- - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5658984/
 
 
 # Specific Food Notes

@@ -288,6 +288,9 @@ headless: true
         <li><a href=
         "/docs/software-dev/choosing-a-language/">Choosing A
         Language</a>
+        <li><a href=
+        "/docs/software-dev/functional-programming/">Functional
+        Programming</a>
         <li><a href="/docs/software-dev/impact/">Impact</a>
         <li><a href="/docs/software-dev/influences/">Influences</a>
         <li><a href="/docs/software-dev/patterned-code/">Patterned
