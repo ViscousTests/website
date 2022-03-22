@@ -33,6 +33,10 @@ When something feels unattainable because either (a) it seems so hard you would
 fail if you tried or (b) its unclear what step to take next, I have found
 several tricks that work pretty well:
 
+#### Thinking Creatively
+
+See [thoughts on creativity]({{< relref "/docs/mind/creativity.md" >}}).
+
 #### Taking a Step Back
 
 Taking a step back both from the problem at hand AND from anything else that
@@ -50,10 +54,13 @@ ideas about something other than my issue.
 
 #### Talking it Out
 
-Talk to someone (or yourself?) about the issue.  Sometimes the act of putting
+Talk to someone (or yourself) about the issue.  Sometimes the act of putting
 your issue into works can snap some clarity into it.  The person you are
 talking to may also offer useful insights.  Writing thoughts down can also
 sometimes work here, if no-one is available to talk to.
+
+This usually involves re-verifying the assumptions you've been making about the
+problem.
 
 #### Getting Psyched Up
 
@@ -210,18 +217,6 @@ Some great resources for goal execution:
 
  - https://waitbutwhy.com/2015/03/procrastination-matrix.html
  - https://jamesclear.com/atomic-habits
-
-
-## Problem Reframing
-
-If getting started on a task is hard even with low/no expectations, or if I am
-stuck on said task and am having trouble re-starting, it is usually because the
-I don't have the right understanding of the problem.  Asking lots of questions
-and (re-)verifying all the assumptions I've made usually helps me get around
-this.  If I'm really stuck, describing the issue in writing or to an outside
-observer will often give me to differing (and correct) perspective I need to
-move forward. I'm consistently amazed by how narrow my focus on problems can
-become compared to the focus a random outside observer would have.
 
 ## See Also
 
