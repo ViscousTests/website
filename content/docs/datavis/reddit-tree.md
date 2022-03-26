@@ -10,5 +10,9 @@ made this visualization:
   <figcaption><small>Click the image to go to the interactive page!</small></figcaption>
 </figure>
 
+<!--
+<iframe src="/reddit-tree.html" width="100%" height="100%" style="border:none;" scrolling="no"></iframe>
+-->
+
 The code can be found at
 [github.com/kovasap/reddit-tree](https://github.com/kovasap/reddit-tree).

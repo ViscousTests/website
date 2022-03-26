@@ -13,6 +13,9 @@ This page contains short descriptions of various habits and environmental
 choices and their relationships.  Deeper dives into some factors can be found
 via links within each factor.
 
+TODO organize this data as described at
+https://www.reddit.com/r/Clojure/comments/tp4ixp/grouping_data_by_different_attributes_on_a_page/
+
 ## Food
 
 I eat a [mostly vegan diet](/docs/food.md) I [cook myself](/docs/cooking.md).
