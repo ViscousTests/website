@@ -58,6 +58,9 @@ effectively identify and correct them.
    of criticism, although of course it might still be wrong.
  - 🧠 = This is a personal observation I've made about myself.
 
+TODO move these emojis to a more central location so I can use them in other
+writings.
+
 ### Meat (non-fish)
 
 I try to avoid eating meat. There are a bunch of weak reasons for this:

@@ -334,6 +334,9 @@ headless: true
         <li><a href=
         "/docs/understanding-the-world/politics/">Politics</a>
         <li><a href=
+        "/docs/understanding-the-world/solving-societal-problems/">Solving
+        Societal Problems</a>
+        <li><a href=
         "/docs/understanding-the-world/what-to-believe/">What To
         Believe</a>
       </ul>
