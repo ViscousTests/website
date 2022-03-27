@@ -16,6 +16,13 @@ via links within each factor.
 TODO organize this data as described at
 https://www.reddit.com/r/Clojure/comments/tp4ixp/grouping_data_by_different_attributes_on_a_page/
 
+
+{{< experience_aggregator >}}
+My Experience (details about this experience)
+ - Mood 1 (details about this mood)
+ - Mood 2
+{{< /experience_aggregator >}}
+
 ## Food
 
 I eat a [mostly vegan diet](/docs/food.md) I [cook myself](/docs/cooking.md).

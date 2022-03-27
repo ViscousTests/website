@@ -14,3 +14,6 @@
 [submodule "biomarker-correlator"]
 	path = biomarker-correlator
 	url = git@github.com:kovasap/biomarker-correlator.git
+[submodule "website-helpers"]
+	path = website-helpers
+	url = git@github.com:kovasap/website-helpers.git

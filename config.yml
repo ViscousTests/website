@@ -27,6 +27,7 @@ staticDir:
   - generative-art/built_works/
   - reddit-tree/release/
   - biomarker-correlator/release/
+  - website-helpers/release/
 
 params:
   BookLogo: 'crow.png'
