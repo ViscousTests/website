@@ -18,9 +18,7 @@ https://www.reddit.com/r/Clojure/comments/tp4ixp/grouping_data_by_different_attr
 
 
 {{< experience_aggregator >}}
-My Experience (details about this experience)
- - Mood 1 (details about this mood)
- - Mood 2
+{{% include "docs/lifestyle-optimizations/experiences.edn" %}}
 {{< /experience_aggregator >}}
 
 ## Food

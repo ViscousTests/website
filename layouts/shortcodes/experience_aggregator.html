@@ -8,10 +8,13 @@
         // console.log(website_helpers.core);
         // console.log(website_helpers.core.to_js(
         //     website_helpers.core.list_to_hiccup(["a", "b"])));
-
-        console.log( {{ .Inner }} );
+        // console.log( {{ .Inner }} );
+        // website_helpers.core.render_to_element(
+        //     website_helpers.core.list_to_hiccup(["a", "b"]), "aggregator");
 
         website_helpers.core.render_to_element(
-            website_helpers.core.list_to_hiccup(["a", "b"]), "aggregator");
+            website_helpers.core.make_aggregated_items(
+                website_helpers.core.read_edn_string({{.Inner}})),
+            "aggregator");
     </script>
 </div>
