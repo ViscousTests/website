@@ -34,9 +34,10 @@ Remix](https://www.youtube.com/watch?v=nJPERZDfyWc).
 
 A corollary of this idea is that to be creative it's helpful to expose yourself
 to many other ideas.  In my opinion, art in any form is spectacularly useful
-here. One way to think about art is as an expression of (hopefull new) ideas
+here. One way to think about art is as an expression of (hopefully new) ideas
 specifically designed to appeal to human sensibilities - the perfect coupling
-of novelty with a mechanism to get it to stick in your head.
+of novelty with a mechanism to get it to stick in your head. Art is also great
+at encouraging engagement with the world, especially new parts of it.
 
 ## Vision and Confidence
 
