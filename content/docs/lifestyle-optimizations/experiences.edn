@@ -18,7 +18,8 @@
    ["Triumph over Exposure"
     "Putting yourself in a stressful situation and showing yourself that you
     can survive in it. I think this is a feeling Marc-André Leclerc was chasing
-    in the movie 'The Alpinist'."]]]
+    in the movie 'The Alpinist'."]
+   ["Being in the Zone"]]]
  ["Redditing"
   "Browsing reddit."
   ["habit"]
@@ -39,6 +40,13 @@
   [["Skill clicking into place"
     "The feeling when something that you thought was impossible, or otherwise
     had no idea how to even approach doing, you can suddenly do effortlessly."]]]
+ ["Beat Saber"
+  "Playing the VR rhythm game beat saber."
+  []
+  [["Skill clicking into place"]
+   ["Being in the Zone"
+    "Being in a state of mind where all your attention must be focused on a
+    single thing to avoid failure, leading to an emptiness of other thoughts."]]]
  ["Making Small Web Apps in ClojureScript with Reagent"
   "See title :)"
   ["programming"]
