@@ -52,3 +52,7 @@ copying that would be a good place to start?
 
 I don't really know what to do here (how to bias the network to evolve in a
 specific direction, or how to reward it for making "good" changes).
+
+## Prior Art
+
+ - https://github.com/uber-research/backpropamine
