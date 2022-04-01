@@ -45,6 +45,11 @@ into new ones. Making information and educational resources universally
 accessible and engaging is crucial to spark creativity.
 
 
+## Freedom of Direction
+
+Add stuff from the "Greatness cannot be planned" book.
+
+
 ## Influences
 
 This is heavily inspired by
