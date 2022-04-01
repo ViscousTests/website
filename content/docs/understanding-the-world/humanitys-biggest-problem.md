@@ -47,7 +47,9 @@ accessible and engaging is crucial to spark creativity.
 
 ## Freedom of Direction
 
-Add stuff from the "Greatness cannot be planned" book.
+Add stuff from the "Greatness cannot be planned" book. And how it relates to
+the idea of a [flaneur](https://en.wikipedia.org/wiki/Fl%C3%A2neur) as
+discussed in "Antifragile" by NN Taleb.
 
 
 ## Influences
