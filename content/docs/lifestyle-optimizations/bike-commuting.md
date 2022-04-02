@@ -34,6 +34,20 @@ In a big city like Seattle, there are a lot of people selling bikes, so they
 are usually pretty easy to find. I use [craigslist](https://craigslist.org/)
 and [Facebook Marketplace](https://www.facebook.com/marketplace) for this.
 
+## Modifications
+
+### Milk Crate
+
+The best way I've found to transport stuff on a bike is a back rack + milk
+crate combo:
+
+![Milk Crate](/docs/lifestyle-optimizations/bike_milk_crate.jpg)
+
+This securely holds things that are just placed in it (like a backpack).
+Previously I used straps to secure bags to the bike rack itself, but this is
+much easier.  This is also **much** more pleasant than actually wearing a
+backpack when biking, especially if you don't want to sweat too much.
+
 ## Rainy Weather
 
 One of the worst parts of bike commuting is getting wet on the way in to work
