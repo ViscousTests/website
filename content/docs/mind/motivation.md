@@ -85,6 +85,7 @@ energized and fresh. Of course, your past self wont have the direct motivation
 to do this (as it's doing fine) so it helps to set reminders for yourself to do
 this work when you are fresh.
 
+#### TODO add a reference to the manifesto "vision" section here, or merge the sections
 
 ### How to make things LESS attainable
 
