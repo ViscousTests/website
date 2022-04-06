@@ -79,6 +79,35 @@ condition is itself a large scale societal problem that hopefully can be solved
 with this same line of thinking. I do admit there's a bit of a chicken-and-egg
 problem here :/.
 
+#### Externality-based Policies
+
+May societal problems are due to hard-to-track externalities of existing
+behaviors that are not "priced in" to the cost of the behavior. For instance,
+companies that make unhealthy food do not pay for the healthcare costs their
+products incur. Or single-use plastic producers do not pay for waste cleanup
+efforts. Or petroleum refiners do not pay for CO2 emissions. If these
+externalities were priced in, then the consumer would have a much easier time
+making buying decisions, as the real cost of their consumption would be obvious
+to them.
+
+Currently, it's hard to know the real cost of a given behavior, which is
+further confused by emotional arguments on either side. For example, if you
+want to know if you should use plastic straws or not, the low price of them
+might make you think they are an efficient way to solve your problem. But
+others would argue that [some large number] of straws are used every second!
+Unfortunately, that doesn't really tell you very much. If instead it cost a
+dollar to clean up every discarded straw, and that was priced into the straws
+cost since the producing company had to clean up the straws, then you as the
+consumer could make a more informed decision about whether that dollar is worth
+it.
+
+Of course, tracking all these externalities is hard. But this seems like a
+useful framework, or at least more useful that trying to get consumers to all
+individually understand the externalities of their actions.
+
+Probably someone else somewhere has done a much better job exploring this
+topic.
+
 ### 3. Cultural Environmental Change
 
 Shifting cultural norms also can lead to massive change in individual behavior.
