@@ -33,3 +33,10 @@ An even older project can be found at
 https://github.com/kovasap/perspective_words. This project was made while doing
 molecular simulation research, and arranges virtual atoms so that they spell
 out works when looked at from certain angles.
+
+## Ideas to Try
+
+### Sound
+
+Add music/sound to BeesAndBombs-type visualizations like
+[ChaosDoodle](https://www.youtube.com/watch?v=vcBn04IyELc) videos.
