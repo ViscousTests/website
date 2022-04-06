@@ -206,6 +206,8 @@ headless: true
         "/docs/lifestyle-optimizations/bike-commuting/">Bike
         Commuting</a>
         <li><a href=
+        "/docs/lifestyle-optimizations/experiences/">Experiences</a>
+        <li><a href=
         "/docs/lifestyle-optimizations/hang-drying-clothes/">Hang
         Drying Clothes</a>
         <li><a href=
