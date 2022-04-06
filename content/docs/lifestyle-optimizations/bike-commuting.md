@@ -3,9 +3,42 @@
 
 ## Benefits
 
-Exercise is good for you, especially when regularly done. If you have to go to
-work every day, it makes sense to couple that mandatory travel with exercise to
-make the exercise "mandatory" itself!
+1. **Exercise**. Moving your body is good for you, especially when regularly
+   done. If you have to go to work every day, it makes sense to couple that
+   mandatory travel with exercise to make the exercise "mandatory" itself!
+1. **Inexpensive**. Especially if you buy cheap bikes, bike commuting might be
+   the least expensive way to travel around a city short of walking.
+1. **On your own terms**. For me, it's important to be on my own schedule and
+   not have to worry about public transportation schedules and parking time
+   limits. Biking is not the only way to accomplish this, but it does a good
+   job at it.
+
+## Downsides
+
+1. Requires living in an area where everyday needs (work, grocery, etc.) are
+   close by. Living in these areas is usually more expensive. This is not
+   really a con if you want to live in these areas for other reasons.
+1. If you do not have a car, then it can be logistically harder to participate
+   in certain activities, which will probably end up with you simply not doing
+   them consistently.
+
+## Listening while Biking
+
+I highly recommend listening to audiobooks or podcasts when biking to both be
+entertained and maybe learn some stuff or get inspired while you're at it.
+
+I used to do this by putting some large studio-style over-ear headphones over
+my *helmet* so that the speakers would not sit on my ears, but rather a couple
+inches away from them. This worked pretty well, although it did look kinda
+silly.
+
+Since then I've switch to using "bone-conduction" headphones like
+[these](https://amzn.to/3j79zfw) (I can't find my originally purchased ones).
+In my experience, these just act like tiny speakers that are close to your
+ears, but not in them - I don't get much "bone-conduction" effect from my pair.
+
+However you listen when biking, I highly recommend making sure you can still
+hear what's going on around you for safety.
 
 ## Buying a Bike
 
