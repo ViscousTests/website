@@ -95,11 +95,56 @@ waterproof shoe covers like [these](https://amzn.to/3NvMFMK).
 
 ## Maintenance
 
+Most bike maintenance is not that hard to learn, and you will save lots of time
+and money in the long run if you learn some basics. Here I list the most common
+problems that can be easily addressed DIY. Check out YouTube for good tutorials
+if I haven't linked any myself. 
+
+Most repairs require some specialized tools, which are pretty cheap on Amazon
+(usually less expensive than having the repair done professionally once).
+
 ### Flat Tires
 
 I like to keep a couple tubes (like [this one](https://amzn.to/3qN1r87)) around
-for an easy change.
+for an easy change. I also use patch kits for small punctures.
 
-### Chain Stretching
+### Skipping Gears
+
+Sometimes when you bike you may notice skipping when pedaling, especially when
+pedaling hard. This is usually quite jarring and in bad cases can make your
+bike fairly unridable. This issue can be caused by several different problems:
+
+#### 1. Misaligned Shifters
+
+Your gear shifters may put the chain in between two of the cogs that it wraps
+around. To fix this, usually shifters can be shifted around by tighting or
+loosening a screw on them.
+
+#### 2. A Stretched Chain
+
+Over time, bike chains stretch.  An overly stretched chain can lead to
+skipping, as the distance between the links no longer properly matches the
+distances between the teeth on the cog. See
+https://www.parktool.com/blog/repair-help/when-to-replace-a-chain-on-a-bicycle
+for a good overview of this problem.
+
+#### 3. Worn Cogs
+
+Just like chains can wear out, so can the cogs they wrap around.  This happens
+more slowly, and I've heard can be slowed even further by regularly replacing
+your chain (presumably stretched chains wear out cogs faster). When a cog is
+worn, skipping occurs for the same reason as when a chain is worn - there is a
+misfit between the chain and the cog. Cogs can also break teeth, making this
+even worse! 
+
+Note when replacing cogs that there are two types, freewheels and cassettes.
+It is crucial to know which one you have before attempting a replacement! Check
+out these sites for more details:
+
+ - https://www.sheldonbrown.com/free-k7.html
+ - https://www.parktool.com/blog/repair-help/determining-cassette-freewheel-type
+
+I've made the mistake before of trying to replace the wrong type of cog, and
+it's not fun.
 
 *Note that any links to products on this page are Amazon affiliate links.*
