@@ -9,6 +9,8 @@
    most different words you can!
  - [Semantle](https://semantle.novalis.org/), similar to DAT Creativity, but a
    daily game like Wordle.
+ - [Puzzgrid](https://puzzgrid.com/best.php), a game about matching ambiguous
+   word meanings.
 
 ## Geometrical Games
 
