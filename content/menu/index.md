@@ -211,6 +211,9 @@ headless: true
         <li><a href=
         "/docs/lifestyle-optimizations/experiences/">Experiences</a>
         <li><a href=
+        "/docs/lifestyle-optimizations/geographical-maps/">Geographical
+        Maps</a>
+        <li><a href=
         "/docs/lifestyle-optimizations/hang-drying-clothes/">Hang
         Drying Clothes</a>
         <li><a href=
@@ -330,6 +333,9 @@ headless: true
         "/docs/understanding-the-world/applying-theories/">Applying
         Theories</a>
         <li><a href=
+        "/docs/understanding-the-world/great-explanations/">Great
+        Explanations</a>
+        <li><a href=
         "/docs/understanding-the-world/individuals-vs-groups/">Individuals
         Vs Groups</a>
         <li><a href=
@@ -361,6 +367,9 @@ headless: true
       <ul>
         <li><a href="/docs/visual-art/generative-art/">Generative
         Art</a>
+        <li><a href=
+        "/docs/visual-art/inspiration-and-resources/">Inspiration
+        And Resources</a>
         <li><a href="/docs/visual-art/judging-art/">Judging Art</a>
       </ul>
     </details>
