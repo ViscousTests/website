@@ -223,6 +223,9 @@ headless: true
         "/docs/lifestyle-optimizations/home-network-and-internet-troubleshooting/">
         Home Network And Internet Troubleshooting</a>
         <li><a href=
+        "/docs/lifestyle-optimizations/lifelogging-camera/">Lifelogging
+        Camera</a>
+        <li><a href=
         "/docs/lifestyle-optimizations/my-computer-configuration-dotfiles/">
         My Computer Configuration Dotfiles</a>
         <li><a href=

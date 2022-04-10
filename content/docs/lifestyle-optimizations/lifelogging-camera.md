@@ -3,7 +3,8 @@
 Used the [iON Snapcam](https://amzn.to/3JqQ6kA).
 
 Requires this third party software to enable the time lapse:
-https://github.com/dimhoff/snapcamcontrol.
+https://github.com/dimhoff/snapcamcontrol. Use a version hosted on this site
+[here](/snapcamcontrol.html).
 
 The beeping when taking a picture is really annoying, see
 https://www.reddit.com/r/ElectronicsRepair/comments/tzmesl/how_to_silence_a_beeping_speaker_on_a_circuit/
