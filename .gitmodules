@@ -16,3 +16,6 @@
 [submodule "snapcamcontrol"]
 	path = snapcamcontrol
 	url = git@github.com:kovasap/snapcamcontrol.git
+[submodule "public"]
+	path = public
+	url = git@github.com:kovasap/kovasap.github.io.git
