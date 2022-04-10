@@ -17,6 +17,3 @@
 [submodule "website-helpers"]
 	path = website-helpers
 	url = git@github.com:kovasap/website-helpers.git
-[submodule "snapcamcontrol"]
-	path = snapcamcontrol
-	url = git@github.com:kovasap/snapcamcontrol.git

@@ -28,7 +28,7 @@ staticDir:
   - reddit-tree/release/
   - biomarker-correlator/release/
   - website-helpers/release/
-  - snapcamcontrol/
+  - snapcamcontrol/src/
 
 params:
   BookLogo: 'crow.png'
