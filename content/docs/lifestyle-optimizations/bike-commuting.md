@@ -108,6 +108,20 @@ Most repairs require some specialized tools, which are pretty cheap on Amazon
 I like to keep a couple tubes (like [this one](https://amzn.to/3qN1r87)) around
 for an easy change. I also use patch kits for small punctures.
 
+You'll also need [tire levers](https://amzn.to/3JyEIDg) to remove your tire.
+
+When changing a tube, keep in mind that your tube was damaged by something.
+This could be:
+
+ - Something that punctured your tire. Run your hands along the inside of your
+   tire near the puncture to make sure that nothing sharp is still embedded in
+   your tire!
+ - Your tire itself has a hole in it.
+ - Your tube folded as it inflated, or was otherwise pinched.
+
+You don't want to change your tube only to have your new tube break for the
+same reason!
+
 ### Skipping Gears
 
 Sometimes when you bike you may notice skipping when pedaling, especially when
