@@ -1,5 +1,8 @@
 # Puzzle Games I Recommend
 
+TODO: remove this section and add a link to the right experience tags on the
+experiences page
+
 ## Word Games
 
  - [Wordle](https://www.nytimes.com/games/wordle/index.html)
