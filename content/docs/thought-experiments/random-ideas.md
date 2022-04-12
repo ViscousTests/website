@@ -94,6 +94,14 @@ vibration arm band (as discussed in the book "Livewired" by David Eagleman) to
 "feel" blood glucose concentration.
 
 
+## Amusing
+
+### Musical Toothbrush
+
+A vibrating toothbrush that can accept a midi or other audio file. Then it will
+modulate the vibrations to the tune of the audio.
+
+
 ## Data Exploration
 
 ### Ambiguous Acronyms
