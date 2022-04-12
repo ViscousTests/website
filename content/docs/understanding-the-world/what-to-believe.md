@@ -119,6 +119,7 @@ convenience).
 See also:
 
  - https://en.wikipedia.org/wiki/Karl_Popper
+ - "The Beginning of Infinity" by David Deutsch
 
 
 ## People and Stories
@@ -139,7 +140,7 @@ sound.  Evidence that people have tried this falsification includes:
  - Write ups of experiments that were done in the effort of falsification.
 
 At a higher level, if the person in question has a history of changing their
-believes when shown new evidence, that is also a good sign.
+beliefs when shown new evidence, that is also a good sign.
 
 For those people who have a long history of believing the same story, or have
 financial or social incentives to believe said story, be wary that their
@@ -165,6 +166,30 @@ which assumes that (1) famous accomplished sciences direct future research and
 research directions that do not fit into the beliefs of the accomplished
 scientists do not get funding/attention.  It would be nice if this wasn't as
 true, but at the least there is still advancement \*shrug\*.
+
+### Reasons People Share Ideas
+
+Thinking about why an idea is being shared might make your decision of whether
+to believe it or not easier.  Note that all of these reasons are extremely
+important and enable our modern society; I'm not saying that if you are
+listening to e.g. an advocate you can just ignore everything they are saying.
+
+ - **Truth Sharing**: Simply to share the truth to others, for them to do what
+   they will with it. This type of sharing happens a lot in dense academic
+   research papers that effectively just share numbers and contain very little
+   interpretation.  It's easy to think you are doing this when you actually
+   aren't. Examples:
+    - Michael Lustgarten's YouTube Channel
+ - **Advocacy**: To change the behavior of others. For instance, sharing
+   pictures of smoker's lungs to get people to stop smoking. Or to get atheists
+   to accept God.
+    - Public health initiatives
+    - COVID vaccine advertisements
+ - **Brainstorming/Theorizing**: To get others to think about a problem or
+   model of the world that might be useful or inaccurate. Partially in the
+   hopes that others will find the model useful, and partially in the hopes
+   that others will improve or soundly reject the model.
+    - "Why Greatness Cannot be Planned" by Kenneth O. Stanley and Joel Lehman
 
 ### Belief Matrix
 
