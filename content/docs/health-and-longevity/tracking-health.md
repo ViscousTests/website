@@ -18,66 +18,6 @@ possible time is by self-experimenting to see what behaviors work best for you.
 Of course, using anecdotes/epidemiology/randomized controlled trials to inform
 what to try will greatly accelerate your ability to settle on the best habits.
 
-## Software Tools
-
-This table summarizes the functionalities of different software tools I've
-tried for personal data tracking. Here are what the columns mean:
-
-**Data Entry/Export**: Descriptions of how possible/easy it is to enter data
-into the tool and get it back out for custom storage or analysis. They use this
-legend:
-  - 🚫 = Impossible
-  - ⛏️ = Manual and Difficult
-  - 🛠️ = Manual and Ergonomic
-  - 🤖 = Automatic
-
-**Analysis**: The tool provides some way to analyzer and visualize your data to
-see trends over time or other views into the data.
-
-**DB Comparison**: The tool compares your data to external data sources as part
-of the visualization to help put said data into context (e.g. is my value too
-high or too low).
-
-**Recommendations**: The tool makes specific recommendations about how you
-should behave given your input data.
-
-Each column value follows this legend:
- - 🚫 = Feature Doesn't Exist
- - ✔️ = Feature Available
-
-
-| Tool                                                                        | Specialty      | Data Entry | Data Export | Analysis | DB Comparison | Recommendations |
-|-----------------------------------------------------------------------------|----------------|------------|-------------|----------|---------------|-----------------|
-| [Cronometer](https://cronometer.com/)                                       | Food           | 🛠️         | 🛠️          | ✔️        | ✔️             | 🚫              |
-| [Bitesnap](https://getbitesnap.com/)                                        | Food           | 🛠️         | 🛠️          | ✔️        | ✔️             | 🚫              |
-| [SleepAsAndroid](https://sleep.urbandroid.org/)                             | Sleep          | 🛠️+🤖      | 🤖          | ✔️        | 🚫            | ✔️               |
-| [MomentoDB](https://mementodatabase.com/)                                   | General Data   | 🛠️         | 🤖          | ✔️        | 🚫            | 🚫              |
-| [ActivityWatch](https://activitywatch.net/)                                 | PC/Phone Usage | 🤖         | 🛠️*         | ✔️        | 🚫            | 🚫              |
-| [Google Drive](https://drive.google.com)                                    | General Data   | ⛏️          | 🤖          | 🚫       | 🚫            | 🚫              |
-| [GPSLogger](https://gpslogger.app/)                                         | Location       | 🤖         | 🤖          | 🚫       | 🚫            | 🚫              |
-| [Google Maps Timeline](https://maps.google.com/timeline)                    | Location       | 🤖         | ⛏️           | ✔️        | 🚫            | 🚫              |
-| [Google Fit](https://www.google.com/fit/)                                   | Fitness        | 🛠️+🤖      | ⛏️           | ✔️        | 🚫            | 🚫              | :
-| [Biomarker Correlator](https://kovasap.github.io/biomarker-correlator.html) | General Data   | ⛏️          | 🚫          | ✔️        | ✔️             | 🚫              | :
-| [Young.ai](https://www.young.ai/)                                           | Health Data    | ⛏️?         | ⛏️?          | ✔️        | ✔️             | ✔️               | :
-
-*ActivityWatch automatic export is [in progress](https://github.com/ActivityWatch/activitywatch/issues/35).
-
-
-## General Methods
-
-I try to store as much personal data in Google Drive as possible. I find it
-convenient to access both manually and programmatically. I've written a program
-called ["autojournal"](https://github.com/kovasap/autojournal) to parse data
-from my Drive (and some other places) and display it both in graphs (see my
-[CGM]({{< relref "/docs/health-and-longevity/continuous-glucose-monitoring.md"
->}}) page) and on my Google
-calendar.
-
-For tracing of general information, I've found
-[Momentodb](https://mementodatabase.com/) for Android to be super useful. It can
-track almost any data type with very few taps, AND it syncs to Google Drive
-(Sheets) automatically!
-
 ## Inputs
 
 These are things you can change or habits you can adapt to effect your health.

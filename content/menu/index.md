@@ -199,6 +199,17 @@ headless: true
   <li>
     <details>
       <summary>
+        <strong>Lifelogging</strong>
+      </summary>
+      <ul>
+        <li><a href="/docs/lifelogging/camera/">Camera</a>
+        <li><a href="/docs/lifelogging/what-and-why/">What And
+        Why</a>
+      </ul>
+    </details>
+  <li>
+    <details>
+      <summary>
         <strong>Lifestyle Optimizations</strong>
       </summary>
       <ul>
@@ -222,9 +233,6 @@ headless: true
         <li><a href=
         "/docs/lifestyle-optimizations/home-network-and-internet-troubleshooting/">
         Home Network And Internet Troubleshooting</a>
-        <li><a href=
-        "/docs/lifestyle-optimizations/lifelogging-camera/">Lifelogging
-        Camera</a>
         <li><a href=
         "/docs/lifestyle-optimizations/my-computer-configuration-dotfiles/">
         My Computer Configuration Dotfiles</a>
