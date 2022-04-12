@@ -136,13 +136,8 @@ Would use [Momentodb](https://mementodatabase.com/) for this.
 Might correlate with gut health somehow, which might correlate to longer
 healthspan?
 
-
-## Things to try
+### Mood and Mental State
 
  - Mood tracking via heart data: https://upmood.com/
 
 
-## Inspirational Projects
-
- - Time tracking: https://www.reddit.com/r/dataisbeautiful/comments/radi1e/oc_i_tracked_every_minute_of_every_day_for_the/
- - http://karpathy.github.io/2014/08/03/quantifying-productivity/

@@ -203,6 +203,7 @@ headless: true
       </summary>
       <ul>
         <li><a href="/docs/lifelogging/camera/">Camera</a>
+        <li><a href="/docs/lifelogging/influences/">Influences</a>
         <li><a href="/docs/lifelogging/what-and-why/">What And
         Why</a>
       </ul>
