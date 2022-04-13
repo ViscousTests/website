@@ -34,6 +34,11 @@ diet](https://michaellustgarten.com/2019/11/10/12-16-years-younger-than-my-chron
 although very personalized, may be a good starting point for a generally
 healthy diet.
 
+## [Longevity Advice](https://www.longevityadvice.com/)
+
+Cool blog that does reviews of different longevity topics. I like their style,
+and their content is generally of good quality.
+
 ## [Microbial Burden by Michael Lustgarten](https://michaellustgarten.com/2016/11/18/microbial-burden-a-major-cause-of-aging-and-age-related-disease/)
 
 This book makes the conjecture that age may be partially (or primarily) because
