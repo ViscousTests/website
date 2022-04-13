@@ -83,6 +83,14 @@ little we know about the gut, there isn't a lot of super actionable advice
 here, except eating lots of fiber or "Microbiota Accessible Carbohydrates"
 ("MACS") as they're referred to in the book.
 
+## [Hormesis: A Revolution in Biology, Toxicology, and Medicine by Mark Mattson
+et. al.](https://link.springer.com/book/10.1007/978-1-60761-495-1)
+
+Collection of research on the concept of hormesis, or the idea that
+toxins/stressors are actually beneficial in low quantities, and become toxic
+past a certain threshold. Really dense scientific paper collection that I
+haven't fully digested. I think the core idea is really interesting though!
+
 ## [The Blue Zones Solution](https://www.bluezones.com/2015/04/the-blue-zones-solution-secrets-of-the-worlds-healthiest-people-9-questions-for-dan-buettner/)
 
 The "Blue Zones" organization seeks to identify "blue zones" around the world
