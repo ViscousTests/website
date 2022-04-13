@@ -31,6 +31,17 @@ snack. This pretty much never works for me, always making me more tired then
 before I ate the snack. Green tea is a good placeholder to have instead. Or
 even better, an engaging activity that captures my attention.
 
+This strategy also has the danger of going on a snack train when having my
+second meal. If I eat too much in the evening, it leads to much poorer sleep
+for me (possibly because the energy in the food is released as heat and
+excitement when I am sleeping). I don't have a great consistent way to avoid
+this problem yet, besides my willpower (which is not consistent :/). Some
+tricks that kinda work are:
+
+ - Lining up an engaging activity to do right after I eat, so I don't just
+   default to snacking more.
+ - Drinking tea or broth after eating as a replacement behavior.
+
 ## Diet Composition
 
 ### Confidence Levels
@@ -126,7 +137,7 @@ haven't seen them. Here is an interesting review:
 
  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5658984/
 
- I buy mostly non organic food because it is cheaper.
+I buy mostly non organic food because it is cheaper.
 
 
 
