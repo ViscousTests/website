@@ -17,7 +17,23 @@ with me includes:
 
 Good examination of fasting, as well as an overview of different ways to think
 about how to determine which diet is the healthiest long term (Longo's "5
-Pillars").
+Pillars"). Provides some compelling theories of aging, with interesting
+yeast/mice/human results.
+
+## [Michael Lustgarten's Diet](https://www.youtube.com/watch?v=jOis-MXCwCs&t=1s)
+
+Michael Lustgarten is heroically tracking all the food he eats and doing
+regular blood testing.  [His
+diet](https://michaellustgarten.com/2019/11/10/12-16-years-younger-than-my-chronological-age-whats-my-diet/),
+although very personalized, may be a good starting point for a generally
+healthy diet.
+
+## [Microbial Burden by Michael Lustgarten](https://michaellustgarten.com/2016/11/18/microbial-burden-a-major-cause-of-aging-and-age-related-disease/)
+
+This book makes the conjecture that age may be partially (or primarily) because
+of our bodies waning ability to compete with (or stay in sync with) the
+microbes that colonize us. Not a ton of actionable info, but presents some
+really compelling theories!
 
 ## [Lifespan by David Sinclair](https://lifespanbook.com/)
 
@@ -32,12 +48,6 @@ David Sinclair is pretty optimistic and eager to promote things that are not
 I haven't dug deeply into this website, but my skimming has found that it's a
 pretty good way to determine which books to trust and which not to - a **very**
 important task given the plethora of bad nutrition advice out there.
-
-## [Michael Lustgarten's Diet](https://michaellustgarten.com/2019/11/10/12-16-years-younger-than-my-chronological-age-whats-my-diet/)
-
-Michael Lustgarten is heroically tracking all the food he eats and doing
-regular blood testing.  His diet, although very personalized, may be a good
-starting point for a generally healthy diet.
 
 ## [In Defense of Food by Michael Pollan](https://michaelpollan.com/books/in-defense-of-food/)
 
@@ -54,6 +64,11 @@ are dissolved/complexed within.
 Good podcast surveying many different longevity-related topics in a long form
 format. Episodes vary in quality based on the guests :).
 
+## [Found my Fitness Podcast by Rhonda Patrick](https://www.foundmyfitness.com/episodes)
+
+Provides a good survey of the longevity space. Does contain a lot of over-hyped
+content (IMO), so episodes vary in quality.
+
 ## [The Good Gut](https://sonnenburglab.stanford.edu/press.html)
 
 Great book about microbiome health.  Does a good job revealing what we do know
@@ -61,6 +76,15 @@ about the gut and how frighteningly little that is!  Unfortunately, due to how
 little we know about the gut, there isn't a lot of super actionable advice
 here, except eating lots of fiber or "Microbiota Accessible Carbohydrates"
 ("MACS") as they're referred to in the book.
+
+## [The Blue Zones Solution](https://www.bluezones.com/2015/04/the-blue-zones-solution-secrets-of-the-worlds-healthiest-people-9-questions-for-dan-buettner/)
+
+The "Blue Zones" organization seeks to identify "blue zones" around the world
+with above average longevity and try to learn from the habits of the people in
+these zones. The overall recommendation is a standard "whole foods, plant
+based" diet.  Interestingly, the "blue zones" philosophy addresses more things
+outside of diet (like a social community) that it recommends be holistically
+adopted with its diet recommendations.
 
 ## [The Queen of Fats by Susan Allport](http://www.susanallport.com/)
 
@@ -99,6 +123,14 @@ into the keto- space.  AFAIK, ketogenic diets are more linked to brain health
 than other diets.  I think it falls into the same trap as Michael Gregor, but
 not quite as badly.  It's a good intro to lots of cool food/health topics to
 explore more independently.  
+
+## [Why We Sleep by Matthew Walker](https://www.goodreads.com/book/show/34466963-why-we-sleep)
+
+This book provides some insight into the mechanisms of sleep, and advocates
+that people should generally spend more time sleeping (or give sleep more value
+that they currently do).  See an interesting discussion at
+https://guzey.com/books/why-we-sleep/.
+
 
 ## Biohack Stack
 

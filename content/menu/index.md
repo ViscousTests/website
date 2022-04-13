@@ -251,6 +251,9 @@ headless: true
         <li><a href=
         "/docs/lifestyle-optimizations/this-website/">This
         Website</a>
+        <li><a href=
+        "/docs/lifestyle-optimizations/utilizing-body-state/">Utilizing
+        Body State</a>
         <li><a href="/docs/lifestyle-optimizations/vim-tricks/">Vim
         Tricks</a>
       </ul>
