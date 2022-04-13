@@ -18,7 +18,13 @@ with me includes:
 Good examination of fasting, as well as an overview of different ways to think
 about how to determine which diet is the healthiest long term (Longo's "5
 Pillars"). Provides some compelling theories of aging, with interesting
-yeast/mice/human results.
+yeast/mice/human results. In this book [Longo advocates for a whole food plant
+based diet, interestingly limiting protein
+intake](https://www.valterlongo.com/daily-longevity-diet-for-adults/) (unlike
+many other health advocates).
+
+See [this paper](https://www.nature.com/articles/s43587-020-00013-3) for a good
+summarized review of Longo's thoughts on fasting.
 
 ## [Michael Lustgarten's Diet](https://www.youtube.com/watch?v=jOis-MXCwCs&t=1s)
 
