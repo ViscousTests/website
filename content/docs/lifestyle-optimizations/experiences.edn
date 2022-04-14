@@ -181,11 +181,11 @@
 
  ["[Wordle](https://www.nytimes.com/games/wordle/index.html)"
   "A fun word game."
-  ["game" "social" "turn-based"]
+  ["game" "social" "turn-based" "puzzle"]
   [["Scanning through possibilities"]]]
 
  ["Slipways"
   "A video game about colonizing planets and connecting them with trade
   routes."
-  ["game" "solitary" "turn-based"]
+  ["game" "solitary" "turn-based" "puzzle"]
   [["Scanning through possibilities"]]]]
