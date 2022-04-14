@@ -42,6 +42,11 @@ tricks that kinda work are:
    default to snacking more.
  - Drinking tea or broth after eating as a replacement behavior.
 
+## Fasting
+
+I haven't done a long fast in a while, but am experimenting with fasting one
+day a week (Saturday) and still want to do a long fast 3x per year.
+
 ## Diet Composition
 
 ### Confidence Levels
