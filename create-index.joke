@@ -64,7 +64,8 @@
     (j/println filepath)
     (if (= (count (last inner-list)) 0)
       nil
-      [:li [:details [:summary [:strong (to-title filepath)]] inner-list]])))
+      [:li [:details {:id (:name file-map)}
+            [:summary [:strong (to-title filepath)]] inner-list]])))
 
 (defn create-index []
    (h/html (make-dir-contents "content/docs")))

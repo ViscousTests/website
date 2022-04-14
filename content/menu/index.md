@@ -4,7 +4,7 @@ headless: true
 <ul>
   <li><a href="/docs/manifesto/">Manifesto</a>
   <li>
-    <details>
+    <details id="climbing">
       <summary>
         <strong>Climbing</strong>
       </summary>
@@ -13,7 +13,7 @@ headless: true
         <li><a href="/docs/climbing/safety-checklist/">Safety
         Checklist</a>
         <li>
-          <details>
+          <details id="event-reports">
             <summary>
               <strong>Event Reports</strong>
             </summary>
@@ -38,7 +38,7 @@ headless: true
       </ul>
     </details>
   <li>
-    <details>
+    <details id="datavis">
       <summary>
         <strong>Datavis</strong>
       </summary>
@@ -48,7 +48,7 @@ headless: true
       </ul>
     </details>
   <li>
-    <details>
+    <details id="gamedev">
       <summary>
         <strong>Gamedev</strong>
       </summary>
@@ -59,7 +59,7 @@ headless: true
         Context</a>
         <li><a href="/docs/gamedev/my-projects/">My Projects</a>
         <li>
-          <details>
+          <details id="game-ideas">
             <summary>
               <strong>Game Ideas</strong>
             </summary>
@@ -76,7 +76,7 @@ headless: true
             </ul>
           </details>
         <li>
-          <details>
+          <details id="mechanic-ideas">
             <summary>
               <strong>Mechanic Ideas</strong>
             </summary>
@@ -92,7 +92,7 @@ headless: true
       </ul>
     </details>
   <li>
-    <details>
+    <details id="gaming">
       <summary>
         <strong>Gaming</strong>
       </summary>
@@ -113,7 +113,7 @@ headless: true
       </ul>
     </details>
   <li>
-    <details>
+    <details id="health-and-longevity">
       <summary>
         <strong>Health And Longevity</strong>
       </summary>
@@ -163,7 +163,7 @@ headless: true
       </ul>
     </details>
   <li>
-    <details>
+    <details id="hydroponics">
       <summary>
         <strong>Hydroponics</strong>
       </summary>
@@ -173,7 +173,7 @@ headless: true
       </ul>
     </details>
   <li>
-    <details>
+    <details id="investing-and-finances">
       <summary>
         <strong>Investing And Finances</strong>
       </summary>
@@ -197,7 +197,7 @@ headless: true
       </ul>
     </details>
   <li>
-    <details>
+    <details id="lifelogging">
       <summary>
         <strong>Lifelogging</strong>
       </summary>
@@ -209,7 +209,7 @@ headless: true
       </ul>
     </details>
   <li>
-    <details>
+    <details id="lifestyle-optimizations">
       <summary>
         <strong>Lifestyle Optimizations</strong>
       </summary>
@@ -259,7 +259,7 @@ headless: true
       </ul>
     </details>
   <li>
-    <details>
+    <details id="mind">
       <summary>
         <strong>Mind</strong>
       </summary>
@@ -288,7 +288,7 @@ headless: true
       </ul>
     </details>
   <li>
-    <details>
+    <details id="morality">
       <summary>
         <strong>Morality</strong>
       </summary>
@@ -301,7 +301,7 @@ headless: true
       </ul>
     </details>
   <li>
-    <details>
+    <details id="software-dev">
       <summary>
         <strong>Software Dev</strong>
       </summary>
@@ -324,7 +324,7 @@ headless: true
       </ul>
     </details>
   <li>
-    <details>
+    <details id="thought-experiments">
       <summary>
         <strong>Thought Experiments</strong>
       </summary>
@@ -339,7 +339,7 @@ headless: true
       </ul>
     </details>
   <li>
-    <details>
+    <details id="understanding-the-world">
       <summary>
         <strong>Understanding The World</strong>
       </summary>
@@ -375,7 +375,7 @@ headless: true
       </ul>
     </details>
   <li>
-    <details>
+    <details id="visual-art">
       <summary>
         <strong>Visual Art</strong>
       </summary>
