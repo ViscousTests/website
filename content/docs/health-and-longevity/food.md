@@ -49,6 +49,10 @@ day a week (Saturday) and still want to do a long fast 3x per year.
 
 ## Diet Composition
 
+I'm playing with using [this eatthismuch meal
+plan](https://www.eatthismuch.com/dietset/196607506/) as a general description
+of what my food intake looks like.
+
 ### Confidence Levels
 
 Because it is hard (for me at least) to get good, immediate feedback from my
