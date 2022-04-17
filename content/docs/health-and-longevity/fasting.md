@@ -1,6 +1,20 @@
 # Fasting
 
-## Fasting Mimicking Diet - January 2020
+## Why fast?
+
+Alternate day fasting and periodic prolonged fasting (2-5 days of fasting once
+every 1-4 months) seem to have a protective effect against many (all?) age
+related diseases, suggesting that it may also slow the aging process itself.
+See this review for a good summary of the research: [Intermittent and periodic
+fasting, longevity and
+disease](https://www.nature.com/articles/s43587-020-00013-3).
+
+One eye-catching result is [this study, where rats lives ~80% longer when on an
+alternate day fasting regimine](https://pubmed.ncbi.nlm.nih.gov/7117847/).
+
+## My Experiences
+
+### Fasting Mimicking Diet - January 2020
 
 I started getting interested in fasting after reading [The Longevity Diet by
 Valter Longo](https://www.valterlongo.com/the-longevity-diet/).  Based on the
@@ -22,7 +36,7 @@ work, and I don't remember working intensely on any particular project during
 this time, so I wouldn't consider this a "stress test" of the diet.
 
 
-## Water Only Fast - December 2020
+### Water Only Fast - December 2020
 
 Further exposure to fasting proponents, especially Peter Attia (via e.g. [his
 podcast with Eileen White](https://peterattiamd.com/eileenwhite/), made me

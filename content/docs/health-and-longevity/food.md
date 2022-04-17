@@ -1,4 +1,6 @@
-# Food Goals
+# Food
+
+## Goals
 
 1. Delay chronic diseases as long as possible.  Described well in [this talk by
    Peter Attia](https://vimeo.com/228845024).  The
@@ -12,9 +14,9 @@
    1. "Food coma-ing".
    1. "Snack train-ing", or continuous distraction by a desire to eat more.
 
-# Current Eating Habits and Opinions (3/2022)
+## Current Eating Habits and Opinions (3/2022)
 
-## Food Timing
+### Food Timing
 
 I try to eat a breakfast after I wake up - around 9am, since I wake up around
 8:30am.  Then I tend not to eat lunch, and instead eat my second (and last)
@@ -42,18 +44,20 @@ tricks that kinda work are:
    default to snacking more.
  - Drinking tea or broth after eating as a replacement behavior.
 
-## Fasting
+### [Fasting]({{< relref "/docs/health-and-longevity/fasting.md" >}}).
 
 I haven't done a long fast in a while, but am experimenting with fasting one
-day a week (Saturday) and still want to do a long fast 3x per year.
+day a week (Saturday) and still want to do a long fast 3x per year.  
 
-## Diet Composition
+### Diet Composition
 
 I'm playing with using [this eatthismuch meal
 plan](https://www.eatthismuch.com/dietset/196607506/) as a general description
-of what my food intake looks like.
+of what my food intake looks like. I should probably eat less fat to adhere to
+[Valter Longo's
+recommendations](https://www.valterlongo.com/daily-longevity-diet-for-adults/).
 
-### Confidence Levels
+#### Confidence Levels
 
 Because it is hard (for me at least) to get good, immediate feedback from my
 body about which foods are the "healthiest" for me in the long term, I instead
@@ -81,7 +85,7 @@ effectively identify and correct them.
 TODO move these emojis to a more central location so I can use them in other
 writings.
 
-### Meat (non-fish)
+#### Meat (non-fish)
 
 I try to avoid eating meat. There are a bunch of weak reasons for this:
 
@@ -103,23 +107,27 @@ I try to avoid eating meat. There are a bunch of weak reasons for this:
 1. The "blue zone" communities around the world with high health- and
    life-spans [eat little
    meat](https://www.bluezones.com/recipes/food-guidelines/) 📈.
+1. It seems like [low protein consumption (especially animal protein) might
+   slow aging](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4807119/). See
+   [this comprehensive macronutrient mouse
+   study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5087279/).
 
-### Fish
+#### Fish
 
 I eat fish and other seafood, but rarely (I don't cook it myself).
 
-### Eggs
+#### Eggs
 
 I eat ~4 eggs a day ~4 times per week.
 
-### Dairy
+#### Dairy
 
 I eat a small amount of yogurt and cheese. I try to avoid all other dairy
 products as best I can. My throat is irritated when I drink plain milk and
 excessive consumption of any dairy product upsets my digestion, so I think I am
 somewhat personally intolerant of at least dairy from cows 🧠.
 
-### Whole Foods
+#### Whole Foods
 
 This includes any food that has not had components stripped from it at a small
 scale. For instance, I would consider a berry a whole food even though it was
@@ -138,7 +146,7 @@ It also seems well supported and not controversial that eating whole foods
 helps delay the onset of the most common causes of death (cardiovascular
 disease, cancer, and neurodegenerative disease) 📚. 
 
-### Organic?
+#### Organic?
 
 I haven't found strong evidence that organic food is healthier than non
 organic. But it could be that the right studies just haven't been done yet or I
@@ -151,7 +159,7 @@ I buy mostly non organic food because it is cheaper.
 
 
 
-# What should I eat and when? (2021)
+## What should I eat and when? (2021)
 
 The most convincing diet structure I've found has been [The Longevity Diet by
 Valter Longo](https://www.valterlongo.com/daily-longevity-diet-for-adults/).
@@ -196,9 +204,9 @@ Other tenants I try to live by:
 
 1. Eating whole foods as much as possible.
 
-## My Current Food Strategy
+### My 2021 Food Strategy
 
-### Things I try to avoid
+#### Things I try to avoid
 
  - Dairy
  - Meat
@@ -215,13 +223,13 @@ Note also that avoiding animals products is partially for health reasons
 industry is not easy for me to support.
 
 
-### Things I try to moderate
+#### Things I try to moderate
 
  - Eating more than 1/2 cup of (dry volume) beans or grains at once. A large amount of
    my calories come from these foods - I've just noticed that eating a lot in one
    sitting saps my energy, I assume because they take work to digest.
 
-## One Meal A Day (OMAD)
+### One Meal A Day (OMAD)
 
 I tried this for a while, and I found myself falling into the recurring pattern
 of overeating because "this is all the food I'll eat today". This is especially
@@ -234,20 +242,30 @@ that later" when I get a craving for something right after a meal. This avoids
 a state of overeating, and I may later end up not craving that thing, which
 means I'll eat less overall that day (which is generally good).
 
-# Hunger, and Physical States of Being
+## Hunger, and Physical States of Being
 
 One thing I've noticed is that my body can be in different "states" that affect
 my hunger levels. Some examples:
 
- - When sitting around for a while (not moving), I tend to want food.
- - When eating some food (e.g. a snack sized meal), I tend to want food.
- - A couple hours after  overeating, my body enters a low energy state where it
-   seems to just want to eat more food since other tasks seem harder to do.
- - When exercising (and afterward), I tend to not want food.
- - When being busy with many straightforward tasks, I tend to not want food.
- - When working on something hard that isn't going well, but doesn't have a
-   time pressure, I tend to want food as a distraction.
- - When interacting with other people, I tend to not want food.
+**Induces Hunger**:
+
+ - Sitting around for a while (not moving).
+ - Being bored, or not knowing what to do with myself.
+ - Eating some food (e.g. a snack sized meal). The effect is more powerful when
+   I eat something, then am presented with something of a different flavor
+   profile.
+ - Overeating will sometimes make me hungry/snack-y for the rest of the day (or
+   an extended period of time). I think this is partially because feeling
+   overfull makes me less motivated to do stuff, and so I get bored.
+ - Working on something that isn't going well. Generally stress. Food is a good
+   procrastination tool.
+
+**Suppresses Hunger**:
+
+ - Exercising
+ - Being busy
+ - Social interaction
+ - Taking a shower
 
 One theory I have is that my body gets hungry when it notices that (1) there is
 food around and (2) I have time/space to digest after I eat (I wont need to
@@ -260,7 +278,7 @@ Some habits that take advantage of this concept include:
  - Eating one meal a day, so that I don't have a "snack-train" problem of
    having future meals induce hunger.
 
-## "Snack Train"-ing
+### "Snack Train"-ing
 
 One pattern I've noticed in myself that eating food will put me in a
 lower-focus mood for 1-4 hours depending on how much and what I ate. If I try
@@ -276,16 +294,8 @@ really hard, because doing things that require focus is fulfilling :(.
 I'm basically just writing this as a reminder to myself to push through when
 I'm in this mood for the sake of my future self!
 
-# Fasting
 
-One of the big takeaways I've gotten from my readings so far is that spending a
-good amount of time in a "fasted" or food deprived state is good for many
-reasons.  I therefore try to eat when I'm hungry (not bored) within a shorter
-period of the day.  I've also [had good success with prolonged
-fasting](/docs/eating/fasting.md).
-
-
-# Measuring Personal Dietary Effects
+## Measuring Personal Dietary Effects
 
 Ideally, I would measure the effects of different foods on my personal health
 directly so that I know what works for me (as opposed to what should work
@@ -298,7 +308,7 @@ should probably explore at some point:
    also [Aging.ai](http://aging.ai/).
 
 
-# What fats to eat?
+## What fats to eat?
 
 Probably mostly mono- and poly-unsaturated fatty acids (not saturated fatty
 acids).
@@ -307,15 +317,15 @@ acids).
  - https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.118.038908
 
 
-# Protein
+## Protein
 
 Cool table of calories per gram of protein:
 https://www.healthyalyona.com/nutrition/plant-based-protein-lowest-calories/
 
 
-# Specific Food Notes
+## Specific Food Notes
 
-## Processed Meat
+### Processed Meat
 
 [Carcinogenic according to the
 WHO](https://www.who.int/news-room/questions-and-answers/item/cancer-carcinogenicity-of-the-consumption-of-red-meat-and-processed-meat).
@@ -323,7 +333,7 @@ WHO](https://www.who.int/news-room/questions-and-answers/item/cancer-carcinogeni
 worldwide can be attributed to processed meat, compared to 1mil to smoking,
 600k to drinking alcohol, and 200k to air pollution.
 
-## Advanced Glycation End Products
+### Advanced Glycation End Products
 
 Created by high heat cooking of especially protein-rich foods (e.g. meat/nuts).
 But all foods contain.  Ideal to reduce the amount of this eaten.
@@ -339,12 +349,12 @@ These are also formed endogenously when sugars react with proteins/fats
 (https://en.wikipedia.org/wiki/Advanced_glycation_end-product). This may be one
 of the reasons why sugar is bad for you.
 
-## Flax Seeds
+### Flax Seeds
 
 It seems like baking flax seeds will not degrade omega-3 content ([biased
 source](https://www.goldenvalleyflax.com/flax-facts/health-research-articles/flaxseed-storage-baking-stability/)).
 
-## Nutritional Yeast
+### Nutritional Yeast
 
 Contains MSG ([probably not
 harmful](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6952072/)) and uric acid
