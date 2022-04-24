@@ -101,6 +101,13 @@ vibration arm band (as discussed in the book "Livewired" by David Eagleman) to
 A vibrating toothbrush that can accept a midi or other audio file. Then it will
 modulate the vibrations to the tune of the audio.
 
+### Random Ice Prank
+
+Put [two liquids that
+freeze](https://pubs.acs.org/doi/10.1021/acs.macromol.8b00239) (or get cold)
+when mixed in a laundry machine, surprising whoever goes to transfer their
+clothes!
+
 
 ## Data Exploration
 

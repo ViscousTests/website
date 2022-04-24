@@ -326,6 +326,8 @@ headless: true
         <li><a href=
         "/docs/thought-experiments/artificial-intelligence/">Artificial
         Intelligence</a>
+        <li><a href="/docs/thought-experiments/life-quests/">Life
+        Quests</a>
         <li><a href=
         "/docs/thought-experiments/random-ideas/">Random Ideas</a>
         <li><a href="/docs/thought-experiments/two-glasses/">Two
