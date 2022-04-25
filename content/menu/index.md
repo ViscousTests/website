@@ -97,6 +97,7 @@ headless: true
         <strong>Gaming</strong>
       </summary>
       <ul>
+        <li><a href="/docs/gaming/buying-games/">Buying Games</a>
         <li><a href="/docs/gaming/chess/">Chess</a>
         <li><a href="/docs/gaming/fps-principles/">Fps
         Principles</a>
