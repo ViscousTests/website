@@ -1,4 +1,6 @@
-# General Cooking Tips
+# Cooking 
+
+## General Cooking Tips
 
 If you're interested in experimenting with new food combinations, one technique
 that has served me pretty well I call the "trifecta of flavor".  The way it
@@ -7,7 +9,7 @@ butter) and you add a third food that goes well with one of the foods but would
 be weird to combine with the other (e.g. spinach in this case).  More often
 than not, the result is actually pretty good!
 
-# Microwave Steam Bowls
+## Microwave Steam Bowls
 
 A really easy and convenient way to make some pretty tasty (and healthy!) food.
 The basic premise is that you add your vegetables with a splash of water to a
@@ -15,24 +17,24 @@ bowl, cover it with a plate, and microwave for 5-8 minutes. Then you add extra
 flavors and enjoy! It's easy to get creative with the cooking technique, but
 here are some examples:
 
-## Carrots/Onions
+### Carrots/Onions
 
 Chop carrots and onions, add water and cook, finish with almond butter and
 salt.  Add chia seeds optionally to soak up the water!
 
-## Thai Carrots/Onions
+### Thai Carrots/Onions
 
 Same recipe as before, but instead of almond butter, use natural (e.g. Adams)
 peanut butter with soy sauce, ginger, garlic, and optionally lime juice.
 
-## Honey Walnut Shrimp Inspired
+### Honey Walnut Shrimp Inspired
 
 Chop cabbage, add water and cook with brown rice, finish with walnuts and
 mayonnaise. 
 
-# Staples
+## Staples
 
-## Flax Peanut Butter
+### Flax Peanut Butter
 
 Mixing ground flaxseed and natural peanut butter in around a 1:1 ratio makes a
 great nut butter!  You'll need to add some water to make it a paste (and not
@@ -43,15 +45,21 @@ omega-6 and 0.3g omega-3 fatty acids.  Per 100g, flax seeds have 5.9g omega-6
 and 22.8g omega-3 fatty acids.  So combined, we have 23.1g omega3 and 15.6g
 omega-6, a **~1.5 ratio**!  Data was taken from NCCDB via Cronometer.
 
-## Oats
+### Oats
 
  - 1 cup rolled oats
  - 2 cups water
+ - Some salt
 
 Boil water, add oats, cook for 5 mins on stovetop.  Watch out for boiling over
 in first couple minutes!  Can also microwave for 3 mins.
 
-## Roasted Vegetables
+To make overnight oats, use the same ratios, but just leave the oats in the
+fridge overnight instead of cooking. I highly recommend addng chia seeds and/or
+coconut and/or some other kind of nut + some fruit when making overnight oats.
+Yogurt is also good.
+
+### Roasted Vegetables
 
 All at 425F.
 
@@ -69,13 +77,33 @@ chart](https://www.myfrugalhome.com/vegetable-roasting-times-chart/).
 Add thyme, rosemary, salt, garlic for extra flavor!  Add olive oil after or
 before.
 
+### Soup
 
-## Green Beans
+Saute (cook) onions, carrots, and/or celery for ~5 minutes in a soup pot with
+some olive oil.  Add garlic and cook for ~1 more minute.
 
-Boil for 3 mins.  Good in pasta!
+Next, add a bunch of either stock or water with stock concentrate (e.g. "Better
+Than Bullion") and add chopped ingredients to boil based on this time table:
+
+Ingredient      | Time (mins)
+---------       | -----------
+Beans           | 90-120 + presoaking overnight
+Greens          | 3-5
+Green beans     | 3
+Lentils         | 25
+Potatoes        | 20
+Barley          | 50
+Pasta           | 8-12
+Brown Rice      | 45
+White Rice      | 15
+
+This table is also accurate for just boiling anything - not necessarily as a
+part of a soup.
 
 
-## Apple Oat Almond Cookies/Smoothie
+## Baking
+
+### Apple Oat Almond Cookies/Smoothie
 
  - 3 large apples
  - 1 cup rolled oats
@@ -91,22 +119,7 @@ Boil for 3 mins.  Good in pasta!
 From
 [vegevega.com](https://vegevega.com/healthy-3-ingredient-apple-almond-breakfast-cookies/)
 
-
-## Chia Oat Pudding
-
- - 1/4 cup of rolled oats (2 cups)
- - 1 Tbsp chia seeds (0.5 cup)
- - 2/3 cup milk (I use coconut) (5 cups)
- - 1 Tbsp desiccated coconut (0.5 cup)
- - 1 tsp raw honey (1/8 cup)
- - 1/4 tsp cinnamon
- - 1/2 banana, mashed (optional)
-
-Toppings - fresh berries or diced fruit, dried berries or fruit, chopped nuts,
-seeds, nut butter, yogurt, granola, shredded coconut, bee pollen, cacao nibs
-
-
-## Granola
+### Granola
     
  - 3 cups rolled oats
  - 1 cup slivered almonds
@@ -132,12 +145,12 @@ evenly distributed.
 Recipe courtesy of Alton Brown.
 
 
-## Sweet Potato Pancakes
+### Sweet Potato Pancakes
 
 TODO find recipe that we used!
 
 
-## Flax Bread
+### Flax Bread
 
  - 2 and 1/2 cups flaxseed meal
  - 1 tablespoon baking powder
@@ -155,7 +168,7 @@ From https://www.powerhungry.com/2019/06/2-ingredient-flax-sandwich-bread-vegan-
 TODO Try adding carrots to this!
 
 
-## Banana Bread
+### Banana Bread
 
  - 5 very ripe bananas, mashed
  - 1 egg
@@ -174,12 +187,12 @@ In a medium mixing bowl, mash the bananas then add everything else and mix.
 Pour the mix into the prepared loaf pan.  Bake for 50-60 minutes, or until a
 toothpick inserted comes out clean and top is golden brown
 
-Inspired by https://www.asweetpeachef.com/banana-nut-bread/#wprm-recipe-container-29897
+Inspired by https://www.asweetpeachef.com/banana-nut-bread/##wprm-recipe-container-29897
 
 
-# Bread Machine Recipes
+## Bread Machine Recipes
 
-## Black Bean Bread
+### Black Bean Bread
 
  - 1  cup  water
  - 3/4  cup  beans
@@ -194,9 +207,9 @@ Inspired by https://www.asweetpeachef.com/banana-nut-bread/#wprm-recipe-containe
  Use whole wheat cycle on 1.5 lb loaf.
 
 
-# Desserts
+## Desserts
 
-## Strawberry Rhubarb Crisp
+### Strawberry Rhubarb Crisp
 
 **For the rhubarb:**
  - 3 cups rhubarb sliced
@@ -220,9 +233,9 @@ Inspired by https://www.asweetpeachef.com/banana-nut-bread/#wprm-recipe-containe
 1. Bake for 35mins or more.  Sometimes mixing the crumble on top helps more
    evenly brown.
 
-Inspired by https://beautifulingredient.com/strawberry-rhubarb-crisp/#recipe.
+Inspired by https://beautifulingredient.com/strawberry-rhubarb-crisp/##recipe.
 
-## Apple Crisp
+### Apple Crisp
 
 Filling:
  - ~5 apples
@@ -240,7 +253,7 @@ Filling:
  
  Bake at 400F for 45 minutes.
 
-## Creme Brulee
+### Creme Brulee
 
  - 2 cups heavy or light cream, or half-and-half
  - 1 vanilla bean, split lengthwise, or 1 teaspoon vanilla extract
@@ -263,7 +276,7 @@ Filling:
    minutes. Serve within two hours.
 
 
-## Oil Pie Crust
+### Oil Pie Crust
 
  - 2 cups all purpose flour
  - 1/2 tsp salt
