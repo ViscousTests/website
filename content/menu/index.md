@@ -149,6 +149,9 @@ headless: true
         <li><a href=
         "/docs/health-and-longevity/influences/">Influences</a>
         <li><a href=
+        "/docs/health-and-longevity/misc-research/">Misc
+        Research</a>
+        <li><a href=
         "/docs/health-and-longevity/my-physiological-states/">My
         Physiological States</a>
         <li><a href="/docs/health-and-longevity/sleep/">Sleep</a>
