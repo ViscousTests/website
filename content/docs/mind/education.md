@@ -1,5 +1,19 @@
 # Thoughts on Education
 
+## Education as a Certification
+
+One problem educational system have is that they force students to sit through
+classes that are boring because the students either already know the material
+or are not compatible with the pace of the class (too fast or too slow). If
+systems independently let students test out of courses, or offered testing
+separately from training, this problem might be solved to some extent.  Of
+course, in this case the testing would have to be very good, and some things
+are unfortunately hard to test for.  Project-based evaluation might be a good
+way around this.
+
+See https://miguelrochefort.com/blog/cs-degree/ for a great story about what a
+test-driven education could look like for a motivated individual.
+
 ## High School as Survey
 
 In my opinion, (at least my) high school education focused too much on
