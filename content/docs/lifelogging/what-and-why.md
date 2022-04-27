@@ -40,6 +40,10 @@ be achieved with the following components:
 
  - A GPS monitor logging my location.
    - Done using [GPSLogger](https://gpslogger.app/)
+ - Tracking food consumption via photos.
+   - Done using [autojournal](https://github.com/kovasap/autojournal) + Google
+     Photos.
+   - Plan to move to [MomentoDB](https://mementodatabase.com/) for this.
  - A wearable camera that sees what I see and stores the video somewhere.
    - Partially done using a [snapcam]({{< relref "/docs/lifelogging/camera.md"
      >}})
@@ -48,10 +52,14 @@ be achieved with the following components:
    - Not done yet
  - Programs that log what I'm doing on my various devices (laptop, phone,
    etc.).
-   - Almost done with [ActivityWatch](https://activitywatch.net/)
+   - Almost done with [ActivityWatch](https://activitywatch.net/).
+   - Previously/currently done with
+     [selfspy](https://github.com/selfspy/selfspy).
  - Various sensors that track mood and health metrics.
    - Manually done with [MomentoDB](https://mementodatabase.com/), therefore
      not consistent :/
+   - Previously done with [Nomie](https://nomie.app/), which IMO is strictly
+     worse than MomentoDB.
  - Logic that tries to infer meaningful "events" from the datastreams collected
    by these components. For example, image processing software analyzing my
    camera feed coupled with GPS data could infer that I was playing soccer from
@@ -69,6 +77,10 @@ be achieved with the following components:
    it down to insights. Preferably this would be folded into the calendar or
    timeline visualization.
    - Partially done with [biomarker correlator]({{< relref "/biomarker-correlator.html" >}})
+
+An example of what this looks like can be found at
+https://miguelrochefort.com/blog/calendar/ (not my system exactly, but very
+similar).
 
 ## Currently Available Tools
 
