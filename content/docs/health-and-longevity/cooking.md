@@ -59,6 +59,13 @@ fridge overnight instead of cooking. I highly recommend addng chia seeds and/or
 coconut and/or some other kind of nut + some fruit when making overnight oats.
 Yogurt is also good.
 
+Some good toppings:
+
+ - Coffee (could even cook in coffee instead of water).
+ - Chia seeds
+ - Nutmeg
+ - Cinnamon
+
 ### Roasted Vegetables
 
 All at 425F.
