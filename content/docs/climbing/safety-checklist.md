@@ -29,7 +29,7 @@ Park from 1981 to 1986 these were:
  * Not using a rope (4 cases)!
  * Not wearing a helmet (3 cases).
 
-Most of the injuries discussed in the paper happened on show/ice, which I'm
+Most of the injuries discussed in the paper happened on snow/ice, which I'm
 ignoring for the purposes of this checklist.
 
 Interestingly, most of these injuries occurred on the easiest routes (5.1-5.3!),
