@@ -40,6 +40,12 @@ Canyon State
 Park"](https://www.wemjournal.org/article/S1080-6032(12)00109-3/fulltext), has
 similar statistics. This study references [a similar Australian study](https://docs.google.com/viewerng/viewer?url=https://dokumen.tips/google-reader?url%3D1f38b04767057b7e61e6dc6a385532b059b9b5300a6f6922794715af97edb0c5608cd6855462c07b7ba9cea7b73d0370607ca69c30fd13c15abf5be6377add0d0l3DstEzNe1rGgKhO86Pa2B8IPxt6MgbB7vDfkU6/MsrdOoc4hxPjwR14utxof5RNCM++vnYL5Odac67f5xzvR2iiLMcwgP3Ulsaap3JrFaa6/vvh1ZZtnGJLHA9eH4nIknPKMtUfEBtFjzLPKxkRQ%3D%3D) with more interesting results.
 
+Check [this cool data
+visualization](https://public.tableau.com/app/profile/nate.downer/viz/MostCommonAccidentCausebyState/Dashboard12)
+using American Alpine Club data for another view into accident data. And [this
+visualization](https://public.tableau.com/app/profile/nate.downer/viz/CausesofRockClimbingAccidents/MyRiskFactors)
+by the same author.
+
 Here is the current checklist:
 
 ```
