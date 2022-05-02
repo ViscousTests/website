@@ -15,7 +15,7 @@ short enough to be usable, yet not skipping any steps that commonly lead to
 injuries/death.
 
 Before writing the checklist, I wanted to get an idea of what mistakes most
-commonly cause injuries when climbing.  According to [The edidemiology of
+commonly cause injuries when climbing.  According to [The epidemiology of
 mountaineering and rock climbing
 accidents](https://doi.org/10.1580/0953-9859-1.4.235), in Grand Teton National
 Park from 1981 to 1986 these were:
