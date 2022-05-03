@@ -55,6 +55,17 @@ be achieved with the following components:
    - Almost done with [ActivityWatch](https://activitywatch.net/).
    - Previously/currently done with
      [selfspy](https://github.com/selfspy/selfspy).
+ - Tracking Exercise
+   - Should be inferrable from my location tracking, but I haven't written the
+     logic yet.
+ - Tracking habit adherence. Like exercise or practicing a skill.
+   - I found [proactively assigning myself to do a habit at a specific time]({{<
+     relref "/docs/lifestyle-optimizations/task-tracking.md" >}})
+     works very well, and this has the added benefit of tracking when I tick
+     off my assignment as "done". I use Google Tasks for this, which show up on
+     my Google Calendar. Ideally I would write code to save my task data so
+     that it could be visualized in other places (and so deleted tasks wouldn't
+     disappear from history).
  - Various sensors that track mood and health metrics.
    - Manually done with [MomentoDB](https://mementodatabase.com/), therefore
      not consistent :/
