@@ -107,10 +107,20 @@ I try to avoid eating meat. There are a bunch of weak reasons for this:
 1. The "blue zone" communities around the world with high health- and
    life-spans [eat little
    meat](https://www.bluezones.com/recipes/food-guidelines/) 📈.
-1. It seems like [low protein consumption (especially animal protein) might
-   slow aging](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4807119/). See
-   [this comprehensive macronutrient mouse
-   study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5087279/).
+
+#### Protein
+
+It seems like [low protein consumption (especially animal protein) might slow
+aging](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4807119/). See [this
+comprehensive macronutrient mouse
+study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5087279/). See also this
+review: [The impact of dietary protein intake on longevity and metabolic
+health](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6562018/).
+
+Note that it seems like this is NOT true for people over the age of 65. At this
+point, loss of muscle becomes a dangerous problems (leading to falls, etc.), so
+the benefits of eating more protein to maintain muscle mass seem to outweigh
+the downsides.
 
 #### Fish
 
