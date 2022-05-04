@@ -73,6 +73,14 @@ increase someone's cost of living by quite a bit in various ways, but thinking
 about the policy in a more abstract sense may lead someone to approve it
 despite this personal impact.
 
+Based on my own emotions, I also think that people by and large care deeply
+about how their lives compare to those of others around them.  A tax that
+greatly increases everyone's cost of living is much more bearable than one that
+targets just an individual person. It's much rarer for people to worry about
+their absolute standing than how they compare to others - the fact that the
+majority of people today live like the elites of a couple centuries ago is a
+great source of comfort and satisfaction generally speaking.
+
 This, like many solutions to big problems, does depend on an educated populace
 that is able to reason about the effects of certain policies. Ensuring this
 condition is itself a large scale societal problem that hopefully can be solved
