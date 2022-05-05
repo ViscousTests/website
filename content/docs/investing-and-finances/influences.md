@@ -2,6 +2,10 @@
 
 These books/blogs/podcasts/people have most shaped how I understand finances.
 
+## [Ben Felix](https://www.youtube.com/channel/UCDXTQ8nWmx_EhZ2v-kp7QxA)
+
+Runs a great YouTube channel (and podcast) about investing concepts.
+
 ## [Early Retirement Extreme](http://earlyretirementextreme.com/)
 
 The ERE book and the blog's most popular posts are an excellent view into a
