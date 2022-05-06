@@ -18,7 +18,7 @@ My first introduction to the idea of financial independance. I haven't read a lo
 ## The [Mad Fientist](https://www.madfientist.com/)
 
 Great mechanical guide for how to become financially independant. I used to
-listen to the podcast a lot on my commutes.
+listen to the podcast a lot on my commutes. [This article about the author's portfolio](https://www.madfientist.com/my-portfolio/) is a good example of the content.
 
 ## The Psychology of Money by Morgan Housel
 
