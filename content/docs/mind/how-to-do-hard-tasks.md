@@ -2,6 +2,8 @@
 
 This goes hand-in-hand with [motivation]({{< relref "/docs/mind/motivation.md" >}}).
 
+https://every.to/superorganizers/how-to-do-hard-things is somewhat related.
+
 ## What Makes Tasks Hard?
 
 Tasks are hard when you don't already have pathways in your brain that script
