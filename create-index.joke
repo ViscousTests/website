@@ -67,11 +67,9 @@
       [:li [:details {:id (:name file-map)}
             [:summary [:strong (to-title filepath)]] inner-list]])))
 
-(defn create-index []
-   (h/html (make-dir-contents "content/docs")))
-  
 (def index-path "content/menu/index.md")
-(spit index-path (create-index))
+(spit index-path (h/html (make-dir-contents "content/docs")))
+(spit "content/menu/index.edn" (make-dir-contents "content/docs"))
 ; Requires `sudo apt install tidy`
 (os/sh "tidy"
        "-indent"

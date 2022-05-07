@@ -145,6 +145,8 @@ headless: true
         "/docs/health-and-longevity/exercise/">Exercise</a>
         <li><a href=
         "/docs/health-and-longevity/fasting/">Fasting</a>
+        <li><a href=
+        "/docs/health-and-longevity/finding-care/">Finding Care</a>
         <li><a href="/docs/health-and-longevity/food/">Food</a>
         <li><a href=
         "/docs/health-and-longevity/influences/">Influences</a>
