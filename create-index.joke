@@ -21,17 +21,17 @@
         (s/split ".")
         (first))))
 
-(defn is-md? [file-map]
-  (= "md" (last (s/split (:name file-map) "."))))
+(defn is-md? [file]
+  (= "md" (last (s/split (:name file) "."))))
 
-(defn should-include? [file-map]
-  (let [filepath (:name file-map)]
+(defn should-include? [file]
+  (let [filepath (:name file)]
     (and (not (s/ends-with? filepath "-pics"))
          (not (s/includes? filepath "-unindexed"))
          (not (s/includes? filepath "DRAFT"))
          (not (s/includes? filepath "FREEWRITE"))
-         (or (is-md? file-map)
-             (:dir? file-map))))) 
+         (or (is-md? file)
+             (:dir? file))))) 
 
 (defn make-file-into-li [filepath]
   "Converts filename like content/docs/understanding-the-world/influences.md
@@ -42,12 +42,24 @@
                       (s/replace #".md" "/"))}
         (to-title filepath)]])
 
+(defn get-files [filepath]
+  (sort-by (fn [file] [(:dir? file) (:name file)])
+           (filter should-include?
+                   (os/ls filepath))))
+
+(defn get-file-tree
+  [filepath]
+  (into [] (for [{:keys [size name dir?]} (get-files filepath)]
+             (let [file {:name name
+                         :size size}]
+               (if dir?
+                 (assoc file :children (get-file-tree (fp/join filepath name))) 
+                 file)))))
+
 (declare make-dir-into-header)
 
 (defn make-dir-contents [filepath]
-  [:ul (for [file (sort-by (fn [file-map] [(:dir? file-map) (:name file-map)])
-                           (filter should-include?
-                                   (os/ls filepath)))] 
+  [:ul (for [file (get-files filepath)] 
          (cond
             (:dir? file)
             (make-dir-into-header file filepath)
@@ -56,20 +68,20 @@
             :else
             [:div "bad " file]))])
   
-(defn make-dir-into-header [file-map cur-path]
+(defn make-dir-into-header [file cur-path]
   "Converts file map like {:dir? true :name my-dir} into collapsed html ul with 
   a bold header. Recursively generates all sub-directories."
-  (let [filepath (fp/join cur-path (:name file-map))
+  (let [filepath (fp/join cur-path (:name file))
         inner-list (make-dir-contents filepath)]
     (j/println filepath)
     (if (= (count (last inner-list)) 0)
       nil
-      [:li [:details {:id (:name file-map)}
+      [:li [:details {:id (:name file)}
             [:summary [:strong (to-title filepath)]] inner-list]])))
 
 (def index-path "content/menu/index.md")
 (spit index-path (h/html (make-dir-contents "content/docs")))
-(spit "content/menu/index.edn" (make-dir-contents "content/docs"))
+(spit "content/menu/index.edn" (get-file-tree "content/docs"))
 ; Requires `sudo apt install tidy`
 (os/sh "tidy"
        "-indent"
