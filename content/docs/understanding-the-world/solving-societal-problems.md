@@ -34,7 +34,7 @@ which is powerless to stop. Perpetuating this is downright cruel.
 
 If a grassroots behavior change movement isn't the best way to solve the
 problem, then what can we do instead?  In my opinion, the answer is
-environmental change. This can take two primary forms:
+environmental change. This can take several forms:
 
 ### 1. Local Environmental Change
 
@@ -116,11 +116,47 @@ individually understand the externalities of their actions.
 Probably someone else somewhere has done a much better job exploring this
 topic.
 
-### 3. Cultural Environmental Change
+### 3. Technological Environmental Change
+
+New technologies dramatically change the environment people live in.
+Interestingly, they usually do this without requiring the bureaucracy required
+to enact government policies. Therefore, the development of new technologies to
+solve societal problems, like geoengineering techniques for climate change,
+has a lot of potential. And some problems can **only** be solved with new
+technologies (like preventing aging).
+
+### 4. Cultural Environmental Change
 
 Shifting cultural norms also can lead to massive change in individual behavior.
 I don't really know the best way this can be leveraged without the "grassroots"
 problem I mentioned above, but I thought it would be worth mentioning.
+
+## Personal Impact
+
+Given this theory, if someone feels strongly that certain problems need to be
+solves, what should they do?
+
+Influencing government policy is a lot of work and is, I would argue, a task
+that requires specialized skills. This means that someone who invests more time
+in building these skills will hone them, and have more leverage when applying
+them. Therefore, an effective path to personally solving societal problems is
+to invest a lot of time and energy in honing and applying these skills. Note
+that I'm not talking about lobbying here, but rather actually writing laws and
+doing the research that motivates their creation and design.
+
+Environment building can also be done outside of formal government in private
+organizations that fill some roles that a government might otherwise fill.
+
+Our hypothetical person could also get deep into creating a technology that
+solves the problem they care about. This arguably takes even more time/energy
+investment to see significant returns.
+
+For those who do not want to, or cannot, invest time/energy in influencing
+policy or developing new technologies, one fallback option is to instead hone
+another set of skills, apply them to make money, and then fund
+policymakers/inventors with the proceeds. This will probably have a bigger
+impact than dabbling in invention/policymaking, and certainly will have a
+bigger impact than just changing your own behavior.
 
 ## Testing this Theory
 
