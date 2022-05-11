@@ -1,6 +1,6 @@
 # Achieving Utopia
 
-## Humanities Superpower
+## Humanity's Superpower
 
 People have the uniquely powerful ability to come up with arbitrary
 explanations for how stuff works and then critically compare them against each
@@ -74,6 +74,19 @@ One way this could be conceptualized is by encouraging
 described in "Antifragile" by NN Taleb. This has the additional side benefit of
 giving people space, time, and therefore ability to support the ideas of others
 that they discover and think are important.
+
+### Organizations
+
+This concept can also apply to larger organizations of many people, like local
+governments.  If those governments have a lot of freedom to experiment with
+different policies, this could lead to discovery of the best policies overall.
+In practice, this would looks like a confederation of autonomous states, like
+Switzerland and to a lesser extent the United States of America.
+
+At the government level, this experimentation can be dangerous, so it is
+crucial that people are able to leave governments that they anticipate will
+harm them. This means that both some kind of universal bill of rights and
+resources that help people move are extremely important.
 
 
 ## Influences
