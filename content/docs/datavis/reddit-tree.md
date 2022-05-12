@@ -16,3 +16,8 @@ made this visualization:
 
 The code can be found at
 [github.com/kovasap/reddit-tree](https://github.com/kovasap/reddit-tree).
+
+## Related
+
+ - [Map of Reddit](https://anvaka.github.io/map-of-reddit/), an amazing
+   visualization of all subreddits and how they are related (by user activity).
