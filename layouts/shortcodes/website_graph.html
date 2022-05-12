@@ -14,7 +14,13 @@
                 website_helpers.core.read_edn_string({{.Inner}}),
                 {"width": 2000,
                  "height": 2000,
-                 "collide-size": 50}),
+                 "link-strength": 0.08,
+                 "charge-strength": -100,
+                 "center-x": 1000,
+                 "center-y": 750,
+                 "collide-size": 50,
+                 // The "temperature" of the simulation at the start.
+                 "initial-alpha": 4}),
             "graph");
     </script>
 </div>
