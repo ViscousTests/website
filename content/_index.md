@@ -1,6 +1,7 @@
 ---
 title: Introduction
 type: docs
+bookToC: false
 ---
 
 # Welcome!
@@ -18,5 +19,5 @@ https://critter.blog/2020/10/02/write-5x-more-but-write-5x-less/
 {{% include "menu/index.edn" %}}
 {{< /website_graph >}}
 
-Above visualization inspired by https://beepb00p.xyz/blog-graph.html.  Double
-click on nodes to go to the pages the represent!
+This graph visualization was inspired by https://beepb00p.xyz/blog-graph.html.
+Double click on nodes to go to the pages the represent!
