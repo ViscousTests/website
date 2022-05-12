@@ -78,8 +78,8 @@ about how their lives compare to those of others around them.  A tax that
 greatly increases everyone's cost of living is much more bearable than one that
 targets just an individual person. It's much rarer for people to worry about
 their absolute standing than how they compare to others - the fact that the
-majority of people today live like the elites of a couple centuries ago is a
-great source of comfort and satisfaction generally speaking.
+majority of people today live like the elites of a couple centuries ago is not
+a great source of comfort and satisfaction generally speaking.
 
 This, like many solutions to big problems, does depend on an educated populace
 that is able to reason about the effects of certain policies. Ensuring this
@@ -89,7 +89,7 @@ problem here :/.
 
 #### Externality-based Policies
 
-May societal problems are due to hard-to-track externalities of existing
+Many societal problems are due to hard-to-track externalities of existing
 behaviors that are not "priced in" to the cost of the behavior. For instance,
 companies that make unhealthy food do not pay for the healthcare costs their
 products incur. Or single-use plastic producers do not pay for waste cleanup
@@ -142,9 +142,8 @@ in building these skills will hone them, and have more leverage when applying
 them. Therefore, an effective path to personally solving societal problems is
 to invest a lot of time and energy in honing and applying these skills. Note
 that I'm not talking about lobbying here, but rather actually writing laws and
-doing the research that motivates their creation and design.
-
-Environment building can also be done outside of formal government in private
+doing the research that motivates their creation and design. This kind of
+environment building can also be done outside of formal government in private
 organizations that fill some roles that a government might otherwise fill.
 
 Our hypothetical person could also get deep into creating a technology that
@@ -158,8 +157,21 @@ policymakers/inventors with the proceeds. This will probably have a bigger
 impact than dabbling in invention/policymaking, and certainly will have a
 bigger impact than just changing your own behavior.
 
+### Hypocrisy
+
+If you assume that "grassroots" individual change has little to no impact on
+societal problems, then a lot of seemly hypocritical behavior is explained and
+even excused. For instance, it is very reasonable to believe strongly that
+society would be better if everyone was vegan, while eating the readily
+available non-vegan foods provided by society. It even makes some sense that
+someone super passionate about some political issue - to the point where they
+organize protests or voting campaigns - may not vote for the issue themselves!
+In my opinion, these behaviors are more a demonstration of how these
+hypothetical people think they can manifest change as opposed to what they
+truly believe.
+
 ## Testing this Theory
 
-Right now this line of thinking is just a plausible idea.  I would love to see
-some evidence for this, but don't have any at hand right now to cite.  So (as
-always) I might be totally wrong :).
+Right now this line of thinking is just a plausible (at least to me) idea.  I
+would love to see some evidence for this, but don't have any at hand right now
+to cite.  So (as always) I might be totally wrong :).
