@@ -25,6 +25,10 @@ video](https://www.youtube.com/watch?v=Ll3TCEz4g1k).
 See also this (crazy?) investment strategy:
 https://www.reddit.com/r/financialindependence/comments/o7tnm5/my_guide_to_hedgefundies_portfolio_and_why_im_100/
 
+**Using loans to make big purchases is generally worth it if you invested in
+stocks that have a long term expected return higher than the loan rate (which
+is usually true).**
+
 
 ## Retirement Finance
 
