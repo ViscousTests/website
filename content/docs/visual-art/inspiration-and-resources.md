@@ -16,3 +16,4 @@ Cool art and art tutorials that I've stumbled across.
  - Map generators (designed for games):
    - https://www.dungeonalchemist.com/
    - https://dungeondraft.net/
+ - https://github.com/mxgmn/WaveFunctionCollapse
