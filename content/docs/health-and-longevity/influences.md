@@ -53,6 +53,8 @@ good review of longevity concepts.  This was my introduction to the field
 (specifically a Joe Rogan Experience David Sinclair interview).  Be aware that
 David Sinclair is pretty optimistic and eager to promote things that are not
 100% solid yet (see Resveratrol).
+A good summary of this book can be found at
+https://hplus.club/blog/a-summary-of-david-sinclairs-information-theory-of-aging/.
 
 ## [Red Pen Reviews](https://www.redpenreviews.org/)
 
@@ -104,6 +106,10 @@ these zones. The overall recommendation is a standard "whole foods, plant
 based" diet.  Interestingly, the "blue zones" philosophy addresses more things
 outside of diet (like a social community) that it recommends be holistically
 adopted with its diet recommendations.
+
+## [Michael Pietroforte on hplus.club](https://hplus.club/blog/author/michael-pietroforte/)
+
+This guy writes pretty good high level aging overviews, and book reviews.
 
 ## [The Queen of Fats by Susan Allport](http://www.susanallport.com/)
 
