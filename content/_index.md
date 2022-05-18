@@ -10,7 +10,9 @@ This is a place where I store useful thoughts and memories.  Hopefully you find
 it as useful as I do!
 
 Contrary to a periodic blog, I try to actively update and revise these pages,
-keeping them as living documents as I learn.
+keeping them as living documents as I learn. I partially see this as a [mind
+map](https://en.wikipedia.org/wiki/Mind_map), like this one:
+https://biomindmap.com/nodes/185.
 
 I also try to follow this advice:
 https://critter.blog/2020/10/02/write-5x-more-but-write-5x-less/

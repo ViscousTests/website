@@ -16,6 +16,10 @@ this (that I have yet to follow):
  - https://www.pwlcapital.com/wp-content/uploads/2019/03/PWL-WP-Felix-Factor-Investing-with-ETFs_08-2019-Final.pdf
  - https://investor.vanguard.com/etf/profile/portfolio/vtv
 
+## Efficient Frontiers
+
+https://www.madfientist.com/unique-risk-minimum-variance-portfolio/
+
 ## Leverage
 
 Using leverage (taking loans to buy investments) can be a power way to "time

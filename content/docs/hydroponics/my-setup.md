@@ -82,3 +82,12 @@ Pi to log data.
 Need to figure out how to get 
 https://www.amazon.com/diymore-Waterproof-Ultrasonic-Measuring-Transducer/dp/B01J5KZU8M
 attached to the raspberry pi if i use that.
+
+## Future Improvement Ideas
+
+ - Create [a weight
+   sensor](https://www.youtube.com/watch?v=dNiVZBTvwxs&ab_channel=RobotResearchLab)
+   for my hydroponics to track water consumption and
+   growth.
+ - Create a light sensor feedback system where if the light near plants goes
+   below a certain level, the grow lights turn on.

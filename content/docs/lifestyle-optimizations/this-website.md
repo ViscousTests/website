@@ -26,5 +26,4 @@ it's less convenient to do so.
 
 ## Cool tips to check out for improvements!
 
-  - https://gohugo.io/content-management/shortcodes/#figure
-  - https://tkainrad.dev/posts/using-hugo-gitlab-pages-and-cloudflare-to-create-and-run-this-website/
+  - Use https://markmap.js.org/ for tables of contents.
