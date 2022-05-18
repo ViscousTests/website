@@ -53,6 +53,8 @@ good review of longevity concepts.  This was my introduction to the field
 (specifically a Joe Rogan Experience David Sinclair interview).  Be aware that
 David Sinclair is pretty optimistic and eager to promote things that are not
 100% solid yet (see Resveratrol).
+A good summary of this book can be found at
+https://hplus.club/blog/a-summary-of-david-sinclairs-information-theory-of-aging/.
 
 ## [Red Pen Reviews](https://www.redpenreviews.org/)
 
