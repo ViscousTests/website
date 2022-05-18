@@ -107,6 +107,10 @@ based" diet.  Interestingly, the "blue zones" philosophy addresses more things
 outside of diet (like a social community) that it recommends be holistically
 adopted with its diet recommendations.
 
+## [Michael Pietroforte on hplus.club](https://hplus.club/blog/author/michael-pietroforte/)
+
+This guy writes pretty good high level aging overviews, and book reviews.
+
 ## [The Queen of Fats by Susan Allport](http://www.susanallport.com/)
 
 Really interesting read about the science of omega-3 fatty acids.  One of the
