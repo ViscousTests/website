@@ -225,4 +225,5 @@ Some great resources for goal execution:
  - http://www.aaronsw.com/weblog/productivity
  - Meditation to help when getting overwhelmed:
    https://www.youtube.com/watch?v=i7kh8pNRWOo
+ - Work specific motivation: https://jasont.co/ennui/
 

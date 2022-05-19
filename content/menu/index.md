@@ -68,6 +68,9 @@ headless: true
               "/docs/gamedev/game-ideas/farming-video-game/">Farming
               Video Game</a>
               <li><a href=
+              "/docs/gamedev/game-ideas/keyboard-city-builder/">Keyboard
+              City Builder</a>
+              <li><a href=
               "/docs/gamedev/game-ideas/roguelike-base-builder/">Roguelike
               Base Builder</a>
               <li><a href=
@@ -163,6 +166,17 @@ headless: true
       </ul>
     </details>
   <li>
+    <details id="housing">
+      <summary>
+        <strong>Housing</strong>
+      </summary>
+      <ul>
+        <li><a href="/docs/housing/home-energy-monitoring/">Home
+        Energy Monitoring</a>
+        <li><a href="/docs/housing/projects/">Projects</a>
+      </ul>
+    </details>
+  <li>
     <details id="hydroponics">
       <summary>
         <strong>Hydroponics</strong>
@@ -228,9 +242,6 @@ headless: true
         <li><a href=
         "/docs/lifestyle-optimizations/hang-drying-clothes/">Hang
         Drying Clothes</a>
-        <li><a href=
-        "/docs/lifestyle-optimizations/home-energy-monitoring/">Home
-        Energy Monitoring</a>
         <li><a href=
         "/docs/lifestyle-optimizations/home-network-and-internet-troubleshooting/">
         Home Network And Internet Troubleshooting</a>
