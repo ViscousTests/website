@@ -1,6 +1,68 @@
 # Achieving Utopia
 
-## Humanity's Superpower
+## Problems
+
+Humanity has some big problems that need to be solved before we can safely say
+we have built a utopia.
+
+### Wasted Human Potential
+
+Most people spend their productive time doing work that does not materially
+move our society forward.  As discussed later, people have the potential to
+create completely new ideas that radically and positively improve the lives of
+humanity as a whole. Any work that does not leverage this potential by
+definition wastes it, slowing our progress toward a utopia.
+
+If our economy could somehow adequately value this potential, a lot of these
+problems might solve themselves (as the cost of labor would be prohibitive).
+
+#### Maintenance Work
+
+This kind of work is currently necessary work that keeps society from
+backsliding.  It is extremely important, but we should be working to automate
+it or find ways to avoid needing it to make progress.
+
+#### Service Work
+
+In my opinion, most service work is already unnecessary given the alternatives.
+It makes me sad to see so many people working as waiters/waitresses, cashiers,
+in call centers, etc. when there are (often better) systems that provide the
+same service without requiring people.
+
+#### Not Seeing the Potential
+
+Rejecting the idea that all humans have creative potential is commonplace, and
+greatly harms the many people that are discriminated against when selection for
+creative roles occurs. TODO flesh this out.
+
+### Death
+
+The death of an individual is extremely tragic for at least these reasons:
+
+ - All the knowledge and perspective the individual accumulated over their
+   lifetime is lost permanently. Records can only partially remedy this.
+ - The social web the person was a part of is violently damaged.
+ - The people close to the dying person suffer greatly and are less able to
+   create for a time (sometimes permanently).
+
+To protect ourselves emotionally, we have built traditions and societal norms
+around accepting death and treating it an inevitable.  Given our progress
+towards understanding aging (the cause of the vast majority of deaths), this is
+starting to become a problem.
+
+### War
+
+The terrible combination of the above two problems. Should be avoided at all
+costs.
+
+
+## Solutions
+
+In my opinion, we should be putting **all** people to work solving the above
+problems. In doing so, we should be able to reach utopia more quickly, and in
+so doing alleviate much suffering.
+
+### Humanity's Superpower
 
 People have the uniquely powerful ability to come up with arbitrary
 explanations for how stuff works and then critically compare them against each
@@ -26,7 +88,7 @@ those thoughts as opposed to grinding away at Sisyphean maintenance tasks.
 
 How can we do this?
 
-## Basic Need Automation
+### Basic Need Automation
 
 We need to ensure that every person on earth has their basic (food, shelter,
 medicine, mental health) needs met through automation. Worrying about basic
@@ -42,7 +104,7 @@ our growing wealth inequality today is evidence that we are doing a poor job.
 Solving this problem via some kind of universal basic income seems at least
 worth trying.
 
-## Freedom of Information and Education
+### Freedom of Information and Education
 
 It's hard to think creatively when you have no prior ideas to remix together
 into new ones. Making information and educational resources universally
@@ -55,7 +117,7 @@ their work (which wastes everyone's time and energy, and cuts people out of the
 creative process).
 
 
-## Freedom of Direction
+### Freedom of Direction
 
 In the book "Greatness Cannot be Planned: The Myth of the Objective", the
 authors argue that all hard problems suffer from deceptive paths to their
@@ -75,7 +137,7 @@ described in "Antifragile" by NN Taleb. This has the additional side benefit of
 giving people space, time, and therefore ability to support the ideas of others
 that they discover and think are important.
 
-### Organizations
+#### Organizations
 
 This concept can also apply to larger organizations of many people, like local
 governments.  If those governments have a lot of freedom to experiment with
