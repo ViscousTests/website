@@ -286,6 +286,8 @@ headless: true
         <li><a href=
         "/docs/mind/absorbing-and-professing/">Absorbing And
         Professing</a>
+        <li><a href="/docs/mind/behavior-change/">Behavior
+        Change</a>
         <li><a href="/docs/mind/brain-juice/">Brain Juice</a>
         <li><a href="/docs/mind/contentment/">Contentment</a>
         <li><a href="/docs/mind/creativity/">Creativity</a>
