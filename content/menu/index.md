@@ -9,6 +9,8 @@ headless: true
         <strong>Climbing</strong>
       </summary>
       <ul>
+        <li><a href="/docs/climbing/breaking-point/">Breaking
+        Point</a>
         <li><a href="/docs/climbing/media/">Media</a>
         <li><a href="/docs/climbing/safety-checklist/">Safety
         Checklist</a>
@@ -310,6 +312,9 @@ headless: true
         <strong>Morality</strong>
       </summary>
       <ul>
+        <li><a href=
+        "/docs/morality/cancelling-high-contributors/">Cancelling
+        High Contributors</a>
         <li><a href=
         "/docs/morality/efficient-living-and-morality/">Efficient
         Living And Morality</a>

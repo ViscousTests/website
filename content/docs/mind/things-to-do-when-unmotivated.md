@@ -42,4 +42,4 @@ while. Some ideas:
  - Talking to people.
    - Con: People not always available.
    - Con: Can be draining.
-
+ - Napping.
