@@ -143,6 +143,10 @@ Pop potatoes like corn by wrapping them in a hard shell and cooking them.
 
 Put refried beans on pizza.
 
+### Selling Chip Dust
+
+Companies should sell the flavoring blends that flavor potato chips.
+
 
 ## Artistic
 
