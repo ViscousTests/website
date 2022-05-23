@@ -12,6 +12,7 @@ headless: true
         <li><a href="/docs/climbing/breaking-point/">Breaking
         Point</a>
         <li><a href="/docs/climbing/media/">Media</a>
+        <li><a href="/docs/climbing/resources/">Resources</a>
         <li><a href="/docs/climbing/safety-checklist/">Safety
         Checklist</a>
         <li>
@@ -161,6 +162,9 @@ headless: true
         <li><a href=
         "/docs/health-and-longevity/my-physiological-states/">My
         Physiological States</a>
+        <li><a href=
+        "/docs/health-and-longevity/personal-specific-food-notes/">Personal
+        Specific Food Notes</a>
         <li><a href="/docs/health-and-longevity/sleep/">Sleep</a>
         <li><a href=
         "/docs/health-and-longevity/tracking-health/">Tracking
