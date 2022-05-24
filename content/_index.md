@@ -11,8 +11,8 @@ it as useful as I do!
 
 Contrary to a periodic blog, I try to actively update and revise these pages,
 keeping them as living documents as I learn. I partially see this as a [mind
-map](https://en.wikipedia.org/wiki/Mind_map), like this one:
-https://biomindmap.com/nodes/185.
+map](https://en.wikipedia.org/wiki/Mind_map) - see [Mind Mapping Concept]({{< relref
+"/docs/thought-experiments/mind-mapping-concept.md" >}}) for more details. 
 
 I also try to follow this advice:
 https://critter.blog/2020/10/02/write-5x-more-but-write-5x-less/
@@ -21,6 +21,4 @@ https://critter.blog/2020/10/02/write-5x-more-but-write-5x-less/
 {{% include "menu/index.edn" %}}
 {{< /website_graph >}}
 
-This graph visualization was inspired by https://beepb00p.xyz/blog-graph.html.
-I might try out https://github.com/hikerpig/note-graph in the future.
 Double click on nodes to go to the pages the represent!

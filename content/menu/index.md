@@ -91,6 +91,9 @@ headless: true
               "/docs/gamedev/mechanic-ideas/character-alignment/">Character
               Alignment</a>
               <li><a href=
+              "/docs/gamedev/mechanic-ideas/limiting-collaboration/">
+              Limiting Collaboration</a>
+              <li><a href=
               "/docs/gamedev/mechanic-ideas/low-friction-turn-based-tactics/">
               Low Friction Turn Based Tactics</a>
             </ul>
