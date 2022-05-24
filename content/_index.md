@@ -22,4 +22,5 @@ https://critter.blog/2020/10/02/write-5x-more-but-write-5x-less/
 {{< /website_graph >}}
 
 This graph visualization was inspired by https://beepb00p.xyz/blog-graph.html.
+I might try out https://github.com/hikerpig/note-graph in the future.
 Double click on nodes to go to the pages the represent!
