@@ -37,3 +37,33 @@ synchronization?
 Game mechanics could also play into this communication limitation - for
 instance, characters that can communicate telepathically with others may be
 immune to any limits.
+
+
+## Comments from coworker to integrate
+
+I guess you might break it up into a few more parts
+* Permission (can I talk to this person at all)
+* Duration (how much time can I communicate with this person)
+* Dictionary-space (how much vocabulary do I have to communicate)
+
+Physical closeness 'permission' and time-limit per-action/turn you cover,
+however there are two things I might add that limit effectiveness of
+communication:
+* Role-playing
+* Language limits
+
+With roleplaying, while it may be optimal to take a course of action, it may
+not be what the character would do (for example, against a demon and a lich it
+may be optimal to disrupt the lich's spellcasting, but your character may have
+hatred of demons).  This is most applicable in TTRPGs like D&D and Pathfinder
+and less applicable in Video Games or some Board Games.   This doesn't limit
+theoretical communication, but may limits it's impact depending on your group.
+
+Language limits the dictionary of what can be said, but doesn't necessarily
+limit how much can be said within that dictionary.  For example, Gloomhaven
+before your two cards are selected limits communication to 'relative' values
+(ex. I am going as fast as possible and will do an AoE) rather than absolutes
+(ex. I am moving with Mana Bolt at 07 initiative and will top with coldfire).
+This still lets people communicate freely, but can limit knowledge.  This also
+encourages players building knowledge of each others abilities and what they do
+in combat, somewhat like a small group of mercenaries would.

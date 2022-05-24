@@ -42,6 +42,41 @@
                       (s/replace #".md" "/"))}
         (to-title filepath)]])
 
+(defn parse-links
+  "Finds all relref links in the text and returns them in a list of note names."
+  [text]
+  (for [match (re-seq #"relref\s+\"(.+)\"" text)]
+    (last match)))
+
+; (j/println
+;   (parse-links
+;     "A subset of this is my [Experiences]({{< relref
+;      \"/docs/lifestyle-optimizations/experiences.md\" >}}) page."))
+
+(defn parse-categories
+  "Finds all categories the text and returns them."
+  [text]
+  (reduce concat
+    (for [match (re-seq #"\nCategories: (.+)" text)]
+      (for [category (s/split (last match) ",")]
+        (s/trim category)))))
+
+; (j/println
+;   (parse-categories
+;     "<markdown>
+; 
+; Categories: cat1, cat2, ...
+; "))
+
+
+(defn make-file-into-note-map [filepath]
+  (let [markdown (slurp filepath)
+        lines (s/split markdown "\n")]
+    {:name filepath
+     :categories (parse-categories markdown)
+     :markdown markdown
+     :links (parse-links markdown)}))
+
 (defn get-files [filepath]
   (sort-by (fn [file] [(:dir? file) (:name file)])
            (filter should-include?
@@ -80,15 +115,16 @@
             [:summary [:strong (to-title filepath)]] inner-list]])))
 
 (def index-path "content/menu/index.md")
-(spit index-path (h/html (make-dir-contents "content/docs")))
-(spit "content/menu/index.edn" (get-file-tree "content/docs"))
-; Requires `sudo apt install tidy`
-(os/sh "tidy"
-       "-indent"
-       "--show-body-only" "yes"
-       "--doctype" "omit"
-       "--tidy-mark" "no"
-       "-omit"
-       "-o" index-path index-path) 
-; Prepend hugo fontmatter
-(os/sh "sed" "-i" "1s;^;---\\nheadless: true\\n---\\n;" index-path)
+(defn main []
+  (spit index-path (h/html (make-dir-contents "content/docs")))
+  (spit "content/menu/index.edn" (get-file-tree "content/docs"))
+  ; Requires `sudo apt install tidy`
+  (os/sh "tidy"
+         "-indent"
+         "--show-body-only" "yes"
+         "--doctype" "omit"
+         "--tidy-mark" "no"
+         "-omit"
+         "-o" index-path index-path) 
+  ; Prepend hugo fontmatter
+  (os/sh "sed" "-i" "1s;^;---\\nheadless: true\\n---\\n;" index-path))
