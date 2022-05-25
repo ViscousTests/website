@@ -56,10 +56,10 @@
 (defn parse-categories
   "Finds all categories the text and returns them."
   [text]
-  (reduce concat
-    (for [match (re-seq #"\nCategories: (.+)" text)]
-      (for [category (s/split (last match) ",")]
-        (s/trim category)))))
+  (into #{} (reduce concat
+              (for [match (re-seq #"\nCategories: (.+)" text)]
+                (for [category (s/split (last match) ",")]
+                  (s/trim category))))))
 
 ; (j/println
 ;   (parse-categories
@@ -69,26 +69,37 @@
 ; "))
 
 
-(defn make-file-into-note-map [filepath]
-  (let [markdown (slurp filepath)
-        lines (s/split markdown "\n")]
-    {:name filepath
-     :categories (parse-categories markdown)
-     :markdown markdown
-     :links (parse-links markdown)}))
+(defn add-file-data [file]
+  (let [markdown (slurp (:path file))]
+    (merge file
+      {:categories (parse-categories markdown)
+       :markdown markdown
+       :links (parse-links markdown)
+       :title (to-title (:path file))})))
 
 (defn get-files [filepath]
   (sort-by (fn [file] [(:dir? file) (:name file)])
            (filter should-include?
-                   (os/ls filepath))))
+                   (for [file (os/ls filepath)]
+                     (add-file-data
+                       (assoc file :path (fp/join filepath (:name file))))))))
+
+(defn get-all-files
+  [filepath]
+  (reduce concat
+          (for [file (get-files filepath)]
+            (if (:dir? file)
+              (get-all-files (:path file)) 
+              [file]))))
+
 
 (defn get-file-tree
   [filepath]
-  (into [] (for [{:keys [size name dir?]} (get-files filepath)]
+  (into [] (for [{:keys [path size name dir?]} (get-files filepath)]
              (let [file {:name name
                          :size size}]
                (if dir?
-                 (assoc file :children (get-file-tree (fp/join filepath name))) 
+                 (assoc file :children (get-file-tree path)) 
                  file)))))
 
 (declare make-dir-into-header)
@@ -118,6 +129,8 @@
 (defn main []
   (spit index-path (h/html (make-dir-contents "content/docs")))
   (spit "content/menu/index.edn" (get-file-tree "content/docs"))
+  (spit "content/all.edn" (get-all-files "content/docs"))
+
   ; Requires `sudo apt install tidy`
   (os/sh "tidy"
          "-indent"

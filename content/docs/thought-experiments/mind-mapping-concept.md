@@ -41,11 +41,15 @@ Each note will have links to other notes.
 Categories: cat1, cat2, ...
 ```
 
+TODO update all notes with categories based on their current file tree position
+
 ## Backlinks
 
 At the end of every note, generate a list of links to all other notes that
 link to it.  This would serve the purpose of answering questions like "what
 experiences evoke certain feelings" in a more general way.
+
+TODO implement this in joker
 
 ## Existing System
 
