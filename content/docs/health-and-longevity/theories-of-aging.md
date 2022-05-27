@@ -36,6 +36,13 @@ about the types of damage, and the latest progress towards repairing them.
 
 ### Experimental Evidence
 
+### Criticisms
+
+[Science fact and the SENS agenda](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1371037/)
+
+Response: [Like it or not, life-extension research extends beyond
+biogerontology](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1371043/)
+
 ### Source
 
 [Ending Aging by Aubrey de Grey](https://en.wikipedia.org/wiki/Ending_Aging)
