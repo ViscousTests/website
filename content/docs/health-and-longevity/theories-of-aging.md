@@ -31,6 +31,9 @@ We don't know or care what the root cause of aging is, but we do know there are
 (at least) 7 types of damage that it causes. If we can fix those, probably the
 negative symptoms of aging will go away.
 
+See https://www.sens.org/our-research/intro-to-sens-research/ for information
+about the types of damage, and the latest progress towards repairing them.
+
 ### Experimental Evidence
 
 ### Source
