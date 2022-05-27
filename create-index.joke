@@ -79,15 +79,19 @@
 
 (defn get-files [filepath]
   (sort-by (fn [file] [(:dir? file) (:name file)])
-           (filter should-include?
-                   (for [file (os/ls filepath)]
-                     (add-file-data
-                       (assoc file :path (fp/join filepath (:name file))))))))
+           (for [file (os/ls filepath)
+                 :when (should-include? file)]
+             (let [pathed-file
+                   (assoc file :path (fp/join filepath (:name file)))]
+               (if (:dir? pathed-file)
+                 pathed-file
+                 (add-file-data pathed-file))))))
 
 (defn get-all-files
   [filepath]
   (reduce concat
-          (for [file (get-files filepath)]
+          (for [file (get-files filepath)
+                :when (should-include? file)]
             (if (:dir? file)
               (get-all-files (:path file)) 
               [file]))))
@@ -130,6 +134,7 @@
   (spit index-path (h/html (make-dir-contents "content/docs")))
   (spit "content/menu/index.edn" (get-file-tree "content/docs"))
   (spit "content/all.edn" (get-all-files "content/docs"))
+  ; (pprint (get-all-files "content/docs"))
 
   ; Requires `sudo apt install tidy`
   (os/sh "tidy"
@@ -141,3 +146,5 @@
          "-o" index-path index-path) 
   ; Prepend hugo fontmatter
   (os/sh "sed" "-i" "1s;^;---\\nheadless: true\\n---\\n;" index-path))
+
+(main)
