@@ -129,12 +129,94 @@
       [:li [:details {:id (:name file)}
             [:summary [:strong (to-title filepath)]] inner-list]])))
 
+;; ------------- Adding Categories based on Directory Structure ------------
+
+; Only run this once to avoid duplication!
+(defn add-dir-categories [root-dir]
+  (doall (for [file (get-all-files root-dir)
+               :let [categories (drop-last (drop 2 (s/split (:path file) "/")))]]
+           (prn (:path file) (s/join ", " categories))))) 
+           ; (spit (:path file)
+           ;     (str "\n\nCategories: " (s/join ", " categories)))))
+           ;     :append true)))
+
+(add-dir-categories "content/docs")
+ 
+
+
+
+; -------------------------------------------------------------------------
+
+;; ------------- Experiences.edn to Markdown Files -------------------------
+
+(defn remove-md-link [md]
+  (if-let [delinked (last (re-find #"\[(.*?)\]" md))]
+    delinked md))
+
+(defn clean-whitespace [md]
+  "Removes multiple spaces and newlines."
+  (s/replace (s/replace md "\n" "")
+             #"\s\s+" " "))
+
+(defn name-to-anchor-link [s]
+  (str "#" (s/replace (s/lower-case s) " " "-")))
+
+(defn make-feelings-list [feelings]
+  (s/join "\n"
+          (for [[feeling desc] feelings]
+            (str "  - [" feeling
+                 "]({{< relref \"/docs/feelings.md\" >}}"
+                 (name-to-anchor-link feeling) ")"))))
+
+(defn experiences-to-md [experiences-edn]
+  (doall (for [[title description tags feelings] experiences-edn
+               :let [clean-title (clean-whitespace title)
+                     filename (str "content/docs/experiences/"
+                                   (s/replace (remove-md-link clean-title)
+                                              " " "-")
+                                   ".md")
+                     body (str "#" clean-title "\n\n"
+                               (clean-whitespace description) "\n\n"
+                               "Feelings: " (make-feelings-list feelings) "\n\n"
+                               "Categories: " (s/join ", " tags))]]
+            (spit filename body))))
+
+(defn get-all-feelings [experiences]
+  (sort-by #(first %)
+    (reduce concat (for [[_ _ _ feelings] experiences]
+                     feelings))))
+
+(defn feelings-to-file [experiences-edn]
+  (spit "content/docs/feelings.md"
+    (str "# Feelings\n\n"
+          (s/join "\n\n"
+                  (for [[feeling description valences]
+                        (get-all-feelings experiences-edn)
+                        :when (not (nil? description))]
+                    (str "## " feeling "\n\n" (clean-whitespace description)
+                         "\n"
+                         (if valences
+                           (str "\n"
+                                (s/join "\n" (for [v valences] 
+                                               (str "  - " v))))
+                           "")))))))
+                    
+; -------------------------------------------------------------------------
+    
+
+
 (def index-path "content/menu/index.md")
 (defn main []
   (spit index-path (h/html (make-dir-contents "content/docs")))
   (spit "content/menu/index.edn" (get-file-tree "content/docs"))
   (spit "content/all.edn" (get-all-files "content/docs"))
   ; (pprint (get-all-files "content/docs"))
+
+  (let [experiences-edn
+        (read-string
+          (slurp "content/docs/lifestyle-optimizations/experiences.edn"))]
+    (feelings-to-file experiences-edn)
+    (experiences-to-md experiences-edn))
 
   ; Requires `sudo apt install tidy`
   (os/sh "tidy"
@@ -147,4 +229,4 @@
   ; Prepend hugo fontmatter
   (os/sh "sed" "-i" "1s;^;---\\nheadless: true\\n---\\n;" index-path))
 
-(main)
+; (main)

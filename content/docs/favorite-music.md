@@ -1,4 +1,4 @@
-# My Favorite Music
+# My Favorite Albums
 
 ## Flow/Immersive
 
