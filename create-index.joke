@@ -140,6 +140,7 @@
            ;     (str "\n\nCategories: " (s/join ", " categories)))))
            ;     :append true)))
 
+; TODO run this for real
 (add-dir-categories "content/docs")
  
 
