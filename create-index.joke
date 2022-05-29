@@ -159,7 +159,6 @@ Categories: cat1, ..., [Housing]({{< relref \"/docs/all.md\" >}}?Housing=true)
                                    (s/split text "\n")))
                   (make-category-str categories)))))
 
-; Only run this once to avoid duplication!
 (defn add-dir-categories [root-dir]
   (doall
     (for [file (get-all-files root-dir)
@@ -168,11 +167,6 @@ Categories: cat1, ..., [Housing]({{< relref \"/docs/all.md\" >}}?Housing=true)
                           (drop-last (drop 2 (s/split (:path file) "/")))))]]
       (spit (:path file)
             (update-categories (:markdown file) path-categories)))))
-
-(add-dir-categories "content/docs")
- 
-
-
 
 ; -------------------------------------------------------------------------
 
@@ -206,7 +200,7 @@ Categories: cat1, ..., [Housing]({{< relref \"/docs/all.md\" >}}?Housing=true)
                                    ".md")
                      body (str "#" clean-title "\n\n"
                                (clean-whitespace description) "\n\n"
-                               "Feelings: " (make-feelings-list feelings) "\n\n"
+                               "Feelings: \n\n" (make-feelings-list feelings) "\n\n"
                                "Categories: " (s/join ", " tags))]]
             (spit filename body))))
 
@@ -231,7 +225,27 @@ Categories: cat1, ..., [Housing]({{< relref \"/docs/all.md\" >}}?Housing=true)
                            "")))))))
                     
 ; -------------------------------------------------------------------------
+
+; ------------------------- All Note Page ---------------------------------
+
+; TODO find a way to close parens
+(defn truncate-md [md]
+  (str (subs md 0 (min (count md)
+                       (+ 100
+                          (min 
+                            (if-let [i (s/index-of md "[")] i (count md))
+                            (count md)
+                            300))))
+       "..."))
+
+(defn make-all-notes-page
+  [notes]
+  (str "# All Notes\n\n"
+       (s/join "\n\n"
+               (for [{:keys [markdown]} notes]
+                 (truncate-md markdown)))))
     
+; -------------------------------------------------------------------------
 
 
 (def index-path "content/menu/index.md")
@@ -240,12 +254,16 @@ Categories: cat1, ..., [Housing]({{< relref \"/docs/all.md\" >}}?Housing=true)
   (spit "content/menu/index.edn" (get-file-tree "content/docs"))
   (spit "content/all.edn" 
         (with-out-str (pprint (get-all-files "content/docs"))))
+  (spit "content/docs/all.md"
+        (make-all-notes-page (get-all-files "content/docs")))
 
   (let [experiences-edn
         (read-string
           (slurp "content/docs/lifestyle-optimizations/experiences.edn"))]
     (feelings-to-file experiences-edn)
     (experiences-to-md experiences-edn))
+
+  (add-dir-categories "content/docs")
 
   ; Requires `sudo apt install tidy`
   (os/sh "tidy"
@@ -258,4 +276,4 @@ Categories: cat1, ..., [Housing]({{< relref \"/docs/all.md\" >}}?Housing=true)
   ; Prepend hugo fontmatter
   (os/sh "sed" "-i" "1s;^;---\\nheadless: true\\n---\\n;" index-path))
 
-; (main)
+(main)
