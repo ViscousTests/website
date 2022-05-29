@@ -25,3 +25,5 @@ First kale plant has become so big it is hitting the light and crowding other pl
 ## 3/9/2021
 
 Three more bins have sprouted; I filled them with water today.
+
+Categories: [Hydroponics]({{< relref "/docs/all.md" >}}?Hydroponics=true)

@@ -126,3 +126,5 @@ than the primary to not distract from the game I'm playing, but still be there t
 look stuff up.  I use the exellent [Pangolin Screen Brightness](https://www.pangobright.com/)
 utility to do this.
 
+
+Categories: [Lifestyle Optimizations]({{< relref "/docs/all.md" >}}?Lifestyle-Optimizations=true)

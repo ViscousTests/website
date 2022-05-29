@@ -24,3 +24,5 @@
   - Complexity arises when systems are not changeable.  To make systems more
     changeable, increase their **usability** and reduce **coordination**
     between their pieces.
+
+Categories: [Software Dev]({{< relref "/docs/all.md" >}}?Software-Dev=true)

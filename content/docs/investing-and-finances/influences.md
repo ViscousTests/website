@@ -29,3 +29,5 @@ previously heard but forgotten.
 ## [Antifragile by Nassim Taleb](https://en.wikipedia.org/wiki/Antifragile)
 
 [See description here.](({{< relref "/docs/understanding-the-world/influences.md" >}}))
+
+Categories: [Investing And Finances]({{< relref "/docs/all.md" >}}?Investing-And-Finances=true)

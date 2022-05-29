@@ -4,4 +4,4 @@ One fun variant is to open a book in text format with some program that can sear
 
 Feelings: 
 
-Categories: game, social
+Categories: [Experiences]({{< relref "/docs/all.md" >}}?Experiences=true), [Game]({{< relref "/docs/all.md" >}}?Game=true), [Social]({{< relref "/docs/all.md" >}}?Social=true)

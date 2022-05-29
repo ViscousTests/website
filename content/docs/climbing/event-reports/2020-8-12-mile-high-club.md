@@ -210,3 +210,5 @@ called it, but it was a really cool alpine climbing experience.  Just make sure
 you give yourself enough time!
 
 ![Matthew Looking Back](/docs/climbing/event-reports/2020-8-12-mile-high-club-pics/matthew-looking-back.jpg)
+
+Categories: [Climbing]({{< relref "/docs/all.md" >}}?Climbing=true), [Event Reports]({{< relref "/docs/all.md" >}}?Event-Reports=true)

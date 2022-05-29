@@ -97,3 +97,5 @@ Putting yourself in a stressful situation and showing yourself that you can surv
 ## Wonder
 
 A sense of wonder at the beauty of the world.
+
+Categories: 

@@ -203,3 +203,5 @@ spiral staircase.  Maybe you can animate it like this?
 If you have a round table to eat at that seats ~4 people, put a symmetrical
 fountain like those found in gardens in the middle for people to use to refill
 their water cups.  Could have four streams for easier filling.  
+
+Categories: [Thought Experiments]({{< relref "/docs/all.md" >}}?Thought-Experiments=true)

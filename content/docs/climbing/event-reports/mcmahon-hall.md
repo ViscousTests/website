@@ -16,3 +16,5 @@ in the 5.8 range of difficulty - made a bit easier given my height.  It was
 also cool to surprise some people hanging out on their own balconies : ).  
 
 
+
+Categories: [Climbing]({{< relref "/docs/all.md" >}}?Climbing=true), [Event Reports]({{< relref "/docs/all.md" >}}?Event-Reports=true)

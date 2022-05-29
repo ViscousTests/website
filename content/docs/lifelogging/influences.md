@@ -5,3 +5,5 @@
  - https://howisfelix.today/?
  - [SmarterTime](https://www.smartertime.com/index.html) is a system for
    tracking all life events similar to my autojournal.
+
+Categories: [Lifelogging]({{< relref "/docs/all.md" >}}?Lifelogging=true)

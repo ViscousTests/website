@@ -7,3 +7,5 @@
 ## /r/gamedev on Reddit
 
 
+
+Categories: [Gamedev]({{< relref "/docs/all.md" >}}?Gamedev=true)

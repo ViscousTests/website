@@ -14,3 +14,5 @@ I analyzed my AncestryDNA data with several services:
    - Really easy to read and well summarized reports!
  - Free search from https://codegen.eu/faq/
    - Not as user friendly, but a good search engine.
+
+Categories: [Health And Longevity]({{< relref "/docs/all.md" >}}?Health-And-Longevity=true)

@@ -62,3 +62,5 @@ BEFORE RAPPELLING:
  - Ensure both ends of rope have stopper knots.
  - Weight rope while still using personal anchors.
 ```
+
+Categories: [Climbing]({{< relref "/docs/all.md" >}}?Climbing=true)

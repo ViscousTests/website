@@ -4,4 +4,4 @@ My first experience was 'that complex card game that older kids played' when I w
 
 Feelings: 
 
-Categories: game, turn-based, competitive
+Categories: [Competitive]({{< relref "/docs/all.md" >}}?Competitive=true), [Experiences]({{< relref "/docs/all.md" >}}?Experiences=true), [Game]({{< relref "/docs/all.md" >}}?Game=true), [Turn Based]({{< relref "/docs/all.md" >}}?Turn-Based=true)

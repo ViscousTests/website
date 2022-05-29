@@ -285,3 +285,5 @@ But has these problems:
  - Reproducing the logic behind the information can be very difficult or
    impossible, since it requires walking though the life experience of the
    tinkerer.  This can make it easy for the tinkerer to hide bias.
+
+Categories: [Understanding The World]({{< relref "/docs/all.md" >}}?Understanding-The-World=true)

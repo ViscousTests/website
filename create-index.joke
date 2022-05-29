@@ -154,7 +154,6 @@ Categories: cat1, ..., [Housing]({{< relref \"/docs/all.md\" >}}?Housing=true)
 
 (defn update-categories [text new-categories]
   (let [categories (sort (union new-categories (parse-categories text)))]
-    (prn categories)
     (s/join "\n"
             (conj (into [] (filter #(not (s/starts-with? % "Categories: "))
                                    (s/split text "\n")))
@@ -170,8 +169,7 @@ Categories: cat1, ..., [Housing]({{< relref \"/docs/all.md\" >}}?Housing=true)
       (spit (:path file)
             (update-categories (:markdown file) path-categories)))))
 
-; TODO run this for real
-(add-dir-categories "content/docs/housing")
+(add-dir-categories "content/docs")
  
 
 

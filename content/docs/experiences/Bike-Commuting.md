@@ -4,4 +4,4 @@ Using a bike to fulfill daily transportation needs. Best with combined with audi
 
 Feelings:   - [Relaxing]({{< relref "/docs/feelings.md" >}}#relaxing)
 
-Categories: lifestyle, exercise
+Categories: [Exercise]({{< relref "/docs/all.md" >}}?Exercise=true), [Experiences]({{< relref "/docs/all.md" >}}?Experiences=true), [Lifestyle]({{< relref "/docs/all.md" >}}?Lifestyle=true)

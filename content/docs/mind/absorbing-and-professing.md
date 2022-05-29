@@ -147,3 +147,5 @@ little thought - this simple pause really helps your next task be intentional
 and not dictated by your environment.
 
 
+
+Categories: [Mind]({{< relref "/docs/all.md" >}}?Mind=true)

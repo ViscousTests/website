@@ -21,3 +21,5 @@ are**):
  - [Aubrey de Grey](https://en.wikipedia.org/wiki/Aubrey_de_Grey)
  - [Steve Jobs](https://en.wikipedia.org/wiki/Steve_Jobs)
  - [Andy Rubin](https://en.wikipedia.org/wiki/Andy_Rubin)
+
+Categories: [Morality]({{< relref "/docs/all.md" >}}?Morality=true)

@@ -31,3 +31,5 @@ scramble](/docs/climbing/event-reports/2020-8-10-lake-erie-pics/approach-scrambl
 *A bad (artsy?) shot of the cliff base.*
 
 
+
+Categories: [Climbing]({{< relref "/docs/all.md" >}}?Climbing=true), [Event Reports]({{< relref "/docs/all.md" >}}?Event-Reports=true)

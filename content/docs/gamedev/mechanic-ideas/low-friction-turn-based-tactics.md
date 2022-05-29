@@ -53,3 +53,5 @@ Admittedly, this might be pretty hard to implement completely depending on the g
 Even if this isn't implemented, games that are wholly lacking any way to see what enemies can
 do (what effects their attacks will have on your characters) besides doing all the math yourself
 I find very tedious (see the turn-based modes for Pathfinder: Kingmaker and Pillars of Eternity 2).
+
+Categories: [Gamedev]({{< relref "/docs/all.md" >}}?Gamedev=true), [Mechanic Ideas]({{< relref "/docs/all.md" >}}?Mechanic-Ideas=true)

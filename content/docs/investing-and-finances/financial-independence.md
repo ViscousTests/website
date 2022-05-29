@@ -24,3 +24,5 @@ look promising to me:
  - https://cfiresim.com/
  - https://projectifi.io/
  - https://fiers.co/
+
+Categories: [Investing And Finances]({{< relref "/docs/all.md" >}}?Investing-And-Finances=true)

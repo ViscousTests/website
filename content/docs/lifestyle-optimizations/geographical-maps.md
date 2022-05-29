@@ -2,3 +2,5 @@
 
  - Map of what you can visually see from any given point on Earth:
    https://www.heywhatsthat.com/
+
+Categories: [Lifestyle Optimizations]({{< relref "/docs/all.md" >}}?Lifestyle-Optimizations=true)

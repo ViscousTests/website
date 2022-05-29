@@ -34,3 +34,5 @@ are worth exploring:
  - Housing will take up less mental space and energy, which you can use for
    other things.
  - Lower commitment, and therefore less stressful.
+
+Categories: [Investing And Finances]({{< relref "/docs/all.md" >}}?Investing-And-Finances=true)

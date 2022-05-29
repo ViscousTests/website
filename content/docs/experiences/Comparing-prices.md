@@ -5,4 +5,4 @@ When buying a good or service, comparing many alternatives to find the best pric
 Feelings:   - [Financial Control]({{< relref "/docs/feelings.md" >}}#financial-control)
   - [Scanning through possibilities]({{< relref "/docs/feelings.md" >}}#scanning-through-possibilities)
 
-Categories: habit
+Categories: [Experiences]({{< relref "/docs/all.md" >}}?Experiences=true), [Habit]({{< relref "/docs/all.md" >}}?Habit=true)

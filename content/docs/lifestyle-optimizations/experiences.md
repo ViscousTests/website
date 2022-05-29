@@ -8,3 +8,5 @@ to display this.
 {{< experience_aggregator >}}
 {{% include "docs/lifestyle-optimizations/experiences.edn" %}}
 {{< /experience_aggregator >}}
+
+Categories: [Lifestyle Optimizations]({{< relref "/docs/all.md" >}}?Lifestyle-Optimizations=true)

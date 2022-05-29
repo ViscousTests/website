@@ -148,3 +148,5 @@ opponent.
  - [Great break down by CoachNihil of kandyrew's
    gameplay](https://www.youtube.com/watch?v=L4QuNEkLtl8&ab_channel=kandyrew)
    which helped inspire the "cone of danger" thinking.
+
+Categories: [Gaming]({{< relref "/docs/all.md" >}}?Gaming=true)

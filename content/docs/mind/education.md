@@ -79,3 +79,5 @@ as soon as possible. I wonder if it's possible to front-load practical
 prerequisites early in the education cycle for such jobs. In my experience in
 technical fields so far, there are only a few requirements I've truly needed
 from my education; otherwise most of my skills have been learned on the job.
+
+Categories: [Mind]({{< relref "/docs/all.md" >}}?Mind=true)

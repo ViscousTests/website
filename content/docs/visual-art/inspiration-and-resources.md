@@ -17,3 +17,5 @@ Cool art and art tutorials that I've stumbled across.
    - https://www.dungeonalchemist.com/
    - https://dungeondraft.net/
  - https://github.com/mxgmn/WaveFunctionCollapse
+
+Categories: [Visual Art]({{< relref "/docs/all.md" >}}?Visual-Art=true)

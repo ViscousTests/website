@@ -43,3 +43,5 @@ while. Some ideas:
    - Con: People not always available.
    - Con: Can be draining.
  - Napping.
+
+Categories: [Mind]({{< relref "/docs/all.md" >}}?Mind=true)

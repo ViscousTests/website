@@ -227,3 +227,5 @@ Some great resources for goal execution:
    https://www.youtube.com/watch?v=i7kh8pNRWOo
  - Work specific motivation: https://jasont.co/ennui/
 
+
+Categories: [Mind]({{< relref "/docs/all.md" >}}?Mind=true)

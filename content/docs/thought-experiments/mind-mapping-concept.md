@@ -38,7 +38,6 @@ Each note will have links to other notes.
 ```
 <markdown>
 
-Categories: cat1, cat2, ...
 ```
 
 TODO update all notes with categories based on their current file tree position
@@ -61,3 +60,5 @@ A subset of this is my [Experiences]({{< relref
  - https://biomindmap.com/nodes/185
  - https://beepb00p.xyz/blog-graph.html
  - https://github.com/hikerpig/note-graph
+
+Categories: [...]({{< relref "/docs/all.md" >}}?...=true), [Cat1]({{< relref "/docs/all.md" >}}?Cat1=true), [Cat2]({{< relref "/docs/all.md" >}}?Cat2=true), [Thought Experiments]({{< relref "/docs/all.md" >}}?Thought-Experiments=true)

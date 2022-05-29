@@ -90,3 +90,5 @@ Just because the advice is good in this case does not mean it's good in
 general!
 
 Some good thinking on advice giving: https://guzey.com/advice/
+
+Categories: [Understanding The World]({{< relref "/docs/all.md" >}}?Understanding-The-World=true)

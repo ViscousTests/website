@@ -54,3 +54,5 @@ that play out in a predictable way.  I want the player to feel like they are
 learning with every defeat, just like in every time loop in Outer Wilds.  I
 want to avoid unfair/random mechanics that many roguelikes utilize to perhaps
 artificially extend the game and make it more grindy.
+
+Categories: [Game Ideas]({{< relref "/docs/all.md" >}}?Game-Ideas=true), [Gamedev]({{< relref "/docs/all.md" >}}?Gamedev=true)

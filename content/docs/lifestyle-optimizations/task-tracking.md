@@ -44,3 +44,5 @@ Setting recurring reminders at specific times is also an extremely effective
 way of building [atomic habits](https://jamesclear.com/atomic-habits). I find
 that doing this proactively is much better than trying to track adherence to a
 habit reactively (e.g. tracking workouts).
+
+Categories: [Lifestyle Optimizations]({{< relref "/docs/all.md" >}}?Lifestyle-Optimizations=true)

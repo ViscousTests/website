@@ -4,4 +4,4 @@ Really cool strategy game with a cool story. Would love it if they made a sequel
 
 Feelings: 
 
-Categories: game, story, solitary
+Categories: [Experiences]({{< relref "/docs/all.md" >}}?Experiences=true), [Game]({{< relref "/docs/all.md" >}}?Game=true), [Solitary]({{< relref "/docs/all.md" >}}?Solitary=true), [Story]({{< relref "/docs/all.md" >}}?Story=true)

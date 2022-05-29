@@ -9,3 +9,5 @@ on how to tie. Some of the many uses I've found for this knot:
  - Tying, then tightening, a clothsline
  - Tying drawstrings on sweatpants or shorts - you never need to untie/retie
    them again!
+
+Categories: [Lifestyle Optimizations]({{< relref "/docs/all.md" >}}?Lifestyle-Optimizations=true)

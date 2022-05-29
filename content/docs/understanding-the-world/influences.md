@@ -78,3 +78,5 @@ https://medium.com/@LouisGudema/zero-to-some-a-critique-of-peter-thiels-zero-to-
 
 - [danluu](http://danluu.com)
 - [Paul Graham](http://www.paulgraham.com/articles.html)
+
+Categories: [Understanding The World]({{< relref "/docs/all.md" >}}?Understanding-The-World=true)

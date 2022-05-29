@@ -26,3 +26,5 @@ feel as impactful as anticipated.
 If this theory is correct at all, then a way to avoid the above problem is to
 diversify your endevours, at least adding some that have clear progress marks
 you can feel satisfied about.
+
+Categories: [Mind]({{< relref "/docs/all.md" >}}?Mind=true)

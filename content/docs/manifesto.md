@@ -191,3 +191,5 @@ parts of your brain to make you feel very fresh in the new context.
 ### Expectations
 
 TODO: fill this in (potentially from the "motivation" doc)
+
+Categories: 

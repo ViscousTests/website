@@ -162,3 +162,5 @@ I've made the mistake before of trying to replace the wrong type of cog, and
 it's not fun.
 
 *Note that any links to products on this page are Amazon affiliate links.*
+
+Categories: [Lifestyle Optimizations]({{< relref "/docs/all.md" >}}?Lifestyle-Optimizations=true)

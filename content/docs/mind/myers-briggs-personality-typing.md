@@ -31,3 +31,5 @@ Reddit](https://www.reddit.com/r/mbti/comments/mjqz59/the_cognitive_functions_in
 [Hofstede's cultural dimensions
 theory](https://en.wikipedia.org/wiki/Hofstede%27s_cultural_dimensions_theory)
 explores cultural traits at a national level, but there is some overlap here.
+
+Categories: [Mind]({{< relref "/docs/all.md" >}}?Mind=true)

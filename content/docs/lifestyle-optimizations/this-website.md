@@ -27,3 +27,5 @@ it's less convenient to do so.
 ## Cool tips to check out for improvements!
 
   - Use https://markmap.js.org/ for tables of contents.
+
+Categories: [Lifestyle Optimizations]({{< relref "/docs/all.md" >}}?Lifestyle-Optimizations=true)

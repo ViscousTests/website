@@ -127,3 +127,5 @@ as lower cost activities, are therefore to be avoided as much as possible.
 Their cost indirectly takes resources away from places where those resources
 would be much more emotionally powerful. This can be extreme; people spend many
 times a basic income requirement on experiences commonly :(.
+
+Categories: [Morality]({{< relref "/docs/all.md" >}}?Morality=true)

@@ -63,3 +63,5 @@ point where the original vision is unfulfilled in some way.
    ideas.
  - [Cool test](https://www.datcreativity.com/)
  - [Guided idea generation tool](https://old.tjcx.me/tools/idea-generator.html)
+
+Categories: [Mind]({{< relref "/docs/all.md" >}}?Mind=true)

@@ -112,3 +112,5 @@ concept for a while before it finally clicks.
 - [Inversion by James Clear](https://jamesclear.com/inversion)
   - Imagining how to avoid failure is often more useful than imagining how to
     succeed.
+
+Categories: [Mind]({{< relref "/docs/all.md" >}}?Mind=true)

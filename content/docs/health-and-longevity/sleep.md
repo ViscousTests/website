@@ -104,3 +104,5 @@ I find that showering ~2 hours before sleeping makes these non-issues.
 
  - Interesting take on the effects sleep has on your physiology:
    https://guzey.com/theses-on-sleep/
+
+Categories: [Health And Longevity]({{< relref "/docs/all.md" >}}?Health-And-Longevity=true)

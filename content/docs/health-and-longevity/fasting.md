@@ -92,3 +92,5 @@ another task, or even multitask.  This was good for getting lots done, but not
 as helpful for cracking a difficult problem (e.g. debugging a computer program)
 I could use this feature of fasting in the future if I need to be particularly
 productive in this way.
+
+Categories: [Health And Longevity]({{< relref "/docs/all.md" >}}?Health-And-Longevity=true)

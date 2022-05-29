@@ -4,4 +4,4 @@ Good tactical RPG set in a low fantasy world. Lots of character customization vi
 
 Feelings:   - [Reactive Randomness Stress]({{< relref "/docs/feelings.md" >}}#reactive-randomness-stress)
 
-Categories: game, solitary, turn-based
+Categories: [Experiences]({{< relref "/docs/all.md" >}}?Experiences=true), [Game]({{< relref "/docs/all.md" >}}?Game=true), [Solitary]({{< relref "/docs/all.md" >}}?Solitary=true), [Turn Based]({{< relref "/docs/all.md" >}}?Turn-Based=true)

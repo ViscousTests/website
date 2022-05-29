@@ -217,3 +217,5 @@ front.
    you are planning to sell at.  This will tell you how much money per month
    you are saving (or losing) per month compared to your **Personal monthly
    "rent"**.
+
+Categories: [Investing And Finances]({{< relref "/docs/all.md" >}}?Investing-And-Finances=true)

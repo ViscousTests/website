@@ -144,3 +144,5 @@ People complain for at least two main reasons:
 It is easy (at least for me) to jump strait to advice help when people complain
 around me and ignore the fact that the complainer may need one of the other
 types of resolution described above.
+
+Categories: [Mind]({{< relref "/docs/all.md" >}}?Mind=true)

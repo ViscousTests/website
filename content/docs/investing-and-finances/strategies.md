@@ -40,3 +40,5 @@ is usually true).**
 
  - [Option writing as income
    strategy](https://earlyretirementnow.com/2019/03/27/passive-income-through-option-writing-part-3/)
+
+Categories: [Investing And Finances]({{< relref "/docs/all.md" >}}?Investing-And-Finances=true)

@@ -22,3 +22,5 @@ need:
 ```
 
 Or around `116 GB/year` if a took a picture every minute.
+
+Categories: [Lifelogging]({{< relref "/docs/all.md" >}}?Lifelogging=true)

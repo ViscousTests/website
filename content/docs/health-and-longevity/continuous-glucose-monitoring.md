@@ -30,3 +30,5 @@ line: `poetry run report_generator --start_date=2021-04-09
 do its visualization.
 
 **[The data visualization can be found here!](/cgm-data.html)**
+
+Categories: [Health And Longevity]({{< relref "/docs/all.md" >}}?Health-And-Longevity=true)

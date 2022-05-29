@@ -4,4 +4,4 @@ This includes watching videos from channels like [Veritasium](https://www.youtub
 
 Feelings:   - [Wonder]({{< relref "/docs/feelings.md" >}}#wonder)
 
-Categories: consuming content
+Categories: [Consuming Content]({{< relref "/docs/all.md" >}}?Consuming-Content=true), [Experiences]({{< relref "/docs/all.md" >}}?Experiences=true)

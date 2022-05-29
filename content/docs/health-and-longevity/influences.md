@@ -168,3 +168,5 @@ A cool system for quantifying biological age.  See also the
 [young.ai](https://app.young.ai/app/dashboard) app developed by the same people
 to make living better easier.  I don't use this system myself right now.
 
+
+Categories: [Health And Longevity]({{< relref "/docs/all.md" >}}?Health-And-Longevity=true)

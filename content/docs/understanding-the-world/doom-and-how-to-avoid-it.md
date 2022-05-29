@@ -50,3 +50,5 @@ work to invalidate:
 
 People spend too much time on non-creative tasks.  Automation with a good
 wealth redistribution system should eliminate this wasted time.
+
+Categories: [Understanding The World]({{< relref "/docs/all.md" >}}?Understanding-The-World=true)

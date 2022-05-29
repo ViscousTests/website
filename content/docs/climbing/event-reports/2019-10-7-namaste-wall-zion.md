@@ -38,3 +38,5 @@ Here is a complete album: https://photos.app.goo.gl/kLGvWTqGBEjh2Dzv7
 ![Rock](/docs/climbing/event-reports/2019-10-07-namaste-wall-zion-pics/rock.jpg)
 
 ![Trees](/docs/climbing/event-reports/2019-10-07-namaste-wall-zion-pics/trees.jpg)
+
+Categories: [Climbing]({{< relref "/docs/all.md" >}}?Climbing=true), [Event Reports]({{< relref "/docs/all.md" >}}?Event-Reports=true)
