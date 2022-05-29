@@ -210,8 +210,8 @@
 (defn main []
   (spit index-path (h/html (make-dir-contents "content/docs")))
   (spit "content/menu/index.edn" (get-file-tree "content/docs"))
-  (spit "content/all.edn" (get-all-files "content/docs"))
-  ; (pprint (get-all-files "content/docs"))
+  (spit "content/all.edn" 
+        (with-out-str (pprint (get-all-files "content/docs"))))
 
   (let [experiences-edn
         (read-string
