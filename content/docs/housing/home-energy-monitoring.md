@@ -17,3 +17,6 @@ effects power consumption.
  - https://github.com/jertel/vuegraf
  - https://github.com/magico13/PyEmVue
  - Installation: https://www.youtube.com/watch?v=dJ9Q3Ft5pOg
+
+
+Categories: [Housing]({{< relref "/docs/all.md" >}}?Housing=true)

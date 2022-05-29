@@ -3,6 +3,7 @@
 (ns script
     (:require [joker.filepath :as fp]
               [joker.string :as s]
+              [joker.set :refer [union]]
               [joker.os :as os]
               [joker.hiccup :as h]
               [joker.core :as j]))
@@ -53,20 +54,26 @@
 ;     "A subset of this is my [Experiences]({{< relref
 ;      \"/docs/lifestyle-optimizations/experiences.md\" >}}) page."))
 
+(defn format-category [category]
+  (s/trim (capitalize-words (s/replace category "-" " "))))
+
 (defn parse-categories
   "Finds all categories the text and returns them."
   [text]
   (into #{} (reduce concat
               (for [match (re-seq #"\nCategories: (.+)" text)]
                 (for [category (s/split (last match) ",")]
-                  (s/trim category))))))
+                  (format-category
+                    (if-let [delinked (last (re-find #"\[(.*?)\]" category))]
+                      delinked
+                      category)))))))
 
-; (j/println
-;   (parse-categories
-;     "<markdown>
-; 
-; Categories: cat1, cat2, ...
-; "))
+(j/println
+  (parse-categories
+    "<markdown>
+
+Categories: cat1, ..., [Housing]({{< relref \"/docs/all.md\" >}}?Housing=true)
+"))
 
 
 (defn add-file-data [file]
@@ -131,17 +138,40 @@
 
 ;; ------------- Adding Categories based on Directory Structure ------------
 
+(defn link-category [category]
+  (let [formated-category (format-category category)]
+    (str "[" formated-category
+         "]({{< relref \"/docs/all.md\" >}}?"
+         (s/replace formated-category " " "-")
+         "=true)")))
+  
+
+(defn make-category-str [categories]
+  (let [linked-categories
+        (for [category categories]
+          (link-category category))]
+    (str "Categories: " (s/join ", " linked-categories))))
+
+(defn update-categories [text new-categories]
+  (let [categories (sort (union new-categories (parse-categories text)))]
+    (prn categories)
+    (s/join "\n"
+            (conj (into [] (filter #(not (s/starts-with? % "Categories: "))
+                                   (s/split text "\n")))
+                  (make-category-str categories)))))
+
 ; Only run this once to avoid duplication!
 (defn add-dir-categories [root-dir]
-  (doall (for [file (get-all-files root-dir)
-               :let [categories (drop-last (drop 2 (s/split (:path file) "/")))]]
-           (prn (:path file) (s/join ", " categories))))) 
-           ; (spit (:path file)
-           ;     (str "\n\nCategories: " (s/join ", " categories)))))
-           ;     :append true)))
+  (doall
+    (for [file (get-all-files root-dir)
+          :let [path-categories
+                (set (map format-category
+                          (drop-last (drop 2 (s/split (:path file) "/")))))]]
+      (spit (:path file)
+            (update-categories (:markdown file) path-categories)))))
 
 ; TODO run this for real
-(add-dir-categories "content/docs")
+(add-dir-categories "content/docs/housing")
  
 
 
