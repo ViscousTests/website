@@ -1,22 +1,5 @@
 # My Computing Environment
 
-<!--
-To link this documentation more with my actual config, one idea is to add
-something like this to all the settings I document in my rc files:
-
-## SETTING_NAME ##
-some code that applies a setting
-## END ##
-
-Then, when I'm writing docs in this website I can simply reference the
-SETTING_NAME instead of inlining the code.  To make this work I need to write
-code that parses all my rc files and constructs some kind of mapping from
-SETTING_NAMES to the code (and the language to get syntax highlighting right and
-the filename).  Then, I need to replace the names I put in this documentation
-with the values from the mapping.  This code would run when the website is
-built.  
--->
-
 My complete configuration files ("dotfiles") can be found at
 https://github.com/kovasap/dotfiles.  
 
@@ -125,6 +108,27 @@ Because I often game on windows, I prefer to have my secondary monitor be dimmer
 than the primary to not distract from the game I'm playing, but still be there to
 look stuff up.  I use the exellent [Pangolin Screen Brightness](https://www.pangobright.com/)
 utility to do this.
+
+
+## TODO
+
+To link this documentation more with my actual config, one idea is to add
+something like this to all the settings I document in my rc files:
+
+```
+## SETTING_NAME ##
+some code that applies a setting
+## END ##
+```
+
+Then, when I'm writing docs in this website I can simply reference the
+SETTING_NAME instead of inlining the code.  To make this work I need to write
+code that parses all my rc files and constructs some kind of mapping from
+SETTING_NAMES to the code (and the language to get syntax highlighting right and
+the filename).  Then, I need to replace the names I put in this documentation
+with the values from the mapping.  This code would run when the website is
+built.  
+
 
 
 Categories: [Lifestyle Optimizations]({{< relref "/docs/all.md" >}}?Lifestyle-Optimizations=true)

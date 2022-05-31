@@ -4,4 +4,6 @@ I first played this game on the Game Boy Advance when I was in middle school.For
 
 Feelings: 
 
+
+
 Categories: [Experiences]({{< relref "/docs/all.md" >}}?Experiences=true), [Game]({{< relref "/docs/all.md" >}}?Game=true), [Solitary]({{< relref "/docs/all.md" >}}?Solitary=true), [Story]({{< relref "/docs/all.md" >}}?Story=true), [Turn Based]({{< relref "/docs/all.md" >}}?Turn-Based=true), [⭐top10]({{< relref "/docs/all.md" >}}?⭐top10=true)

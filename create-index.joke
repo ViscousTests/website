@@ -31,6 +31,7 @@
          (not (s/includes? filepath "-unindexed"))
          (not (s/includes? filepath "DRAFT"))
          (not (s/includes? filepath "FREEWRITE"))
+         (not (s/ends-with? filepath "all.md"))
          (or (is-md? file)
              (:dir? file))))) 
 
@@ -228,22 +229,50 @@ Categories: cat1, ..., [Housing]({{< relref \"/docs/all.md\" >}}?Housing=true)
 
 ; ------------------------- All Note Page ---------------------------------
 
-; TODO find a way to close parens
+; I feel like this truncation is not really going to work.
+; https://eddmann.com/posts/checking-for-balanced-parentheses-in-clojure/
+; (defn balanced?
+;   {:test #(do
+;             (assert (true? (balanced? "(hello(world))")))
+;             (assert (false? (balanced? "he)llo()world"))))}
+;   ([expr] (balanced? (s/split expr #"") 0))
+;   ([[x & xs] count]
+;    (cond (neg? count) false
+;          (nil? x) (zero? count)
+;          (= x "(") (recur xs (inc count))
+;          (= x ")") (recur xs (dec count))
+;          :else (recur xs count))))
+; (def min-chars 200)
+; (defn truncate-md [md]
+;   (let [start (subs md 0 (min (count md) min-chars)) ; At least min-chars
+;         end (subs md (min (count md) min-chars))]
+;     (str
+;       (if (balanced? start)
+;           start
+;           ; Enough chars to close any parens
+;           (str 
+;             start
+;             (subs end 0 (min (if-let [i (s/index-of end ")")] i (count md))
+;                              (count md)))))
+;       "...")))
+
+(defn drop-frontmatter [md]
+  (if (s/starts-with? md "---")
+    (s/join "\n\n" (drop 1 (s/split md "\n\n")))
+    md))
+
 (defn truncate-md [md]
-  (str (subs md 0 (min (count md)
-                       (+ 100
-                          (min 
-                            (if-let [i (s/index-of md "[")] i (count md))
-                            (count md)
-                            300))))
-       "..."))
+  "Grabs the title and first paragraph from the given markdown."
+  (let [[p1 p2] (take 2 (s/split (drop-frontmatter md) "\n\n"))]
+    (str "#" p1 "\n\n" (if (s/starts-with? p2 "#") "" p2) "...")))
+  
 
 (defn make-all-notes-page
   [notes]
   (str "# All Notes\n\n"
        (s/join "\n\n"
-               (for [{:keys [markdown]} notes]
-                 (truncate-md markdown)))))
+               (sort (for [{:keys [markdown path]} notes]
+                       (truncate-md markdown))))))
     
 ; -------------------------------------------------------------------------
 

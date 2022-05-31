@@ -180,6 +180,10 @@ creating novel accents to spicing up rhyming verses. This technique would also
 allow you to encode sounds in writing that are impossible for a human voice to
 make.
 
+### Laser Cut Leaves
+
+Etch some cool pattern in tough, large leaves (treating them like paper).
+
 ### Laser Cut Flip Book
 
 #### Main Idea

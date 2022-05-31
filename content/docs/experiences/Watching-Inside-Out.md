@@ -4,4 +4,6 @@ I loved the modelling of the mind as a collection of different emotions competin
 
 Feelings: 
 
+
+
 Categories: [Consuming Content]({{< relref "/docs/all.md" >}}?Consuming-Content=true), [Experiences]({{< relref "/docs/all.md" >}}?Experiences=true), [Movie]({{< relref "/docs/all.md" >}}?Movie=true)

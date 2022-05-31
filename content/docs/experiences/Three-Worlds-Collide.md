@@ -2,6 +2,8 @@
 
 Science fiction with a philosophical twist.
 
-Feelings:   - [Thought Provoking]({{< relref "/docs/feelings.md" >}}#thought-provoking)
+Feelings: 
+
+  - [Thought Provoking]({{< relref "/docs/feelings.md" >}}#thought-provoking)
 
 Categories: [Experiences]({{< relref "/docs/all.md" >}}?Experiences=true), [Philosophy]({{< relref "/docs/all.md" >}}?Philosophy=true), [Story]({{< relref "/docs/all.md" >}}?Story=true)
