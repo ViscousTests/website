@@ -2,7 +2,6 @@
 
 <div id="experience_aggregator">
     <div id="aggregator"></div>
-    <script src="/js/website_helpers.js" type="text/javascript"></script>
     <script type="text/javascript">
         // Show all exported defs/defns we can use.
         // console.log(website_helpers.core);
@@ -11,7 +10,7 @@
         //     website_helpers.core.list_to_hiccup(["a", "b"])));
 
         website_helpers.core.render_to_element(
-            website_helpers.core.make_aggregated_items(
+            website_helpers.filterable_items.make_aggregated_items(
                 website_helpers.core.read_edn_string({{.Inner}})),
             "aggregator");
     </script>

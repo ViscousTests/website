@@ -47,8 +47,8 @@
 (defn parse-links
   "Finds all relref links in the text and returns them in a list of note names."
   [text]
-  (for [match (re-seq #"relref\s+\"(.+)\"" text)]
-    (last match)))
+  (into [] (for [match (re-seq #"relref\s+\"(.+)\"" text)]
+             (last match))))
 
 ; (j/println
 ;   (parse-links
@@ -199,7 +199,7 @@ Categories: cat1, ..., [Housing]({{< relref \"/docs/all.md\" >}}?Housing=true)
                                    (s/replace (remove-md-link clean-title)
                                               " " "-")
                                    ".md")
-                     body (str "#" clean-title "\n\n"
+                     body (str "# " clean-title "\n\n"
                                (clean-whitespace description) "\n\n"
                                "Feelings: \n\n" (make-feelings-list feelings) "\n\n"
                                "Categories: " (s/join ", " tags))]]
@@ -279,10 +279,10 @@ Categories: cat1, ..., [Housing]({{< relref \"/docs/all.md\" >}}?Housing=true)
 
 (def index-path "content/menu/index.md")
 (defn main []
-  (spit index-path (h/html (make-dir-contents "content/docs")))
-  (spit "content/menu/index.edn" (get-file-tree "content/docs"))
+  ; (spit index-path (h/html (make-dir-contents "content/docs")))
+  ; (spit "content/menu/index.edn" (get-file-tree "content/docs"))
   (spit "content/all.edn" 
-        (with-out-str (pprint (get-all-files "content/docs"))))
+        (with-out-str (pprint (into [] (get-all-files "content/docs")))))
   (spit "content/docs/all.md"
         (make-all-notes-page (get-all-files "content/docs")))
 
