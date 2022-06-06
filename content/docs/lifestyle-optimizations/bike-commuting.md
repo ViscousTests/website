@@ -161,6 +161,18 @@ out these sites for more details:
 I've made the mistake before of trying to replace the wrong type of cog, and
 it's not fun.
 
+### Stuck Seatpost
+
+I had a very persistent problem for a while of my seatpost being stuck in a
+specific position on one of my bikes.  I think the root cause was corrosion
+fusing the post to the frame, but am not completely sure.  I tried very hard
+for a long time to fix this, as the seat was slightly too high and I suspect
+this was causing me [pain in my left
+knee](https://docs.google.com/document/d/1a9vPQ6muSLYFzL1YfB7s90kQxWDijXBOpVjZqCm5GEs/edit#heading=h.4aznx89p4bq7).
+Eventually, a coworker lent me a [pipe wrench](https://amzn.to/3NpLoGN) and I
+bought some [penetrating lube](https://amzn.to/3zgWxFH). These two in tandem
+easily loosened my seatpost!
+
 *Note that any links to products on this page are Amazon affiliate links.*
 
 Categories: [Lifestyle Optimizations]({{< relref "/docs/all.md" >}}?Lifestyle-Optimizations=true)
