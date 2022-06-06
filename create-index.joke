@@ -47,7 +47,7 @@
 (defn parse-links
   "Finds all relref links in the text and returns them in a list of note names."
   [text]
-  (into [] (for [match (re-seq #"relref\s+\"(.+)\"" text)]
+  (into [] (for [match (re-seq #"relref\s+\"(.+?)\"" text)]
              (last match))))
 
 ; (j/println
@@ -142,7 +142,7 @@ Categories: cat1, ..., [Housing]({{< relref \"/docs/all.md\" >}}?Housing=true)
 (defn link-category [category]
   (let [formated-category (format-category category)]
     (str "[" formated-category
-         "]({{< relref \"/docs/all.md\" >}}?"
+         "]({{< relref \"/\" >}}?"
          (s/replace formated-category " " "-")
          "=true)")))
   
@@ -169,7 +169,34 @@ Categories: cat1, ..., [Housing]({{< relref \"/docs/all.md\" >}}?Housing=true)
       (spit (:path file)
             (update-categories (:markdown file) path-categories)))))
 
-; -------------------------------------------------------------------------
+; -------------- Adding Backlinks to All Pages ----------------------------
+
+(defn update-backlinks
+  [md backlinks]
+  md)
+
+(defn get-file-to-backlinks
+  [all-files]
+  (apply merge-with into 
+    (reduce concat
+      (for [file all-files]
+        (for [link (:links file)
+              :when (not (= "/docs/all.md" link))]
+          {link #{(:path file)}})))))
+
+(defn add-all-backlinks [root-dir]
+  (let [file-to-backlinks (get-file-to-backlinks (get-all-files root-dir))]
+    (doall
+      (for [[file backlinks] file-to-backlinks]
+        (do 
+          (prn "-------------------")
+          (prn file)
+          (prn (:name file))
+          (prn backlinks))))))
+        ; (spit (:path file)
+        ;       (update-backlinks (:markdown file) backlinks))))))
+
+(add-all-backlinks "content/docs")
 
 ;; ------------- Experiences.edn to Markdown Files -------------------------
 
@@ -305,4 +332,4 @@ Categories: cat1, ..., [Housing]({{< relref \"/docs/all.md\" >}}?Housing=true)
   ; Prepend hugo fontmatter
   (os/sh "sed" "-i" "1s;^;---\\nheadless: true\\n---\\n;" index-path))
 
-(main)
+; (main)
