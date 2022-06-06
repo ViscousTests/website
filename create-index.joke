@@ -151,7 +151,7 @@ Categories: cat1, ..., [Housing]({{< relref \"/docs/all.md\" >}}?Housing=true)
   (let [linked-categories
         (for [category categories]
           (link-category category))]
-    (str "Categories: " (s/join ", " linked-categories))))
+    (str "Categories: " (s/join ",\n" linked-categories))))
 
 (defn update-categories [text new-categories]
   (let [categories (sort (union new-categories (parse-categories text)))]

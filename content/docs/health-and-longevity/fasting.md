@@ -93,4 +93,9 @@ as helpful for cracking a difficult problem (e.g. debugging a computer program)
 I could use this feature of fasting in the future if I need to be particularly
 productive in this way.
 
+### Water Only Fast - June 2022
+
+I collected some data during this fast which can be seen at
+https://docs.google.com/spreadsheets/d/1gp4n59h3I0r1DnM8NQq4ISGtDY9ameoDuqInhsv2WYI/edit#gid=0.
+
 Categories: [Health And Longevity]({{< relref "/docs/all.md" >}}?Health-And-Longevity=true)
