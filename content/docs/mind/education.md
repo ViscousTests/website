@@ -80,4 +80,8 @@ prerequisites early in the education cycle for such jobs. In my experience in
 technical fields so far, there are only a few requirements I've truly needed
 from my education; otherwise most of my skills have been learned on the job.
 
+## Higher Education
+
+Interesting Article: https://annehelen.substack.com/p/is-everything-an-mlm?s=r
+
 Categories: [Mind]({{< relref "/docs/all.md" >}}?Mind=true)
