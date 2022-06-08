@@ -18,7 +18,7 @@ I also try to follow this advice:
 https://critter.blog/2020/10/02/write-5x-more-but-write-5x-less/
 
 {{< website_graph >}}
-{{% include "all.edn" %}}
+{{% include "/all.edn" %}}
 {{< /website_graph >}}
 
 Double click on nodes to go to the pages the represent!

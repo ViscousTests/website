@@ -160,7 +160,7 @@ Categories: cat1, ..., [Housing]({{< relref \"/docs/all.md\" >}}?Housing=true)
                                    (s/split text "\n")))
                   (make-category-str categories)))))
 
-(defn add-dir-categories [root-dir]
+(defn add-dir-categories! [root-dir]
   (doall
     (for [file (get-all-files root-dir)
           :let [path-categories
@@ -308,7 +308,7 @@ Categories: cat1, ..., [Housing]({{< relref \"/docs/all.md\" >}}?Housing=true)
 (defn main []
   ; (spit index-path (h/html (make-dir-contents "content/docs")))
   ; (spit "content/menu/index.edn" (get-file-tree "content/docs"))
-  (spit "content/all.edn" 
+  (spit "static/all.edn" 
         (with-out-str (pprint (into [] (get-all-files "content/docs")))))
   (spit "content/docs/all.md"
         (make-all-notes-page (get-all-files "content/docs")))
@@ -319,7 +319,7 @@ Categories: cat1, ..., [Housing]({{< relref \"/docs/all.md\" >}}?Housing=true)
     (feelings-to-file experiences-edn)
     (experiences-to-md experiences-edn))
 
-  (add-dir-categories "content/docs")
+  (add-dir-categories! "content/docs")
 
   ; Requires `sudo apt install tidy`
   (os/sh "tidy"
