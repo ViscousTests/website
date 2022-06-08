@@ -4,7 +4,7 @@ plotly: true
 
 # Rain in Seattle
 
-As I've experience Seattle weather day to day, my mind has come up with random
+As I've experienced Seattle weather day to day, my mind has come up with random
 theories for periods of the day (morning, afternoon) when it rains the
 most/least. This is important to me enough to think about because I commute by
 bike. Dodging the rain is really nice when possible so that I don't get as wet
