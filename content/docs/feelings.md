@@ -5,6 +5,13 @@
 Being in a state of mind where all your attention must be focused on a single thing to avoid failure, leading to an emptiness of other thoughts.
 
 
+## Watching with Extra Information
+
+The feeling when you know what decisions someone could make are good or bad,
+but they do not know.  Also bucketing in here the feeling when someone who
+knows more is watching you.
+
+
 ## Chaos to Solution
 
 The feeling when you have no idea how to fix something but suddenly a solution appears out of nowhere. You may or may not understand how the solution works or where it came from.
