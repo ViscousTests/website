@@ -60,6 +60,10 @@ Some other estimates to use:
  - 1/2 cup is about the size of a tennis ball
  - A full cup is about the size of a baseball, an apple or a (normal sized) fist
 
+https://100-grams.blogspot.com/ gives a good view into what 100g of various
+foods looks like, which is useful for building intuition for non-scale-based
+tracking (e.g. Bitesnap).
+
 ### Exercise
 
 #### Methods
