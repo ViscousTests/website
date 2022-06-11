@@ -46,6 +46,12 @@ dinner helps with this.
 
 Caffeine definitely does not help me sleep :).
 
+### Dirty Sheets
+
+Clean sheets, or specifically sheets that I haven't sweated in before make it
+much less likely that I will sweat when sleeping (all else being equal), which
+in turn will make me sleep better.
+
 ### Temperature and Airflow
 
 #### Skin Stimulation
@@ -98,6 +104,17 @@ Going to sleep with wet hair from a shower also can exacerbate temperature
 issues. At the very least it make my pillow wet, which is annoying.
 
 I find that showering ~2 hours before sleeping makes these non-issues.
+
+
+## Interesting Trends
+
+Several behaviors seem to correlate with dream presence and intensity for me in
+a dose-dependent way:
+
+ - Playing video games in the evening, especially role-playing type games.
+ - Having eaten a lot of food during the day/evening.
+
+TODO: Put some actual raw data here.
 
 
 ## Sleep Resources
