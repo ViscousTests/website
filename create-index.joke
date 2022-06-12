@@ -69,6 +69,10 @@
                       delinked
                       category)))))))
 
+(defn remove-categories
+  "Returns the given text without it's categories.")
+
+
 (j/println
   (parse-categories
     "<markdown>
