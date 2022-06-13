@@ -8,7 +8,8 @@ characters, in reality what happens is that the playgroup as a whole decides on
 the best move that everyone should take. Then everyone just makes the agreed
 upon move. This effectively turns a "multiplayer" game into a complex "single
 player" experience, where the single player is a group trying to come to
-consensus.
+consensus. Another way to say this is that the game starts getting **"played by
+committee"**.
 
 This is not in-itself a problem, but it does lead to some issues:
 
@@ -17,7 +18,14 @@ This is not in-itself a problem, but it does lead to some issues:
  - If leaders don't emerge, it takes a lot of time to get everyone on the same
    page about a specific plan of action, which can make the game tedious.
 
-## Solution: Communication Limiting
+## A Solution: Secret Objectives
+
+[Dead of Winter]({{< relref "/docs/experiences/Dead-of-Winter.md" >}}) gets
+around this problem partially by giving players secret objectives that may be
+directly in conflict. This and some other mechanics make the game play more
+like a "normal" competitive game.
+
+## A Solution: Communication Limiting
 
 An elegant solution to the above problem (which I haven't tried yet), is to put
 constraints on the communication that can be done between players during the
