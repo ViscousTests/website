@@ -63,6 +63,7 @@ point where the original vision is unfulfilled in some way.
    ideas.
  - [Cool test](https://www.datcreativity.com/)
  - [Guided idea generation tool](https://old.tjcx.me/tools/idea-generator.html)
+ - [My thoughts on copyright/ip]({{< relref "/docs/understanding-the-world/copyright-and-ip.md" >}})
 
 
 

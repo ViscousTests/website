@@ -158,6 +158,8 @@ This is heavily inspired by
 Infinity](https://en.wikipedia.org/wiki/The_Beginning_of_Infinity) by David
 Deutsch.
 
+See also [thoughts on creativity]({{< relref "/docs/mind/creativity.md" >}}).
+
 
 
 
