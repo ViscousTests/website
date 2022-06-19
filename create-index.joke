@@ -221,7 +221,9 @@ other
              :backlinks (get path-to-backlinks
                              (s/replace-first (:path file) "content" ""))))))
                                                               
-
+; TODO update this code to link to specific md sections, not just pages as a
+; whole. this is particularly helpful for the "feelings" page and how it
+; interacts with "experiences"
 (defn add-all-backlinks! [root-dir]
   (doall
     (for [file (update-files-with-backlinks (get-all-files root-dir))]
