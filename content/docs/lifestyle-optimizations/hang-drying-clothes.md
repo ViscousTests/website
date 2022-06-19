@@ -38,10 +38,10 @@ then to do one load of laundry takes 6kWh.  In Seattle, this would cost
 `$0.11/kWh * 6kWh = $0.66` per load of laundry.  So not much, but something!
 
 
-## My Current System
+## An Old Apartment's System
 
-I hang my cloths above my 4-poster bed, which I find is a pretty efficient use
-of space:
+I (use to) hang my cloths above my 4-poster bed, which I find is a pretty
+efficient use of space:
 
 ![Empty](https://lh3.googleusercontent.com/hl1LcVBoja_2GU6FprNhf7y9BQYafNIkDOwQKdfeCndHK5ZakGU-ADtDDxulY6t56hN7GPwPtvSMNrOgv9hnsiB27C3jhDvo6R9gGpiKM61wCZvt-gJ06WOwCYvFC3rAcTNs9A6i5t8=w2400)
 
@@ -53,7 +53,13 @@ One thing to be careful of is the weight of the cloths on the structure you're
 using, which can be significant!
 
 
+## Using Hangers
 
+A good system I use as of 2022 is to put wet shirts on hangers, which I then
+hang on a clothesline.  When doing this it's important to tie regularly spaced
+knots in the rope for the hangers to rest against (like this:
+https://www.reddit.com/r/interestingasfuck/comments/vf4upz/this_man_tying_knots/)
+to make sure the clothes don't bunch up (reducing airflow).
 
 
 
