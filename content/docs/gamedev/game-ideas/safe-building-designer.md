@@ -10,4 +10,18 @@ During the run phase, people come to live/work in the building you designed,
 and get up to all sorts of crazy shenanigans. The goal is that any fires they
 start or other mischeif they cause is mitigated properly by your design.
 
-Categories: [Game Ideas]({{< relref "/docs/all.md" >}}?Game-Ideas=true), [Gamedev]({{< relref "/docs/all.md" >}}?Gamedev=true)
+
+
+
+
+
+
+
+[Gamedev]({{< relref "/" >}}?Gamedev=true)
+
+
+Categories: []({{< relref "/" >}}?=true),
+[Game Ideas]({{< relref "/" >}}?Game-Ideas=true),
+[Gamedev]({{< relref "/" >}}?Gamedev=true)
+
+Backlinks: 

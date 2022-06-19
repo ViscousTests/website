@@ -182,13 +182,13 @@ other
   [md]
   (s/replace md #"Backlinks:.*" ""))
 
-(j/println (remove-backlinks "
-
-hello
-Backlinks: first second
-
-other
-                             "))
+; (j/println (remove-backlinks "
+; 
+; hello
+; Backlinks: first second
+; 
+; other
+;                              "))
 
 (defn file-to-md-link
   [filepath]
@@ -199,10 +199,10 @@ other
 (defn update-backlinks
   [md backlinks]
   (str (remove-backlinks md)
-       "\nBacklinks: "
+       "\n\nBacklinks: "
        (apply str
               (for [path backlinks]
-                (str (file-to-md-link path) ", ")))))
+                (str (file-to-md-link path) ", \n")))))
 
 (defn get-file-to-backlinks
   [all-files]
@@ -213,19 +213,24 @@ other
               :when (not (= "/docs/all.md" link))]
           {link #{(:path file)}})))))
 
-(defn add-all-backlinks [root-dir]
-  (let [file-to-backlinks (get-file-to-backlinks (get-all-files root-dir))]
-    (doall
-      (for [[file backlinks] file-to-backlinks]
-        (do 
-          (prn "-------------------")
-          (prn file)
-          (prn backlinks)
-          (prn (update-backlinks "" backlinks)))))))
-        ; (spit (:path file)
-        ;       (update-backlinks (:markdown file) backlinks))))))
+(defn update-files-with-backlinks
+  [files]
+  (let [path-to-backlinks (get-file-to-backlinks files)]
+    (for [file files]
+      (assoc file
+             :backlinks (get path-to-backlinks
+                             (s/replace-first (:path file) "content" ""))))))
+                                                              
 
-(add-all-backlinks "content/docs")
+(defn add-all-backlinks! [root-dir]
+  (doall
+    (for [file (update-files-with-backlinks (get-all-files root-dir))]
+      (do 
+        (prn (str "Adding " (count (:backlinks file)) " backlinks for "
+                  (:path file)))
+        ; (prn (update-backlinks "" backlinks))
+        (spit (:path file)
+              (update-backlinks (:markdown file) (:backlinks file)))))))
 
 ;; ------------- Experiences.edn to Markdown Files -------------------------
 
@@ -349,6 +354,8 @@ other
     (experiences-to-md experiences-edn))
 
   (add-dir-categories! "content/docs")
+  (add-all-backlinks! "content/docs")
+  
 
   ; Requires `sudo apt install tidy`
   (os/sh "tidy"
@@ -361,4 +368,4 @@ other
   ; Prepend hugo fontmatter
   (os/sh "sed" "-i" "1s;^;---\\nheadless: true\\n---\\n;" index-path))
 
-; (main)
+(main)

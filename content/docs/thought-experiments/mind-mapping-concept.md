@@ -61,4 +61,20 @@ A subset of this is my [Experiences]({{< relref
  - https://beepb00p.xyz/blog-graph.html
  - https://github.com/hikerpig/note-graph
 
-Categories: [...]({{< relref "/docs/all.md" >}}?...=true), [Cat1]({{< relref "/docs/all.md" >}}?Cat1=true), [Cat2]({{< relref "/docs/all.md" >}}?Cat2=true), [Thought Experiments]({{< relref "/docs/all.md" >}}?Thought-Experiments=true)
+
+
+
+
+
+
+
+[Cat1]({{< relref "/" >}}?Cat1=true),
+[Cat2]({{< relref "/" >}}?Cat2=true),
+[Thought Experiments]({{< relref "/" >}}?Thought-Experiments=true)
+
+
+Categories: []({{< relref "/" >}}?=true),
+[...]({{< relref "/" >}}?...=true),
+[Thought Experiments]({{< relref "/" >}}?Thought-Experiments=true)
+
+Backlinks: [Experiences]({{< relref "/docs/lifestyle-optimizations/experiences/" >}}), 

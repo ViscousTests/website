@@ -16,4 +16,15 @@ it would be if I had just finished eating and was sitting down in a relaxed
 state.
 
 
-Categories: [Lifestyle Optimizations]({{< relref "/docs/all.md" >}}?Lifestyle-Optimizations=true)
+
+
+
+
+
+
+
+
+
+Categories: [Lifestyle Optimizations]({{< relref "/" >}}?Lifestyle-Optimizations=true)
+
+Backlinks: 

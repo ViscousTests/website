@@ -25,4 +25,15 @@ via new beliefs. For example:
 
  - Taste (and sensory happiness) is not directly related the health of food.
 
-Categories: [Mind]({{< relref "/docs/all.md" >}}?Mind=true)
+
+
+
+
+
+
+
+
+
+Categories: [Mind]({{< relref "/" >}}?Mind=true)
+
+Backlinks: 

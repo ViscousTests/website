@@ -1,4 +1,4 @@
-#Lead Climbing in a Gym
+# Lead Climbing in a Gym
 
 Clipping quickdraws on the way up a climbing route in a gym.
 
@@ -9,4 +9,10 @@ Feelings:
   - [Having a clear goal]({{< relref "/docs/feelings.md" >}}#having-a-clear-goal)
   - [Being in the Zone]({{< relref "/docs/feelings.md" >}}#being-in-the-zone)
 
-Categories: [Climbing]({{< relref "/docs/all.md" >}}?Climbing=true), [Exercise]({{< relref "/docs/all.md" >}}?Exercise=true), [Experiences]({{< relref "/docs/all.md" >}}?Experiences=true), [Social]({{< relref "/docs/all.md" >}}?Social=true), [⭐top10]({{< relref "/docs/all.md" >}}?⭐top10=true)
+Categories: [Climbing]({{< relref "/" >}}?Climbing=true),
+[Exercise]({{< relref "/" >}}?Exercise=true),
+[Experiences]({{< relref "/" >}}?Experiences=true),
+[Social]({{< relref "/" >}}?Social=true),
+[⭐top10]({{< relref "/" >}}?⭐top10=true)
+
+Backlinks: 

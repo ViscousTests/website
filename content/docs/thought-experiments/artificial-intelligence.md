@@ -57,4 +57,15 @@ specific direction, or how to reward it for making "good" changes).
 
  - https://github.com/uber-research/backpropamine
 
-Categories: [Thought Experiments]({{< relref "/docs/all.md" >}}?Thought-Experiments=true)
+
+
+
+
+
+
+
+
+
+Categories: [Thought Experiments]({{< relref "/" >}}?Thought-Experiments=true)
+
+Backlinks: 

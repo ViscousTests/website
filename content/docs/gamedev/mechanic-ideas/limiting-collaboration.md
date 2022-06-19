@@ -76,4 +76,19 @@ This still lets people communicate freely, but can limit knowledge.  This also
 encourages players building knowledge of each others abilities and what they do
 in combat, somewhat like a small group of mercenaries would.
 
-Categories: [Gamedev]({{< relref "/docs/all.md" >}}?Gamedev=true), [Mechanic Ideas]({{< relref "/docs/all.md" >}}?Mechanic-Ideas=true)
+
+
+
+
+
+
+
+
+[Mechanic Ideas]({{< relref "/" >}}?Mechanic-Ideas=true)
+
+
+Categories: []({{< relref "/" >}}?=true),
+[Gamedev]({{< relref "/" >}}?Gamedev=true),
+[Mechanic Ideas]({{< relref "/" >}}?Mechanic-Ideas=true)
+
+Backlinks: [Dead Of Winter]({{< relref "/docs/experiences/Dead-of-Winter/" >}}), 

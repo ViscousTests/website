@@ -5,13 +5,6 @@
 Being in a state of mind where all your attention must be focused on a single thing to avoid failure, leading to an emptiness of other thoughts.
 
 
-## Watching with Extra Information
-
-The feeling when you know what decisions someone could make are good or bad,
-but they do not know.  Also bucketing in here the feeling when someone who
-knows more is watching you.
-
-
 ## Chaos to Solution
 
 The feeling when you have no idea how to fix something but suddenly a solution appears out of nowhere. You may or may not understand how the solution works or where it came from.
@@ -106,3 +99,25 @@ Putting yourself in a stressful situation and showing yourself that you can surv
 A sense of wonder at the beauty of the world.
 
 Categories: 
+
+Backlinks: [Watching Educational Youtube]({{< relref "/docs/experiences/Watching-educational-YouTube/" >}}), 
+[Browsing Hacker News]({{< relref "/docs/experiences/Browsing-Hacker-News/" >}}), 
+[Comparing Prices]({{< relref "/docs/experiences/Comparing-prices/" >}}), 
+[Bike Commuting]({{< relref "/docs/experiences/Bike-Commuting/" >}}), 
+[Dead Of Winter]({{< relref "/docs/experiences/Dead-of-Winter/" >}}), 
+[Slipways]({{< relref "/docs/experiences/Slipways/" >}}), 
+[Semantle]({{< relref "/docs/experiences/Semantle/" >}}), 
+[Lead Climbing In A Gym]({{< relref "/docs/experiences/Lead-Climbing-in-a-Gym/" >}}), 
+[Yo Yoing]({{< relref "/docs/experiences/Yo-Yoing/" >}}), 
+[Quordle]({{< relref "/docs/experiences/Quordle/" >}}), 
+[Dat Creativity]({{< relref "/docs/experiences/DAT-Creativity/" >}}), 
+[Watching Gothamchess]({{< relref "/docs/experiences/Watching-GothamChess/" >}}), 
+[Battle Brothers]({{< relref "/docs/experiences/Battle-Brothers/" >}}), 
+[Apex Legends]({{< relref "/docs/experiences/Apex-Legends/" >}}), 
+[Making Small Web Apps In Clojurescript With Reagent]({{< relref "/docs/experiences/Making-Small-Web-Apps-in-ClojureScript-with-Reagent/" >}}), 
+[Age Of Darkness: Final Stand]({{< relref "/docs/experiences/Age-of-Darkness:-Final-Stand/" >}}), 
+[Beat Saber]({{< relref "/docs/experiences/Beat-Saber/" >}}), 
+[Redditing]({{< relref "/docs/experiences/Redditing/" >}}), 
+[Islanders]({{< relref "/docs/experiences/Islanders/" >}}), 
+[Three Worlds Collide]({{< relref "/docs/experiences/Three-Worlds-Collide/" >}}), 
+[Wordle]({{< relref "/docs/experiences/Wordle/" >}}), 

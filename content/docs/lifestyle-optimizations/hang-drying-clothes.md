@@ -52,4 +52,15 @@ of space:
 One thing to be careful of is the weight of the cloths on the structure you're
 using, which can be significant!
 
-Categories: [Lifestyle Optimizations]({{< relref "/docs/all.md" >}}?Lifestyle-Optimizations=true)
+
+
+
+
+
+
+
+
+
+Categories: [Lifestyle Optimizations]({{< relref "/" >}}?Lifestyle-Optimizations=true)
+
+Backlinks: 

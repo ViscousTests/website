@@ -54,4 +54,18 @@ Even if this isn't implemented, games that are wholly lacking any way to see wha
 do (what effects their attacks will have on your characters) besides doing all the math yourself
 I find very tedious (see the turn-based modes for Pathfinder: Kingmaker and Pillars of Eternity 2).
 
-Categories: [Gamedev]({{< relref "/docs/all.md" >}}?Gamedev=true), [Mechanic Ideas]({{< relref "/docs/all.md" >}}?Mechanic-Ideas=true)
+
+
+
+
+
+
+
+[Mechanic Ideas]({{< relref "/" >}}?Mechanic-Ideas=true)
+
+
+Categories: []({{< relref "/" >}}?=true),
+[Gamedev]({{< relref "/" >}}?Gamedev=true),
+[Mechanic Ideas]({{< relref "/" >}}?Mechanic-Ideas=true)
+
+Backlinks: 

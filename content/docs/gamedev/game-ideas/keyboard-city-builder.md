@@ -4,4 +4,18 @@ A city builder/strategy game where the map is a keyboard And buildings are
 built on keys.  Then when you hit that key the building does something. Hitting
 the key with shift/ctrl/other modifiers will change the action type.
 
-Categories: [Game Ideas]({{< relref "/docs/all.md" >}}?Game-Ideas=true), [Gamedev]({{< relref "/docs/all.md" >}}?Gamedev=true)
+
+
+
+
+
+
+
+[Gamedev]({{< relref "/" >}}?Gamedev=true)
+
+
+Categories: []({{< relref "/" >}}?=true),
+[Game Ideas]({{< relref "/" >}}?Game-Ideas=true),
+[Gamedev]({{< relref "/" >}}?Gamedev=true)
+
+Backlinks: 

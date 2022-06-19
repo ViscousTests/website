@@ -153,4 +153,15 @@ For tracing of general information, I've found
 track almost any data type with very few taps, AND it syncs to Google Drive
 (Sheets) automatically!
 
-Categories: [Lifelogging]({{< relref "/docs/all.md" >}}?Lifelogging=true)
+
+
+
+
+
+
+
+
+
+Categories: [Lifelogging]({{< relref "/" >}}?Lifelogging=true)
+
+Backlinks: 

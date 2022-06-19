@@ -12,4 +12,15 @@ An app that parses recipes out of the cancer that is most recipe websites into
 a nicely formatted, simple, ad-free page that you can save. Works by allowing
 you to share recipe webpages with the app.
 
-Categories: [Lifestyle Optimizations]({{< relref "/docs/all.md" >}}?Lifestyle-Optimizations=true)
+
+
+
+
+
+
+
+
+
+Categories: [Lifestyle Optimizations]({{< relref "/" >}}?Lifestyle-Optimizations=true)
+
+Backlinks: 

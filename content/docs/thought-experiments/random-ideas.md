@@ -209,4 +209,15 @@ fountain like those found in gardens in the middle for people to use to refill
 their water cups.  Could have four streams for easier filling.  
 
 
-Categories: [Thought Experiments]({{< relref "/docs/all.md" >}}?Thought-Experiments=true)
+
+
+
+
+
+
+
+
+
+Categories: [Thought Experiments]({{< relref "/" >}}?Thought-Experiments=true)
+
+Backlinks: 

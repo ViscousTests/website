@@ -15,4 +15,15 @@ I analyzed my AncestryDNA data with several services:
  - Free search from https://codegen.eu/faq/
    - Not as user friendly, but a good search engine.
 
-Categories: [Health And Longevity]({{< relref "/docs/all.md" >}}?Health-And-Longevity=true)
+
+
+
+
+
+
+
+
+
+Categories: [Health And Longevity]({{< relref "/" >}}?Health-And-Longevity=true)
+
+Backlinks: 

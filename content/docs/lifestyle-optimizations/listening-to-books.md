@@ -17,4 +17,15 @@ reached out to the creators, and they say they use
 [Synthesia](https://www.synthesia.io/?via=ryan-o-shea).  This would be amazing
 for use in audiobook generation.
 
-Categories: [Lifestyle Optimizations]({{< relref "/docs/all.md" >}}?Lifestyle-Optimizations=true)
+
+
+
+
+
+
+
+
+
+Categories: [Lifestyle Optimizations]({{< relref "/" >}}?Lifestyle-Optimizations=true)
+
+Backlinks: 

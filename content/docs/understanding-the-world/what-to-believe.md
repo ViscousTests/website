@@ -286,4 +286,16 @@ But has these problems:
    impossible, since it requires walking though the life experience of the
    tinkerer.  This can make it easy for the tinkerer to hide bias.
 
-Categories: [Understanding The World]({{< relref "/docs/all.md" >}}?Understanding-The-World=true)
+
+
+
+
+
+
+
+
+
+Categories: [Understanding The World]({{< relref "/" >}}?Understanding-The-World=true)
+
+Backlinks: [Manifesto]({{< relref "/docs/manifesto/" >}}), 
+[Sens]({{< relref "/docs/health-and-longevity/sens/" >}}), 

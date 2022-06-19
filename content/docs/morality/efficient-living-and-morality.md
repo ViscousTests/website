@@ -128,4 +128,15 @@ Their cost indirectly takes resources away from places where those resources
 would be much more emotionally powerful. This can be extreme; people spend many
 times a basic income requirement on experiences commonly :(.
 
-Categories: [Morality]({{< relref "/docs/all.md" >}}?Morality=true)
+
+
+
+
+
+
+
+
+
+Categories: [Morality]({{< relref "/" >}}?Morality=true)
+
+Backlinks: 

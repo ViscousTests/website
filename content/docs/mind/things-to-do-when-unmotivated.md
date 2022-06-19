@@ -44,4 +44,15 @@ while. Some ideas:
    - Con: Can be draining.
  - Napping.
 
-Categories: [Mind]({{< relref "/docs/all.md" >}}?Mind=true)
+
+
+
+
+
+
+
+
+
+Categories: [Mind]({{< relref "/" >}}?Mind=true)
+
+Backlinks: 

@@ -92,4 +92,15 @@ attached to the raspberry pi if i use that.
  - Create a light sensor feedback system where if the light near plants goes
    below a certain level, the grow lights turn on.
 
-Categories: [Hydroponics]({{< relref "/docs/all.md" >}}?Hydroponics=true)
+
+
+
+
+
+
+
+
+
+Categories: [Hydroponics]({{< relref "/" >}}?Hydroponics=true)
+
+Backlinks: 

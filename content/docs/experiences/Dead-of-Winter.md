@@ -19,3 +19,16 @@ Played first in June 2022.
 Feelings:
 
  - [Watching with Extra Information]({{< relref "/docs/feelings.md" }}#watching-with-extra-information)
+
+
+
+
+
+
+
+
+
+
+Categories: [Experiences]({{< relref "/" >}}?Experiences=true)
+
+Backlinks: [Limiting Collaboration]({{< relref "/docs/gamedev/mechanic-ideas/limiting-collaboration/" >}}), 

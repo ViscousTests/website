@@ -13,4 +13,18 @@ This should help with unpleasant surprises that require reloads in these games.
 See Into the Breach for a cool variant of this concept (where all enemy moves
 are statically predetermined and do not change at all).
 
-Categories: [Gamedev]({{< relref "/docs/all.md" >}}?Gamedev=true), [Mechanic Ideas]({{< relref "/docs/all.md" >}}?Mechanic-Ideas=true)
+
+
+
+
+
+
+
+[Mechanic Ideas]({{< relref "/" >}}?Mechanic-Ideas=true)
+
+
+Categories: []({{< relref "/" >}}?=true),
+[Gamedev]({{< relref "/" >}}?Gamedev=true),
+[Mechanic Ideas]({{< relref "/" >}}?Mechanic-Ideas=true)
+
+Backlinks: 

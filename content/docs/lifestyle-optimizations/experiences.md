@@ -9,4 +9,17 @@ to display this.
 {{% include "docs/lifestyle-optimizations/experiences.edn" %}}
 {{< /experience_aggregator >}}
 
-Categories: [Lifestyle Optimizations]({{< relref "/docs/all.md" >}}?Lifestyle-Optimizations=true)
+
+
+
+
+
+
+
+
+
+Categories: [Lifestyle Optimizations]({{< relref "/" >}}?Lifestyle-Optimizations=true)
+
+Backlinks: [Common Patterns]({{< relref "/docs/gamedev/common-patterns/" >}}), 
+[Recommendations]({{< relref "/docs/gaming/recommendations/" >}}), 
+[Mind Mapping Concept]({{< relref "/docs/thought-experiments/mind-mapping-concept/" >}}), 

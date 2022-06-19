@@ -59,4 +59,15 @@ Some sense that the player needs to do something to avoid loss is important to
 avoid players getting bored. If nothing happens when they do nothing, how much
 do the player's actions really mean?
 
-Categories: [Gamedev]({{< relref "/docs/all.md" >}}?Gamedev=true)
+
+
+
+
+
+
+
+
+
+Categories: [Gamedev]({{< relref "/" >}}?Gamedev=true)
+
+Backlinks: 

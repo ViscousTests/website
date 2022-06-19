@@ -8,4 +8,15 @@ quality (and/or challenge yourself).
  - Don't mutate anything (instead copy). This may be more possible in some
    languages than others
 
-Categories: [Software Dev]({{< relref "/docs/all.md" >}}?Software-Dev=true)
+
+
+
+
+
+
+
+
+
+Categories: [Software Dev]({{< relref "/" >}}?Software-Dev=true)
+
+Backlinks: 

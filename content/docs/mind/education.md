@@ -84,4 +84,16 @@ from my education; otherwise most of my skills have been learned on the job.
 
 Interesting Article: https://annehelen.substack.com/p/is-everything-an-mlm?s=r
 
-Categories: [Mind]({{< relref "/docs/all.md" >}}?Mind=true)
+
+
+
+
+
+
+
+
+
+
+Categories: [Mind]({{< relref "/" >}}?Mind=true)
+
+Backlinks: 

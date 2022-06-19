@@ -16,4 +16,15 @@ highest risk of death:
 Another lens to look at this from is using a [micromort](https://micromorts.rip/).
 
 
-Categories: [Health And Longevity]({{< relref "/docs/all.md" >}}?Health-And-Longevity=true)
+
+
+
+
+
+
+
+
+
+Categories: [Health And Longevity]({{< relref "/" >}}?Health-And-Longevity=true)
+
+Backlinks: 

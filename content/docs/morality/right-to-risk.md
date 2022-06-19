@@ -32,4 +32,15 @@ to make a consequential decision, this default belief is not strong enough to
 use :).
 
 
-Categories: [Morality]({{< relref "/docs/all.md" >}}?Morality=true)
+
+
+
+
+
+
+
+
+
+Categories: [Morality]({{< relref "/" >}}?Morality=true)
+
+Backlinks: 

@@ -113,4 +113,15 @@ concept for a while before it finally clicks.
   - Imagining how to avoid failure is often more useful than imagining how to
     succeed.
 
-Categories: [Mind]({{< relref "/docs/all.md" >}}?Mind=true)
+
+
+
+
+
+
+
+
+
+Categories: [Mind]({{< relref "/" >}}?Mind=true)
+
+Backlinks: 

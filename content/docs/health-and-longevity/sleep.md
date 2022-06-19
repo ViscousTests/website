@@ -122,4 +122,16 @@ TODO: Put some actual raw data here.
  - Interesting take on the effects sleep has on your physiology:
    https://guzey.com/theses-on-sleep/
 
-Categories: [Health And Longevity]({{< relref "/docs/all.md" >}}?Health-And-Longevity=true)
+
+
+
+
+
+
+
+
+
+
+Categories: [Health And Longevity]({{< relref "/" >}}?Health-And-Longevity=true)
+
+Backlinks: [Manifesto]({{< relref "/docs/manifesto/" >}}), 

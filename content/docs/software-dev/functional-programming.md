@@ -18,4 +18,15 @@ as I learn the Clojure standard library of functions better, this will become
 easier with time and ultimately I will be implementing less stuff myself than I
 would be in Python.
 
-Categories: [Software Dev]({{< relref "/docs/all.md" >}}?Software-Dev=true)
+
+
+
+
+
+
+
+
+
+Categories: [Software Dev]({{< relref "/" >}}?Software-Dev=true)
+
+Backlinks: 

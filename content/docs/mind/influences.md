@@ -36,4 +36,15 @@ Cool lecture series, not done yet!
 
 
 
-Categories: [Mind]({{< relref "/docs/all.md" >}}?Mind=true)
+
+
+
+
+
+
+
+
+
+Categories: [Mind]({{< relref "/" >}}?Mind=true)
+
+Backlinks: 

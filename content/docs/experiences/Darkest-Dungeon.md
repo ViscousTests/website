@@ -1,4 +1,4 @@
-#[Darkest Dungeon](https://en.wikipedia.org/wiki/Darkest_Dungeon)
+# [Darkest Dungeon](https://en.wikipedia.org/wiki/Darkest_Dungeon)
 
 Amazing atmosphere and fun character building.
 
@@ -6,4 +6,10 @@ Feelings:
 
 
 
-Categories: [Experiences]({{< relref "/docs/all.md" >}}?Experiences=true), [Game]({{< relref "/docs/all.md" >}}?Game=true), [Solitary]({{< relref "/docs/all.md" >}}?Solitary=true), [Turn Based]({{< relref "/docs/all.md" >}}?Turn-Based=true), [⭐top10]({{< relref "/docs/all.md" >}}?⭐top10=true)
+Categories: [Experiences]({{< relref "/" >}}?Experiences=true),
+[Game]({{< relref "/" >}}?Game=true),
+[Solitary]({{< relref "/" >}}?Solitary=true),
+[Turn Based]({{< relref "/" >}}?Turn-Based=true),
+[⭐top10]({{< relref "/" >}}?⭐top10=true)
+
+Backlinks: 

@@ -1,6 +1,5 @@
 ---
 headless: true
 ---
-{{< index_menu >}}
-{{% include "/all.edn" %}}
-{{< /index_menu >}}
+--- headless: true --- --- headless: true --- {{&lt; index_menu
+&gt;}} {{% include "/all.edn" %}} {{&lt; /index_menu &gt;}}

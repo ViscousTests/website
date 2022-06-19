@@ -176,4 +176,15 @@ Right now this line of thinking is just a plausible (at least to me) idea.  I
 would love to see some evidence for this, but don't have any at hand right now
 to cite.  So (as always) I might be totally wrong :).
 
-Categories: [Understanding The World]({{< relref "/docs/all.md" >}}?Understanding-The-World=true)
+
+
+
+
+
+
+
+
+
+Categories: [Understanding The World]({{< relref "/" >}}?Understanding-The-World=true)
+
+Backlinks: 

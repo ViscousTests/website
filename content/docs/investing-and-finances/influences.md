@@ -30,4 +30,15 @@ previously heard but forgotten.
 
 [See description here.](({{< relref "/docs/understanding-the-world/influences.md" >}}))
 
-Categories: [Investing And Finances]({{< relref "/docs/all.md" >}}?Investing-And-Finances=true)
+
+
+
+
+
+
+
+
+
+Categories: [Investing And Finances]({{< relref "/" >}}?Investing-And-Finances=true)
+
+Backlinks: 

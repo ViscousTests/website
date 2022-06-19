@@ -10,4 +10,15 @@
  - https://www.backwoodshome.com/build-an-attached-solar-greenhouse/
 
 
-Categories: [Housing]({{< relref "/docs/all.md" >}}?Housing=true)
+
+
+
+
+
+
+
+
+
+Categories: [Housing]({{< relref "/" >}}?Housing=true)
+
+Backlinks: 

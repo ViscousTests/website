@@ -41,4 +41,15 @@ out works when looked at from certain angles.
 Add music/sound to BeesAndBombs-type visualizations like
 [ChaosDoodle](https://www.youtube.com/watch?v=vcBn04IyELc) videos.
 
-Categories: [Visual Art]({{< relref "/docs/all.md" >}}?Visual-Art=true)
+
+
+
+
+
+
+
+
+
+Categories: [Visual Art]({{< relref "/" >}}?Visual-Art=true)
+
+Backlinks: 

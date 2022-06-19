@@ -1,4 +1,4 @@
-#Redditing
+# Redditing
 
 Browsing reddit. Some good subreddits include r/AnimalsBeingDerps and r/DataIsBeautiful. Warning: can be a big time sink!
 
@@ -9,4 +9,8 @@ Feelings:
   - [Focus fragmenting]({{< relref "/docs/feelings.md" >}}#focus-fragmenting)
   - [Discovery of hidden gems]({{< relref "/docs/feelings.md" >}}#discovery-of-hidden-gems)
 
-Categories: [Consuming Content]({{< relref "/docs/all.md" >}}?Consuming-Content=true), [Experiences]({{< relref "/docs/all.md" >}}?Experiences=true), [Habit]({{< relref "/docs/all.md" >}}?Habit=true)
+Categories: [Consuming Content]({{< relref "/" >}}?Consuming-Content=true),
+[Experiences]({{< relref "/" >}}?Experiences=true),
+[Habit]({{< relref "/" >}}?Habit=true)
+
+Backlinks: 

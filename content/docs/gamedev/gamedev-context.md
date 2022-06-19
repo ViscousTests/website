@@ -8,4 +8,15 @@
 
 
 
-Categories: [Gamedev]({{< relref "/docs/all.md" >}}?Gamedev=true)
+
+
+
+
+
+
+
+
+
+Categories: [Gamedev]({{< relref "/" >}}?Gamedev=true)
+
+Backlinks: [Creativity]({{< relref "/docs/mind/creativity/" >}}), 

@@ -10,4 +10,15 @@ res    = WordGenerator(var34)
 
 The above code may not have meaningful patterns, but is visually patterned.
 
-Categories: [Software Dev]({{< relref "/docs/all.md" >}}?Software-Dev=true)
+
+
+
+
+
+
+
+
+
+Categories: [Software Dev]({{< relref "/" >}}?Software-Dev=true)
+
+Backlinks: 

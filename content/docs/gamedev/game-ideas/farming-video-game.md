@@ -27,4 +27,18 @@ when all events can be dealt with easily for a certain time.
 
 See https://github.com/kovasap/farming_strategy_game.
 
-Categories: [Game Ideas]({{< relref "/docs/all.md" >}}?Game-Ideas=true), [Gamedev]({{< relref "/docs/all.md" >}}?Gamedev=true)
+
+
+
+
+
+
+
+[Gamedev]({{< relref "/" >}}?Gamedev=true)
+
+
+Categories: []({{< relref "/" >}}?=true),
+[Game Ideas]({{< relref "/" >}}?Game-Ideas=true),
+[Gamedev]({{< relref "/" >}}?Gamedev=true)
+
+Backlinks: 

@@ -63,4 +63,15 @@ BEFORE RAPPELLING:
  - Weight rope while still using personal anchors.
 ```
 
-Categories: [Climbing]({{< relref "/docs/all.md" >}}?Climbing=true)
+
+
+
+
+
+
+
+
+
+Categories: [Climbing]({{< relref "/" >}}?Climbing=true)
+
+Backlinks: 

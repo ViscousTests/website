@@ -15,4 +15,15 @@ anything is dramatically reduced.  One good example of this is GDScript (a
 less-featureful Python), which is built into the Godot Game Engine.  Another
 example is Javascript, which has tons and tons of libraries.  
 
-Categories: [Software Dev]({{< relref "/docs/all.md" >}}?Software-Dev=true)
+
+
+
+
+
+
+
+
+
+Categories: [Software Dev]({{< relref "/" >}}?Software-Dev=true)
+
+Backlinks: 

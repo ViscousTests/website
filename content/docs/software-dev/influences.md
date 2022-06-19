@@ -25,4 +25,15 @@
     changeable, increase their **usability** and reduce **coordination**
     between their pieces.
 
-Categories: [Software Dev]({{< relref "/docs/all.md" >}}?Software-Dev=true)
+
+
+
+
+
+
+
+
+
+Categories: [Software Dev]({{< relref "/" >}}?Software-Dev=true)
+
+Backlinks: 

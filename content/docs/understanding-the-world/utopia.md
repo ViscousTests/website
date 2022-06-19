@@ -158,4 +158,15 @@ This is heavily inspired by
 Infinity](https://en.wikipedia.org/wiki/The_Beginning_of_Infinity) by David
 Deutsch.
 
-Categories: [Understanding The World]({{< relref "/docs/all.md" >}}?Understanding-The-World=true)
+
+
+
+
+
+
+
+
+
+Categories: [Understanding The World]({{< relref "/" >}}?Understanding-The-World=true)
+
+Backlinks: [Potential Life Missions]({{< relref "/docs/potential-life-missions/" >}}), 

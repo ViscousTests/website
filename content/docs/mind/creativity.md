@@ -64,4 +64,16 @@ point where the original vision is unfulfilled in some way.
  - [Cool test](https://www.datcreativity.com/)
  - [Guided idea generation tool](https://old.tjcx.me/tools/idea-generator.html)
 
-Categories: [Mind]({{< relref "/docs/all.md" >}}?Mind=true)
+
+
+
+
+
+
+
+
+
+Categories: [Mind]({{< relref "/" >}}?Mind=true)
+
+Backlinks: [Manifesto]({{< relref "/docs/manifesto/" >}}), 
+[Motivation]({{< relref "/docs/mind/motivation/" >}}), 

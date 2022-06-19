@@ -39,4 +39,18 @@ Here is a complete album: https://photos.app.goo.gl/kLGvWTqGBEjh2Dzv7
 
 ![Trees](/docs/climbing/event-reports/2019-10-07-namaste-wall-zion-pics/trees.jpg)
 
-Categories: [Climbing]({{< relref "/docs/all.md" >}}?Climbing=true), [Event Reports]({{< relref "/docs/all.md" >}}?Event-Reports=true)
+
+
+
+
+
+
+
+[Event Reports]({{< relref "/" >}}?Event-Reports=true)
+
+
+Categories: []({{< relref "/" >}}?=true),
+[Climbing]({{< relref "/" >}}?Climbing=true),
+[Event Reports]({{< relref "/" >}}?Event-Reports=true)
+
+Backlinks: 

@@ -228,4 +228,16 @@ Some great resources for goal execution:
  - Work specific motivation: https://jasont.co/ennui/
 
 
-Categories: [Mind]({{< relref "/docs/all.md" >}}?Mind=true)
+
+
+
+
+
+
+
+
+
+Categories: [Mind]({{< relref "/" >}}?Mind=true)
+
+Backlinks: [Manifesto]({{< relref "/docs/manifesto/" >}}), 
+[How To Do Hard Tasks]({{< relref "/docs/mind/how-to-do-hard-tasks/" >}}), 
