@@ -35,13 +35,18 @@
          (or (is-md? file)
              (:dir? file))))) 
 
-(defn make-file-into-li [filepath]
+(defn file-to-link-path
+  [filepath]
+  (-> filepath
+      (s/replace-first "content" "")
+      (s/replace #".md" "/")))
+  
+
+(defn file-to-hiccup-li [filepath]
   "Converts filename like content/docs/understanding-the-world/influences.md
   into a li for the index page like
   <li><a href='/docs/understanding-the-world/influences/'>Influences</a></li>"
-  [:li [:a {:href (-> filepath
-                      (s/replace-first "content" "")
-                      (s/replace #".md" "/"))}
+  [:li [:a {:href (file-to-link-path filepath)}
         (to-title filepath)]])
 
 (defn parse-links
@@ -55,8 +60,8 @@
 ;     "A subset of this is my [Experiences]({{< relref
 ;      \"/docs/lifestyle-optimizations/experiences.md\" >}}) page."))
 
-(defn format-category [category]
-  (s/trim (capitalize-words (s/replace category "-" " "))))
+(defn format-word [word]
+  (s/trim (capitalize-words (s/replace word "-" " "))))
 
 (defn parse-categories
   "Finds all categories the text and returns them."
@@ -64,20 +69,18 @@
   (into #{} (reduce concat
               (for [match (re-seq #"\nCategories: (.+)" text)]
                 (for [category (s/split (last match) ",")]
-                  (format-category
+                  (format-word
                     (if-let [delinked (last (re-find #"\[(.*?)\]" category))]
                       delinked
                       category)))))))
-
-(defn remove-categories
-  "Returns the given text without it's categories.")
-
 
 (j/println
   (parse-categories
     "<markdown>
 
 Categories: cat1, ..., [Housing]({{< relref \"/docs/all.md\" >}}?Housing=true)
+
+other
 "))
 
 
@@ -126,7 +129,7 @@ Categories: cat1, ..., [Housing]({{< relref \"/docs/all.md\" >}}?Housing=true)
             (:dir? file)
             (make-dir-into-header file filepath)
             (is-md? file)
-            (make-file-into-li (fp/join filepath (:name file)))
+            (file-to-hiccup-li (fp/join filepath (:name file)))
             :else
             [:div "bad " file]))])
   
@@ -144,7 +147,7 @@ Categories: cat1, ..., [Housing]({{< relref \"/docs/all.md\" >}}?Housing=true)
 ;; ------------- Adding Categories based on Directory Structure ------------
 
 (defn link-category [category]
-  (let [formated-category (format-category category)]
+  (let [formated-category (format-word category)]
     (str "[" formated-category
          "]({{< relref \"/\" >}}?"
          (s/replace formated-category " " "-")
@@ -168,16 +171,38 @@ Categories: cat1, ..., [Housing]({{< relref \"/docs/all.md\" >}}?Housing=true)
   (doall
     (for [file (get-all-files root-dir)
           :let [path-categories
-                (set (map format-category
+                (set (map format-word
                           (drop-last (drop 2 (s/split (:path file) "/")))))]]
       (spit (:path file)
             (update-categories (:markdown file) path-categories)))))
 
 ; -------------- Adding Backlinks to All Pages ----------------------------
 
+(defn remove-backlinks
+  [md]
+  (s/replace md #"Backlinks:.*" ""))
+
+(j/println (remove-backlinks "
+
+hello
+Backlinks: first second
+
+other
+                             "))
+
+(defn file-to-md-link
+  [filepath]
+  (str "[" (to-title filepath)
+       "]({{< relref \"" (file-to-link-path filepath) "\" >}})"))
+
+
 (defn update-backlinks
   [md backlinks]
-  md)
+  (str (remove-backlinks md)
+       "\nBacklinks: "
+       (apply str
+              (for [path backlinks]
+                (str (file-to-md-link path) ", ")))))
 
 (defn get-file-to-backlinks
   [all-files]
@@ -195,8 +220,8 @@ Categories: cat1, ..., [Housing]({{< relref \"/docs/all.md\" >}}?Housing=true)
         (do 
           (prn "-------------------")
           (prn file)
-          (prn (:name file))
-          (prn backlinks))))))
+          (prn backlinks)
+          (prn (update-backlinks "" backlinks)))))))
         ; (spit (:path file)
         ;       (update-backlinks (:markdown file) backlinks))))))
 
