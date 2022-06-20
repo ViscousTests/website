@@ -199,8 +199,15 @@ TODO: fill this in (potentially from the "motivation" doc)
 
 
 
+ 
 
+Categories:
 
-Categories: 
-
-Backlinks: 
+Backlinks: [Chronic Stress]({{< relref "/docs/health-and-longevity/chronic-stress.md" >}}), 
+[Circadian Rhythm]({{< relref "/docs/health-and-longevity/circadian-rhythm.md" >}}), 
+[Exercise]({{< relref "/docs/health-and-longevity/exercise.md" >}}), 
+[Food]({{< relref "/docs/health-and-longevity/food.md" >}}), 
+[Sleep]({{< relref "/docs/health-and-longevity/sleep.md" >}}), 
+[Creativity]({{< relref "/docs/mind/creativity.md" >}}), 
+[Motivation]({{< relref "/docs/mind/motivation.md" >}}), 
+[What To Believe]({{< relref "/docs/understanding-the-world/what-to-believe.md" >}}), 

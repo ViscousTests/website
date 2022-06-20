@@ -2,9 +2,7 @@
 
 3-D puzzle game in a beautiful world
 
-Feelings: 
-
-
+Feelings:
 
 Categories: [Experiences]({{< relref "/" >}}?Experiences=true),
 [Game]({{< relref "/" >}}?Game=true),

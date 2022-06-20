@@ -2,9 +2,7 @@
 
 An icebreaker-type game that revolves around guessing people's opinions.
 
-Feelings: 
-
-
+Feelings:
 
 Categories: [Experiences]({{< relref "/" >}}?Experiences=true),
 [Game]({{< relref "/" >}}?Game=true),

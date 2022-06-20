@@ -2,9 +2,7 @@
 
 
 
-Feelings: 
-
-
+Feelings:
 
 Categories: [Competitive]({{< relref "/" >}}?Competitive=true),
 [Experiences]({{< relref "/" >}}?Experiences=true),

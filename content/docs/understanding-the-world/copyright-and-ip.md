@@ -19,3 +19,8 @@ meant to solve real world problems.
 https://sci-hub.se/
 
 https://libgen.rs/
+
+Categories: [Understanding The World]({{< relref "/" >}}?Understanding-The-World=true)
+
+Backlinks: [Creativity]({{< relref "/docs/mind/creativity.md" >}}), 
+[Utopia]({{< relref "/docs/understanding-the-world/utopia.md" >}}), 

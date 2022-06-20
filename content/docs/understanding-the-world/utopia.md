@@ -171,4 +171,6 @@ See also [thoughts on creativity]({{< relref "/docs/mind/creativity.md" >}}).
 
 Categories: [Understanding The World]({{< relref "/" >}}?Understanding-The-World=true)
 
-Backlinks: [Potential Life Missions]({{< relref "/docs/potential-life-missions/" >}}), 
+Backlinks: [Potential Life Missions]({{< relref "/docs/potential-life-missions.md" >}}), 
+[Creativity]({{< relref "/docs/mind/creativity.md" >}}), 
+[Copyright And Ip]({{< relref "/docs/understanding-the-world/copyright-and-ip.md" >}}), 

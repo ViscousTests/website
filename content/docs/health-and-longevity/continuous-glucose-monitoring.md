@@ -42,5 +42,5 @@ do its visualization.
 
 Categories: [Health And Longevity]({{< relref "/" >}}?Health-And-Longevity=true)
 
-Backlinks: [Tracking Health]({{< relref "/docs/health-and-longevity/tracking-health/" >}}), 
-[What And Why]({{< relref "/docs/lifelogging/what-and-why/" >}}), 
+Backlinks: [Tracking Health]({{< relref "/docs/health-and-longevity/tracking-health.md" >}}), 
+[What And Why]({{< relref "/docs/lifelogging/what-and-why.md" >}}), 

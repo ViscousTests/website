@@ -73,9 +73,10 @@
   "Finds the paragraph in the given text that starts with the given prefix,
   then returns the text without the paragraph, and the paragraph."
   [text prefix]
-  (if-let [paragraph (re-find (re-pattern (str "(?s)\n" prefix ".*?\n\n"))
-                              text)]
-    [(s/trim (s/replace text paragraph "")) (s/trim paragraph)]
+  (if-let [paragraph (re-find (re-pattern (str "(?s)\n\n" prefix ".*?\n\n"))
+                              (str text "\n\n"))]
+    [(s/trim (s/replace text (str "\n\n" (s/trim paragraph)) ""))
+     (s/trim paragraph)]
     [(s/trim text) ""]))
 
 (assert=
@@ -118,7 +119,7 @@ Categories: cat1, ..., [Housing]({{< relref \"/docs/all.md\" >}}?Housing=true)
 
 other
 ")
-  [#{"Cat1" "..." "Housing"} "<markdown>\nother"])
+  [#{"Cat1" "..." "Housing"} "<markdown>\n\nother"])
 
 
 (assert=
@@ -138,7 +139,7 @@ Categories: [Climbing]({{< relref \"/\" >}}?Climbing=true),
 
 Backlinks: 
 ")
-  [#{"Climbing" "Event Reports"} "# My First 5.12!\n\nI projected this route for a while and still can remember its movements.\nPosting it here mostly for my own personal nostalgia : ).\n\nHere is the route: https://photos.app.goo.gl/fvva4kiMPeRbi6tP9.\nBacklinks:"])
+  [#{"Climbing" "Event Reports"} "# My First 5.12!\n\nI projected this route for a while and still can remember its movements.\nPosting it here mostly for my own personal nostalgia : ).\n\nHere is the route: https://photos.app.goo.gl/fvva4kiMPeRbi6tP9.\n\nBacklinks:"])
 
 
 (defn add-file-data [file]
@@ -221,6 +222,29 @@ Backlinks:
   (let [[old-categories categoryless-text] (parse-categories text)
         categories (sort (union new-categories old-categories))]
     (str categoryless-text "\n\n" (make-category-str categories))))
+
+(assert=
+  (update-categories
+    "
+# My First 5.12!
+
+I projected this route for a while and still can remember its movements.
+Posting it here mostly for my own personal nostalgia : ).
+
+Here is the route: https://photos.app.goo.gl/fvva4kiMPeRbi6tP9.
+
+Categories: [Climbing]({{< relref \"/\" >}}?Climbing=true),
+[Event Reports]({{< relref \"/\" >}}?Event-Reports=true)
+" #{"Climbing" "Event Reports"})
+  "# My First 5.12!
+
+I projected this route for a while and still can remember its movements.
+Posting it here mostly for my own personal nostalgia : ).
+
+Here is the route: https://photos.app.goo.gl/fvva4kiMPeRbi6tP9.
+
+Categories: [Climbing]({{< relref \"/\" >}}?Climbing=true),
+[Event Reports]({{< relref \"/\" >}}?Event-Reports=true)")
 
 (defn add-dir-categories! [root-dir]
   (doall
@@ -400,18 +424,18 @@ Backlinks:
     (experiences-to-md experiences-edn))
 
   (add-dir-categories! "content/docs")
-  (add-all-backlinks! "content/docs")
+  (add-all-backlinks! "content/docs"))
   
 
-  ; Requires `sudo apt install tidy`
-  (os/sh "tidy"
-         "-indent"
-         "--show-body-only" "yes"
-         "--doctype" "omit"
-         "--tidy-mark" "no"
-         "-omit"
-         "-o" index-path index-path) 
-  ; Prepend hugo fontmatter
-  (os/sh "sed" "-i" "1s;^;---\\nheadless: true\\n---\\n;" index-path))
+  ; ; Requires `sudo apt install tidy`
+  ; (os/sh "tidy"
+  ;        "-indent"
+  ;        "--show-body-only" "yes"
+  ;        "--doctype" "omit"
+  ;        "--tidy-mark" "no"
+  ;        "-omit"
+  ;        "-o" index-path index-path) 
+  ; ; Prepend hugo fontmatter
+  ; (os/sh "sed" "-i" "1s;^;---\\nheadless: true\\n---\\n;" index-path))
 
-; (main)
+(main)

@@ -31,4 +31,4 @@ Feelings:
 
 Categories: [Experiences]({{< relref "/" >}}?Experiences=true)
 
-Backlinks: [Limiting Collaboration]({{< relref "/docs/gamedev/mechanic-ideas/limiting-collaboration/" >}}), 
+Backlinks: [Limiting Collaboration]({{< relref "/docs/gamedev/mechanic-ideas/limiting-collaboration.md" >}}), 

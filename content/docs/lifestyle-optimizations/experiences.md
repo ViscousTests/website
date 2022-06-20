@@ -20,6 +20,6 @@ to display this.
 
 Categories: [Lifestyle Optimizations]({{< relref "/" >}}?Lifestyle-Optimizations=true)
 
-Backlinks: [Common Patterns]({{< relref "/docs/gamedev/common-patterns/" >}}), 
-[Recommendations]({{< relref "/docs/gaming/recommendations/" >}}), 
-[Mind Mapping Concept]({{< relref "/docs/thought-experiments/mind-mapping-concept/" >}}), 
+Backlinks: [Common Patterns]({{< relref "/docs/gamedev/common-patterns.md" >}}), 
+[Recommendations]({{< relref "/docs/gaming/recommendations.md" >}}), 
+[Mind Mapping Concept]({{< relref "/docs/thought-experiments/mind-mapping-concept.md" >}}), 

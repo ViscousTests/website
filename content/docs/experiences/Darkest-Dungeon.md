@@ -2,9 +2,7 @@
 
 Amazing atmosphere and fun character building.
 
-Feelings: 
-
-
+Feelings:
 
 Categories: [Experiences]({{< relref "/" >}}?Experiences=true),
 [Game]({{< relref "/" >}}?Game=true),

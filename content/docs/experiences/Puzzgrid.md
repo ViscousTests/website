@@ -2,9 +2,7 @@
 
 A game about matching ambiguous word meanings.
 
-Feelings: 
-
-
+Feelings:
 
 Categories: [Experiences]({{< relref "/" >}}?Experiences=true),
 [Game]({{< relref "/" >}}?Game=true),

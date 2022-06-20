@@ -110,4 +110,4 @@ https://docs.google.com/spreadsheets/d/1gp4n59h3I0r1DnM8NQq4ISGtDY9ameoDuqInhsv2
 
 Categories: [Health And Longevity]({{< relref "/" >}}?Health-And-Longevity=true)
 
-Backlinks: [Food]({{< relref "/docs/health-and-longevity/food/" >}}), 
+Backlinks: [Food]({{< relref "/docs/health-and-longevity/food.md" >}}), 

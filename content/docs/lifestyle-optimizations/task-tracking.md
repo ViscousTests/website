@@ -56,5 +56,5 @@ habit reactively (e.g. tracking workouts).
 
 Categories: [Lifestyle Optimizations]({{< relref "/" >}}?Lifestyle-Optimizations=true)
 
-Backlinks: [Sleep]({{< relref "/docs/health-and-longevity/sleep/" >}}), 
-[What And Why]({{< relref "/docs/lifelogging/what-and-why/" >}}), 
+Backlinks: [Sleep]({{< relref "/docs/health-and-longevity/sleep.md" >}}), 
+[What And Why]({{< relref "/docs/lifelogging/what-and-why.md" >}}), 

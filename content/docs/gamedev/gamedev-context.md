@@ -19,4 +19,4 @@
 
 Categories: [Gamedev]({{< relref "/" >}}?Gamedev=true)
 
-Backlinks: [Creativity]({{< relref "/docs/mind/creativity/" >}}), 
+Backlinks: [Creativity]({{< relref "/docs/mind/creativity.md" >}}), 

@@ -297,5 +297,5 @@ But has these problems:
 
 Categories: [Understanding The World]({{< relref "/" >}}?Understanding-The-World=true)
 
-Backlinks: [Manifesto]({{< relref "/docs/manifesto/" >}}), 
-[Sens]({{< relref "/docs/health-and-longevity/sens/" >}}), 
+Backlinks: [Manifesto]({{< relref "/docs/manifesto.md" >}}), 
+[Sens]({{< relref "/docs/health-and-longevity/sens.md" >}}), 

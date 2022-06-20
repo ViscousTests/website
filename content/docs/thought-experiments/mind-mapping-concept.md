@@ -77,4 +77,4 @@ Categories: []({{< relref "/" >}}?=true),
 [...]({{< relref "/" >}}?...=true),
 [Thought Experiments]({{< relref "/" >}}?Thought-Experiments=true)
 
-Backlinks: [Experiences]({{< relref "/docs/lifestyle-optimizations/experiences/" >}}), 
+Backlinks: [Experiences]({{< relref "/docs/lifestyle-optimizations/experiences.md" >}}), 

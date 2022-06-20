@@ -91,4 +91,4 @@ Categories: []({{< relref "/" >}}?=true),
 [Gamedev]({{< relref "/" >}}?Gamedev=true),
 [Mechanic Ideas]({{< relref "/" >}}?Mechanic-Ideas=true)
 
-Backlinks: [Dead Of Winter]({{< relref "/docs/experiences/Dead-of-Winter/" >}}), 
+Backlinks: [Dead Of Winter]({{< relref "/docs/experiences/Dead-of-Winter.md" >}}), 

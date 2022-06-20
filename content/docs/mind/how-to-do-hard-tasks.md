@@ -124,4 +124,4 @@ concept for a while before it finally clicks.
 
 Categories: [Mind]({{< relref "/" >}}?Mind=true)
 
-Backlinks: 
+Backlinks: [Motivation]({{< relref "/docs/mind/motivation.md" >}}), 

@@ -164,4 +164,7 @@ track almost any data type with very few taps, AND it syncs to Google Drive
 
 Categories: [Lifelogging]({{< relref "/" >}}?Lifelogging=true)
 
-Backlinks: 
+Backlinks: [Continuous Glucose Monitoring]({{< relref "/docs/health-and-longevity/continuous-glucose-monitoring.md" >}}), 
+[Tracking Health]({{< relref "/docs/health-and-longevity/tracking-health.md" >}}), 
+[Camera]({{< relref "/docs/lifelogging/camera.md" >}}), 
+[Task Tracking]({{< relref "/docs/lifestyle-optimizations/task-tracking.md" >}}), 

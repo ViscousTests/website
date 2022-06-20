@@ -2,9 +2,7 @@
 
 A cool rougelike game about arranging a grid inventory optimally.
 
-Feelings: 
-
-
+Feelings:
 
 Categories: [Experiences]({{< relref "/" >}}?Experiences=true),
 [Game]({{< relref "/" >}}?Game=true),

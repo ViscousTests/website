@@ -2,9 +2,7 @@
 
 Very similar appeal to Fire Emblem. Less story focused and more focused on character customization.
 
-Feelings: 
-
-
+Feelings:
 
 Categories: [Experiences]({{< relref "/" >}}?Experiences=true),
 [Game]({{< relref "/" >}}?Game=true),

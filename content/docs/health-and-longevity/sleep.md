@@ -134,4 +134,5 @@ TODO: Put some actual raw data here.
 
 Categories: [Health And Longevity]({{< relref "/" >}}?Health-And-Longevity=true)
 
-Backlinks: [Manifesto]({{< relref "/docs/manifesto/" >}}), 
+Backlinks: [Manifesto]({{< relref "/docs/manifesto.md" >}}), 
+[Task Tracking]({{< relref "/docs/lifestyle-optimizations/task-tracking.md" >}}), 

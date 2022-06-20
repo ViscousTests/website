@@ -34,4 +34,4 @@ Or around `116 GB/year` if a took a picture every minute.
 
 Categories: [Lifelogging]({{< relref "/" >}}?Lifelogging=true)
 
-Backlinks: [What And Why]({{< relref "/docs/lifelogging/what-and-why/" >}}), 
+Backlinks: [What And Why]({{< relref "/docs/lifelogging/what-and-why.md" >}}), 

@@ -16,4 +16,4 @@ The code can be found at
 
 Categories: [Health And Longevity]({{< relref "/" >}}?Health-And-Longevity=true)
 
-Backlinks: [Food]({{< relref "/docs/health-and-longevity/food/" >}}), 
+Backlinks: [Food]({{< relref "/docs/health-and-longevity/food.md" >}}), 

@@ -90,4 +90,4 @@ https://medium.com/@LouisGudema/zero-to-some-a-critique-of-peter-thiels-zero-to-
 
 Categories: [Understanding The World]({{< relref "/" >}}?Understanding-The-World=true)
 
-Backlinks: [Influences]({{< relref "/docs/investing-and-finances/influences/" >}}), 
+Backlinks: [Influences]({{< relref "/docs/investing-and-finances/influences.md" >}}), 

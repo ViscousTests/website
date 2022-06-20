@@ -239,5 +239,6 @@ Some great resources for goal execution:
 
 Categories: [Mind]({{< relref "/" >}}?Mind=true)
 
-Backlinks: [Manifesto]({{< relref "/docs/manifesto/" >}}), 
-[How To Do Hard Tasks]({{< relref "/docs/mind/how-to-do-hard-tasks/" >}}), 
+Backlinks: [Manifesto]({{< relref "/docs/manifesto.md" >}}), 
+[Creativity]({{< relref "/docs/mind/creativity.md" >}}), 
+[How To Do Hard Tasks]({{< relref "/docs/mind/how-to-do-hard-tasks.md" >}}), 

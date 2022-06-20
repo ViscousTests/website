@@ -76,5 +76,8 @@ point where the original vision is unfulfilled in some way.
 
 Categories: [Mind]({{< relref "/" >}}?Mind=true)
 
-Backlinks: [Manifesto]({{< relref "/docs/manifesto/" >}}), 
-[Motivation]({{< relref "/docs/mind/motivation/" >}}), 
+Backlinks: [Manifesto]({{< relref "/docs/manifesto.md" >}}), 
+[Gamedev Context]({{< relref "/docs/gamedev/gamedev-context.md" >}}), 
+[Motivation]({{< relref "/docs/mind/motivation.md" >}}), 
+[Copyright And Ip]({{< relref "/docs/understanding-the-world/copyright-and-ip.md" >}}), 
+[Utopia]({{< relref "/docs/understanding-the-world/utopia.md" >}}), 

@@ -385,4 +385,6 @@ processed food.
 
 Categories: [Health And Longevity]({{< relref "/" >}}?Health-And-Longevity=true)
 
-Backlinks: [Manifesto]({{< relref "/docs/manifesto/" >}}), 
+Backlinks: [Manifesto]({{< relref "/docs/manifesto.md" >}}), 
+[Biomarker Correlator]({{< relref "/docs/health-and-longevity/biomarker-correlator.md" >}}), 
+[Fasting]({{< relref "/docs/health-and-longevity/fasting.md" >}}), 

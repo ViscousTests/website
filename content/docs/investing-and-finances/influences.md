@@ -41,4 +41,4 @@ previously heard but forgotten.
 
 Categories: [Investing And Finances]({{< relref "/" >}}?Investing-And-Finances=true)
 
-Backlinks: 
+Backlinks: [Influences]({{< relref "/docs/understanding-the-world/influences.md" >}}), 

@@ -178,4 +178,5 @@ healthspan?
 
 Categories: [Health And Longevity]({{< relref "/" >}}?Health-And-Longevity=true)
 
-Backlinks: [What And Why]({{< relref "/docs/lifelogging/what-and-why/" >}}), 
+Backlinks: [Continuous Glucose Monitoring]({{< relref "/docs/health-and-longevity/continuous-glucose-monitoring.md" >}}), 
+[What And Why]({{< relref "/docs/lifelogging/what-and-why.md" >}}), 
