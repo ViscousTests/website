@@ -15,7 +15,10 @@
         path_elements.forEach(
             element => {
                 console.log(element);
-                document.getElementById(element).open = true;
+                var page_element = document.getElementById(element);
+                if (page_element !== null) {
+                    page_element.open = true;
+                }
             });
         // Unfinished attempt to always have the current page highlighted in
         // the sidebar.

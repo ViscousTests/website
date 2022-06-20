@@ -8,6 +8,12 @@
               [joker.hiccup :as h]
               [joker.core :as j]))
 
+(defn assert=
+  [actual expected]
+  (assert
+    (= actual expected)
+    (str "Actual: " actual "\n\nExpected: " expected)))
+
 (defn capitalize-words [string]
   (s/join " "
           (for [word (s/split string " ")]
@@ -63,31 +69,82 @@
 (defn format-word [word]
   (s/trim (capitalize-words (s/replace word "-" " "))))
 
-(defn parse-categories
-  "Finds all categories the text and returns them."
-  [text]
-  (into #{} (reduce concat
-              (for [match (re-seq #"\nCategories: (.+)" text)]
-                (for [category (s/split (last match) ",")]
-                  (format-word
-                    (if-let [delinked (last (re-find #"\[(.*?)\]" category))]
-                      delinked
-                      category)))))))
+(defn extract-paragraph
+  "Finds the paragraph in the given text that starts with the given prefix,
+  then returns the text without the paragraph, and the paragraph."
+  [text prefix]
+  (if-let [paragraph (re-find (re-pattern (str "(?s)\n" prefix ".*?\n\n"))
+                              text)]
+    [(s/trim (s/replace text paragraph "")) (s/trim paragraph)]
+    [(s/trim text) ""]))
 
-(j/println
+(assert=
+  (extract-paragraph "
+
+Thing: ai asnteisa 
+oanetu
+anote
+
+another 'graph
+hi
+
+
+                        " "Thing")
+  ["another 'graph\nhi" "Thing: ai asnteisa \noanetu\nanote"])
+           
+
+(defn parse-categories
+  "Finds all categories in the text and returns them alongside the categoryless
+  text."
+  [text]
+  (let [[categoryless-text categories-text]
+        (extract-paragraph text "Categories:")]
+    [(into #{} (for [category (-> categories-text
+                                (s/replace "Categories:" "")
+                                (s/trim)
+                                (s/split ","))
+                     :when (> (count category) 0)]
+                 (format-word
+                   (if-let [delinked (last (re-find #"\[(.*?)\]" category))]
+                     delinked
+                     category))))
+     categoryless-text]))
+
+(assert=
   (parse-categories
     "<markdown>
 
 Categories: cat1, ..., [Housing]({{< relref \"/docs/all.md\" >}}?Housing=true)
 
 other
-"))
+")
+  [#{"Cat1" "..." "Housing"} "<markdown>\nother"])
+
+
+(assert=
+  (parse-categories
+    "
+# My First 5.12!
+
+I projected this route for a while and still can remember its movements.
+Posting it here mostly for my own personal nostalgia : ).
+
+Here is the route: https://photos.app.goo.gl/fvva4kiMPeRbi6tP9.
+
+Categories: [Climbing]({{< relref \"/\" >}}?Climbing=true),
+[Event Reports]({{< relref \"/\" >}}?Event-Reports=true)
+Categories: [Climbing]({{< relref \"/\" >}}?Climbing=true),
+[Event Reports]({{< relref \"/\" >}}?Event-Reports=true)
+
+Backlinks: 
+")
+  [#{"Climbing" "Event Reports"} "# My First 5.12!\n\nI projected this route for a while and still can remember its movements.\nPosting it here mostly for my own personal nostalgia : ).\n\nHere is the route: https://photos.app.goo.gl/fvva4kiMPeRbi6tP9.\nBacklinks:"])
 
 
 (defn add-file-data [file]
   (let [markdown (slurp (:path file))]
     (merge file
-      {:categories (parse-categories markdown)
+      {:categories (first (parse-categories markdown))
        :markdown markdown
        :links (parse-links markdown)
        :title (to-title (:path file))})))
@@ -161,11 +218,9 @@ other
     (str "Categories: " (s/join ",\n" linked-categories))))
 
 (defn update-categories [text new-categories]
-  (let [categories (sort (union new-categories (parse-categories text)))]
-    (s/join "\n"
-            (conj (into [] (filter #(not (s/starts-with? % "Categories: "))
-                                   (s/split text "\n")))
-                  (make-category-str categories)))))
+  (let [[old-categories categoryless-text] (parse-categories text)
+        categories (sort (union new-categories old-categories))]
+    (str categoryless-text "\n\n" (make-category-str categories))))
 
 (defn add-dir-categories! [root-dir]
   (doall
@@ -178,31 +233,19 @@ other
 
 ; -------------- Adding Backlinks to All Pages ----------------------------
 
-(defn remove-backlinks
-  [md]
-  (s/replace md #"Backlinks:.*" ""))
-
-; (j/println (remove-backlinks "
-; 
-; hello
-; Backlinks: first second
-; 
-; other
-;                              "))
-
 (defn file-to-md-link
   [filepath]
   (str "[" (to-title filepath)
-       "]({{< relref \"" (file-to-link-path filepath) "\" >}})"))
-
-
+       "]({{< relref \"" (s/replace-first filepath "content" "") "\" >}})"))
+      
 (defn update-backlinks
   [md backlinks]
-  (str (remove-backlinks md)
-       "\n\nBacklinks: "
-       (apply str
-              (for [path backlinks]
-                (str (file-to-md-link path) ", \n")))))
+  (let [[backlinkless-text _] (extract-paragraph md "Backlinks:")]
+    (str backlinkless-text
+         "\n\nBacklinks: "
+         (apply str
+                (for [path backlinks]
+                  (str (file-to-md-link path) ", \n"))))))
 
 (defn get-file-to-backlinks
   [all-files]
@@ -345,6 +388,7 @@ other
   ; (spit index-path (h/html (make-dir-contents "content/docs")))
   ; (spit "content/menu/index.edn" (get-file-tree "content/docs"))
   (spit "static/all.edn" 
+        ; THIS EATS DEBUGGING PRINT STATEMENTS!!!
         (with-out-str (pprint (into [] (get-all-files "content/docs")))))
   (spit "content/docs/all.md"
         (make-all-notes-page (get-all-files "content/docs")))
@@ -370,4 +414,4 @@ other
   ; Prepend hugo fontmatter
   (os/sh "sed" "-i" "1s;^;---\\nheadless: true\\n---\\n;" index-path))
 
-(main)
+; (main)
