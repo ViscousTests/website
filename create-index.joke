@@ -6,6 +6,7 @@
               [joker.set :refer [union]]
               [joker.os :as os]
               [joker.hiccup :as h]
+              [joker.math :as m]
               [joker.core :as j]))
 
 (defn assert=
@@ -408,16 +409,40 @@ Categories: [Climbing]({{< relref \"/\" >}}?Climbing=true),
     
 ; -------------------------------------------------------------------------
 
+(def harry-potter-sorcerers-stone-words
+  76944)
+
+(def letters
+  (into #{} (seq "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ")))
+
+(defn is-word
+  [string]
+  (contains? letters (first string)))
+  
+
+(defn word-count
+  [files]
+  (let [words (filter is-word
+                      (s/split (reduce str (map :markdown
+                                              (get-all-files "content/docs")))
+                               #"\s+"))]
+    (str (count words) " words, "
+         (m/round (* 100 (double (/ (count words)
+                                    harry-potter-sorcerers-stone-words))))
+         "% of Harry Potter and the Sorcerer's Stone")))
+
 
 (def index-path "content/menu/index.md")
 (defn main []
-  ; (spit index-path (h/html (make-dir-contents "content/docs")))
-  ; (spit "content/menu/index.edn" (get-file-tree "content/docs"))
-  (spit "static/all.edn" 
-        ; THIS EATS DEBUGGING PRINT STATEMENTS!!!
-        (with-out-str (pprint (into [] (get-all-files "content/docs")))))
-  (spit "content/docs/all.md"
-        (make-all-notes-page (get-all-files "content/docs")))
+  (let [all-files (get-all-files "content/docs")]
+    ; (spit index-path (h/html (make-dir-contents "content/docs")))
+    ; (spit "content/menu/index.edn" (get-file-tree "content/docs"))
+    (spit "static/all.edn" 
+          ; THIS EATS DEBUGGING PRINT STATEMENTS!!!
+          (with-out-str (pprint (into [] all-files))))
+    (spit "content/docs/all.md" (make-all-notes-page all-files))
+    ; TODO add this to the content/_index.md homepage
+    (prn (word-count all-files)))
 
   (let [experiences-edn
         (read-string
