@@ -18,4 +18,9 @@ as I learn the Clojure standard library of functions better, this will become
 easier with time and ultimately I will be implementing less stuff myself than I
 would be in Python.
 
+I interviewed someone currently working at Nubank for a Google job in Clojure
+(their preferred language). This underscored to me the above observation - the
+interview didn't go very well in part because the candidate had trouble
+incrementally building up the solution.
+
 Categories: [Software Dev]({{< relref "/" >}}?Software-Dev=true)

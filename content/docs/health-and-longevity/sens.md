@@ -1,7 +1,9 @@
 # SENS
 
 SENS attempts to clean up damage that accumulates with age, in the hopes that
-doing so will lead to longer life.
+doing so will lead to longer life.  See
+https://www.sens.org/our-research/intro-to-sens-research/ for a good overview
+of the methods.
 
 ## Charles Brenner vs Aubrey de Grey Debate
 
@@ -13,15 +15,6 @@ that if any of the damage SENS is trying to clean up will lead to positive
 health outcomes.  His view is that the SENS program is a set of ["plausible
 ideas"]({{< relref "/docs/understanding-the-world/what-to-believe.md" >}})
 without enough evidence behind them to warrant funding or pursuit.
-
-
-
-
-
-
-
-
-
 
 Categories: [Health And Longevity]({{< relref "/" >}}?Health-And-Longevity=true)
 

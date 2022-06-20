@@ -72,6 +72,10 @@ the impact of stuff on them often depends on the greater context.  For example,
 our body's ability to absorb certain nutrients depends on what those nutrients
 are dissolved/complexed within.
 
+## [Ending Aging by Aubrey de Gray](https://en.wikipedia.org/wiki/Ending_Aging)
+
+See [SENS]({{< relref "/docs/health-and-longevity/sens.md" >}}).
+
 ## [The Drive Podcast by Peter Attia](https://peterattiamd.com/podcast/)
 
 Good podcast surveying many different longevity-related topics in a long form
@@ -167,5 +171,15 @@ https://biohackstack.com/posts/michael-lustgarten/.
 A cool system for quantifying biological age.  See also the
 [young.ai](https://app.young.ai/app/dashboard) app developed by the same people
 to make living better easier.  I don't use this system myself right now.
+
+## Age Later by Nir Barzilai
+
+I haven't read this yet. See a review at
+https://www.lesswrong.com/posts/b8mz7zi6D6Y35dar4/book-review-age-later.
+
+## True Age by Morgan Levine
+
+I haven't read this yet, but like what I've heard about Levine's work on
+podcasts.
 
 Categories: [Health And Longevity]({{< relref "/" >}}?Health-And-Longevity=true)
