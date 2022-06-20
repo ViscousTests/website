@@ -14,7 +14,6 @@ Here is the route: https://photos.app.goo.gl/fvva4kiMPeRbi6tP9.
 
 [Event Reports]({{< relref "/" >}}?Event-Reports=true)
 
-
 Categories: []({{< relref "/" >}}?=true),
 [Climbing]({{< relref "/" >}}?Climbing=true),
 [Event Reports]({{< relref "/" >}}?Event-Reports=true)

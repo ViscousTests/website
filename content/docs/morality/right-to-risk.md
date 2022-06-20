@@ -31,14 +31,4 @@ binding relationships. I realize that if I'm placed in a position where I have
 to make a consequential decision, this default belief is not strong enough to
 use :).
 
-
-
-
-
-
-
-
-
-
-
 Categories: [Morality]({{< relref "/" >}}?Morality=true)

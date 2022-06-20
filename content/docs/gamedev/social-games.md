@@ -9,13 +9,4 @@ convenient but faceless matchmaking systems.
 This NeverKnowsBest video does an excellent job describing this phenomenon in
 the context of MMORPGs: https://www.youtube.com/watch?v=WOqTjL4x7FA
 
-
-
-
-
-
-
-
-
-
 Categories: [Gamedev]({{< relref "/" >}}?Gamedev=true)

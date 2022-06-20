@@ -44,13 +44,4 @@ while. Some ideas:
    - Con: Can be draining.
  - Napping.
 
-
-
-
-
-
-
-
-
-
 Categories: [Mind]({{< relref "/" >}}?Mind=true)

@@ -12,14 +12,4 @@ on my keyboard (mod is the windows key)! This also has the added benefit of
 saving the video to my hard drive in case I want to watch it later when
 offline.
 
-
-
-
-
-
-
-
-
-
-
 Categories: [Lifestyle Optimizations]({{< relref "/" >}}?Lifestyle-Optimizations=true)

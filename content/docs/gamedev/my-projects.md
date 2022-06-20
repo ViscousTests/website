@@ -30,13 +30,4 @@ Code can be found at https://github.com/kovasap/farming_strategy_game. Inspired
 by resource management board games, and turn based tactics games. Supposed to
 be a fusion of these genres.
 
-
-
-
-
-
-
-
-
-
 Categories: [Gamedev]({{< relref "/" >}}?Gamedev=true)

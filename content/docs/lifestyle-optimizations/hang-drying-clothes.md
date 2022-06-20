@@ -61,10 +61,4 @@ knots in the rope for the hangers to rest against (like this:
 https://www.reddit.com/r/interestingasfuck/comments/vf4upz/this_man_tying_knots/)
 to make sure the clothes don't bunch up (reducing airflow).
 
-
-
-
-
-
-
 Categories: [Lifestyle Optimizations]({{< relref "/" >}}?Lifestyle-Optimizations=true)

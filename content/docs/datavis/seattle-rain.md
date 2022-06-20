@@ -44,16 +44,6 @@ something, so I ran with more data (2000-2021)...
 
 {{< plotly json="/USC00452675.15m.2000-2021.csv.json" height="1800px" >}}
 
-...and everything averaged out 😦. 
-
-
-
-
-
-
-
-
-
-
+...and everything averaged out 😦.
 
 Categories: [Datavis]({{< relref "/" >}}?Datavis=true)

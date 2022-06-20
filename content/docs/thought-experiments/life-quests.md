@@ -8,13 +8,4 @@ challenges under time pressure. Some examples of this would include:
    in a couple days
  - Make some kind of art in a new medium
 
-
-
-
-
-
-
-
-
-
 Categories: [Thought Experiments]({{< relref "/" >}}?Thought-Experiments=true)

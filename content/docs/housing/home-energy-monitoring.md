@@ -18,14 +18,4 @@ effects power consumption.
  - https://github.com/magico13/PyEmVue
  - Installation: https://www.youtube.com/watch?v=dJ9Q3Ft5pOg
 
-
-
-
-
-
-
-
-
-
-
 Categories: [Housing]({{< relref "/" >}}?Housing=true)

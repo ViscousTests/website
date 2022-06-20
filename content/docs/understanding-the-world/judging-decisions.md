@@ -50,13 +50,4 @@ This approach can be used in technical interviews, or judgment of someone's
 work (e.g. when evaluating performance), by asking yourself "How much of the
 possibility space has this person explored?".
 
-
-
-
-
-
-
-
-
-
 Categories: [Understanding The World]({{< relref "/" >}}?Understanding-The-World=true)

@@ -17,14 +17,4 @@ Replace floating points number with quoted variants:
 :%s/[^"]\(\d\+\)\.\(\d\+\)/"\1\.\2"/g
 ```
 
-
-
-
-
-
-
-
-
-
-
 Categories: [Lifestyle Optimizations]({{< relref "/" >}}?Lifestyle-Optimizations=true)

@@ -12,13 +12,4 @@ right before the actual fall that leads to a long lasting fatigue. This puts a
 particular strain on me that climbing many difficult routes without falling
 does not.
 
-
-
-
-
-
-
-
-
-
 Categories: [Climbing]({{< relref "/" >}}?Climbing=true)

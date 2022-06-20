@@ -91,13 +91,4 @@ general!
 
 Some good thinking on advice giving: https://guzey.com/advice/
 
-
-
-
-
-
-
-
-
-
 Categories: [Understanding The World]({{< relref "/" >}}?Understanding-The-World=true)

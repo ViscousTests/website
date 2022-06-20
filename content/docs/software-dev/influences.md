@@ -25,13 +25,4 @@
     changeable, increase their **usability** and reduce **coordination**
     between their pieces.
 
-
-
-
-
-
-
-
-
-
 Categories: [Software Dev]({{< relref "/" >}}?Software-Dev=true)

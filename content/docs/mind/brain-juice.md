@@ -7,13 +7,4 @@ especially when critically re-validating my existing connections. It also feels
 tired when doing the same thing many times, even if that thing is a simple
 expression of a deeply ingrained skill.
 
-
-
-
-
-
-
-
-
-
 Categories: [Mind]({{< relref "/" >}}?Mind=true)

@@ -19,14 +19,4 @@ Cool art and art tutorials that I've stumbled across.
  - https://github.com/mxgmn/WaveFunctionCollapse
  - https://github.com/mxgmn/MarkovJunior
 
-
-
-
-
-
-
-
-
-
-
 Categories: [Visual Art]({{< relref "/" >}}?Visual-Art=true)

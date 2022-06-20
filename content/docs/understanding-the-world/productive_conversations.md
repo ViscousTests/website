@@ -7,13 +7,4 @@
  - Don't change the subject or gloss over a point until it is 
    resolved.  Especially don't counter a point with something unrelated.
 
-
-
-
-
-
-
-
-
-
 Categories: [Understanding The World]({{< relref "/" >}}?Understanding-The-World=true)

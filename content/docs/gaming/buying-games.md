@@ -26,13 +26,4 @@ cards and resold as a way to get money out of said credit cards.
  - [g2a](https://www.g2a.com/)
  - [kinguin](https://www.kinguin.net/)
 
-
-
-
-
-
-
-
-
-
 Categories: [Gaming]({{< relref "/" >}}?Gaming=true)

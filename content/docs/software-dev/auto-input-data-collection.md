@@ -42,13 +42,4 @@ This is similar to using a REPL in Clojure with generative test case-ing via
 spec, but crucially captures data that causes errors in a real run of the
 program (unlike Clojure with a REPL and random data).
 
-
-
-
-
-
-
-
-
-
 Categories: [Software Dev]({{< relref "/" >}}?Software-Dev=true)

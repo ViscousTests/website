@@ -15,14 +15,4 @@ hunger and already moving state of my body makes it much easier to do this than
 it would be if I had just finished eating and was sitting down in a relaxed
 state.
 
-
-
-
-
-
-
-
-
-
-
 Categories: [Lifestyle Optimizations]({{< relref "/" >}}?Lifestyle-Optimizations=true)

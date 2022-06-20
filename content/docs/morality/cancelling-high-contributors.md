@@ -22,13 +22,4 @@ are**):
  - [Steve Jobs](https://en.wikipedia.org/wiki/Steve_Jobs)
  - [Andy Rubin](https://en.wikipedia.org/wiki/Andy_Rubin)
 
-
-
-
-
-
-
-
-
-
 Categories: [Morality]({{< relref "/" >}}?Morality=true)
