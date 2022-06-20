@@ -18,5 +18,3 @@ https://www.reddit.com/r/projecteternity/comments/8j74ne/comment/dyxi5nn/?utm_so
 
 
 Categories: [Gaming]({{< relref "/" >}}?Gaming=true)
-
-Backlinks: 

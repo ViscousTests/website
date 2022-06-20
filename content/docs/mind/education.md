@@ -95,5 +95,3 @@ Interesting Article: https://annehelen.substack.com/p/is-everything-an-mlm?s=r
 
 
 Categories: [Mind]({{< relref "/" >}}?Mind=true)
-
-Backlinks: 

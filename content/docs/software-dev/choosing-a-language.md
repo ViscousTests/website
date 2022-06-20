@@ -25,5 +25,3 @@ example is Javascript, which has tons and tons of libraries.
 
 
 Categories: [Software Dev]({{< relref "/" >}}?Software-Dev=true)
-
-Backlinks: 

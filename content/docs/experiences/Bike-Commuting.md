@@ -9,5 +9,3 @@ Feelings:
 Categories: [Exercise]({{< relref "/" >}}?Exercise=true),
 [Experiences]({{< relref "/" >}}?Experiences=true),
 [Lifestyle]({{< relref "/" >}}?Lifestyle=true)
-
-Backlinks: 

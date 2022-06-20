@@ -42,5 +42,3 @@ explores cultural traits at a national level, but there is some overlap here.
 
 
 Categories: [Mind]({{< relref "/" >}}?Mind=true)
-
-Backlinks: 

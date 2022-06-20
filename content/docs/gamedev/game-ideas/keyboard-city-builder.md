@@ -17,5 +17,3 @@ the key with shift/ctrl/other modifiers will change the action type.
 Categories: []({{< relref "/" >}}?=true),
 [Game Ideas]({{< relref "/" >}}?Game-Ideas=true),
 [Gamedev]({{< relref "/" >}}?Gamedev=true)
-
-Backlinks: 

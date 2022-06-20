@@ -11,5 +11,3 @@ Categories: [Experiences]({{< relref "/" >}}?Experiences=true),
 [Puzzle]({{< relref "/" >}}?Puzzle=true),
 [Solitary]({{< relref "/" >}}?Solitary=true),
 [Turn Based]({{< relref "/" >}}?Turn-Based=true)
-
-Backlinks: 

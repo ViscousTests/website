@@ -186,5 +186,3 @@ easily loosened my seatpost!
 
 
 Categories: [Lifestyle Optimizations]({{< relref "/" >}}?Lifestyle-Optimizations=true)
-
-Backlinks: 

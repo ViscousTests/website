@@ -22,5 +22,3 @@ you to share recipe webpages with the app.
 
 
 Categories: [Lifestyle Optimizations]({{< relref "/" >}}?Lifestyle-Optimizations=true)
-
-Backlinks: 

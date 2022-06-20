@@ -73,5 +73,3 @@ BEFORE RAPPELLING:
 
 
 Categories: [Climbing]({{< relref "/" >}}?Climbing=true)
-
-Backlinks: 

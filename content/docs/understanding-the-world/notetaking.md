@@ -34,5 +34,3 @@ work, which is always at hand and even partially connected already.
 
 
 Categories: [Understanding The World]({{< relref "/" >}}?Understanding-The-World=true)
-
-Backlinks: 

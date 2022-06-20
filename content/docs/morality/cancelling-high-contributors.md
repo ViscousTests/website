@@ -32,5 +32,3 @@ are**):
 
 
 Categories: [Morality]({{< relref "/" >}}?Morality=true)
-
-Backlinks: 

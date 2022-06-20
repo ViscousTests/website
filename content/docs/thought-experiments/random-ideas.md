@@ -219,5 +219,3 @@ their water cups.  Could have four streams for easier filling.
 
 
 Categories: [Thought Experiments]({{< relref "/" >}}?Thought-Experiments=true)
-
-Backlinks: 

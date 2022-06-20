@@ -54,5 +54,3 @@ while. Some ideas:
 
 
 Categories: [Mind]({{< relref "/" >}}?Mind=true)
-
-Backlinks: 

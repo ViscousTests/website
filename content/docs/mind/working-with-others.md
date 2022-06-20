@@ -155,5 +155,3 @@ types of resolution described above.
 
 
 Categories: [Mind]({{< relref "/" >}}?Mind=true)
-
-Backlinks: 

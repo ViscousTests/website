@@ -17,5 +17,3 @@ expression of a deeply ingrained skill.
 
 
 Categories: [Mind]({{< relref "/" >}}?Mind=true)
-
-Backlinks: 

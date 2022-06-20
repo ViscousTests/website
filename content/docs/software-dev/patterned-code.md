@@ -20,5 +20,3 @@ The above code may not have meaningful patterns, but is visually patterned.
 
 
 Categories: [Software Dev]({{< relref "/" >}}?Software-Dev=true)
-
-Backlinks: 

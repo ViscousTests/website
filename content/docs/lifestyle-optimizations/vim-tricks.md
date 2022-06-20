@@ -28,5 +28,3 @@ Replace floating points number with quoted variants:
 
 
 Categories: [Lifestyle Optimizations]({{< relref "/" >}}?Lifestyle-Optimizations=true)
-
-Backlinks: 

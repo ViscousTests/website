@@ -9,5 +9,3 @@ Categories: [Experiences]({{< relref "/" >}}?Experiences=true),
 [Solitary]({{< relref "/" >}}?Solitary=true),
 [Turn Based]({{< relref "/" >}}?Turn-Based=true),
 [⭐top10]({{< relref "/" >}}?⭐top10=true)
-
-Backlinks: 

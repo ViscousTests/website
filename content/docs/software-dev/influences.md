@@ -35,5 +35,3 @@
 
 
 Categories: [Software Dev]({{< relref "/" >}}?Software-Dev=true)
-
-Backlinks: 

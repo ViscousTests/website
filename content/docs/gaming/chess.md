@@ -16,5 +16,3 @@ I want to try out [chessable](https://www.chessable.com/?page=landingpage) at so
 
 
 Categories: [Gaming]({{< relref "/" >}}?Gaming=true)
-
-Backlinks: 

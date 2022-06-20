@@ -9,5 +9,3 @@ Feelings:
 
 Categories: [Experiences]({{< relref "/" >}}?Experiences=true),
 [Programming]({{< relref "/" >}}?Programming=true)
-
-Backlinks: 

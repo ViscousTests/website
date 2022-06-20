@@ -159,5 +159,3 @@ opponent.
 
 
 Categories: [Gaming]({{< relref "/" >}}?Gaming=true)
-
-Backlinks: 

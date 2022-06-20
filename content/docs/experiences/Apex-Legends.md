@@ -11,5 +11,3 @@ Categories: [Competitive]({{< relref "/" >}}?Competitive=true),
 [Game]({{< relref "/" >}}?Game=true),
 [Multiplayer]({{< relref "/" >}}?Multiplayer=true),
 [Real Time]({{< relref "/" >}}?Real-Time=true)
-
-Backlinks: 

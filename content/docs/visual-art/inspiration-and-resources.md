@@ -30,5 +30,3 @@ Cool art and art tutorials that I've stumbled across.
 
 
 Categories: [Visual Art]({{< relref "/" >}}?Visual-Art=true)
-
-Backlinks: 

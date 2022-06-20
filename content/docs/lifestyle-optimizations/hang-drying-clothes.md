@@ -68,5 +68,3 @@ to make sure the clothes don't bunch up (reducing airflow).
 
 
 Categories: [Lifestyle Optimizations]({{< relref "/" >}}?Lifestyle-Optimizations=true)
-
-Backlinks: 

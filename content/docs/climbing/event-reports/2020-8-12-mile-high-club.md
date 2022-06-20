@@ -224,5 +224,3 @@ you give yourself enough time!
 Categories: []({{< relref "/" >}}?=true),
 [Climbing]({{< relref "/" >}}?Climbing=true),
 [Event Reports]({{< relref "/" >}}?Event-Reports=true)
-
-Backlinks: 

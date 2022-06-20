@@ -38,5 +38,3 @@ it's less convenient to do so.
 
 
 Categories: [Lifestyle Optimizations]({{< relref "/" >}}?Lifestyle-Optimizations=true)
-
-Backlinks: 

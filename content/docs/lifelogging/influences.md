@@ -16,5 +16,3 @@
 
 
 Categories: [Lifelogging]({{< relref "/" >}}?Lifelogging=true)
-
-Backlinks: 

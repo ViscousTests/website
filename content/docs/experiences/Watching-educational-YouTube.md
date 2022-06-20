@@ -8,5 +8,3 @@ Feelings:
 
 Categories: [Consuming Content]({{< relref "/" >}}?Consuming-Content=true),
 [Experiences]({{< relref "/" >}}?Experiences=true)
-
-Backlinks: 

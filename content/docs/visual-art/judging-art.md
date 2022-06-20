@@ -27,5 +27,3 @@ an interesting place to start here.
 
 
 Categories: [Visual Art]({{< relref "/" >}}?Visual-Art=true)
-
-Backlinks: 

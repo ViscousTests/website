@@ -22,5 +22,3 @@ does not.
 
 
 Categories: [Climbing]({{< relref "/" >}}?Climbing=true)
-
-Backlinks: 

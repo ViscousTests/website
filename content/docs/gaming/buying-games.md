@@ -36,5 +36,3 @@ cards and resold as a way to get money out of said credit cards.
 
 
 Categories: [Gaming]({{< relref "/" >}}?Gaming=true)
-
-Backlinks: 

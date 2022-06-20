@@ -102,5 +102,3 @@ attached to the raspberry pi if i use that.
 
 
 Categories: [Hydroponics]({{< relref "/" >}}?Hydroponics=true)
-
-Backlinks: 

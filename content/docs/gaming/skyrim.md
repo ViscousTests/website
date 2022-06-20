@@ -17,5 +17,3 @@ Best played with mods: https://drive.google.com/drive/folders/1ekiDIGgRXa7bplPzl
 Categories: []({{< relref "/" >}}?=true),
 [Experiences]({{< relref "/" >}}?Experiences=true),
 [Gaming]({{< relref "/" >}}?Gaming=true)
-
-Backlinks: 

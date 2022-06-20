@@ -37,5 +37,3 @@ you can feel satisfied about.
 
 
 Categories: [Mind]({{< relref "/" >}}?Mind=true)
-
-Backlinks: 

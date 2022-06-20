@@ -52,5 +52,3 @@ program (unlike Clojure with a REPL and random data).
 
 
 Categories: [Software Dev]({{< relref "/" >}}?Software-Dev=true)
-
-Backlinks: 

@@ -46,5 +46,3 @@ Cool lecture series, not done yet!
 
 
 Categories: [Mind]({{< relref "/" >}}?Mind=true)
-
-Backlinks: 

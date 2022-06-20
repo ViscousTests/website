@@ -20,5 +20,3 @@ on how to tie. Some of the many uses I've found for this knot:
 
 
 Categories: [Lifestyle Optimizations]({{< relref "/" >}}?Lifestyle-Optimizations=true)
-
-Backlinks: 

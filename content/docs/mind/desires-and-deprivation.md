@@ -35,5 +35,3 @@ via new beliefs. For example:
 
 
 Categories: [Mind]({{< relref "/" >}}?Mind=true)
-
-Backlinks: 

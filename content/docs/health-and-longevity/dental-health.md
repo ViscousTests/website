@@ -12,5 +12,3 @@ Stim-U-Dents seem to be effective at reducing gum bleeding/imflammation: https:/
 
 
 Categories: [Health And Longevity]({{< relref "/" >}}?Health-And-Longevity=true)
-
-Backlinks: 

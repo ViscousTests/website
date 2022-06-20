@@ -32,5 +32,3 @@ The code can be found at
 
 
 Categories: [Datavis]({{< relref "/" >}}?Datavis=true)
-
-Backlinks: 

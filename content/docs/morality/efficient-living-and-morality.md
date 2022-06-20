@@ -138,5 +138,3 @@ times a basic income requirement on experiences commonly :(.
 
 
 Categories: [Morality]({{< relref "/" >}}?Morality=true)
-
-Backlinks: 

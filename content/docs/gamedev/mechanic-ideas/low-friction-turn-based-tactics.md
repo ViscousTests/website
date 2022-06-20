@@ -67,5 +67,3 @@ I find very tedious (see the turn-based modes for Pathfinder: Kingmaker and Pill
 Categories: []({{< relref "/" >}}?=true),
 [Gamedev]({{< relref "/" >}}?Gamedev=true),
 [Mechanic Ideas]({{< relref "/" >}}?Mechanic-Ideas=true)
-
-Backlinks: 

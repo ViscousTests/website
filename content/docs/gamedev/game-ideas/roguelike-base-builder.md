@@ -68,5 +68,3 @@ artificially extend the game and make it more grindy.
 Categories: []({{< relref "/" >}}?=true),
 [Game Ideas]({{< relref "/" >}}?Game-Ideas=true),
 [Gamedev]({{< relref "/" >}}?Gamedev=true)
-
-Backlinks: 

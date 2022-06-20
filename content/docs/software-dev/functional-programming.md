@@ -28,5 +28,3 @@ would be in Python.
 
 
 Categories: [Software Dev]({{< relref "/" >}}?Software-Dev=true)
-
-Backlinks: 

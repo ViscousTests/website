@@ -15,5 +15,3 @@ I really want to deeply understand if possible.
 
 
 Categories: [Understanding The World]({{< relref "/" >}}?Understanding-The-World=true)
-
-Backlinks: 

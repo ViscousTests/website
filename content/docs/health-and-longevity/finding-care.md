@@ -15,5 +15,3 @@ to them): https://freakonomics.com/podcast/are-more-expensive-hospitals-better/
 
 
 Categories: [Health And Longevity]({{< relref "/" >}}?Health-And-Longevity=true)
-
-Backlinks: 

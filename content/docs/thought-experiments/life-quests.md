@@ -18,5 +18,3 @@ challenges under time pressure. Some examples of this would include:
 
 
 Categories: [Thought Experiments]({{< relref "/" >}}?Thought-Experiments=true)
-
-Backlinks: 

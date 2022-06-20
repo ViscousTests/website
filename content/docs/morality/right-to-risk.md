@@ -42,5 +42,3 @@ use :).
 
 
 Categories: [Morality]({{< relref "/" >}}?Morality=true)
-
-Backlinks: 

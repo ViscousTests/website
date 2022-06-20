@@ -14,5 +14,3 @@ Categories: [Climbing]({{< relref "/" >}}?Climbing=true),
 [Experiences]({{< relref "/" >}}?Experiences=true),
 [Social]({{< relref "/" >}}?Social=true),
 [⭐top10]({{< relref "/" >}}?⭐top10=true)
-
-Backlinks: 

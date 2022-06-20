@@ -20,5 +20,3 @@ spreadsheet, please comment on it to let me know.**
 
 
 Categories: [Investing And Finances]({{< relref "/" >}}?Investing-And-Finances=true)
-
-Backlinks: 

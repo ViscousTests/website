@@ -19,5 +19,3 @@ the context of MMORPGs: https://www.youtube.com/watch?v=WOqTjL4x7FA
 
 
 Categories: [Gamedev]({{< relref "/" >}}?Gamedev=true)
-
-Backlinks: 

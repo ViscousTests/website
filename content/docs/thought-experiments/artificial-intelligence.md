@@ -67,5 +67,3 @@ specific direction, or how to reward it for making "good" changes).
 
 
 Categories: [Thought Experiments]({{< relref "/" >}}?Thought-Experiments=true)
-
-Backlinks: 

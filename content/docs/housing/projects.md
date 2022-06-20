@@ -20,5 +20,3 @@
 
 
 Categories: [Housing]({{< relref "/" >}}?Housing=true)
-
-Backlinks: 

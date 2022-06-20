@@ -23,5 +23,3 @@ start or other mischeif they cause is mitigated properly by your design.
 Categories: []({{< relref "/" >}}?=true),
 [Game Ideas]({{< relref "/" >}}?Game-Ideas=true),
 [Gamedev]({{< relref "/" >}}?Gamedev=true)
-
-Backlinks: 

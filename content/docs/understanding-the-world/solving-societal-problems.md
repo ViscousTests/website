@@ -186,5 +186,3 @@ to cite.  So (as always) I might be totally wrong :).
 
 
 Categories: [Understanding The World]({{< relref "/" >}}?Understanding-The-World=true)
-
-Backlinks: 

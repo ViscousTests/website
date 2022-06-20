@@ -15,5 +15,3 @@ A list of great explanations for things I've stumbled across.
 
 
 Categories: [Understanding The World]({{< relref "/" >}}?Understanding-The-World=true)
-
-Backlinks: 

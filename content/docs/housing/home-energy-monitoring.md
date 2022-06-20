@@ -29,5 +29,3 @@ effects power consumption.
 
 
 Categories: [Housing]({{< relref "/" >}}?Housing=true)
-
-Backlinks: 

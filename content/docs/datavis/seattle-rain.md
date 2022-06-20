@@ -57,5 +57,3 @@ something, so I ran with more data (2000-2021)...
 
 
 Categories: [Datavis]({{< relref "/" >}}?Datavis=true)
-
-Backlinks: 

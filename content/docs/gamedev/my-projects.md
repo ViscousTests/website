@@ -40,5 +40,3 @@ be a fusion of these genres.
 
 
 Categories: [Gamedev]({{< relref "/" >}}?Gamedev=true)
-
-Backlinks: 

@@ -19,5 +19,3 @@ them when I'm tired and just want to eat something.
 
 
 Categories: [Mind]({{< relref "/" >}}?Mind=true)
-
-Backlinks: 

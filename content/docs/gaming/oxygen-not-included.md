@@ -22,5 +22,3 @@ Dreko farm for plastic: https://forums.kleientertainment.com/forums/topic/95124-
 
 
 Categories: [Gaming]({{< relref "/" >}}?Gaming=true)
-
-Backlinks: 

@@ -24,5 +24,3 @@ just run from too-high-level fights instead of trying to puzzle them out).
 
 
 Categories: [Gaming]({{< relref "/" >}}?Gaming=true)
-
-Backlinks: 

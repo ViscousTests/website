@@ -158,5 +158,3 @@ and not dictated by your environment.
 
 
 Categories: [Mind]({{< relref "/" >}}?Mind=true)
-
-Backlinks: 

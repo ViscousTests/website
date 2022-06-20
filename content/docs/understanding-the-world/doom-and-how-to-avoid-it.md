@@ -61,5 +61,3 @@ wealth redistribution system should eliminate this wasted time.
 
 
 Categories: [Understanding The World]({{< relref "/" >}}?Understanding-The-World=true)
-
-Backlinks: 

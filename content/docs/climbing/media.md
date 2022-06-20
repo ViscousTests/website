@@ -23,5 +23,3 @@ for details
 
 
 Categories: [Climbing]({{< relref "/" >}}?Climbing=true)
-
-Backlinks: 

@@ -8,5 +8,3 @@ Categories: [Experiences]({{< relref "/" >}}?Experiences=true),
 [Game]({{< relref "/" >}}?Game=true),
 [Puzzle]({{< relref "/" >}}?Puzzle=true),
 [Social]({{< relref "/" >}}?Social=true)
-
-Backlinks: 

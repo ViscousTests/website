@@ -7,5 +7,3 @@ Feelings:
 Categories: [Experiences]({{< relref "/" >}}?Experiences=true),
 [Game]({{< relref "/" >}}?Game=true),
 [Social]({{< relref "/" >}}?Social=true)
-
-Backlinks: 

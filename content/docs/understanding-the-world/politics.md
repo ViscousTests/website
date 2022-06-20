@@ -34,5 +34,3 @@ the mind's eye.
 
 
 Categories: [Understanding The World]({{< relref "/" >}}?Understanding-The-World=true)
-
-Backlinks: 

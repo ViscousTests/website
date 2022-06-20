@@ -52,5 +52,3 @@ Here is a complete album: https://photos.app.goo.gl/kLGvWTqGBEjh2Dzv7
 Categories: []({{< relref "/" >}}?=true),
 [Climbing]({{< relref "/" >}}?Climbing=true),
 [Event Reports]({{< relref "/" >}}?Event-Reports=true)
-
-Backlinks: 

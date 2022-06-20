@@ -35,5 +35,3 @@ look promising to me:
 
 
 Categories: [Investing And Finances]({{< relref "/" >}}?Investing-And-Finances=true)
-
-Backlinks: 

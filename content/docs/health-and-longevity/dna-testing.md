@@ -25,5 +25,3 @@ I analyzed my AncestryDNA data with several services:
 
 
 Categories: [Health And Longevity]({{< relref "/" >}}?Health-And-Longevity=true)
-
-Backlinks: 

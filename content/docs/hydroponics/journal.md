@@ -36,5 +36,3 @@ Three more bins have sprouted; I filled them with water today.
 
 
 Categories: [Hydroponics]({{< relref "/" >}}?Hydroponics=true)
-
-Backlinks: 

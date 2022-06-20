@@ -45,5 +45,3 @@ scramble](/docs/climbing/event-reports/2020-8-10-lake-erie-pics/approach-scrambl
 Categories: []({{< relref "/" >}}?=true),
 [Climbing]({{< relref "/" >}}?Climbing=true),
 [Event Reports]({{< relref "/" >}}?Event-Reports=true)
-
-Backlinks: 

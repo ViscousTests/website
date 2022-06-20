@@ -72,5 +72,3 @@ of fixed size?
 
 
 Categories: [Thought Experiments]({{< relref "/" >}}?Thought-Experiments=true)
-
-Backlinks: 

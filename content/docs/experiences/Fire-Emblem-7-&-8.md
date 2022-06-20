@@ -10,5 +10,3 @@ Categories: [Experiences]({{< relref "/" >}}?Experiences=true),
 [Story]({{< relref "/" >}}?Story=true),
 [Turn Based]({{< relref "/" >}}?Turn-Based=true),
 [⭐top10]({{< relref "/" >}}?⭐top10=true)
-
-Backlinks: 

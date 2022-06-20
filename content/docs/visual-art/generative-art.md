@@ -51,5 +51,3 @@ Add music/sound to BeesAndBombs-type visualizations like
 
 
 Categories: [Visual Art]({{< relref "/" >}}?Visual-Art=true)
-
-Backlinks: 

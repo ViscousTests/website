@@ -7,5 +7,3 @@ Feelings:
   - [Skill clicking into place]({{< relref "/docs/feelings.md" >}}#skill-clicking-into-place)
 
 Categories: [Experiences]({{< relref "/" >}}?Experiences=true)
-
-Backlinks: 

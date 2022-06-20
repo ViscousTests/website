@@ -60,5 +60,3 @@ possibility space has this person explored?".
 
 
 Categories: [Understanding The World]({{< relref "/" >}}?Understanding-The-World=true)
-
-Backlinks: 

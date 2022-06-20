@@ -18,5 +18,3 @@ quality (and/or challenge yourself).
 
 
 Categories: [Software Dev]({{< relref "/" >}}?Software-Dev=true)
-
-Backlinks: 
