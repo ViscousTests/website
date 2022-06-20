@@ -265,11 +265,13 @@ Categories: [Climbing]({{< relref \"/\" >}}?Climbing=true),
 (defn update-backlinks
   [md backlinks]
   (let [[backlinkless-text _] (extract-paragraph md "Backlinks:")]
-    (str backlinkless-text
-         "\n\nBacklinks: "
-         (apply str
-                (for [path backlinks]
-                  (str (file-to-md-link path) ", \n"))))))
+    (if (= 0 (count backlinks))
+      backlinkless-text
+      (str backlinkless-text
+           "\n\nBacklinks: "
+           (apply str
+                  (for [path backlinks]
+                    (str (file-to-md-link path) ", \n")))))))
 
 (defn get-file-to-backlinks
   [all-files]

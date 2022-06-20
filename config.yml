@@ -10,7 +10,7 @@ disableKinds: ["taxonomy", "taxonomyTerm"]
 
 # Book configuration
 disablePathToLower: true
-# enableGitInfo: true
+enableGitInfo: true
 
 # Code highlight
 pygmentsStyle: monokailight
@@ -63,7 +63,7 @@ params:
   # Required if 'BookRepo' param is set.
   # Value used to construct a URL consisting of BookRepo/BookCommitPath/<commit-hash>
   # Github uses 'commit', Bitbucket uses 'commits'
-  BookCommitPath: commit
+  # BookCommitPath: commit
 
   # Enable "Edit this page" links for 'doc' page type.
   # Disabled by default. Uncomment to enable. Requires 'BookRepo' param.
@@ -73,4 +73,4 @@ params:
   # Configure the date format used on the pages
   # - In git information
   # - In blog posts
-  BookDateFormat: "Jan 2, 2006"
+  BookDateFormat: January 2, 2006
