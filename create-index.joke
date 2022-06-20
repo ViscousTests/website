@@ -431,6 +431,13 @@ Categories: [Climbing]({{< relref \"/\" >}}?Climbing=true),
                                     harry-potter-sorcerers-stone-words))))
          "% of Harry Potter and the Sorcerer's Stone")))
 
+(defn update-word-count
+  [filepath all-files]
+  (let [prefix "Whole site count: "
+        [countless-text _] (extract-paragraph (slurp filepath) prefix)]
+    (spit filepath 
+          (str countless-text "\n\n" prefix (word-count all-files)))))
+
 
 (def index-path "content/menu/index.md")
 (defn main []
@@ -441,8 +448,8 @@ Categories: [Climbing]({{< relref \"/\" >}}?Climbing=true),
           ; THIS EATS DEBUGGING PRINT STATEMENTS!!!
           (with-out-str (pprint (into [] all-files))))
     (spit "content/docs/all.md" (make-all-notes-page all-files))
-    ; TODO add this to the content/_index.md homepage
-    (prn (word-count all-files)))
+    (prn (word-count all-files))
+    (update-word-count "content/_index.md" all-files))
 
   (let [experiences-edn
         (read-string

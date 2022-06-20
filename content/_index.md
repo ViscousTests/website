@@ -22,3 +22,5 @@ https://critter.blog/2020/10/02/write-5x-more-but-write-5x-less/
 {{< /website_graph >}}
 
 Double click on nodes to go to the pages the represent!
+
+Whole site count: 45076 words, 59.0% of Harry Potter and the Sorcerer's Stone
