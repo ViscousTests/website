@@ -24,5 +24,8 @@
   - Complexity arises when systems are not changeable.  To make systems more
     changeable, increase their **usability** and reduce **coordination**
     between their pieces.
+- [The Grug Brained Developer](https://grugbrain.dev/)
+  - A good reality check on being practical when programming, and being honest
+    with oneself about how things are actually working.
 
 Categories: [Software Dev]({{< relref "/" >}}?Software-Dev=true)
