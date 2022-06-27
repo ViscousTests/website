@@ -24,6 +24,12 @@ standard analytics property.
 embed Google Photos in my pages so I don't have to host the images myself when
 it's less convenient to do so.
 
+## One Sentence Per Line
+
+Why: https://sive.rs/1s
+
+How: https://github.com/whonore/vim-sentencer
+
 ## Cool tips to check out for improvements!
 
   - Use https://markmap.js.org/ for tables of contents.
