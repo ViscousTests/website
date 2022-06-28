@@ -41,8 +41,6 @@ is usually true).**
  - [Option writing as income
    strategy](https://earlyretirementnow.com/2019/03/27/passive-income-through-option-writing-part-3/)
 
-Categories: [Investing And Finances]({{< relref "/" >}}?Investing-And-Finances=true)
-
 
 ## The "Barbell" Strategy
 
@@ -51,3 +49,5 @@ a very safe asset like treasury bills and 10% is in very risky investments like
 risky stock options or early stage startups.
 It would be cool to see how some concrete instances of this would perform on
 historical data (with some random way to pick the 10% to avoid hindsight bias).
+
+Categories: [Investing And Finances]({{< relref "/" >}}?Investing-And-Finances=true)

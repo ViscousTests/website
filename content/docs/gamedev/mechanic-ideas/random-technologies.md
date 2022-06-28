@@ -6,3 +6,6 @@ fire must be discovered before cooking), and then randomly select a tech to be d
 This would force the player to adapt to the consequences of what their people discover, and make the game more dynamic and replayable.
 
 Inspired in part by "Why Greatness Cannot be Planned" by Kenneth O. Stanley and Joel Lehman.
+
+Categories: [Gamedev]({{< relref "/" >}}?Gamedev=true),
+[Mechanic Ideas]({{< relref "/" >}}?Mechanic-Ideas=true)

@@ -24,4 +24,5 @@ Institutions (I assume) also have many quirks and patched edge cases that carry
 real, hard won value. Erasing all that may be more destructive that it seems in
 the mind's eye.
 
-Categories: [Understanding The World]({{< relref "/" >}}?Understanding-The-World=true)
+Categories: [Society]({{< relref "/" >}}?Society=true),
+[Understanding The World]({{< relref "/" >}}?Understanding-The-World=true)

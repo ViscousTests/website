@@ -3,7 +3,7 @@
 TODO finish this piece.
 
 Harnessing [creativity]({{< relref "/docs/mind/creativity.md" >}}) is the [key
-to improving society]({{< relref "/docs/understanding-the-world/utopia.md" >}}).
+to improving society]({{< relref "/docs/society/utopia.md" >}}).
 
 Because creativity is mostly about [remixing existing
 ideas](https://youtu.be/nJPERZDfyWc), then it makes sense to make sharing ideas
@@ -23,4 +23,4 @@ https://libgen.rs/
 Categories: [Understanding The World]({{< relref "/" >}}?Understanding-The-World=true)
 
 Backlinks: [Creativity]({{< relref "/docs/mind/creativity.md" >}}), 
-[Utopia]({{< relref "/docs/understanding-the-world/utopia.md" >}}), 
+[Utopia]({{< relref "/docs/society/utopia.md" >}}), 

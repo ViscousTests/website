@@ -7,7 +7,7 @@ a goal of mine.  Here are some roads I could pursue to do that.
 
 I currently believe that creative people are the solution to the current
 problems facing humanity, and all future problems as well.  See [_Utopia_]({{<
-relref "/docs/understanding-the-world/utopia.md" >}}) for more details. Given
+relref "/docs/society/utopia.md" >}}) for more details. Given
 this, a high leverage way to make a world a better place is to make it easier
 for people to do their thing.
 
@@ -77,4 +77,4 @@ Also an extreme humanitarian tragedy that dwarfs all others.
 
 Categories:
 
-Backlinks: [Utopia]({{< relref "/docs/understanding-the-world/utopia.md" >}}), 
+Backlinks: [Utopia]({{< relref "/docs/society/utopia.md" >}}), 
