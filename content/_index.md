@@ -14,8 +14,8 @@ keeping them as living documents as I learn. I partially see this as a [mind
 map](https://en.wikipedia.org/wiki/Mind_map) - see [Mind Mapping Concept]({{< relref
 "/docs/thought-experiments/mind-mapping-concept.md" >}}) for more details. 
 
-I also try to follow this advice:
-https://critter.blog/2020/10/02/write-5x-more-but-write-5x-less/
+I also try to follow this advice on my [Writing]({{< relref
+"/docs/lifestyle-optimizations/writing.md" >}}) page.
 
 {{< website_graph >}}
 {{% include "/all.edn" %}}
