@@ -1,6 +1,9 @@
-# Dvorak
+# Keyboard Layouts
+
+## Dvorak
 
  - Key frequency visualization: https://www.keybr.com/layouts
+ - Another: https://www.reddit.com/r/Colemak/comments/qslro8/10000_simple_wikipedia_sentences_heatmap_qwerty/
 
 ## Speed Testing
 
