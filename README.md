@@ -1,5 +1,10 @@
 # My Personal Website
 
+## Dependencies
+
+ - `sudo apt install hugo`
+ - https://github.com/candid82/joker/releases
+
 ## Updating
 
 To update projects hosted on the site:
