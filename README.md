@@ -2,6 +2,7 @@
 
 ## Dependencies
 
+ - `git submodule update --init --recursive`
  - `sudo apt install hugo`
  - https://github.com/candid82/joker/releases
 

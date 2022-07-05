@@ -66,15 +66,6 @@ The largest cause of sickness in the world today by far.
 
 Also an extreme humanitarian tragedy that dwarfs all others.
 
-
-
-
-
-
-
-
- 
-
 Categories:
 
 Backlinks: [Utopia]({{< relref "/docs/society/utopia.md" >}}), 

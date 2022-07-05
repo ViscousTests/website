@@ -13,6 +13,9 @@ I find this "finger-key ownership" scheme to be the most comfortable, at least w
 ![finger-key ownership](fingers.png)
 
 
+https://www.keybr.com/ is a great place to efficiently learn touch typing.
+
+
 ## Speed Testing
 
 https://monkeytype.com/ with tags is a good way to compare typing speed.
