@@ -42,7 +42,7 @@ at encouraging engagement with the world, especially new parts of it.
 ## Vision and Confidence
 
 Being "Determinant" as described by Peter Thiel in [You Are Not a
-Lottery](https://www.youtube.com/watch?v=iZM_JmZdqCw) may help with this.
+Lottery Ticket](https://www.youtube.com/watch?v=iZM_JmZdqCw) may help with this.
 
 ### Being Unreasonable
 

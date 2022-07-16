@@ -1,5 +1,10 @@
 # Investment Strategies
 
+## Context
+
+https://totalrealreturns.com/ gives a good visualization of returns and
+volatility for different investments.
+
 ## Stock options
 
  - [Excellent Reference](
