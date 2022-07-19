@@ -93,6 +93,13 @@ Try hooking up a continuous glucose (or other biomarker) monitor up to a
 vibration arm band (as discussed in the book "Livewired" by David Eagleman) to
 "feel" blood glucose concentration.
 
+### Hot Water Towel Rack
+
+Extend the hot water pipe that feeds a shower outside of the wall in a towel
+rack shape.
+This will let the water flowing through the pipe heat your towel so it's nice
+and warm when you go to dry off.
+
 
 ## Amusing
 
