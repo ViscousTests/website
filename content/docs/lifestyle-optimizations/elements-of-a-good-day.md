@@ -13,3 +13,5 @@ go (not fats like peanut butter).
 
 There's some really good insight at
 https://web.archive.org/web/20220711101916/https://nabeelqu.co/advice.
+
+Categories: [Lifestyle Optimizations]({{< relref "/" >}}?Lifestyle-Optimizations=true)

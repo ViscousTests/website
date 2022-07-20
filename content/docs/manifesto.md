@@ -201,7 +201,7 @@ TODO: fill this in (potentially from the "motivation" doc)
 
  
 
-Categories:
+Categories: [Me]({{< relref "/" >}}?Me=true)
 
 Backlinks: [Chronic Stress]({{< relref "/docs/health-and-longevity/chronic-stress.md" >}}), 
 [Circadian Rhythm]({{< relref "/docs/health-and-longevity/circadian-rhythm.md" >}}), 

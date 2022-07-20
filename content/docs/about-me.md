@@ -10,3 +10,5 @@
 ## Links
 
  - https://github.com/kovasap
+
+Categories: [Me]({{< relref "/" >}}?Me=true)
