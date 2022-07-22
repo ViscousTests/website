@@ -51,5 +51,4 @@ work to invalidate:
 People spend too much time on non-creative tasks.  Automation with a good
 wealth redistribution system should eliminate this wasted time.
 
-Categories: [Society]({{< relref "/" >}}?Society=true),
-[Understanding The World]({{< relref "/" >}}?Understanding-The-World=true)
+Categories: [Society]({{< relref "/" >}}?Society=true)

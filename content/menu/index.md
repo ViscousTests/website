@@ -2,5 +2,5 @@
 headless: true
 ---
 {{< index_menu >}}
-{{% include "/all.edn" %}}
+{{% include "/content/docs/all.edn" %}}
 {{< /index_menu >}}

@@ -160,8 +160,7 @@ Deutsch.
 
 See also [thoughts on creativity]({{< relref "/docs/mind/creativity.md" >}}).
 
-Categories: [Society]({{< relref "/" >}}?Society=true),
-[Understanding The World]({{< relref "/" >}}?Understanding-The-World=true)
+Categories: [Society]({{< relref "/" >}}?Society=true)
 
 Backlinks: [Potential Life Missions]({{< relref "/docs/potential-life-missions.md" >}}), 
 [Creativity]({{< relref "/docs/mind/creativity.md" >}}), 

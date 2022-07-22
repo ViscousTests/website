@@ -18,9 +18,9 @@ I also try to follow this advice on my [Writing]({{< relref
 "/docs/lifestyle-optimizations/writing.md" >}}) page.
 
 {{< website_graph >}}
-{{% include "/all.edn" %}}
+{{% include "/content/docs/all.edn" %}}
 {{< /website_graph >}}
 
 Double click on nodes to go to the pages the represent!
 
-Whole site count: 47396 words, 62.0% of Harry Potter and the Sorcerer's Stone
+Whole site count: 47381 words, 62.0% of Harry Potter and the Sorcerer's Stone

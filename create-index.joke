@@ -444,7 +444,7 @@ Categories: [Climbing]({{< relref \"/\" >}}?Climbing=true),
   (let [all-files (get-all-files "content/docs")]
     ; (spit index-path (h/html (make-dir-contents "content/docs")))
     ; (spit "content/menu/index.edn" (get-file-tree "content/docs"))
-    (spit "static/all.edn" 
+    (spit "content/docs/all.edn" 
           ; THIS EATS DEBUGGING PRINT STATEMENTS!!!
           (with-out-str (pprint (into [] all-files))))
     (spit "content/docs/all.md" (make-all-notes-page all-files))
