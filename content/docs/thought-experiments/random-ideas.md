@@ -115,6 +115,13 @@ freeze](https://pubs.acs.org/doi/10.1021/acs.macromol.8b00239) (or get cold)
 when mixed in a laundry machine, surprising whoever goes to transfer their
 clothes!
 
+### Reverse Car Wash
+
+Instead of (or in addition to) spinning the bristles in a car wash, spin the
+car instead!
+More specifically, move the car around quickly like an amusement park ride so 
+that it rubs against the bristles.
+
 
 ## Data Exploration
 
