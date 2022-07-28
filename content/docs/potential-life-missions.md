@@ -50,7 +50,7 @@ problem at hand.
 Therefore, if we made school either much shorter, or gave students real
 problems to work on in a low-risk environment, this may lead to good outcomes.
 
-### Optimism
+### [Optimism]({{< relref "/docs/mind/optimism.md" >}})
 
 I currently believe that optimism encourages action.  Therefore, fostering
 optimism is a good way to empower people to try to solve big problems.

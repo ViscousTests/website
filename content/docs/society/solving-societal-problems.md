@@ -157,6 +157,9 @@ policymakers/inventors with the proceeds. This will probably have a bigger
 impact than dabbling in invention/policymaking, and certainly will have a
 bigger impact than just changing your own behavior.
 
+Regardless, being a [creative optimist (as opposed to a destructive
+pessimist)]({{< relref "/docs/mind/optimism.md" >}}) is important.
+
 ### Hypocrisy
 
 If you assume that "grassroots" individual change has little to no impact on
