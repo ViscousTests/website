@@ -3,10 +3,6 @@
 - [Getting things done by Johnathan Blow](https://www.youtube.com/watch?v=vCzrKjbXZQY)
   - Depth first approach to problem solving can be bad because you end up going
     in the wrong direction (which you would have avoided going breath-first)
-- [Simple made Easy by Rich Hickey](https://www.infoq.com/presentations/Simple-Made-Easy/)
-  - Complex = entangled = difficult to reason about
-  - To make systems more understandable, need to reduce them to small,
-    **independant** pieces (like pure functions with no side effects)
 - [Hammock Driven Development by Rich Hickey](https://www.youtube.com/watch?v=f84n5oFoZBc)
   - Stepping back from a problem and doing other things or sleeping allows
     unconscious parts of your mind draw connections that you otherwise wouldn't
@@ -19,11 +15,6 @@
 - [Things You Should Never Do by Joel Spolsky](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/)
   - Rewriting code is tempting, but can destroy solutions to many
     micro-problems that are hard to see from the top level.
-- [The Origin of Complexity by Joakim
-  Tengstrand](https://itnext.io/the-origin-of-complexity-8ecb39130fc)
-  - Complexity arises when systems are not changeable.  To make systems more
-    changeable, increase their **usability** and reduce **coordination**
-    between their pieces.
 - [The Grug Brained Developer](https://grugbrain.dev/)
   - A good reality check on being practical when programming, and being honest
     with oneself about how things are actually working.
