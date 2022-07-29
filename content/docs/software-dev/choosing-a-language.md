@@ -15,4 +15,7 @@ anything is dramatically reduced.  One good example of this is GDScript (a
 less-featureful Python), which is built into the Godot Game Engine.  Another
 example is Javascript, which has tons and tons of libraries.
 
+This is a cool way to directly compare the look and feel of different languages:
+http://www.rosettacode.org/wiki/Rosetta_Code.
+
 Categories: [Software Dev]({{< relref "/" >}}?Software-Dev=true)
