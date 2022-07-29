@@ -24,3 +24,8 @@ Various political revolutions come to mind.
 1. It's socially infectious - others can be convinced to take up the same mindset
 easily.
 It is temping to blame the world when things go wrong after all.
+
+Categories: [Mind]({{< relref "/" >}}?Mind=true)
+
+Backlinks: [Potential Life Missions]({{< relref "/docs/potential-life-missions.md" >}}), 
+[Solving Societal Problems]({{< relref "/docs/society/solving-societal-problems.md" >}}), 
