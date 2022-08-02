@@ -6,6 +6,10 @@ It indirectly kills the vast majority of people, and will most likely kill you.
 It kills by slowly disabling the body and the mind over many years, leading to
 a massive amount of unnecessary physical and emotional suffering.
 
+People die with a lot of valuable experience/training/education.
+How would the world be different if people who faught in the civil war we're still
+alive?  Or people from the feudal age?
+
 ## Defeating Aging
 
 The human body, like the global economy, is a complex system of many moving
