@@ -68,4 +68,5 @@ Also an extreme humanitarian tragedy that dwarfs all others.
 
 Categories:
 
-Backlinks: [Utopia]({{< relref "/docs/society/utopia.md" >}}), 
+Backlinks: [Optimism]({{< relref "/docs/mind/optimism.md" >}}), 
+[Utopia]({{< relref "/docs/society/utopia.md" >}}), 

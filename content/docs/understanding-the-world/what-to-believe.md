@@ -167,6 +167,9 @@ research directions that do not fit into the beliefs of the accomplished
 scientists do not get funding/attention.  It would be nice if this wasn't as
 true, but at the least there is still advancement \*shrug\*.
 
+See also the ["Self Deception" section of _Perspective_]({{< relref
+"/docs/mind/perspective.md" >}}#Self-Deception).
+
 ### Reasons People Share Ideas
 
 Thinking about why an idea is being shared might make your decision of whether
@@ -190,6 +193,13 @@ listening to e.g. an advocate you can just ignore everything they are saying.
    hopes that others will find the model useful, and partially in the hopes
    that others will improve or soundly reject the model.
     - "Why Greatness Cannot be Planned" by Kenneth O. Stanley and Joel Lehman
+
+### "Experts"
+
+Some fields, like chess, can legitimately have experts - people who deeply
+understand the problem space and make predictions about it very accurately.
+Other fields are less amenable to this - see [_Complex Systems_]({{< relref
+"/docs/understanding-the-world/working-with-complex-systems.md" >}}).
 
 ### Belief Matrix
 

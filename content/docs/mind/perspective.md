@@ -12,7 +12,7 @@ given the same inputs there are many many very valid perspectives to take from
 them.
 
 
-## Your mind makes it real
+## Your Mind Makes It Real
 
 Your perspective directly shapes your behavior and **is** your worldview.
 This means it also shapes your reactions - even involuntary reactions - or even
@@ -45,7 +45,7 @@ or it becomes a perspective that you have.
 Treating these problems in that way can help reduce the stress associated with
 trying to learn them and maybe help hasten the learning process.
 
-## Self deception 
+## Self Deception 
 
 Because there are many valid perspectives given the same set of sensory inputs
 if you choose to even ignore some of those inputs or twist things it's very easy
