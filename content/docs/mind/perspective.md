@@ -90,3 +90,5 @@ I wrote down these ideas after listening to Peter Attia's discussion on Esther
 Perel about like an hour or so into the podcast (1:20).
 
 Categories: [Mind]({{< relref "/" >}}?Mind=true)
+
+Backlinks: [What To Believe]({{< relref "/docs/understanding-the-world/what-to-believe.md" >}}), 

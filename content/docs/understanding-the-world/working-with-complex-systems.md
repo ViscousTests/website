@@ -12,3 +12,7 @@ That doesn't mean we should attempt this prediction, but IMO it does mean that
 putting a lot of faith in predictions is a mistake.
 It might be a better strategy to have different plans of action for different
 possible outcomes.
+
+Categories: [Understanding The World]({{< relref "/" >}}?Understanding-The-World=true)
+
+Backlinks: [What To Believe]({{< relref "/docs/understanding-the-world/what-to-believe.md" >}}), 
