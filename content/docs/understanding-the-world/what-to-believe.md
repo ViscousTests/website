@@ -38,10 +38,12 @@ story in informing our behavior.
 ## Story Plausability vs Accuracy
 
 Firstly, it is important to know that **plausability DOES NOT correlate well
-with accuracy**, especially in complex systems.  There are many, many more
-plausable statements about systems like our economy or the human body that
-there are statements which are actually true.  Some random examples (NOT MY
-OPINIONS):
+with accuracy**, especially in complex systems.
+This is true even when the plausible theory holds in controlled experiments done
+in a simplified version of the complex system (e.g. a model organism).
+There are many, many more plausable statements about systems like our economy or
+the human body that there are statements which are actually true.
+Some random examples (NOT MY OPINIONS):
 
 ### Health
 
@@ -75,7 +77,7 @@ therapies](https://twitter.com/kevinnbass/status/1184599630312427520).
 Note that some stories can be completely true, but still not have the effect
 they imply.  For instance, certain foods contain toxins that kill and/or
 mutate our cells.  But this does not mean that we shouldn't eat those foods
-(perhaps every foods falls into this category?).
+(perhaps every food falls into this category?).
 
 For each of the above statements/stories, there are groups of people who would
 find them plausible.  Since some directly contradict each other, how are we to
