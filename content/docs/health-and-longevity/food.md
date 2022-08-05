@@ -335,6 +335,11 @@ https://www.healthyalyona.com/nutrition/plant-based-protein-lowest-calories/
 
 ## Specific Food Notes
 
+### Sodium
+
+Too much bad.  See [this Kevin Bass video](https://www.youtube.com/watch?v=UPRRRQdLUlk) for a
+review of studies that show it's beneficial to use part potassium chloride in your salt source.
+
 ### Processed Meat
 
 [Carcinogenic according to the
