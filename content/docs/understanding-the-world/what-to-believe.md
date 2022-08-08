@@ -312,3 +312,5 @@ Categories: [Understanding The World]({{< relref "/" >}}?Understanding-The-World
 Backlinks: [Manifesto]({{< relref "/docs/manifesto.md" >}}), 
 [Aging Science]({{< relref "/docs/health-and-longevity/aging-science.md" >}}), 
 [Sens]({{< relref "/docs/health-and-longevity/sens.md" >}}), 
+[Perspective]({{< relref "/docs/mind/perspective.md" >}}), 
+[Working With Complex Systems]({{< relref "/docs/understanding-the-world/working-with-complex-systems.md" >}}), 

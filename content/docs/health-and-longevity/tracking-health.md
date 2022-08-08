@@ -25,44 +25,7 @@ Tracking them is useful to correlate them with outputs.
 
 ### Food
 
-#### Methods
-
- - Weighing food, logging with [cronometer](https://cronometer.com/).
-   - Upsides: You get lots of data about even very specific micronutrients,
-     helping spot difficiencies.
-   - Downsides: Difficult but doable, especially with food you don't prepare yourself.
-   - Tip: If using the free version https://pi-hole.net/ will help make the ad
-     experience less painful.
- - Taking pictures of food, using [bitesnap](https://getbitesnap.com/)
-   - Upsides: Easy to do
-   - Downsides: Not super accurate for quantities
- - Taking pictures of food, using [Momentodb](https://mementodatabase.com/)
-   - Upsides: Very easy to do
-   - Downsides: No data, have to manually refer back to each image.
-
-Tracking food quantity without a scale is pretty tricky.  One common approach
-is to use parts of your hand to measure, but different people's hands are
-different sizes. I measured my hand size by dipping it in a blender full of
-water:
-
-Without Fist | With Fist
------------- | --------------
-![blender-without-fist](/docs/health-and-longevity/blender-without-fist.jpg) | ![fist-in-blender](/docs/health-and-longevity/fist-in-blender.jpg)
-
-For me this looks like a delta from ~630mL -> ~1100mL, or a total displacement
-of ~470mL, or **~2 cups**!
-
-Some other estimates to use:
-
- - A teaspoon is about the size of the tip of your finger
- - A tablespoon is about the size of an ice cube
- - 1/4 cup is about the size of a large egg
- - 1/2 cup is about the size of a tennis ball
- - A full cup is about the size of a baseball, an apple or a (normal sized) fist
-
-https://100-grams.blogspot.com/ gives a good view into what 100g of various
-foods looks like, which is useful for building intuition for non-scale-based
-tracking (e.g. Bitesnap).
+See ["Tracking Food"]({{< relref "/docs/health-and-longevity/tracking-food.md" >}})
 
 ### Exercise
 
