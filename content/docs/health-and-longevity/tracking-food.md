@@ -27,6 +27,8 @@ easier copying) are locked as well.
 
 **Data Export and Integrations:** Meh.
 Need to sign into their desktop webpage to manually download a csv file.
+Alternatively, https://github.com/jrmycanady/cronometer-export/pull/2 lets you
+create a script to do this automatically!
 
 
 ### OmNom Notes
