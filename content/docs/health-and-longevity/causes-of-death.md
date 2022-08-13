@@ -13,6 +13,6 @@ highest risk of death:
 
 [![activity-risk-dalys](/docs/health-and-longevity/activity-risk-dalys.png)](http://ihmeuw.org/5o5h)
 
-Another lens to look at this from is using a [micromort](https://micromorts.rip/).
+Another lens to look at this from is using a [micromort](https://micromorts.rip/).  Related: a [microCOVID](https://www.microcovid.org/about) measures risk of getting COVID. 
 
 Categories: [Health And Longevity]({{< relref "/" >}}?Health-And-Longevity=true)
