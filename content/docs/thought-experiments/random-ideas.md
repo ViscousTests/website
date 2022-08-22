@@ -162,6 +162,14 @@ Put refried beans on pizza.
 Companies should sell the flavoring blends that flavor potato chips.
 
 
+## Cultural
+
+### Day of Music
+
+A holiday where everyone in their own homes/neighborhoods plays along to a
+single song in whatever way they can.
+
+
 ## Artistic
 
 ### Monthly Clock Garden

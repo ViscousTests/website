@@ -23,6 +23,11 @@ peanut butter with soy sauce, ginger, garlic, and optionally lime juice.
 Chop cabbage, add water and cook with brown rice, finish with walnuts and
 mayonnaise. 
 
+## Potatoes
+
+Poke some holes in them, and just throw them into the microwave whole for 5-8
+minutes depending on size.
+
 ## Oats
 
  - 1 cup rolled oats
@@ -90,6 +95,11 @@ I have an instant pot and use it to cook grains and beans more quickly.
 
 Ingredient      | Time (mins)
 ---------       | -----------
+Chickpeas       | 28
+
+Use 1 tbsp salt to 1 lb dry beans.
+Soak dry beans overnight if possible.
+If not, soak as long as you can and add 5-10 mins to the cooking time.
 
 ## Popcorn
 
