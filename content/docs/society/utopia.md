@@ -88,12 +88,21 @@ those thoughts as opposed to grinding away at Sisyphean maintenance tasks.
 
 How can we do this?
 
-### Basic Need Automation
+### Basic Need Satisfaction
 
 We need to ensure that every person on earth has their basic (food, shelter,
 medicine, mental health) needs met through automation. Worrying about basic
 needs is probably the biggest distraction away from creative thought that
 exists today.
+
+Worrying about basic needs and/or accumulation of wealth for a rainy day can
+also lead to perverse incentives, where someone will work on something with
+money as their only object.
+Ideally, our economic system would make the most useful work the most lucrative
+(and this problem wouldn't exist), but unfortunately this isn't always the case.
+This leads to the all too common situation where people choose not to do the
+most helpful/important thing they could be because another option is more
+lucrative.
 
 A simple solution to this would be to supply everyone with a nanofabricator
 that can produce food, tools, and everything else required to survive.
@@ -101,8 +110,13 @@ Unfortunately, currently this solution is still science fiction, and we instead
 must rely on large shared systems that utilize economies of scale to provide
 needs at a minimum cost. Distributing resources in these systems is hard, and
 our growing wealth inequality today is evidence that we are doing a poor job.
-Solving this problem via some kind of universal basic income seems at least
-worth trying.
+
+So far, some kind of universal basic income seems to me to be the best short
+term solution to this problem.
+This would provide a "floor" that people wouldn't be able to fall beneath.
+It would also allow markets to keep service production efficient, which wouldn't
+necessarily be the case if the government simply provided the needs directly.
+
 
 ### Freedom of Information and Education
 
@@ -115,6 +129,12 @@ write down novel ideas should have their needs covered by the automation
 described above, and therefore will not need to worry about how to monetize
 their work (which wastes everyone's time and energy, and cuts people out of the
 creative process).
+
+Specifically, I think we should severely limit copyright laws and allow people
+to copy and access all digital content freely, including source code, movies,
+books, school courses, "trade secrets", etc.
+Direct compensation for this work would come from UBI and possibly grants if UBI
+doesn't cover all expenses.
 
 
 ### Freedom of Direction
