@@ -24,8 +24,10 @@ standard analytics property.
 embed Google Photos in my pages so I don't have to host the images myself when
 it's less convenient to do so.
 
-## Cool tips to check out for improvements!
+## Inspiration
 
-  - Use https://markmap.js.org/ for tables of contents.
+  - TODO use https://markmap.js.org/ for tables of contents.
+  - https://wiki.c2.com/, especially the hover-links-to-see-page feature, which
+    I added to this website.
 
 Categories: [Lifestyle Optimizations]({{< relref "/" >}}?Lifestyle-Optimizations=true)
