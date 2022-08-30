@@ -7,22 +7,68 @@
 {{ end }}
 
 <script>
-    // Open the details elements in the index for the current page.
-    window.onload = function() {  // Execute this after the page loads.
-        var cur_page = window.location.pathname;
-        console.log(cur_page);
-        var path_elements = cur_page.split('/').slice(2, -2);
-        path_elements.forEach(
-            element => {
-                console.log(element);
-                var page_element = document.getElementById(element);
-                if (page_element !== null) {
-                    page_element.open = true;
-                }
+// Open the details elements in the index for the current page.
+window.onload = function() {  // Execute this after the page loads.
+    var cur_page = window.location.pathname;
+    console.log(cur_page);
+    var path_elements = cur_page.split('/').slice(2, -2);
+    path_elements.forEach(
+        element => {
+            console.log(element);
+            var page_element = document.getElementById(element);
+            if (page_element !== null) {
+                page_element.open = true;
+            }
+        });
+    // Unfinished attempt to always have the current page highlighted in
+    // the sidebar.
+    // var page_name = cur_page.split('/').slice(-2, -1)[0];
+    // document.getElementById(page_name).classList.add("active");
+
+    // Hide the menu and TOC when embedding
+    const urlParams = new URLSearchParams(window.location.search);
+    if (urlParams.get('embed') == '1') {
+        ['book-menu', 'book-toc', 'book-header'].forEach(
+            cls => {
+                Array.from(document.getElementsByClassName(cls)).forEach(
+                    (element, index, array) => {
+                        element.style.display = "none";
+                });
             });
-        // Unfinished attempt to always have the current page highlighted in
-        // the sidebar.
-        // var page_name = cur_page.split('/').slice(-2, -1)[0];
-        // document.getElementById(page_name).classList.add("active");
     }
+    // Hover over links to get page inline.
+    // TODO make this faster, probably my making initial page load faster.
+    let iframes = {};
+    const getEmbeddedPage = (href) => {
+        if (href in iframes) {
+            return iframes[href];
+        } else {
+            const embedded_page = document.createElement("iframe");
+            document.body.appendChild(embedded_page);
+            embedded_page.src = href + "?embed=1";
+            embedded_page.style.position = "fixed";
+            embedded_page.style.display = "none";
+            embedded_page.style.width = "700px";
+            embedded_page.style.height = "1000px";
+            iframes[href] = embedded_page;
+            return embedded_page;
+        }
+    }
+    Array.from(document.getElementsByClassName('book-page').item(0).getElementsByTagName('a')).forEach(
+        (element, index, array) => {
+            if (element.href.includes('/docs/') &&
+                    !element.href.includes(window.location.pathname)){
+                element.onmouseover = function(e) {
+                    const embedded_page = getEmbeddedPage(element.href);
+                    embedded_page.style.left = e.clientX  + "px";
+                    embedded_page.style.top = e.clientY  + "px";
+                    embedded_page.style.display = "block";
+                };
+                element.onmouseout = function(e) {
+                    const embedded_page = getEmbeddedPage(element.href);
+                    embedded_page.style.display = "none";
+                };
+            }
+        });
+}
 </script>
