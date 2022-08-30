@@ -7,6 +7,21 @@
 {{ end }}
 
 <script>
+const urlParams = new URLSearchParams(window.location.search);
+
+// Need to also conditionally load usage in layouts/shortcodes/index_menu.html
+// This doesn't work right now. It would probably be better to just reduce the
+// page load time in general.
+// Only load website_helpers when we are not embedding the page.
+// if (urlParams.get('embed') != '1') {
+//     var head = document.getElementsByTagName('head')[0];
+//     var js = document.createElement("script");
+//     js.type = "text/javascript";
+//     js.src = "/js/website_helpers.js";
+//     head.appendChild(js);
+// }
+
+
 // Open the details elements in the index for the current page.
 window.onload = function() {  // Execute this after the page loads.
     var cur_page = window.location.pathname;
@@ -26,7 +41,6 @@ window.onload = function() {  // Execute this after the page loads.
     // document.getElementById(page_name).classList.add("active");
 
     // Hide the menu and TOC when embedding
-    const urlParams = new URLSearchParams(window.location.search);
     if (urlParams.get('embed') == '1') {
         ['book-menu', 'book-toc', 'book-header'].forEach(
             cls => {
