@@ -30,4 +30,10 @@ https://www.keybr.com/ is a great place to efficiently learn touch typing.
 
 https://monkeytype.com/ with tags is a good way to compare typing speed.
 
+
+## Inspiration and other projects
+
+ - A small keyboard with many layers:
+   https://news.ycombinator.com/item?id=32634511
+
 Categories: [Lifestyle Optimizations]({{< relref "/" >}}?Lifestyle-Optimizations=true)

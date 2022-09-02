@@ -17,11 +17,48 @@ alternate day fasting regimine](https://pubmed.ncbi.nlm.nih.gov/7117847/).
 ### Fasting Mimicking Diet - January 2020
 
 I started getting interested in fasting after reading [The Longevity Diet by
-Valter Longo](https://www.valterlongo.com/the-longevity-diet/).  Based on the
-information in the book, it seemed like fasting provided some easily attainable
-health benefits, if making it a habit wasn't too disruptive to my life.  My
-first experiment happened shortly after reading the book.  I attempted a
-DIY-Fasting Mimicking Diet (FMD) as described in the book for 5 days.
+Valter Longo](https://www.valterlongo.com/the-longevity-diet/).
+Based on the information in the book, it seemed like fasting provided some
+easily attainable health benefits, if making it a habit wasn't too disruptive to
+my life.
+In Longo's own words, the diet is:
+
+> **Day 1**
+> 
+> 1,100 calories
+> 
+>  - 500 calories from complex carbohydrates (vegetables such as broccoli, tomatoes, carrots, pumpkin, mushrooms, etc.)
+>  - 500 calories from healthy fats (nuts, olive oil)
+>  - 1 multivitamin and mineral supplement
+>  - 1 omega-3/omega-6 supplement
+>  - Sugarless tea (up to 3 to 4 cups per day)
+>  - 25 grams of plant-based protein, mainly from nuts
+>  - Unlimited water
+>
+> **Days 2–5**
+> 
+> 800 calories
+> 
+>  - 400 calories from complex carbohydrates (vegetables such as broccoli, tomatoes, carrots, pumpkin, mushrooms, etc.)
+>  - 400 calories from healthy fats (nuts, olive oil)
+>  - 1 multivitamin and mineral supplement
+>  - 1 omega-3/omega-6 supplement
+>  - Sugarless tea (up to 3 to 4 cups per day)
+>  - Unlimited water
+>
+> The above components can be divided between breakfast, lunch, and dinner, or they can be taken as two meals and a snack.
+> 
+> **Day 6**
+> 
+> Transition diet
+> 
+> For 24 hours following the end of the five-day FMD, patients should follow a
+> diet based on complex carbohydrates (vegetables, cereals, pasta, rice, bread,
+> fruit, etc.), and minimize the consumption of fish, meat, saturated fats,
+> pastries, cheeses, milk, etc.
+
+My first FMD experiment happened shortly after reading the book.
+I attempted a 5 day DIY-Fasting Mimicking Diet (FMD) as described above.
 
 I used [eatthismuch](https://www.eatthismuch.com/) to pre-plan my meals for the
 FMD.  I think it would have been much harder for me to adhere to the diet if I
