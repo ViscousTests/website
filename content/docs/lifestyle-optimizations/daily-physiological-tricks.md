@@ -12,3 +12,5 @@
    It's really easy for me to feel overfull when going for seconds 10 mins after eating.
  - If on a "snack train", eat wasabi to try to curb it.
  - Don't eat >1 cup of broccoli in a day, especially if eating a lot of food that day.
+
+Categories: [Lifestyle Optimizations]({{< relref "/" >}}?Lifestyle-Optimizations=true)

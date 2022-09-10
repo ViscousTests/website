@@ -10,6 +10,70 @@ volatility for different investments.
  - [Excellent Reference](
    http://www.scribd.com/doc/55945011/An-Introduction-to-Stock-Options-for-the-Tech-Entrepreneur-or-Startup-Employee)
 
+## Inflation Indexed Bonds
+
+In 2022, inflation was pretty high, as described by
+[Kiplinger.com](https://www.kiplinger.com/economic-forecasts/inflation):
+
+> In July’s price report, falling prices at the gas pump gave consumers a bit
+> of relief, as well as lowering the overall inflation rate to 8.5% from 9.1% in
+> June.
+> A few other price categories showed easing: Appliance prices are coming down,
+> along with sporting goods, men’s clothing, car rentals and hotel rates.
+> Airfares dropped because of lower fuel costs, and used-car prices edged down.
+> All of these were enough to bring down non-energy, non-food price increases to a
+> moderate level in July.
+
+This led to a very high rate of almost 10% for [Series I Savings
+Bonds](https://www.treasurydirect.gov/indiv/research/indepth/ibonds/res_ibonds_iratesandterms.htm#change).
+This is amazing for a bond and seems like a no-brainer buy.
+However, there are some caveats:
+
+1. The bond cannot be sold for 1 year.
+1. If sold before 5 years, you lose the last 3 months of interest.
+1. You must pay income tax on earnings when the bonds are sold.
+1. The rate is reindexed to inflation every 6 months, so this return will only
+   come as long as inflation is high.
+
+Kiplinger again:
+
+> Inflation is not done yet.
+> Prices continued to rise strongly for basics such as food, rent and new
+> vehicles.
+> There is some evidence that food prices may be moderating after a year’s worth
+> of large monthly increases.
+> But continuing large wage increases at many businesses are likely to keep upward
+> pressure on most prices for some time to come.
+> Expect price inflation at the end of the year to be around 8.0%, down a bit from
+> the peak of 9.1% in June, but still high.
+> Inflation will likely fall to around 3%-4% by the end of next year if the
+> economy slows, as expected.
+
+From the [OECD](https://data.oecd.org/price/inflation-forecast.htm):
+
+![forecast](/docs/investing-and-finances/inflation-forecast.png)
+
+So it looks like if I buy these bonds now I will probably get a year out of them
+before I will want to go back into the stock market.
+With income tax on earnings plus the 3 month interest payback, I'm likely
+looking at a return of 9.6% for 6 months, then 7% for 6 months, then 0% for 3
+months (because I lose the last 3 months), or 6.64% interest.
+After a ~35% tax (I expect to sell the rest of my investments only when my
+income and therefore tax rate is much lower), this ends up being **4.32%**.
+
+This is much better than the 0% rate I am getting on the $5-10k I keep in my
+bank account (I know, I live dangerously...), but at the cost of liquidity,
+especially for the first year.
+It's not really an emergency fund if you can't withdraw it.
+
+I'm not convinced that this rate will beat the stock market overall in the next
+year though.
+
+So if I'm not using the bonds as an emergency fund, it comes down to: do I think
+that the market will grow less than ~4.5% in the next year?
+For me the answer is no right now.
+
+
 ## The Value Factor
 
 Investment returns can theoretically be explained by different factors
