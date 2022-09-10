@@ -1,15 +1,5 @@
 # Investment Strategies
 
-## Context
-
-https://totalrealreturns.com/ gives a good visualization of returns and
-volatility for different investments.
-
-## Stock options
-
- - [Excellent Reference](
-   http://www.scribd.com/doc/55945011/An-Introduction-to-Stock-Options-for-the-Tech-Entrepreneur-or-Startup-Employee)
-
 ## Inflation Indexed Bonds
 
 In 2022, inflation was pretty high, as described by
@@ -72,6 +62,18 @@ year though.
 So if I'm not using the bonds as an emergency fund, it comes down to: do I think
 that the market will grow less than ~4.5% in the next year?
 For me the answer is no right now.
+
+
+## Context
+
+https://totalrealreturns.com/ gives a good visualization of returns and
+volatility for different investments.
+
+
+## Stock options
+
+ - [Excellent Reference](
+   http://www.scribd.com/doc/55945011/An-Introduction-to-Stock-Options-for-the-Tech-Entrepreneur-or-Startup-Employee)
 
 
 ## The Value Factor
