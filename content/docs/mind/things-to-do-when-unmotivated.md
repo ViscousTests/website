@@ -53,3 +53,4 @@ while. Some ideas:
 Categories: [Mind]({{< relref "/" >}}?Mind=true)
 
 Backlinks: [Daily Physiological Tricks]({{< relref "/docs/lifestyle-optimizations/daily-physiological-tricks.md" >}}), 
+[Motivation]({{< relref "/docs/mind/motivation.md" >}}), 
