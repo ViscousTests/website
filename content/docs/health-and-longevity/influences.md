@@ -4,15 +4,6 @@ These works have guided by thinking about how to maintain good health for as
 long as possible. They are roughly sorted by their level of influence on my
 thinking.
 
-## Kevin Bass
-
-Excellent science advocate that fights hard to avoid believing good stories
-that are not backed by evidence.  Some of his work that resonates most strongly
-with me includes:
-
- - [Good measured discussion of the Keto diet (on the Healthcare Unfiltered podcast)](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjg4NzExODg2OC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMTA3MzUxNDQ1MQ?ep=14).  Does a really good job here discussing keto movement context and how LDL cholesterol is treated by the movement.
- - [This tweet about how science in unnatural](https://twitter.com/kevinnbass/status/1409061791980793858).
-
 ## [The Longevity Diet by Valter Longo](https://www.valterlongo.com/daily-longevity-diet-for-adults/).
 
 Good examination of fasting, as well as an overview of different ways to think
@@ -44,6 +35,15 @@ healthy diet.
 
 Cool blog that does reviews of different longevity topics. I like their style,
 and their content is generally of good quality.
+
+## Kevin Bass
+
+Excellent science advocate that fights hard to avoid believing good stories
+that are not backed by evidence.  Some of his work that resonates most strongly
+with me includes:
+
+ - [Good measured discussion of the Keto diet (on the Healthcare Unfiltered podcast)](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjg4NzExODg2OC9zb3VuZHMucnNz/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMTA3MzUxNDQ1MQ?ep=14).  Does a really good job here discussing keto movement context and how LDL cholesterol is treated by the movement.
+ - [This tweet about how science in unnatural](https://twitter.com/kevinnbass/status/1409061791980793858).
 
 ## [Microbial Burden by Michael Lustgarten](https://michaellustgarten.com/2016/11/18/microbial-burden-a-major-cause-of-aging-and-age-related-disease/)
 
