@@ -16,6 +16,5 @@ color aura.
 
 [Mechanic Ideas]({{< relref "/" >}}?Mechanic-Ideas=true)
 
-Categories: []({{< relref "/" >}}?=true),
-[Gamedev]({{< relref "/" >}}?Gamedev=true),
+Categories: [Gamedev]({{< relref "/" >}}?Gamedev=true),
 [Mechanic Ideas]({{< relref "/" >}}?Mechanic-Ideas=true)

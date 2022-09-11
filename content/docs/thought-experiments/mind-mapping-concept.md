@@ -73,8 +73,7 @@ A subset of this is my [Experiences]({{< relref
 [Thought Experiments]({{< relref "/" >}}?Thought-Experiments=true)
 
 
-Categories: []({{< relref "/" >}}?=true),
-[...]({{< relref "/" >}}?...=true),
+Categories: [...]({{< relref "/" >}}?...=true),
 [Thought Experiments]({{< relref "/" >}}?Thought-Experiments=true)
 
 Backlinks: [Experiences]({{< relref "/docs/lifestyle-optimizations/experiences.md" >}}), 

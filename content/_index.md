@@ -17,10 +17,14 @@ map](https://en.wikipedia.org/wiki/Mind_map) - see [Mind Mapping Concept]({{< re
 I also try to follow this advice on my [Writing]({{< relref
 "/docs/lifestyle-optimizations/writing.md" >}}) page.
 
+{{< random_page >}}
+{{% include "/content/docs/all.edn" %}}
+{{< /random_page >}}
+
 {{< website_graph >}}
 {{% include "/content/docs/all.edn" %}}
 {{< /website_graph >}}
 
 Double click on nodes to go to the pages the represent!
 
-Whole site count: 49717 words, 65.0% of Harry Potter and the Sorcerer's Stone
+Whole site count: 49743 words, 65.0% of Harry Potter and the Sorcerer's Stone

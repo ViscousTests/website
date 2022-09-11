@@ -24,22 +24,6 @@ const urlParams = new URLSearchParams(window.location.search);
 
 // Open the details elements in the index for the current page.
 window.onload = function() {  // Execute this after the page loads.
-    var cur_page = window.location.pathname;
-    console.log(cur_page);
-    var path_elements = cur_page.split('/').slice(2, -2);
-    path_elements.forEach(
-        element => {
-            console.log(element);
-            var page_element = document.getElementById(element);
-            if (page_element !== null) {
-                page_element.open = true;
-            }
-        });
-    // Unfinished attempt to always have the current page highlighted in
-    // the sidebar.
-    // var page_name = cur_page.split('/').slice(-2, -1)[0];
-    // document.getElementById(page_name).classList.add("active");
-
     // Hide the menu and TOC when embedding
     if (urlParams.get('embed') == '1') {
         ['book-menu', 'book-toc', 'book-header'].forEach(

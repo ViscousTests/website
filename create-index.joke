@@ -99,17 +99,22 @@ hi
   "Finds all categories in the text and returns them alongside the categoryless
   text."
   [text]
-  (let [[categoryless-text categories-text]
-        (extract-paragraph text "Categories:")]
-    [(into #{} (for [category (-> categories-text
-                                (s/replace "Categories:" "")
-                                (s/trim)
-                                (s/split ","))
-                     :when (> (count category) 0)]
-                 (format-word
-                   (if-let [delinked (last (re-find #"\[(.*?)\]" category))]
-                     delinked
-                     category))))
+  (let [[categoryless-text categories-text] (extract-paragraph text
+                                                               "Categories:")]
+    [(into #{}
+           (for [category (-> categories-text
+                              (s/replace "Categories:" "")
+                              (s/trim)
+                              (s/split ","))
+                 :let     [cleaned-category (format-word
+                                              (if-let [delinked
+                                                         (last (re-find
+                                                                 #"\[(.*?)\]"
+                                                                 category))]
+                                                delinked
+                                                category))]
+                 :when    (not (= cleaned-category ""))]
+             cleaned-category))
      categoryless-text]))
 
 (assert=
