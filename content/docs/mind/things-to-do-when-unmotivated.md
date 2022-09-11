@@ -1,5 +1,8 @@
 # Things to do When Unmotivated
 
+See also my [deeper dive on the nature of motivation]({{< relref
+"/docs/mind/motivation.md" >}}).
+
 ## Background
 
 Usually I go through a couple periods of time every day where I don't really
@@ -48,3 +51,5 @@ while. Some ideas:
    - Con: Can be draining.
 
 Categories: [Mind]({{< relref "/" >}}?Mind=true)
+
+Backlinks: [Daily Physiological Tricks]({{< relref "/docs/lifestyle-optimizations/daily-physiological-tricks.md" >}}), 
