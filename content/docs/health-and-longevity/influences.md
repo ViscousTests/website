@@ -25,6 +25,12 @@ many other health advocates).
 
 See [this paper](https://www.nature.com/articles/s43587-020-00013-3) for a good
 summarized review of Longo's thoughts on fasting.
+[This overview](https://www.cell.com/cell/fulltext/S0092-8674(22)00398-1) gives
+an even broader look of Longo's nutrition philosophy.
+From that paper, I also found [this
+study](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1003889)
+which gives a super cool view into which types of dietary interventions are the
+most impactful in terms of life years gained/lost.
 
 ## [Michael Lustgarten's Diet](https://www.youtube.com/watch?v=jOis-MXCwCs&t=1s)
 
