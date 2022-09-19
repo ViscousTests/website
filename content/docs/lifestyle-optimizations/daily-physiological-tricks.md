@@ -14,6 +14,7 @@
  - If on a "snack train", eat wasabi to try to curb it.
  - Don't eat >1 cup of broccoli in a day, especially if eating a lot of food
    that day.
+ - Eat a small, easy to digest breakfast without protein rich foods.
 
 Categories: [Lifestyle Optimizations]({{< relref "/" >}}?Lifestyle-Optimizations=true)
 
