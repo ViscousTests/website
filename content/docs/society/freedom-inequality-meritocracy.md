@@ -43,3 +43,5 @@ The price of these services would be deducted from paychecks, but if people
 wanted to solve these problems themselves they could just opt out and get their
 money directly.
 There's probably a lot of problems with this idea that I haven't thought of.
+
+Categories: [Society]({{< relref "/" >}}?Society=true)

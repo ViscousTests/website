@@ -24,6 +24,10 @@ standard analytics property.
 embed Google Photos in my pages so I don't have to host the images myself when
 it's less convenient to do so.
 
+## Alternatives
+
+ - https://prose.sh/
+
 ## Inspiration
 
   - TODO use https://markmap.js.org/ for tables of contents.
