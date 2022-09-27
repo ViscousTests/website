@@ -15,6 +15,8 @@
  - Don't eat >1 cup of broccoli in a day, especially if eating a lot of food
    that day.
  - Eat a small, easy to digest breakfast without protein rich foods.
+ - Leaning back briefly when pooping can help push poop out.
+
 
 Categories: [Lifestyle Optimizations]({{< relref "/" >}}?Lifestyle-Optimizations=true)
 
