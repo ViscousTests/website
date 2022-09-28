@@ -23,12 +23,15 @@ The ideal task would be something that doesn't require focus, works towards
 something useful (e.g. a skill), and inspires motivation after doing it for a
 while. Some ideas:
 
+ - Write a narrative of what you have been doing towards a particular task to
+   clear up thinking about it.
  - Napping.
  - Going for a run or doing any kind of exercise.
  - Taking a shower
  - Not eating (being hungry), or getting colder in temperature.
- - Organizing stuff. E.g. going through old browser tabs or loading the
-   dishwasher.
+ - Organizing stuff.
+   E.g.
+   going through old browser tabs or loading the dishwasher.
    - Pro: Productive (work that would have to be done anyway).
    - Pro: Can inspire creativity if going through old things that you have
      memories of.
@@ -45,7 +48,8 @@ while. Some ideas:
    - Pro: Often inspires focus.
    - Con: Can actually be grating/more tiring sometimes.
    - Con: Sometimes leads to distractions like reading about the artist or
-     reading the lyrics. This depends highly on the song.
+     reading the lyrics.
+     This depends highly on the song.
  - Talking to people.
    - Con: People not always available.
    - Con: Can be draining.
