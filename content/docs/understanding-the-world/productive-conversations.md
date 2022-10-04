@@ -9,5 +9,7 @@
    Especially don't counter a point with something unrelated.
  - Make sure the objective of the conversation is crystal clear to all parties
    (state it explicitly).
+ - Ask people to explain how the thing that's being discussed works (objectively).
+   See https://freakonomics.com/podcast/how-to-change-your-mind/.
 
 Categories: [Understanding The World]({{< relref "/" >}}?Understanding-The-World=true)
