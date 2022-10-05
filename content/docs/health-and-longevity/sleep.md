@@ -105,6 +105,12 @@ issues. At the very least it make my pillow wet, which is annoying.
 
 I find that showering ~2 hours before sleeping makes these non-issues.
 
+### Snoring
+
+Not I problem I currently have, luckily.
+
+[Seems to correlate with increased adiposity.](https://pubmed.ncbi.nlm.nih.gov/11122588/)
+
 
 ## Interesting Trends
 
