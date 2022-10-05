@@ -13,3 +13,5 @@
    See https://freakonomics.com/podcast/how-to-change-your-mind/.
 
 Categories: [Understanding The World]({{< relref "/" >}}?Understanding-The-World=true)
+
+Backlinks: [Daily Physiological Tricks]({{< relref "/docs/lifestyle-optimizations/daily-physiological-tricks.md" >}}), 

@@ -35,3 +35,5 @@ Some skills, like "reasoning", "deduction", or "argument" seem like they should
 be proxies for intelligence.
 I think skills like this can be learned like many others, and are built by
 etching heuristics and patterns into your brain.
+
+Categories: [Mind]({{< relref "/" >}}?Mind=true)
