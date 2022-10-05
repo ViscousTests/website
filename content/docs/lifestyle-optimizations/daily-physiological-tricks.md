@@ -1,5 +1,7 @@
 # Daily Physiological Tricks
 
+## Mental
+
  - Do as much cleaning (e.g. dishwasher loading and emptying) as possible while
    cooking or right before eating.
    Potential hunger and being already moving around makes it much easier to do
@@ -7,6 +9,12 @@
  - Try some of [these ideas]({{< relref
    "/docs/mind/things-to-do-when-unmotivated.md" >}}) when feeling
    unfocused/unproductive/writer's blocked.
+ - When having a conversation with someone, try to use some of [these concepts]({{< 
+   relref "/docs/understanding-the-world/productive-conversations.md" >}})
+   to make the discussion more productive.
+   
+## Physical
+
  - Eat one plate of food (even a large one), then wait >2 hours before eating
    more.
    It's really easy for me to feel overfull when going for seconds 10 mins after
