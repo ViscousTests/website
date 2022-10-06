@@ -235,6 +235,17 @@ Conversely, if a task is seen as trivial to accomplish, I may not be motivated
 to start right away or, worse, I will feel very stressed if it ends up taking
 longer than expected.
 
+## Managing Excitement
+
+TODO maybe find a better place for this.
+
+One common pattern I fall into is getting really into one particular activity
+for a while, exploring it thoroughly, then getting tired of it and loosing
+motivation to explore further.
+In this situation, what can help is breaking the exploration off to keep the
+excitement going in the next session (having a sense of anticipation for the
+next session).
+
 ## Execution
 
 Some great resources for goal execution:
