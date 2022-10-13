@@ -31,6 +31,7 @@ survive by selling < ~$40k of stock per year (which should definitely have <
 
 Good descriptions:
 
+ - https://hackyourwealth.com/tax-loss-gain-harvesting
  - https://www.moneyunder30.com/profit-from-tax-loss-harvesting
  - https://www.madfientist.com/tax-loss-harvesting/
 
