@@ -7,6 +7,8 @@
 1. **Vus**, like the English word "us"
 1. "Kovas"
 
+See https://forvo.com/word/kovas_%28m.%29/ for an accurate recording.
+
 ## Links
 
  - https://github.com/kovasap
