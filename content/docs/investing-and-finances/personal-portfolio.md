@@ -2,12 +2,14 @@
 
 Historically 100% VTSAX due to long time horizon and simplicity.
 
-Recently have become convinced that more global diversification and factor weighting would be smart.
+Recently I have become convinced that more global diversification and factor weighting would be smart.
 Media that has done this:
 
  - [Five Factor Investing with ETFs](https://www.youtube.com/watch?v=jKWbW7Wgm0w)
  - [Ben Felix Portfolio](https://www.pwlcapital.com/wp-content/uploads/2020/12/Five-Factor-Investing-with-ETFs.pdf)
  - [Optimized Portfolio summary of Ben Felix portfolio](https://www.optimizedportfolio.com/ben-felix-model-portfolio/)
+
+[Here's](https://docs.google.com/spreadsheets/d/194MljSwYb0xPcHhG7sznh0LJ2a-2YejxfP0fVGVV2Jw/edit#gid=0) a scratchpad of me trying to implement this.
 
 A step in this direction would be:
  - 22% total international
