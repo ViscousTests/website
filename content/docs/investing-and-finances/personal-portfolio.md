@@ -19,3 +19,4 @@ A step in this direction would be:
 
 Looking at "growth of $10,000" charts is kinda misleading, because the end result can vary greatly based on when you start.
 Rolling or yearly return charts are better I think.
+[Here](https://docs.google.com/spreadsheets/d/1DEl9ddc2U0Ycc-hWV2PrWsrrcuVH7J8gtCL2c1D1UaA/edit#gid=0) is a yearly return chart comparing vtsax with the Ben Felix portfolio.
