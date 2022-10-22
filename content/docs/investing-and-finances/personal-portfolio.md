@@ -20,3 +20,9 @@ A step in this direction would be:
 Looking at "growth of $10,000" charts is kinda misleading, because the end result can vary greatly based on when you start.
 Rolling or yearly return charts are better I think.
 [Here](https://docs.google.com/spreadsheets/d/1DEl9ddc2U0Ycc-hWV2PrWsrrcuVH7J8gtCL2c1D1UaA/edit#gid=0) is a yearly return chart comparing vtsax with the Ben Felix portfolio.
+
+My current decision is to just stick to VTSAX unless it starts underperforming for over a year.
+Then I may switch to something like the Ben Felix portfolio.
+It's hard for me to do otherwise seeing as the US market has outperformed the ex-US index for the last 10 years:
+
+![us-vs-intl](us-vs-international-returns.png)
