@@ -84,4 +84,38 @@ from my education; otherwise most of my skills have been learned on the job.
 
 Interesting Article: https://annehelen.substack.com/p/is-everything-an-mlm?s=r
 
+## Letter to my past (middle/high school) self
+
+You are a person.
+As such you have the power to be creative and to change the world around you.
+Using this power is what you will spend the majority of your life doing.
+
+You can use this power as an individual but most likely you'll be working with
+other people in organizations to use your power together to achieve larger
+goals.
+Some examples of using your power individually include writing or creating any
+kind of content to be consumed by others on your own, or creating whole projects
+on your own perhaps tools for other people to use etc.
+
+The world is full of big and small organizations of people trying to use their
+power together to make change.
+Some examples include companies, large and small, governments, research labs,
+universities, schools.
+
+When joining an organization it's important to understand who funds the
+organization and why and what you can stand to benefit from joining said
+organization, both in terms of the force multiplier on your power to change the
+world and how much you'll be compensated for joining that organization
+specifically.
+
+There should be a school course that explores each one of these types of
+organizations in turn and discusses key features of that organization type and
+why you might want to be a part of it  - and how you could be a part of it; what
+it takes to join and then rank up in said organization.
+
+For example I have no idea what it takes to become someone who works on
+government policy as a full-time job.
+Or what the concerns of people doing this job are for  instance with respect to
+their compensation or job security.
+
 Categories: [Mind]({{< relref "/" >}}?Mind=true)

@@ -169,6 +169,27 @@ Companies should sell the flavoring blends that flavor potato chips.
 A holiday where everyone in their own homes/neighborhoods plays along to a
 single song in whatever way they can.
 
+### 1000 Hour Tattoos
+
+Everybody has a list of activities that they've done for a thousand hours or
+more.
+It would be cool if people had a piece of jewelry with removable parts like a
+necklace with beads, and each activity that they've done for over a thousand
+hours would be represented by one bead.
+You could also do this with a tattoo where you have different parts of a pattern
+interlinking, with each part representing an activity.
+
+I think this would be a cool way to start conversations and also show people
+that people spend a lot of time doing things that you may not expect just by
+looking at them.
+Especially things that are mindless or relaxing; everybody would have a bead for
+sleeping but people might also have beads for zoning out.
+I think visualizing this is a good way of normalizing the fact that everybody
+needs that kind of time.
+And that that kind of time isn't an impediment to success, because many people
+that you may aspire to be like may have beads like that, which shows that
+they're more human than you might think.
+
 
 ## Artistic
 

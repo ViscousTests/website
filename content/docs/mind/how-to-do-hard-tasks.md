@@ -76,6 +76,8 @@ obvious what questions to ask to further map out the task space.
 
 https://github.com/matthiasn/talk-transcripts/blob/master/Hickey_Rich/HammockDrivenDev.md
 
+https://blog.jim-nielsen.com/2022/what-work-looks-like/
+
 
 ### Depth First Search of Task Tree
 

@@ -87,6 +87,12 @@ condition is itself a large scale societal problem that hopefully can be solved
 with this same line of thinking. I do admit there's a bit of a chicken-and-egg
 problem here :/.
 
+#### Nudging
+
+The book [Nudge](https://en.wikipedia.org/wiki/Nudge_(book)) explores one
+philosophy with which good policies can be crafted without impinging too much on
+individual liberty.
+
 #### Externality-based Policies
 
 Many societal problems are due to hard-to-track externalities of existing
