@@ -1,0 +1,7 @@
+<script type="text/javascript">
+    var separator = (window.location.href.indexOf("?")===-1)?"?":"&";
+    var new_url = window.location.href + separator + "{{.Inner}}";
+    if (!window.location.href.includes("?")) {
+        window.location.href = new_url;
+    }
+</script>

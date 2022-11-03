@@ -1,7 +1,11 @@
 # Recommendations
 
-## [Puzzle Games]({{< relref "/docs/gaming/recommendations/?Puzzle=true" >}})
+## [Puzzle Games]({{< relref "/docs/gaming/recommendations.md" >}}?Puzzle=true)
 
+
+{{< website_graph >}}
+{{% include "/content/docs/all.edn" %}}
+{{< /website_graph >}}
 
 
 OLD VIEW WITH OLD DATA:
@@ -12,4 +16,5 @@ OLD VIEW WITH OLD DATA:
 
 Categories: [Gaming]({{< relref "/" >}}?Gaming=true)
 
-Backlinks: [Experiences]({{< relref "/docs/lifestyle-optimizations/experiences.md" >}}), 
+Backlinks: [Recommendations]({{< relref "/docs/gaming/recommendations.md" >}}), 
+[Experiences]({{< relref "/docs/lifestyle-optimizations/experiences.md" >}}), 

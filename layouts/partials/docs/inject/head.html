@@ -48,14 +48,31 @@ window.onload = function() {  // Execute this after the page loads.
             embedded_page.style.display = "none";
             embedded_page.style.width = "700px";
             embedded_page.style.height = "1000px";
+            embedded_page.style.backgroundColor = "rgba(255, 255, 255, 1.0)";
+            embedded_page.style.zIndex = "10";
             iframes[href] = embedded_page;
             return embedded_page;
         }
     }
-    Array.from(document.getElementsByClassName('book-page').item(0).getElementsByTagName('a')).forEach(
+    var all_links = [];
+    all_links = Array.prototype.concat.apply(
+        all_links,
+        document.getElementsByClassName("book-page").item(0)
+        .getElementsByTagName('a'));
+    all_links = Array.prototype.concat.apply(
+        all_links,
+        document.getElementsByClassName("book-menu").item(0)
+        .getElementsByTagName('a'));
+    console.log(all_links);
+    all_links.forEach(
         (element, index, array) => {
+            console.log(element);
+            console.log(element.href.includes('/docs/'));
+            console.log(!element.href.includes(window.location.pathname));
+            console.log(window.location.pathname);
             if (element.href.includes('/docs/') &&
-                    !element.href.includes(window.location.pathname)){
+                    (window.location.pathname == "/" ||
+                        !element.href.includes(window.location.pathname))){
                 element.onmouseover = function(e) {
                     const embedded_page = getEmbeddedPage(element.href);
                     embedded_page.style.left = e.clientX  + "px";
