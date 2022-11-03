@@ -25,5 +25,6 @@ Representative articles:
 
 Categories: [Understanding The World]({{< relref "/" >}}?Understanding-The-World=true)
 
-Backlinks: [Influences]({{< relref "/docs/investing-and-finances/influences.md" >}}), 
+Backlinks: [Zero To One]({{< relref "/docs/books/zero-to-one.md" >}}), 
+[Influences]({{< relref "/docs/investing-and-finances/influences.md" >}}), 
 [Influences]({{< relref "/docs/understanding-the-world/influences.md" >}}), 
