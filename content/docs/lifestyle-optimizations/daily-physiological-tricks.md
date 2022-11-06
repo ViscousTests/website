@@ -22,7 +22,9 @@
  - If on a "snack train", eat wasabi to try to curb it.
  - Don't eat >1 cup of broccoli in a day, especially if eating a lot of food
    that day.
- - Eat a small, easy to digest breakfast without protein rich foods.
+ - Eat "light" foods when I want to be productive (e.g. for breakfast/lunch)
+   - Light foods: fruit, leafy greens, oatmeal, potatoes, carrots
+   - Heavy foods: fish, peanut butter, beans, some grains, bread
  - Leaning back briefly when pooping can help push poop out.
 
 
