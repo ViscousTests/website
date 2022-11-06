@@ -194,7 +194,7 @@ listening to e.g. an advocate you can just ignore everything they are saying.
    model of the world that might be useful or inaccurate. Partially in the
    hopes that others will find the model useful, and partially in the hopes
    that others will improve or soundly reject the model.
-    - "Why Greatness Cannot be Planned" by Kenneth O. Stanley and Joel Lehman
+    - ["Why Greatness Cannot be Planned" by Kenneth O. Stanley and Joel Lehman]({{< relref "/docs/books/why-greatness-cannot-be-planned.md" >}})
 
 ### "Experts"
 

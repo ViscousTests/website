@@ -34,3 +34,5 @@ stumble onto something very groundbreaking.
 
 Categories: [Books]({{< relref "/" >}}?Books=true),
 [Understanding The World]({{< relref "/" >}}?Understanding-The-World=true)
+
+Backlinks: [Utopia]({{< relref "/docs/society/utopia.md" >}}), 
