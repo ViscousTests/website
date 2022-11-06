@@ -9,4 +9,7 @@ Feelings:
   - [Relaxing]({{< relref "/docs/feelings.md" >}}#relaxing)
 
 Categories: [Consuming Content]({{< relref "/" >}}?Consuming-Content=true),
-[Experiences]({{< relref "/" >}}?Experiences=true)
+[Experiences]({{< relref "/" >}}?Experiences=true),
+[Videos]({{< relref "/" >}}?Videos=true)
+
+Backlinks: [Feelings]({{< relref "/docs/feelings.md" >}}), 

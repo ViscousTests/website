@@ -13,7 +13,7 @@ Also a lot of games have long loading times and quick saving/loading can lead to
 frustrating waiting.
 If you think you need quicksaving and quick loading in your game, I recommend
 looking into games like [Iron Danger]({{< relref
-"/docs/experiences/Iron-Danger.md" >}}) that have a time rewind mechanic which
+"/docs/games/Iron-Danger.md" >}}) that have a time rewind mechanic which
 serves the same purpose but is a lot more ergonomic for the player to work with.
 
 A very silly and IMO bad quick loading and quicksaving system in a game series

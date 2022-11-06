@@ -9,4 +9,7 @@ Feelings:
 
 Categories: [Consuming Content]({{< relref "/" >}}?Consuming-Content=true),
 [Experiences]({{< relref "/" >}}?Experiences=true),
+[Games]({{< relref "/" >}}?Games=true),
 [Habit]({{< relref "/" >}}?Habit=true)
+
+Backlinks: [Feelings]({{< relref "/docs/feelings.md" >}}), 

@@ -9,3 +9,5 @@ Inspired in part by ["Why Greatness Cannot be Planned" by Kenneth O. Stanley and
 
 Categories: [Gamedev]({{< relref "/" >}}?Gamedev=true),
 [Mechanic Ideas]({{< relref "/" >}}?Mechanic-Ideas=true)
+
+Backlinks: [Why Greatness Cannot Be Planned]({{< relref "/docs/books/why-greatness-cannot-be-planned.md" >}}), 

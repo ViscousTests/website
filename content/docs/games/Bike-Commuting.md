@@ -8,4 +8,7 @@ Feelings:
 
 Categories: [Exercise]({{< relref "/" >}}?Exercise=true),
 [Experiences]({{< relref "/" >}}?Experiences=true),
+[Games]({{< relref "/" >}}?Games=true),
 [Lifestyle]({{< relref "/" >}}?Lifestyle=true)
+
+Backlinks: [Feelings]({{< relref "/docs/feelings.md" >}}), 

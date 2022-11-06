@@ -6,4 +6,5 @@ Feelings:
 
 Categories: [Competitive]({{< relref "/" >}}?Competitive=true),
 [Experiences]({{< relref "/" >}}?Experiences=true),
-[Game]({{< relref "/" >}}?Game=true)
+[Game]({{< relref "/" >}}?Game=true),
+[Games]({{< relref "/" >}}?Games=true)

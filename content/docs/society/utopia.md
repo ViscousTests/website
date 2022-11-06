@@ -191,5 +191,7 @@ See also [thoughts on creativity]({{< relref "/docs/mind/creativity.md" >}}).
 Categories: [Society]({{< relref "/" >}}?Society=true)
 
 Backlinks: [Potential Life Missions]({{< relref "/docs/potential-life-missions.md" >}}), 
+[Antifragile]({{< relref "/docs/books/antifragile.md" >}}), 
+[Why Greatness Cannot Be Planned]({{< relref "/docs/books/why-greatness-cannot-be-planned.md" >}}), 
 [Creativity]({{< relref "/docs/mind/creativity.md" >}}), 
 [Copyright And Ip]({{< relref "/docs/understanding-the-world/copyright-and-ip.md" >}}), 

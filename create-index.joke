@@ -456,11 +456,11 @@ Categories: [Climbing]({{< relref \"/\" >}}?Climbing=true),
     (prn (word-count all-files))
     (update-word-count "content/_index.md" all-files))
 
-  (let [experiences-edn
-        (read-string
-          (slurp "content/docs/lifestyle-optimizations/experiences.edn"))]
-    (feelings-to-file experiences-edn)
-    (experiences-to-md experiences-edn))
+  #_(let [experiences-edn
+          (read-string
+            (slurp "content/docs/lifestyle-optimizations/experiences.edn"))]
+      (feelings-to-file experiences-edn)
+      (experiences-to-md experiences-edn))
 
   (add-dir-categories! "content/docs")
   (add-all-backlinks! "content/docs"))

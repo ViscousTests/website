@@ -8,4 +8,7 @@ Feelings:
   - [Scanning through possibilities]({{< relref "/docs/feelings.md" >}}#scanning-through-possibilities)
 
 Categories: [Experiences]({{< relref "/" >}}?Experiences=true),
+[Games]({{< relref "/" >}}?Games=true),
 [Habit]({{< relref "/" >}}?Habit=true)
+
+Backlinks: [Feelings]({{< relref "/docs/feelings.md" >}}), 
