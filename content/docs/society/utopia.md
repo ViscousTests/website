@@ -163,6 +163,10 @@ in ["Antifragile" by NN Taleb]({{< relref "/docs/books/antifragile.md" >}}).
 This has the additional side benefit of giving people space, time, and therefore
 ability to support the ideas of others that they discover and think are
 important.
+Related is Taleb's ["Convex
+Tinkering"](https://fooledbyrandomness.com/ConvexityScience.pdf) concept, which
+supports the idea that randomly exploring many ideas is perhaps the most
+efficient path to discovery.
 
 #### Organizations
 
