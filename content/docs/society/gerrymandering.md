@@ -36,7 +36,7 @@ Right away I see a couple problems:
    group for political reasons.
  - The problematic "in-group/out-group" psychology humans struggle with would be
    triggered more directly (e.g. "How dare these LGBTQ people call themselves
-   <insert gender here> and claim to be part of my group?!").
+   [insert gender here] and claim to be part of my group?!").
 
 It does seem like this kind of system might be more "honest" or at least
 straightforward - it seems like geographical lines are often used as a proxy for
