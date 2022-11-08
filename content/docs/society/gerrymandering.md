@@ -24,8 +24,8 @@ Some examples (sorted roughly by practicality as perceived by me):
  - Profession
  - Income
  - Net worth
- - Gender
- - Race
+ - Gender Identity
+ - Racial/Cultural Identity
 
 **It's interesting to think about what would happen if our "district lines" were
 drawn among these dimensions instead of geography.**
