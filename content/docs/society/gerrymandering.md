@@ -27,8 +27,8 @@ Some examples (sorted roughly by practicality as perceived by me):
  - Gender
  - Race
 
-_It's interesting to think about what would happen if our "district lines" were
-drawn among these dimensions instead of geography._
+**It's interesting to think about what would happen if our "district lines" were
+drawn among these dimensions instead of geography.**
 
 For example, if we shifted to a profession-based system, then all engineers
 would have a representative, as would all doctors, professors, janitors,
@@ -75,8 +75,8 @@ There are at least two ways to handle this:
 We could instead just get rid of the concept of representation of specific
 groups of people and just give parties representatives according to a single
 popular vote for the party.
-_Party identity is in a sense the best way to group people by their political
-views_.
+**Party identity is in a sense the best way to group people by their political
+views**.
 For instance, if there were 100 seats and 45% of people nationwide voted for
 democrats, then democrats would get 45 seats regardless of the locations of
 their voters.
