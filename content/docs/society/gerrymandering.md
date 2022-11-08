@@ -27,8 +27,18 @@ Some examples (sorted roughly by practicality as perceived by me):
  - Gender
  - Race
 
-It's interesting to think about what would happen if our "district lines" were
-drawn among these dimensions instead of geography.
+_It's interesting to think about what would happen if our "district lines" were
+drawn among these dimensions instead of geography._
+
+For example, if we shifted to a profession-based system, then all engineers
+would have a representative, as would all doctors, professors, janitors,
+warehouse workers, etc.
+Previously, these same people would have been represented by their location in a
+city/state/country - the northern district would have a representative, as well
+as the southern, eastern, and western districts.
+
+Personally it feels like I would be better represented in this system, or at
+least my representation is easier to conceptualize/understand.
 
 Right away I see a couple problems:
 
@@ -38,7 +48,7 @@ Right away I see a couple problems:
    triggered more directly (e.g. "How dare these LGBTQ people call themselves
    [insert gender here] and claim to be part of my group?!").
 
-It does seem like this kind of system might be more "honest" or at least
+It does seem like this kind of system might at least be more "honest" or at least
 straightforward - it seems like geographical lines are often used as a proxy for
 these characteristics anyway.
 
@@ -65,6 +75,15 @@ There are at least two ways to handle this:
 We could instead just get rid of the concept of representation of specific
 groups of people and just give parties representatives according to a single
 popular vote for the party.
+_Party identity is in a sense the best way to group people by their political
+views_.
+For instance, if there were 100 seats and 45% of people nationwide voted for
+democrats, then democrats would get 45 seats regardless of the locations of
+their voters.
+It looks like Germany does this in part by giving parties extra seats in their
+legislature based on their total national vote share after all constituencies
+have been given seats:
+https://en.wikipedia.org/wiki/Politics_of_Germany#Bundestag.
 
 Categories: [Society]({{< relref "/" >}}?Society=true)
 
