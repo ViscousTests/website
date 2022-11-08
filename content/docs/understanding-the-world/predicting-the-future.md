@@ -8,3 +8,4 @@ unfortunately compose most of our world.
 
 ## [The Problem of Induction](https://en.wikipedia.org/wiki/Problem_of_induction)
 
+Categories: [Understanding The World]({{< relref "/" >}}?Understanding-The-World=true)

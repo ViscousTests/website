@@ -15,4 +15,5 @@ possible outcomes.
 
 Categories: [Understanding The World]({{< relref "/" >}}?Understanding-The-World=true)
 
-Backlinks: [What To Believe]({{< relref "/docs/understanding-the-world/what-to-believe.md" >}}), 
+Backlinks: [Predicting The Future]({{< relref "/docs/understanding-the-world/predicting-the-future.md" >}}), 
+[What To Believe]({{< relref "/docs/understanding-the-world/what-to-believe.md" >}}), 

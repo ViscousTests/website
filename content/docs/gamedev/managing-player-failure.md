@@ -24,3 +24,5 @@ that's really the way the designers want you to progress through those games.
 I think a time rewinding mechanic in these games would be miles better.
 
 Categories: [Gamedev]({{< relref "/" >}}?Gamedev=true)
+
+Backlinks: [Iron Danger]({{< relref "/docs/games/Iron-Danger.md" >}}), 
