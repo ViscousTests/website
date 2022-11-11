@@ -6,6 +6,8 @@ I was originally inspired to work on generative art after viewing this blog:
 https://beesandbombs.tumblr.com/. I find it fun to try to imagine how each of
 these gifs were generated - each one is like a visual puzzle.
 
+See more inspiration [here]({{< relref "/docs/visual-art/inspiration-and-resources.md" >}}).
+
 ## My Art
 
 Click on each piece to see it in motion!

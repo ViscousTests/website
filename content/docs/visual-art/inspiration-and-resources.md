@@ -21,7 +21,11 @@ Cool art and art tutorials that I've stumbled across.
 
 ## Misc Projects
 
+ - https://beesandbombs.tumblr.com/
+ - https://oimo.io/works
  - https://emoji.supply/kitchen/
  - https://pokemon.alexonsager.net/
 
 Categories: [Visual Art]({{< relref "/" >}}?Visual-Art=true)
+
+Backlinks: [Generative Art]({{< relref "/docs/visual-art/generative-art.md" >}}), 
