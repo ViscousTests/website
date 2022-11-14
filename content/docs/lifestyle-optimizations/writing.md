@@ -25,6 +25,10 @@ Also try:
 1. Speech to text when you get home.
 1. Edit
 
+## Write Music
+
+![write music](/docs/lifestyle-optimizations/write-music.jpg)
+
 ## One Sentence Per Line
 
 Why: https://sive.rs/1s
