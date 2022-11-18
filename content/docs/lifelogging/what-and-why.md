@@ -49,7 +49,8 @@ be achieved with the following components:
      >}})
  - A wearable microphone that hears what I hear, and transcribes all heard
    speech to a searchable text log, like a script to the play that is my life.
-   - Not done yet
+   - Not done yet, see https://roberdam.com/en/wisper.html
+     (https://news.ycombinator.com/item?id=33608437) for prior art!
  - Programs that log what I'm doing on my various devices (laptop, phone,
    etc.).
    - Almost done with [ActivityWatch](https://activitywatch.net/).

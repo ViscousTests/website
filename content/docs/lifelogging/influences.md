@@ -5,5 +5,6 @@
  - https://howisfelix.today/?
  - [SmarterTime](https://www.smartertime.com/index.html) is a system for
    tracking all life events similar to my autojournal.
+ - Audio tracking: https://roberdam.com/en/wisper.html (https://news.ycombinator.com/item?id=33608437)
 
 Categories: [Lifelogging]({{< relref "/" >}}?Lifelogging=true)
