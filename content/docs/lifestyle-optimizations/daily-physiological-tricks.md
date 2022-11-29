@@ -12,6 +12,8 @@
  - When having a conversation with someone, try to use some of [these concepts]({{< 
    relref "/docs/understanding-the-world/productive-conversations.md" >}})
    to make the discussion more productive.
+ - Make sure there is some [slack](https://www.neelnanda.io/blog/38-slack) in
+   the day.
    
 ## Physical
 
