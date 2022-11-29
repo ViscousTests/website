@@ -19,6 +19,10 @@ game state in one turn.
 ## Knowledge Building
 
 Playing through the games gives insight that allows progression.
+One way to identify this is to compare how long it would take to complete the
+game on the first playthrough vs the second.
+If the second playthrough would be much faster, then knowledge building is a
+large part of the game.
 
 ### Examples
 
@@ -50,8 +54,8 @@ builds are rewarded by making it through the discovery loop faster.
 Games that do this really well both with story and with character customization
 in my opinion include:
 
- - [Fell Seal - Arbiter's Mark]({{< relref "/docs/lifestyle-optimizations/experiences.md" >}}#Fell-Seal---Arbiter's-Mark)
- - [XCOM 2]({{< relref "/docs/lifestyle-optimizations/experiences.md" >}}#XCOM-2-+-War-of-the-Chosen)
+ - [Fell Seal - Arbiter's Mark]({{< relref "/docs/games/Fell-Seal---Arbiter's-Mark.md" >}})
+ - [XCOM 2]({{< relref "/docs/games/XCOM-2-+-War-of-the-Chosen.md" >}})
 
 ## Urgency
 
