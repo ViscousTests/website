@@ -74,4 +74,6 @@ do the player's actions really mean?
 
 Categories: [Gamedev]({{< relref "/" >}}?Gamedev=true)
 
-Backlinks: [Experiences]({{< relref "/docs/lifestyle-optimizations/experiences.md" >}}), 
+Backlinks: [Fell Seal   Arbiter's Mark]({{< relref "/docs/games/Fell-Seal---Arbiter's-Mark.md" >}}), 
+[Xcom 2 + War Of The Chosen]({{< relref "/docs/games/XCOM-2-+-War-of-the-Chosen.md" >}}), 
+[Experiences]({{< relref "/docs/lifestyle-optimizations/experiences.md" >}}), 
