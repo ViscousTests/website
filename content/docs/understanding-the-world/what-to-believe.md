@@ -79,6 +79,9 @@ they imply.  For instance, certain foods contain toxins that kill and/or
 mutate our cells.  But this does not mean that we shouldn't eat those foods
 (perhaps every food falls into this category?).
 
+See https://superbowl.substack.com/p/causal-explanations-considered-harmful for
+a good exploration of misleading causal theories.
+
 For each of the above statements/stories, there are groups of people who would
 find them plausible.  Since some directly contradict each other, how are we to
 know which to believe?
