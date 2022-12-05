@@ -8,4 +8,5 @@ Discussions:
 
 1. [Information Given to Player](https://steamcommunity.com/app/1488200/discussions/0/5595187488984677120/)
 
-Categories: [Turn Based]({{< relref "/" >}}?Turn-Based=true),
+Categories: [Games]({{< relref "/" >}}?Games=true),
+[Turn Based]({{< relref "/" >}}?Turn-Based=true)

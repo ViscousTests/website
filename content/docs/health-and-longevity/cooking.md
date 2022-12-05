@@ -1,5 +1,8 @@
 # Cooking 
 
+[Master Cooking
+Spreadsheet](https://docs.google.com/spreadsheets/d/1d25vAW2nD0BdffwPbQgmy4lRhBi30cJNHOyaC-B9dHM/edit#gid=0)
+
 ## Microwave Steam Bowls
 
 A really easy and convenient way to make some pretty tasty (and healthy!) food.
