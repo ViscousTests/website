@@ -8,4 +8,5 @@ And the main character:
 
 https://www.reddit.com/r/projecteternity/comments/8j74ne/comment/dyxi5nn/?utm_source=share&utm_medium=web2x&context=3
 
-Categories: [Gaming]({{< relref "/" >}}?Gaming=true)
+Categories: [Games]({{< relref "/" >}}?Games=true),
+[Gaming]({{< relref "/" >}}?Gaming=true)

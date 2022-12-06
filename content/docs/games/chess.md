@@ -6,4 +6,5 @@ I've learned a lot from watching GothamChess on YouTube, especially his opening 
 
 I want to try out [chessable](https://www.chessable.com/?page=landingpage) at some point.
 
-Categories: [Gaming]({{< relref "/" >}}?Gaming=true)
+Categories: [Games]({{< relref "/" >}}?Games=true),
+[Gaming]({{< relref "/" >}}?Gaming=true)
