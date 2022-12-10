@@ -1,6 +1,6 @@
 # Chess
 
-I've found lichess.org is a great place to play.
+I've found lichess.org is a great place to play.  https://www.openingtree.com/ is a good analysis tool to identify weaknesses across all your games.
 
 Feelings:
 
