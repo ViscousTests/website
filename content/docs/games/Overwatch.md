@@ -1,4 +1,4 @@
-# [Overwatch](https://en.wikipedia.org/wiki/Overwatch_(video_game%29)
+# [Overwatch](https://en.wikipedia.org/wiki/Overwatch_(video_game%29))
 
 
 ## Strategy
