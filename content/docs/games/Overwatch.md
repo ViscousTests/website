@@ -33,8 +33,15 @@ The communication leader should call when the team is changing "states":
    wait for teammates to respawn.
      - This should happen when the team has a numbers disadvantage.
  - **Poke**: Tentatively push up and try to get into power positions or the right formation.
- - **Go HAM / Fire at Will**: Just attack whoever is easiest or you have the best advantage against.
+     - When this state is called, the leader should also say where the tank will go ("left",
+       "right", "center").  Most maps have 2-4 choices for how to move out from spawn; use
+       more precise descriptions if necessary. The team should then flow around the tank
+       based on whatever formation is being used. 
+ - **Go HAM / Fire at Will**: Just attack whoever is easiest to hit or you have
+   the best advantage against.
      - This should happen when the team has a numbers advantage.
+
+Ideally the team will respect the state that it is in and behave accordingly to avoid trickling.
 
 
 
