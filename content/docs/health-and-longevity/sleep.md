@@ -35,14 +35,14 @@ interrupt my sleep.  This includes:
 
 ### Food
 
-Eating more that ~1/3 of my daily calories, especially from fatty foods, in the
-5-6 hours before sleeping will often lead to me getting overheated and sweaty
-after being asleep for a couple hours. This is especially true if it's
-otherwise cold in the room where I'm sleeping and I need to tuck myself in more
-tightly to my blankets.
+Eating more that ~1/3 of my daily calories, especially from high protein foods
+like nuts/nut butters, in the 5-6 hours before sleeping will often lead to me
+getting overheated and sweaty after being asleep for a couple hours.
+This is especially true if it's otherwise cold in the room where I'm sleeping
+and I need to tuck myself in more tightly to my blankets.
 
-Eating a big (fatty) breakfast and either an early dinner (like 4pm) or no
-dinner helps with this.
+Eating protein at other parts of the day and either an early dinner (like 4pm)
+or no dinner helps with this.
 
 Caffeine definitely does not help me sleep :).
 
