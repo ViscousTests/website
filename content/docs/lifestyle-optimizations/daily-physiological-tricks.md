@@ -27,6 +27,10 @@
  - Eat "light" foods when I want to be productive (e.g. for breakfast/lunch)
    - Light foods: fruit, leafy greens, oatmeal, potatoes, carrots
    - Heavy foods: fish, peanut butter, beans, some grains, bread
+ - Avoid eating a lot of protein in the evening to get [better temperature
+   regulation when sleeping]({{< relref "/docs/health-and-longevity/sleep.md"
+   >}}).
+   If it's really cold, do the opposite to stay warm.
  - Leaning back briefly when pooping can help push poop out.
 
 
