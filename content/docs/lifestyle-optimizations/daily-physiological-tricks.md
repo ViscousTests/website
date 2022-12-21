@@ -31,6 +31,7 @@
    regulation when sleeping]({{< relref "/docs/health-and-longevity/sleep.md"
    >}}).
    If it's really cold, do the opposite to stay warm.
+ - Eat some carbs for dinner.
  - Leaning back briefly when pooping can help push poop out.
 
 
