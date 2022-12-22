@@ -4,6 +4,8 @@ One fun variant is to open a book in text format with some program that can sear
 
 Check out https://old.azlen.me/projects/bananagram_variations/ for other cool variations!
 
+For a game with more players, this variation might be interesting to try: http://nongraphical.com/2013/09/a-more-awesome-way-to-play-bananagrams/.
+
 Feelings:
 
 Categories: [Experiences]({{< relref "/" >}}?Experiences=true),
