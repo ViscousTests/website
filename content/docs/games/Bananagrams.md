@@ -6,6 +6,8 @@ Check out https://old.azlen.me/projects/bananagram_variations/ for other cool va
 
 For a game with more players, this variation might be interesting to try: http://nongraphical.com/2013/09/a-more-awesome-way-to-play-bananagrams/.
 
+To make hard varients easier, you can play with a "wildcard rule".  With this rule, you are allowed to flip over one of your tiles and treat it as a wildcard letter.  You can choose to switch out which tile is flipped at any time.
+
 Feelings:
 
 Categories: [Experiences]({{< relref "/" >}}?Experiences=true),
