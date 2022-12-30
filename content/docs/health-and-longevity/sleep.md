@@ -64,7 +64,7 @@ otherwise stimulate my skin.
 In practice, I best accomplish this by:
 
 1. Wearing socks or lower-leg warmers to sleep so that my feet don't get
-   uncomfortably cold.
+   uncomfortably cold.  See [this cool paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4843861/) about hands/feet and temperature regulation.   
 1. Wearing boxers.
 1. Wrapping myself with flannel or otherwise "warm-feeling" sheets to that my
    skin is constantly in contact with something constant and not exposed to
@@ -80,6 +80,8 @@ actually do fall asleep. This leads to me getting sweaty, and then cold and
 uncomfortable.  I feel a similar effect when using sleeping bags or wearing
 a shirt when going to bed.
 
+I think the best way to manage this problem is actually to warm myself up **before** getting into bed.  When I don't do this I find getting warm while in bed (even with a heated mattress) takes a long time and may not fully happen before I fall asleep, leading to the bundling problem.
+
 Due to this pattern, I find that it's paradoxically better for me to use more
 blankets and/or a heated mattress pad and fall asleep in a more relaxed posture
 with looser sheets/more airflow. This is less likely to cause the overheating ->
@@ -92,7 +94,7 @@ fall asleep.
 I've found a good way to manage cold is to use a heated mattress pad or heated
 blanket to pre-warm my bed, which helps me feel relaxed and warm as I get into
 bed.  Then, right before going to sleep, I turn off the heat and make sure I
-have enough warm blankets around in case I do end up cooling down. 
+have enough warm blankets around in case I do end up cooling down. This is less effective than just getting warm before going to bed though.
 
 #### Showering
 
@@ -144,3 +146,4 @@ Backlinks: [Manifesto]({{< relref "/docs/manifesto.md" >}}),
 [Aging Science]({{< relref "/docs/health-and-longevity/aging-science.md" >}}), 
 [Daily Physiological Tricks]({{< relref "/docs/lifestyle-optimizations/daily-physiological-tricks.md" >}}), 
 [Task Tracking]({{< relref "/docs/lifestyle-optimizations/task-tracking.md" >}}), 
+
