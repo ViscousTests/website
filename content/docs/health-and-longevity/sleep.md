@@ -146,4 +146,3 @@ Backlinks: [Manifesto]({{< relref "/docs/manifesto.md" >}}),
 [Aging Science]({{< relref "/docs/health-and-longevity/aging-science.md" >}}), 
 [Daily Physiological Tricks]({{< relref "/docs/lifestyle-optimizations/daily-physiological-tricks.md" >}}), 
 [Task Tracking]({{< relref "/docs/lifestyle-optimizations/task-tracking.md" >}}), 
-

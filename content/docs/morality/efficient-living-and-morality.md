@@ -129,6 +129,31 @@ would be much more emotionally powerful. This can be extreme; people spend many
 times a basic income requirement on experiences commonly :(.
 
 
+## Practical Consequences
+
+### Assumption 6: People have some control over their interests
+
+Exposure to different people/environments can lead to adoption of a variety of
+different interests.
+Old interests can fade if experienced in new light.
+
+I don't believe that a particular person's passions are out in the world, are
+immutable, and just require discovery.
+
+This means that people are not necessarily trapped in inefficient (and therefore
+immoral) interests.
+
+### What would I choose?
+
+One practical way to engage with this line of thinking is to try the following
+creative thinking exercise.
+Pretend you are creating a person (say yourself) and need to determine what that
+person will be interested in or passionate about.
+What would you choose for them?
+Why?
+What's stopping you from adopting those interests?
+
+
 ## Footnotes
 
 I recently listed to part of Peter Attia's podcast with the author of ["Die with
