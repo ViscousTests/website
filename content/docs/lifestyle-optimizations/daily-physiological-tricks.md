@@ -33,6 +33,7 @@
    If it's really cold, do the opposite to stay warm.
  - Eat some carbs for dinner.
  - Leaning back briefly when pooping can help push poop out.
+ - Coffee (decaf) bad, especially in the morning.  Green tea good.
 
 
 Categories: [Lifestyle Optimizations]({{< relref "/" >}}?Lifestyle-Optimizations=true)
