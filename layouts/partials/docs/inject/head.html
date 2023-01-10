@@ -66,6 +66,16 @@ window.onload = function() {  // Execute this after the page loads.
     console.log(all_links);
     all_links.forEach(
         (element, index, array) => {
+            const showEmbeddedPage = (e) => {
+                const embedded_page = getEmbeddedPage(element.href);
+                embedded_page.style.left = 40 + e.clientX  + "px";
+                embedded_page.style.top = "150px";
+                embedded_page.style.display = "block";
+            }
+            const hideEmbeddedPage = (e) => {
+                const embedded_page = getEmbeddedPage(element.href);
+                embedded_page.style.display = "none";
+            }
             console.log(element);
             console.log(element.href.includes('/docs/'));
             console.log(!element.href.includes(window.location.pathname));
@@ -74,15 +84,12 @@ window.onload = function() {  // Execute this after the page loads.
                     (window.location.pathname == "/" ||
                         !element.href.includes(window.location.pathname))){
                 element.onmouseover = function(e) {
-                    const embedded_page = getEmbeddedPage(element.href);
-                    embedded_page.style.left = 20 + e.clientX  + "px";
-                    embedded_page.style.top = "150px";
-                    embedded_page.style.display = "block";
+                    var delay = setTimeout(function(){showEmbeddedPage(e);},
+                        200);
+                    element.onmouseout = function(){clearTimeout(delay);
+                        hideEmbeddedPage(e);}
                 };
-                element.onmouseout = function(e) {
-                    const embedded_page = getEmbeddedPage(element.href);
-                    embedded_page.style.display = "none";
-                };
+                element.onmouseout = hideEmbeddedPage;
             }
         });
 }
