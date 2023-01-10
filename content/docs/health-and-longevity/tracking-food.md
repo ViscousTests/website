@@ -1,99 +1,95 @@
 # Tracking Food
 
-## Apps
+## Recommended Apps
 
 I don't plan on subscribing to any tracking app pro plans, so all these reviews
 are the free versions.
 
-### Cronometer
+### Cronometer - best for detailed tracking with a scale
 
 The only app that measures, and lets you set targets for, many micronutrients.
 I find the idea of seeing if I have any long term nutrient deficiencies
 interesting.
 
-**Database:** Great!
+_Database:_ Great!
 My one gripe is that "cooked with fat"-type items are less common.
 
-**Ergonomics:** Meh.
+_Ergonomics:_ Meh.
 The app requires a decent amount of tapping and typing to log food.
 Copying meals can be tricky too, b/c the concept of grouping food into meals is
 locked behind the pro version.
 
-**Monetization:** Meh.
+_Monetization:_ Meh.
 The ads make the app basically unusable, although they can be removed with
 https://adaway.org/.
 Many other really helpful features (like food timestamps and grouping foods for
 easier copying) are locked as well.
 
-**Data Export and Integrations:** Meh.
+_Data Export and Integrations:_ Meh.
 Need to sign into their desktop webpage to manually download a csv file.
 Alternatively, https://github.com/jrmycanady/cronometer-export/pull/2 lets you
 create a script to do this automatically!
 
-
-### OmNom Notes
-
-**Database:** Large, but of mixed quality.
-
-**Ergonomics:** Meh.
-No search autocomplete, and many common foods have only grams as the unit
-selection.
-
-**Monetization:** Good!
-One time fee for nice to have features.
-
-**Data Export and Integrations:** None AFAICT.
-
-### Fat Secret
-
-**Database:** Good, but without all the cronometer nutrients.
-
-**Ergonomics:** Good.
-
-**Monetization:** Good.
-
-**Data Export and Integrations:** Good, auto exports to Google Fit.
-
-### Bitesnap
+### Bitesnap - best for estimating quantities quickly and roughly
 
 Not well maintained, crashes a lot on my phone.
 
-**Database:** Good, but without all the cronometer nutrients.
+_Database:_ Good, but without all the cronometer nutrients.
 Has a lot of convenient foods, like things "cooked with fat".
 
-**Ergonomics:** Great!
+_Ergonomics:_ Great!
 Probably the best in this category.
 
-**Monetization:** Totally free!
+_Monetization:_ Totally free!
 
-**Data Export and Integrations:** Meh.
+_Data Export and Integrations:_ Meh.
 Easy to export csv from my phone, but still manual.
 
-### Nutritionix Track
+### Nutritionix Track - middle ground
 
-**Database:** Good, but without all the cronometer nutrients.
+_Database:_ Good, but without all the cronometer nutrients.
 
-**Ergonomics:** Good.
+_Ergonomics:_ Good.
 
-**Monetization:** Totally free!
+_Monetization:_ Totally free!
 
-**Data Export and Integrations:** Bad.
+_Data Export and Integrations:_ Bad.
 But Google Fit export might be coming soon.
+
+## Not Recommended Apps
+
+### OmNom Notes
+
+_Database:_ Large, but of mixed quality.
+
+_Ergonomics:_ Meh.
+No search autocomplete, and many common foods have only grams as the unit
+selection.
+
+_Monetization:_ Good!
+One time fee for nice to have features.
+
+_Data Export and Integrations:_ None AFAICT.
+
+### Fat Secret
+
+_Database:_ Good, but without all the cronometer nutrients.
+
+_Ergonomics:_ Good.
+
+_Monetization:_ Good.
+
+_Data Export and Integrations:_ Good, auto exports to Google Fit.
 
 ### My Plate
 
-**Database:** Good, but without all the cronometer nutrients.
+_Database:_ Good, but without all the cronometer nutrients.
 
-**Ergonomics:** Good.
+_Ergonomics:_ Good.
 
-**Monetization:** Kinda in your face.
+_Monetization:_ Kinda in your face.
 
-**Data Export and Integrations:** Good, auto exports to Google Fit.
-
-
-
-
-
+_Data Export and Integrations:_ Good, auto exports to Google Fit.
 
 
 
