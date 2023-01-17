@@ -27,6 +27,6 @@ My current decision is to just stick to VTSAX unless it starts underperforming f
 Then I may switch to something like the Ben Felix portfolio.
 It's hard for me to do otherwise seeing as the US market has outperformed the ex-US index for the last 10 years:
 
-![us-vs-intl](us-vs-international-returns.png)
+![us-vs-intl](/docs/investing-and-finances/us-vs-international-returns.png)
 
 Categories: [Investing And Finances]({{< relref "/" >}}?Investing-And-Finances=true)
