@@ -1,6 +1,6 @@
 # Lifelogging with a Camera
 
-Used the [iON Snapcam](https://amzn.to/3JqQ6kA).
+## Using the [iON Snapcam](https://amzn.to/3JqQ6kA).
 
 Requires this third party software to enable the time lapse:
 https://github.com/dimhoff/snapcamcontrol. Use a version hosted on this site
@@ -10,7 +10,7 @@ The beeping when taking a picture is really annoying, see
 https://www.reddit.com/r/ElectronicsRepair/comments/tzmesl/how_to_silence_a_beeping_speaker_on_a_circuit/
 for how to disable.
 
-## Memory usage
+### Memory usage
 
 My snapcam has a 8MP camera mode and a 2MP one.  The 2MP images are ~340 kB in
 size, and the 8MP ones are ~1.1MB. The 2MP images seem to be less effected by
@@ -24,6 +24,9 @@ need:
 Or around `116 GB/year` if a took a picture every minute.
 
 
+## Using the Narrative Clip
+
+A much more user friendly experience!  Unfortunately the company no longer exists.
 
 
 
