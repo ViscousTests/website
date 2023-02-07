@@ -1,5 +1,9 @@
 # Lifelogging with a Camera
 
+## To Try
+
+ - https://www.brilliantmonocle.com/
+
 ## Using the [iON Snapcam](https://amzn.to/3JqQ6kA).
 
 Requires this third party software to enable the time lapse:
