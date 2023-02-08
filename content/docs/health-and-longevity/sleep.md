@@ -33,6 +33,10 @@ interrupt my sleep.  This includes:
    decisions I was making in the activity, or if it's re-remembering parts of
    the activity (and e.g. how I could have done them better).
 
+Writing the thing I am worrying down can help a lot to alleviate this issue.
+This makes me feel like I don't need to keep the thoughts in my mind to remember
+them.
+
 ### Food
 
 Eating more that ~1/3 of my daily calories, especially from high protein foods
@@ -40,9 +44,10 @@ like nuts/nut butters, in the 5-6 hours before sleeping will often lead to me
 getting overheated and sweaty after being asleep for a couple hours.
 This is especially true if it's otherwise cold in the room where I'm sleeping
 and I need to tuck myself in more tightly to my blankets.
+Eating protein at other parts of the day helps with this.
 
-Eating protein at other parts of the day and either an early dinner (like 4pm)
-or no dinner helps with this.
+Eating bread or grains generally 2-3 hours before bed seems to help me sleep
+better.
 
 Caffeine definitely does not help me sleep :).
 
