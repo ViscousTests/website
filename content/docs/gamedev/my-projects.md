@@ -9,7 +9,8 @@ things.
 ## Economic Map Based Digital Board Game
 
 Inspired by games like terra mystica, catan, and games with production chains.
-https://github.com/kovasap/cljs-board-game
+https://github.com/kovasap/cljs-board-game.
+Uses websockets to allow players to play each other from different devices.
 
 
 ## Market Trading Board Game
