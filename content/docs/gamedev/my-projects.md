@@ -6,6 +6,12 @@ easily, in case I want to resume work or apply parts of these projects to other
 things.
 
 
+## Economic Map Based Digital Board Game
+
+Inspired by games like terra mystica, catan, and games with production chains.
+https://github.com/kovasap/cljs-board-game
+
+
 ## Market Trading Board Game
 
 My take on a resource management euro-style game. Code and links to a Tabletop

@@ -30,7 +30,7 @@
    - Light foods: fruit, leafy greens, oatmeal, potatoes, carrots
    - Heavy foods: fish, peanut butter, beans, some grains, bread
  - Try to follow this rough eating schedule:
-   - 9am smallish breakfast: greens, carrots, potatoes, some proteins, nuts
+   - 9am smallish breakfast: greens, carrots, potatoes, proteins
    - 12-1pm largish lunch: easy to digest carbs, greens, carrots, potatoes, nuts
    - Try not to give in to snacking cravings in the afternoon
    - 7-9pm smallish dinner: grains/beans, harder to digest carbs
