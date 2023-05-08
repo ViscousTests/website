@@ -26,11 +26,12 @@
    Try dried seaweed as an addition!
  - Don't eat a lot of these foods in a day:
    - broccoli
- - Eat "light" foods when I want to be productive (e.g. for breakfast/lunch)
-   - Light foods: fruit, leafy greens, oatmeal, potatoes, carrots
-   - Heavy foods: fish, peanut butter, beans, some grains, bread
+ - Foods to eat when I want to be productive (e.g. for breakfast/lunch)
+   - Leafy greens, carrots, cauliflower, oils, fish
+ - Foods to eat when resting:
+   - Peanut butter, beans, some grains, bread
  - Try to follow this rough eating schedule:
-   - 9am smallish breakfast: greens, carrots, potatoes, proteins
+   - 9am smallish breakfast: greens, carrots, proteins
    - 12-1pm largish lunch: easy to digest carbs, greens, carrots, potatoes, nuts
    - Try not to give in to snacking cravings in the afternoon
    - 7-9pm smallish dinner: grains/beans, harder to digest carbs
