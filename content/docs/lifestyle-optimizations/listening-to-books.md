@@ -17,4 +17,7 @@ reached out to the creators, and they say they use
 [Synthesia](https://www.synthesia.io/?via=ryan-o-shea).  This would be amazing
 for use in audiobook generation.
 
+https://beta.elevenlabs.io/ is another good solution that I've listened to
+samples from, but haven't paid for yet.
+
 Categories: [Lifestyle Optimizations]({{< relref "/" >}}?Lifestyle-Optimizations=true)
