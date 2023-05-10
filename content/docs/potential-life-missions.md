@@ -50,7 +50,7 @@ problem at hand.
 Therefore, if we made school either much shorter, or gave students real
 problems to work on in a low-risk environment, this may lead to good outcomes.
 
-### [Optimism]({{< relref "/docs/mind/optimism.md" >}})
+#### [Optimism]({{< relref "/docs/mind/optimism.md" >}})
 
 I currently believe that optimism encourages action.  Therefore, fostering
 optimism is a good way to empower people to try to solve big problems.
@@ -65,6 +65,19 @@ the largest causes of sickness would therefore help empower people.
 The largest cause of sickness in the world today by far.
 
 Also an extreme humanitarian tragedy that dwarfs all others.
+
+
+### Reduce Costs of Common Wants/Needs
+
+People need to earn money to pay for their basic needs as well as things they
+are drawn to want.
+If we can make most things much cheaper, then the pressure to earn would be
+reduced.
+
+#### Open Sourcing
+
+Participating in things like sci-hub / piracy or open sourcing useful software
+is one way to reduce these costs.
 
 Categories:
 
