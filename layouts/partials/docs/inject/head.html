@@ -6,6 +6,10 @@
     <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 {{ end }}
 
+{{ if .Site.Params.GoogleAnalyticsID }}
+{{ partial "analytics-gtag.html" . }}
+{{ end }}
+
 <script>
 const urlParams = new URLSearchParams(window.location.search);
 

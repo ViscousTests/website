@@ -31,6 +31,9 @@ staticDir:
   - snapcamcontrol/src/
 
 params:
+  # Google Analytics 4
+  googleAnalyticsID: "G-1T1KY2E7ZN"
+
   BookLogo: 'crow.png'
 
   # (Optional, default true) Show or hide table of contents globally
