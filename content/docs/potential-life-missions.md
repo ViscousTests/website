@@ -27,7 +27,9 @@ steps" section that encourages individuals to experiment with the frontier.
 
 #### Giving People Time
 
-Giving people more time to dig into problems, e.g. with UBI.
+Giving people more time/money to dig into problems, e.g. with UBI.
+
+https://justinmares.com/apply-for-an-trajectory-change-grant/ is an idea.
 
 #### Building a Problem-Accessible Culture
 
