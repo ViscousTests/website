@@ -1,12 +1,19 @@
 # Functional Programming
 
+## What it it?
+
+This talk is a really good overview:
+https://www.youtube.com/watch?app=desktop&v=vK1DazRK_a0.
+
+## Personal Observations
+
 As I've writing I've done [a](https://github.com/kovasap/reddit-tree)
 [few](https://kovasap.github.io/docs/health-and-longevity/biomarker-correlator/)
 projects using Clojure, a functional programming lisp-like language. From those
 projects, I've noticed a few distinct differences between Clojure and Python,
 the procedural/object oriented language I'm most familiar with.
 
-## Programming a function
+### Programming a function
 
 When getting down to implementing a specific function in Clojure vs Python,
 I've noticed that Clojure requires more upfront thought and searching to try to

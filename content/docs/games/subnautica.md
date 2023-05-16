@@ -3,9 +3,7 @@
 Amazing game about exploring an unknown world.
 
 Categories: [Experiences]({{< relref "/" >}}?Experiences=true),
+[Exploration]({{< relref "/" >}}?Exploration=true),
 [Game]({{< relref "/" >}}?Game=true),
 [Games]({{< relref "/" >}}?Games=true),
-[Solitary]({{< relref "/" >}}?Solitary=true),
-[Exploration]({{< relref "/" >}}?Exploration=true)
-
-Backlinks: [Feelings]({{< relref "/docs/feelings.md" >}}), 
+[Solitary]({{< relref "/" >}}?Solitary=true)
