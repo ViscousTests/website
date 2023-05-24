@@ -66,14 +66,6 @@ point where the original vision is unfulfilled in some way.
  - [My thoughts on copyright/ip]({{< relref "/docs/understanding-the-world/copyright-and-ip.md" >}})
 
 
-
-
-
-
-
-
-
-
 Categories: [Mind]({{< relref "/" >}}?Mind=true)
 
 Backlinks: [Manifesto]({{< relref "/docs/manifesto.md" >}}), 

@@ -138,6 +138,10 @@ more well rounded + tasks to try:
    investment plan yourself.
  - Food production - try growing/cooking your own food.
 
+See [a barbell
+life](https://docs.google.com/document/d/1S2RE1y6PCnvWO5x0_IOWgNHjX23Ulp4ids-i6S67dQM/edit)
+for some related thoughts.
+
 ## Empowerment
 
 To me, personal empowerment is about leveraging vigor and wisdom to achieve
