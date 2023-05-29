@@ -4,10 +4,10 @@
 
 | T | Game |
 | - | --------------- |
-| S | {{< tblimage "/docs/favorites/game-images/the-last-spell.avif" >}} {{< tblimage "/docs/favorites/game-images/ozymandias.jpg" >}} {{< tblimage "/docs/favorites/game-images/fellseal.jpg" >}} {{< tblimage "/docs/favorites/game-images/symphony-of-war.avif" >}} {{< tblimage "/docs/favorites/game-images/darkest-dungeon.png" >}} {{< tblimage "/docs/favorites/game-images/Fire_emblem_the_sacred_stones.webp" >}}|
-| A | {{< tblimage "/docs/favorites/game-images/druidstone.avif" >}} |
-| B |  |
-| C | {{< tblimage "/docs/favorites/game-images/solasta.jpg" >}} {{< tblimage "/docs/favorites/game-images/pathfinder-kingmaker.jpeg" >}} |
+| S | {{< game-img "the-last-spell" >}} {{< game-img "ozymandias" >}} {{< game-img "fell-seal-arbiters-mark" >}} {{< game-img "symphony-of-war" >}} {{< game-img "darkest-dungeon" >}} {{< game-img "fire-emblem-the-sacred-stones" >}} {{< game-img "iron-danger" >}}|
+| A | {{< game-img "druidstone" >}} |
+| B | {{< game-img "battle-brothers" >}} |
+| C | {{< game-img "solasta" >}} {{< game-img "pathfinder-kingmaker" >}} |
 | D | |
 
 **S** - Amazing, fully immersed for entire length

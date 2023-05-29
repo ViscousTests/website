@@ -1,5 +1,7 @@
 # Pathfinder Kingmaker
 
+{{< game-img "pathfinder-kingmaker" "400px" >}}
+
 ## Gripes
 
 ### Information Obfuscation

@@ -71,7 +71,6 @@ window.onload = function() {  // Execute this after the page loads.
         all_links,
         document.getElementsByClassName("book-menu").item(0)
         .getElementsByTagName('a'));
-    console.log(all_links);
     all_links.forEach(
         (element, index, array) => {
             const showEmbeddedPage = (e) => {
@@ -84,10 +83,6 @@ window.onload = function() {  // Execute this after the page loads.
                 const embedded_page = getEmbeddedPage(element.href);
                 embedded_page.style.display = "none";
             }
-            console.log(element);
-            console.log(element.href.includes('/docs/'));
-            console.log(!element.href.includes(window.location.pathname));
-            console.log(window.location.pathname);
             if (element.href.includes('/docs/') &&
                     (window.location.pathname == "/" ||
                         !element.href.includes(window.location.pathname))){

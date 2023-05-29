@@ -1,5 +1,7 @@
 # [Ozymandius](https://goblinzstudio.com/game/ozymandias/)
 
+{{< game-img "ozymandias" "400px" >}}
+
 Cool puzzle civ-like game that doesn't drag on forever.
 
 Categories: [Experiences]({{< relref "/" >}}?Experiences=true),

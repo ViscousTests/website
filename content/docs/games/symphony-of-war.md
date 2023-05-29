@@ -1,5 +1,7 @@
 # Symphony of War
 
+{{< game-img "symphony-of-war" "400px" >}}
+
 Useful references:
 
 1. [Unit Affinities and Upgrade Tree](https://steamcommunity.com/sharedfiles/filedetails/?id=2852514526)

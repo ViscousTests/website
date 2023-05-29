@@ -54,7 +54,7 @@ builds are rewarded by making it through the discovery loop faster.
 Games that do this really well both with story and with character customization
 in my opinion include:
 
- - [Fell Seal - Arbiter's Mark]({{< relref "/docs/games/Fell-Seal---Arbiter's-Mark.md" >}})
+ - [Fell Seal - Arbiter's Mark]({{< relref "/docs/games/fell-seal-arbiters-mark.md" >}})
  - [XCOM 2]({{< relref "/docs/games/XCOM-2-+-War-of-the-Chosen.md" >}})
 
 ## Urgency
@@ -74,6 +74,6 @@ do the player's actions really mean?
 
 Categories: [Gamedev]({{< relref "/" >}}?Gamedev=true)
 
-Backlinks: [Fell Seal   Arbiter's Mark]({{< relref "/docs/games/Fell-Seal---Arbiter's-Mark.md" >}}), 
-[Xcom 2 + War Of The Chosen]({{< relref "/docs/games/XCOM-2-+-War-of-the-Chosen.md" >}}), 
+Backlinks: [Xcom 2 + War Of The Chosen]({{< relref "/docs/games/XCOM-2-+-War-of-the-Chosen.md" >}}), 
+[Fell Seal Arbiters Mark]({{< relref "/docs/games/fell-seal-arbiters-mark.md" >}}), 
 [Experiences]({{< relref "/docs/lifestyle-optimizations/experiences.md" >}}), 
