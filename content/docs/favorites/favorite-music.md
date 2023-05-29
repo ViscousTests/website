@@ -31,4 +31,4 @@
 - [Tim Hecker](https://timhecker.bandcamp.com/)
 - [Nick Johnston](https://www.youtube.com/watch?v=MfiNRE6IZJM)
 
-Categories:
+Categories: [Favorites]({{< relref "/" >}}?Favorites=true)
