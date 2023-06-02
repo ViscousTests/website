@@ -2,6 +2,7 @@
 title: Introduction
 type: docs
 bookToC: false
+showAds: false
 ---
 
 # Welcome!

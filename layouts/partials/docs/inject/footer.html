@@ -1,5 +1,6 @@
 <!-- page-bottom -->
-<div style="height: 100px">
+{{ if default true (.Params.showAds) }}
+<div style="height: 70px">
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4538205428063440"
      crossorigin="anonymous"></script>
 <ins class="adsbygoogle"
@@ -12,3 +13,4 @@
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 </div>
+{{ end }}
