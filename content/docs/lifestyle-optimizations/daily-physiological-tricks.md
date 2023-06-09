@@ -26,12 +26,10 @@
    Try dried seaweed as an addition!
  - Don't eat a lot of these foods in a day:
    - broccoli
- - Foods to eat when I want to be productive (e.g. for breakfast/lunch)
-   - Leafy greens, carrots, cauliflower, oils, fish
- - Foods to eat when resting:
+ - Foods to eat when resting / zoning out:
    - Peanut butter, beans, some grains, bread
  - Try to follow this rough eating schedule:
-   - 9am smallish breakfast: greens, carrots, proteins
+   - 9am small breakfast: light salad (not very much fruit)
    - 12-1pm largish lunch: easy to digest carbs, greens, carrots, potatoes, nuts
    - Try not to give in to snacking cravings in the afternoon
    - 7-9pm smallish dinner: grains/beans, harder to digest carbs
@@ -41,7 +39,9 @@
    >}}).
    If it's really cold, do the opposite to stay warm.
  - Leaning back briefly when pooping can help push poop out.
- - Coffee (decaf) bad, especially in the morning.  Green tea good.
+ - Coffee (decaf) bad, especially in the morning.
+   Green tea good.
+   Both are OK right after lunch.
 
 
 Categories: [Lifestyle Optimizations]({{< relref "/" >}}?Lifestyle-Optimizations=true)
