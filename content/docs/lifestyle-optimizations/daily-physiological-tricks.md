@@ -33,7 +33,7 @@
    - 12-1pm largish lunch: easy to digest carbs, greens, carrots, potatoes, nuts
    - Try not to give in to snacking cravings in the afternoon
    - 7-9pm smallish dinner: grains/beans, harder to digest carbs
-     - This later dinner often leads to better sleep for me.
+     - This later carb-y dinner often leads to better sleep for me.
  - Avoid eating a lot of protein in the evening to get [better temperature
    regulation when sleeping]({{< relref "/docs/health-and-longevity/sleep.md"
    >}}).
