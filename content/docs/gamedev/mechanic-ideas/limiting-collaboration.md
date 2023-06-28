@@ -90,4 +90,4 @@ in combat, somewhat like a small group of mercenaries would.
 Categories: [Gamedev]({{< relref "/" >}}?Gamedev=true),
 [Mechanic Ideas]({{< relref "/" >}}?Mechanic-Ideas=true)
 
-Backlinks: [Dead Of Winter]({{< relref "/docs/games/Dead-of-Winter.md" >}}), 
+Backlinks: [Dead Of Winter]({{< relref "/docs/games/dead-of-winter.md" >}}), 

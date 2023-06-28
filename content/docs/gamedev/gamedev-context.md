@@ -6,7 +6,9 @@
 
 ## /r/gamedev on Reddit
 
+## Why Gamedev
 
+ - https://etodd.io/2023/06/27/making-games/
 
 
 
