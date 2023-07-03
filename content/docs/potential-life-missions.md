@@ -88,5 +88,6 @@ is one way to reduce these costs.
 
 Categories:
 
-Backlinks: [Optimism]({{< relref "/docs/mind/optimism.md" >}}), 
+Backlinks: [Why Greatness Cannot Be Planned]({{< relref "/docs/books/why-greatness-cannot-be-planned.md" >}}), 
+[Optimism]({{< relref "/docs/mind/optimism.md" >}}), 
 [Utopia]({{< relref "/docs/society/utopia.md" >}}), 
