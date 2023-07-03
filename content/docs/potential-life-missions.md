@@ -83,7 +83,7 @@ is one way to reduce these costs.
 
 ## How?
 
- - http://paulgraham.com/greatwork.html
+ - http://paulgraham.com/greatwork.html, https://news.ycombinator.com/item?id=36550615
  - [Why Greatness Cannot be Planned]({{< relref "/docs/books/why-greatness-cannot-be-planned.md" >}})
 
 Categories:
