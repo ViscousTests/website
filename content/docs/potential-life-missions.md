@@ -81,6 +81,11 @@ reduced.
 Participating in things like sci-hub / piracy or open sourcing useful software
 is one way to reduce these costs.
 
+## How?
+
+ - http://paulgraham.com/greatwork.html
+ - [Why Greatness Cannot be Planned]({{< relref "/docs/books/why-greatness-cannot-be-planned.md" >}})
+
 Categories:
 
 Backlinks: [Optimism]({{< relref "/docs/mind/optimism.md" >}}), 
