@@ -46,6 +46,11 @@ This is similar to using a REPL in Clojure with generative test case-ing via
 spec, but crucially captures data that causes errors in a real run of the
 program (unlike Clojure with a REPL and random data).
 
+Conversation about this idea:
+
+ - https://clojurians.slack.com/archives/C03S1KBA2/p1688414895048359
+ - https://www.reddit.com/r/Clojure/comments/14pt9qj/automatic_function_argument_return_value/
+
 <details>
 <summary>
 Conversation sparked by this:
