@@ -120,6 +120,19 @@ This would provide a "floor" that people wouldn't be able to fall beneath.
 It would also allow markets to keep service production efficient, which wouldn't
 necessarily be the case if the government simply provided the needs directly.
 
+#### Tyranny of Other People
+
+All societies have some parts in which people are at the mercy of other people
+who control their employment status, political status, time, and/or access to
+resources.
+This often leads to disasterous results (see the atrocities committed by
+totalitarian regimes, or the depression caused by an abusive boss) and in
+general creates a lot of daily stress for the people that have to make sure
+their controllers are happy with them.
+Basic need satisfaction would go a long way towards eliminating this problem as
+well.
+
+
 
 ### Freedom of Information and Education
 
