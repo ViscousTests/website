@@ -26,4 +26,3 @@ I think a time rewinding mechanic in these games would be miles better.
 Categories: [Gamedev]({{< relref "/" >}}?Gamedev=true)
 
 Backlinks: [Iron Danger]({{< relref "/docs/games/Iron-Danger.md" >}}), 
-[Iron Danger]({{< relref "/docs/games/iron-danger.md" >}}), 
