@@ -57,6 +57,15 @@ The terrible combination of the above two problems. Should be avoided at all
 costs.
 
 
+### Meritocratic Thinking
+
+Our society is structured so that more successful people are seen as more
+"deserving" that less successful ones.
+This can help with motivation to be better, but leads to a lot of injustice.
+In my opinion the emotions of all people are equally important to maintain in a
+positive place - meritocracy is often directly opposed to this goal.
+
+
 ## Solutions
 
 In my opinion, we should be putting **all** people to work solving the above
