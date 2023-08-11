@@ -143,6 +143,12 @@ the very least, make it so that when you are peeking out of cover you are also
 shooting - this way worst case you are trading damage one-to-one with your
 opponent.
 
+## Angle Types
+
+Whoever is closest to an angle has a disadvantage when fighting, as their body will be exposed before their opponent's.  Therefore, when holding an angle, it's helpful to be as far away from the piece of cover you expect your opponent to peek out from.  This also makes you a smaller target.
+
+If you must hold close to an angle, you have to bank on your opponent not being thoughough and hide very passively, or be ready to aggresively peek with a close range weapon based on a sound cue.
+
 ## Influences
 
  - [Great break down by CoachNihil of kandyrew's
