@@ -25,6 +25,9 @@ Various political revolutions come to mind.
 easily.
 It is temping to blame the world when things go wrong after all.
 
+See https://publicism.info/science/infinity/10.html for a deep dive on another
+definition of optimism I like: "The Principle of Optimism: All evils are caused by insufficient knowledge.".
+
 Categories: [Mind]({{< relref "/" >}}?Mind=true)
 
 Backlinks: [Potential Life Missions]({{< relref "/docs/potential-life-missions.md" >}}), 
