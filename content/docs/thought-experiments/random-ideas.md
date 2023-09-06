@@ -100,6 +100,13 @@ rack shape.
 This will let the water flowing through the pipe heat your towel so it's nice
 and warm when you go to dry off.
 
+### Upside Down Keyboard
+
+Put your keyboard and mouse underneath your desk and use them with your palms
+facing up.
+This might help with RSI or at least would be a funny joke to surprise coworkers
+with.
+
 
 ## Amusing
 
