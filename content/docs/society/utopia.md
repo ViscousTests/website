@@ -220,4 +220,5 @@ Backlinks: [Potential Life Missions]({{< relref "/docs/potential-life-missions.m
 [Antifragile]({{< relref "/docs/books/antifragile.md" >}}), 
 [Why Greatness Cannot Be Planned]({{< relref "/docs/books/why-greatness-cannot-be-planned.md" >}}), 
 [Creativity]({{< relref "/docs/mind/creativity.md" >}}), 
+[Utopian Idea Management]({{< relref "/docs/society/utopian-idea-management.md" >}}), 
 [Copyright And Ip]({{< relref "/docs/understanding-the-world/copyright-and-ip.md" >}}), 
