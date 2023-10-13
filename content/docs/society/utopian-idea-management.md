@@ -59,3 +59,5 @@ Some information should still be restricted.  This includes:
    canonical world, even if the books themselves are freely copyable.
 
 Categories: [Society]({{< relref "/" >}}?Society=true)
+
+Backlinks: [Utopia]({{< relref "/docs/society/utopia.md" >}}), 

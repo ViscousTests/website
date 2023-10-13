@@ -22,6 +22,8 @@ This kind of work is currently necessary work that keeps society from
 backsliding.  It is extremely important, but we should be working to automate
 it or find ways to avoid needing it to make progress.
 
+https://www.youtube.com/watch?v=6WAe0f74Q0s
+
 #### Service Work
 
 In my opinion, most service work is already unnecessary given the alternatives.
