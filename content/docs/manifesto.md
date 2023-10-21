@@ -1,7 +1,7 @@
 # Personal Manifesto
 
-I aspire to be a **vigorous** and **wise** person that feels **empowered** to
-both help myself and others become more vigorous and wise.
+I aspire to be a **vigorous**, **wise**, and **curious** person that feels
+**empowered** to both help myself and others become more vigorous and wise.
 
 ## Personal Characteristics
 
@@ -42,6 +42,10 @@ tricky and fickle.  For me, it helps to:
  - Set up my environment and habits so that I am consistently exposed to the
    goal, making it more likely my thoughts will wander to it and make progress
    decoding it.
+ - Spend time writing about how I might achive the goal, or make a more
+   concrete plan on paper as I know more.
+   This will help keep me on track once I get started doing tasks, and helps
+   avoid the problem of finishing something then not knowing what to do next.
  - See also [creativity]({{< relref "/docs/mind/creativity.md" >}}) (maybe I
    should merge these sections).
 
@@ -141,6 +145,17 @@ more well rounded + tasks to try:
 See [a barbell
 life](https://docs.google.com/document/d/1S2RE1y6PCnvWO5x0_IOWgNHjX23Ulp4ids-i6S67dQM/edit)
 for some related thoughts.
+
+## Curiosity
+
+The desire to explore novelty.
+
+In [Why Greatness Cannot be Planned]({{< relref
+"/docs/books/why-greatness-cannot-be-planned.md" >}}), the authors discuss how
+large human advancements necessarily come from people exploring the unknown.
+I want to be the kind of person that makes doing this a habit.
+This has the side benefit of making life seem richer, as novelty leads to
+[stronger memory formation](https://radiolab.org/podcast/secret-long-life).
 
 ## Empowerment
 
