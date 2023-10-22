@@ -27,3 +27,5 @@ I couldn't notice the difference in Valorant or CS 2 as much.
 In the end I decided to return everything.
 In the future if I get a better graphics card that lets me get >100 FPS at 1440p
 on most games I'll probably upgrate my monitor too.
+
+Categories: [Gaming]({{< relref "/" >}}?Gaming=true)
