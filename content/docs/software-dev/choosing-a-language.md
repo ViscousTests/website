@@ -15,6 +15,8 @@ anything is dramatically reduced.  One good example of this is GDScript (a
 less-featureful Python), which is built into the Godot Game Engine.  Another
 example is Javascript, which has tons and tons of libraries.
 
+**Productivity?**  This is really hard to measure, but there have been [some attempts](https://www.reddit.com/r/ProgrammingLanguages/comments/17mim5r/programming_language_paradigm_productivity/).
+
 This is a cool way to directly compare the look and feel of different languages:
 http://www.rosettacode.org/wiki/Rosetta_Code.
 

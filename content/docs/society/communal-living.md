@@ -9,3 +9,5 @@ I hear personally anecdotes from people that they "want their own place" or that
 they are tired of living with others.
 
 ... elaborate ...
+
+Categories: [Society]({{< relref "/" >}}?Society=true)
