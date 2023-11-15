@@ -11,3 +11,5 @@ they are tired of living with others.
 ... elaborate ...
 
 Categories: [Society]({{< relref "/" >}}?Society=true)
+
+Backlinks: [Everyday Utopia]({{< relref "/docs/books/everyday-utopia.md" >}}), 

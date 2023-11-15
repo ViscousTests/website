@@ -27,6 +27,7 @@ it's less convenient to do so.
 ## Alternatives
 
  - https://prose.sh/
+ - https://neocities.org/
 
 ## Inspiration
 
