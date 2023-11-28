@@ -214,6 +214,8 @@ This is heavily inspired by
 Infinity](https://en.wikipedia.org/wiki/The_Beginning_of_Infinity) by David
 Deutsch.
 
+Other reading: https://slatestarcodex.com/2014/07/30/meditations-on-moloch/
+
 See also [thoughts on creativity]({{< relref "/docs/mind/creativity.md" >}}).
 
 Categories: [Society]({{< relref "/" >}}?Society=true)
