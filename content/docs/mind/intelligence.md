@@ -36,4 +36,6 @@ be proxies for intelligence.
 I think skills like this can be learned like many others, and are built by
 etching heuristics and patterns into your brain.
 
+Relevant note: https://news.ycombinator.com/item?id=38509399
+
 Categories: [Mind]({{< relref "/" >}}?Mind=true)
