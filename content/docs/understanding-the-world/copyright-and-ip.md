@@ -20,6 +20,8 @@ https://sci-hub.se/
 
 https://libgen.rs/
 
+https://laniakeabooks.org/#home
+
 Categories: [Understanding The World]({{< relref "/" >}}?Understanding-The-World=true)
 
 Backlinks: [Creativity]({{< relref "/docs/mind/creativity.md" >}}), 
