@@ -23,6 +23,4 @@ Additionally, feedback can be much more precise and specific; reviewers can
 point to a specific step in the user journey and express skepticism or propose
 an additional step.
 
-Discussion: https://news.ycombinator.com/item?id=38725340#38727474
-
 Categories: [Software Dev]({{< relref "/" >}}?Software-Dev=true)
