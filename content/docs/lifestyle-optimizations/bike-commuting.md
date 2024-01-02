@@ -103,6 +103,8 @@ if I haven't linked any myself.
 Most repairs require some specialized tools, which are pretty cheap on Amazon
 (usually less expensive than having the repair done professionally once).
 
+A good site for learning more is https://www.sheldonbrown.com.
+
 ### Flat Tires
 
 I like to keep a couple tubes (like [this one](https://amzn.to/3qN1r87)) around
