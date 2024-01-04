@@ -1,5 +1,11 @@
 # Expected Returns for Buying a House
 
+A simpler alternative for a quick calcution is
+https://businesscaseguy.com/should-i-invest-in-real-estate-or-stocks/.
+
+For the rent vs buy question, see
+https://www.nytimes.com/interactive/2014/upshot/buy-rent-calculator.html.
+
 Looking at list prices for homes can be a strange experience.  To me, a list
 price is just a large number that has little or any meaning to the impact
 buying that house will have on my finances.  To confidently judge whether a
