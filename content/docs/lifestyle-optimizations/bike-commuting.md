@@ -144,6 +144,16 @@ distances between the teeth on the cog. See
 https://www.parktool.com/blog/repair-help/when-to-replace-a-chain-on-a-bicycle
 for a good overview of this problem.
 
+**TIP:** When replacing the chain, sometimes using a chain tool to drive the
+cylindrical bit through the two links to close the loop will result in a "stiff"
+link.
+Basically the two links of the chain on either side of the bit you just drove
+through will not rotate freely along the bit like the other links.
+One common reason this happens is because the pressure from driving the bit will
+*press the outer link firming against the inner one*.
+To fix this, simply put some metal pliers or the like into the gap between the
+two outer link's sides and twist to push the sides further apart!
+
 #### 3. Worn Cogs
 
 Just like chains can wear out, so can the cogs they wrap around.  This happens
