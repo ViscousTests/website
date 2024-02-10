@@ -29,4 +29,8 @@ It's hard for me to do otherwise seeing as the US market has outperformed the ex
 
 ![us-vs-intl](/docs/investing-and-finances/us-vs-international-returns.png)
 
+## Bonds
+
+See https://www.youtube.com/watch?v=JlgMSDYnT2o for some thoughts.
+
 Categories: [Investing And Finances]({{< relref "/" >}}?Investing-And-Finances=true)
