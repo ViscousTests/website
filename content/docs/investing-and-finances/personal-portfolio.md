@@ -29,6 +29,8 @@ It's hard for me to do otherwise seeing as the US market has outperformed the ex
 
 ![us-vs-intl](/docs/investing-and-finances/us-vs-international-returns.png)
 
+See some discussion of this strategy at https://www.reddit.com/r/Bogleheads/s/6cpG40p8E8.
+
 ## Bonds
 
 See https://www.youtube.com/watch?v=JlgMSDYnT2o for some thoughts.
