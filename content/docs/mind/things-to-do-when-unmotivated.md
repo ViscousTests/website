@@ -25,10 +25,12 @@ while. Some ideas:
 
  - Write a narrative of what you have been doing towards a particular task to
    clear up thinking about it.
+   - Con: Can be hard
  - Napping.
  - Going for a run or doing any kind of exercise.
  - Taking a shower
  - Not eating (being hungry), or getting colder in temperature.
+   - Con: Stressful.  Best if paired with another engaging activity.
  - Organizing stuff.
    E.g.
    going through old browser tabs or loading the dishwasher.
@@ -53,6 +55,16 @@ while. Some ideas:
  - Talking to people.
    - Con: People not always available.
    - Con: Can be draining.
+   - Con: Can lock you in to a conversation longer than you want to be.
+ - Eating.
+   - Pro: Is relaxing.
+   - Con: Can lead to "snack-train"-ing, where I keep going back for more snacks
+     and end up overeating.
+     This in the worst case can have knock on effects for days of low/bad
+     energy!
+ - YouTubeing.
+   - Pro: Is relaxing.
+   - Con: Can lead to time consuming rabbit hole.
 
 Categories: [Mind]({{< relref "/" >}}?Mind=true)
 
