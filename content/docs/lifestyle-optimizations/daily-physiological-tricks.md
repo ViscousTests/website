@@ -7,7 +7,7 @@
    (phone, PC) and letting my mind wander.
    - See also [these ideas]({{< relref
      "/docs/mind/things-to-do-when-unmotivated.md" >}}) for other things to do.
-   - When doing this, add "planned" events to mementodb, or think about the currently "planned" events, and how they should be resolved.
+   - When doing this, add "planned" events to [mementodb](https://github.com/kovasap/autojournal-on-gas?tab=readme-ov-file#manual-tracking), or think about the currently "planned" events, and how they should be resolved.
  - When something interesting happens, take a note [in
    mementodb](https://github.com/kovasap/autojournal-on-gas?tab=readme-ov-file#manual-tracking).
  - When having a conversation with someone, try to use some of [these
