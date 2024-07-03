@@ -1,4 +1,6 @@
-# Keyboard Layouts
+# Keyboards and Typing
+
+## Layouts
 
 https://www.keybr.com/layouts
 
@@ -6,17 +8,21 @@ https://www.keybr.com/layouts
 
 https://www.reddit.com/r/Colemak/comments/qslro8/10000_simple_wikipedia_sentences_heatmap_qwerty/
 
-## Other Rebindings
+### My setup
 
-### Currently Use
+#### Ergo Split Board
 
- - Caps Lock <-> Escape
+https://github.com/kovasap/zmk-config/blob/main/config/corne.keymap
 
-### To Try
+#### Laptop (ANSI)
 
- - Caps Lock -> Control -> Escape -> Caps Lock
+https://dreymar.colemak.org/ergo-mods.html#angle-wide
 
-## Touch Typing
+### Interesting other options
+
+ - https://precondition.github.io/home-row-mods#tips-and-tricks
+
+### Touch Typing
 
 I find this "finger-key ownership" scheme to be the most comfortable, at least when using the Colemak layout:
 
@@ -26,7 +32,7 @@ I find this "finger-key ownership" scheme to be the most comfortable, at least w
 https://www.keybr.com/ is a great place to efficiently learn touch typing.
 
 
-## Speed Testing
+### Speed Testing
 
 https://monkeytype.com/ with tags is a good way to compare typing speed.
 

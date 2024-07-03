@@ -36,6 +36,16 @@
  - Don't eat a lot of these foods in a day (to avoid feeling bloated / overfull):
    - broccoli
 
+### Food Priority List
+
+When given the option, try to pick foods towards the top of the list:
+
+ - Fish / Seafood
+ - Leafy Greens
+ - Brassicas (brussel sprouts, etc.)
+ - Eggs
+ - Peanuts / Legumes
+
 ### Old / Obselete?
 
  - Foods to eat when resting / zoning out:
