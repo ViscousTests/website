@@ -31,11 +31,16 @@ I find this "finger-key ownership" scheme to be the most comfortable, at least w
 
 https://www.keybr.com/ is a great place to efficiently learn touch typing.
 
-
 ### Speed Testing
 
 https://monkeytype.com/ with tags is a good way to compare typing speed.
 
+
+## Hardware
+
+I bought a wireless corne already assembled off of reddit.
+https://armno.in.th/blog/building-a-wireless-corne-keyboard/ was really helpful
+to get it set up.
 
 ## Inspiration and other projects
 
