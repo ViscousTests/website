@@ -3,6 +3,8 @@
 [Master Cooking
 Spreadsheet](https://docs.google.com/spreadsheets/d/1d25vAW2nD0BdffwPbQgmy4lRhBi30cJNHOyaC-B9dHM/edit#gid=0)
 
+Check out https://www.reciperadar.com/#search for a good way to find recipies based on what you currently have.
+
 ## Microwave Steam Bowls
 
 A really easy and convenient way to make some pretty tasty (and healthy!) food.
