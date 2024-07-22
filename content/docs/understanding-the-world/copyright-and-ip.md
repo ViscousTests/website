@@ -22,6 +22,8 @@ https://libgen.rs/
 
 https://laniakeabooks.org/#home
 
+https://matthewstrom.com/writing/copying/
+
 Categories: [Understanding The World]({{< relref "/" >}}?Understanding-The-World=true)
 
 Backlinks: [Creativity]({{< relref "/docs/mind/creativity.md" >}}), 
