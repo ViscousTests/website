@@ -45,5 +45,6 @@ to get it set up.
 
  - A small keyboard with many layers:
    https://news.ycombinator.com/item?id=32634511
+ - https://ianthehenry.com/posts/peggi/
 
 Categories: [Lifestyle Optimizations]({{< relref "/" >}}?Lifestyle-Optimizations=true)
