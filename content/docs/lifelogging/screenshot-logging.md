@@ -19,4 +19,7 @@ https://github.com/kovasap/auto-screenshooter
 This method generates a lot of images, which makes it harder to view them in a
 timeline easily.
 
+https://github.com/kovasap/dotfiles?tab=readme-ov-file#automatic-screenshooting
+describes a good method to do this on windows.
+
 Categories: [Lifelogging]({{< relref "/" >}}?Lifelogging=true)

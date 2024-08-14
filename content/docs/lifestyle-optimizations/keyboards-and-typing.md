@@ -4,7 +4,7 @@
 
 https://www.keybr.com/layouts
 
-![layouts](layouts.png)
+![layouts](/docs/lifestyle-optimizations/layouts.png)
 
 https://www.reddit.com/r/Colemak/comments/qslro8/10000_simple_wikipedia_sentences_heatmap_qwerty/
 
@@ -26,8 +26,7 @@ https://dreymar.colemak.org/ergo-mods.html#angle-wide
 
 I find this "finger-key ownership" scheme to be the most comfortable, at least when using the Colemak layout:
 
-![finger-key ownership](fingers.png)
-
+![finger-key ownership](/docs/lifestyle-optimizations/fingers.png)
 
 https://www.keybr.com/ is a great place to efficiently learn touch typing.
 
