@@ -1,5 +1,7 @@
 # Keyboards and Typing
 
+See an overview presentation I made at https://docs.google.com/presentation/d/1YsScPYB9H_Byha7xdw69ekQ6zQyqFh3ReMfeFMfVEDk/edit.
+
 ## Layouts
 
 https://www.keybr.com/layouts
