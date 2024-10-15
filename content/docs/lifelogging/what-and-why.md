@@ -155,14 +155,6 @@ track almost any data type with very few taps, AND it syncs to Google Drive
 (Sheets) automatically!
 
 
-
-
-
-
-
-
-
-
 Categories: [Lifelogging]({{< relref "/" >}}?Lifelogging=true)
 
 Backlinks: [Continuous Glucose Monitoring]({{< relref "/docs/health-and-longevity/continuous-glucose-monitoring.md" >}}), 

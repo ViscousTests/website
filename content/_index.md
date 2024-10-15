@@ -28,4 +28,4 @@ I also try to follow this advice on my [Writing]({{< relref
 
 Double click on nodes to go to the pages the represent!
 
-Whole site count: 58929 words, 77.0% of Harry Potter and the Sorcerer's Stone
+Whole site count: 59200 words, 77.0% of Harry Potter and the Sorcerer's Stone
