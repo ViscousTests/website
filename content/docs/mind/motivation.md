@@ -159,6 +159,14 @@ https://www.scientificamerican.com/article/we-learn-faster-when-we-arent-told-wh
 There are many sources of meaning (just see the above linked virtues list). Some
 of the sources that are strong for me personally:
 
+1. Making something complicated, or hard to think about, clear.
+   This could mean writing a good description or coming up with a good
+   diagram/model.
+   For example: https://ciechanow.ski/gps/.
+    - One of the main reasons this is so important is that it breeds motivation
+      for you and others to work on the complicated thing.
+1. Building a tool that makes a task someone does regularly much easier.
+   Doesn't matter how well the tool is built, just that it works.
 1. Proving competence.
    This involves demonstrating to myself and others that I can overcome
    difficult challenges.
