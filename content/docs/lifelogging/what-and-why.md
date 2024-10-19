@@ -88,7 +88,7 @@ be achieved with the following components:
  - A tool that can find correlations in the stored data and in general condense
    it down to insights. Preferably this would be folded into the calendar or
    timeline visualization.
-   - Partially done with [biomarker correlator]({{< relref "/biomarker-correlator.html" >}})
+   - Partially done with [biomarker correlator]({{< relref "/docs/health-and-longevity/biomarker-correlator.md" >}})
 
 An example of what this looks like can be found at
 https://miguelrochefort.com/blog/calendar/ (not my system exactly, but very
