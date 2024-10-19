@@ -90,10 +90,24 @@ connection.
 Some of my connections worked right after soldering, but failed after a couple
 hours exposed to colder temps.
 
+![kaly_in_progress](/docs/lifestyle-optimizations/kaly_in_progress.jpg)
+*Midway
+through the build, here I was trying to decide if I should use the large sockets
+available at my makerspace, or solder directly onto the board.
+Luckily I was able to find shorter sockets from a coworker that gave me the best
+of both worlds.*
+
 #### Final Product
 
 ![kaly](/docs/lifestyle-optimizations/kaly.jpg)
-*My Kaly42!*
+
+![kaly_on_wood](/docs/lifestyle-optimizations/kaly_on_wood.jpg)
+
+![kaly_on_desk](/docs/lifestyle-optimizations/kaly_on_desk.jpg)
+
+#### Keymap
+
+https://github.com/kovasap/qmk_firmware/blob/master/keyboards/kaly/kaly42/keymaps/kovasap/keymap.c
 
 ## Inspiration and other projects
 
