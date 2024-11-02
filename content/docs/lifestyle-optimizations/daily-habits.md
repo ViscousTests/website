@@ -9,9 +9,9 @@
    Focus on protein/fat with some carbs like potatoes/grains.
    If eating desserts during the day, eat them now.
  - **Dinner:** eat only if hungry.
-   Focus on mainly whole grain carbs, avoid fat.
+   Focus on mainly whole grain carbs, avoid fat and salt!
    This is to avoid disturbing sleep (I find whole grains make me sleepy,
-   digesting fat/protein keeps me awake).
+   digesting fat/salt keeps me awake).
     - *Enforcement mechanism:* I have a calendar event every day starting at
       5:30 that reminds me of this item.
 
