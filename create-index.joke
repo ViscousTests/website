@@ -113,7 +113,7 @@ hi
                                                                  category))]
                                                 delinked
                                                 category))]
-                 :when    (not (= cleaned-category ""))]
+                 :when    (not (contains? #{"Game" "Experiences" ""} cleaned-category))]
              cleaned-category))
      categoryless-text]))
 

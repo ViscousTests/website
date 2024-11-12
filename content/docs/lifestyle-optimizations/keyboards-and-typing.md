@@ -115,4 +115,5 @@ https://github.com/kovasap/qmk_firmware/blob/master/keyboards/kaly/kaly42/keymap
    https://news.ycombinator.com/item?id=32634511
  - https://ianthehenry.com/posts/peggi/
 
-Categories: [Lifestyle Optimizations]({{< relref "/" >}}?Lifestyle-Optimizations=true)
+Categories: [Lifestyle Optimizations]({{< relref "/" >}}?Lifestyle-Optimizations=true),
+[Recent]({{< relref "/" >}}?Recent=true)

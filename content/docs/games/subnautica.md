@@ -2,8 +2,6 @@
 
 Amazing game about exploring an unknown world.
 
-Categories: [Experiences]({{< relref "/" >}}?Experiences=true),
-[Exploration]({{< relref "/" >}}?Exploration=true),
-[Game]({{< relref "/" >}}?Game=true),
+Categories: [Exploration]({{< relref "/" >}}?Exploration=true),
 [Games]({{< relref "/" >}}?Games=true),
 [Solitary]({{< relref "/" >}}?Solitary=true)

@@ -19,5 +19,4 @@ Overall my experience made me wonder if this game is focusing on the tactical
 combat or if it's just throwing a bunch of things in and relying on the
 spectacle and all the little micro decisions to keep players engaged.
 
-Categories: [Experiences]({{< relref "/" >}}?Experiences=true),
-[Games]({{< relref "/" >}}?Games=true)
+Categories: [Games]({{< relref "/" >}}?Games=true)

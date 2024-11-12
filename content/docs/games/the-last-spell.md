@@ -7,6 +7,4 @@ See a list of builds I've been trying
 
 Feelings:
 
-Categories: [Experiences]({{< relref "/" >}}?Experiences=true),
-[Game]({{< relref "/" >}}?Game=true),
-[Games]({{< relref "/" >}}?Games=true)
+Categories: [Games]({{< relref "/" >}}?Games=true)

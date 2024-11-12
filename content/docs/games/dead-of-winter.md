@@ -20,8 +20,7 @@ Feelings:
 
  - [Watching with Extra Information]({{< relref "/docs/feelings.md" >}}#watching-with-extra-information)
 
-Categories: [Experiences]({{< relref "/" >}}?Experiences=true),
-[Games]({{< relref "/" >}}?Games=true)
+Categories: [Games]({{< relref "/" >}}?Games=true)
 
 Backlinks: [Feelings]({{< relref "/docs/feelings.md" >}}), 
 [Limiting Collaboration]({{< relref "/docs/gamedev/mechanic-ideas/limiting-collaboration.md" >}}), 

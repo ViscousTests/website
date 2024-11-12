@@ -48,6 +48,4 @@ Ideally the team will respect the state that it is in and behave accordingly to 
 Feelings:
 
 Categories: [Competitive]({{< relref "/" >}}?Competitive=true),
-[Experiences]({{< relref "/" >}}?Experiences=true),
-[Game]({{< relref "/" >}}?Game=true),
 [Games]({{< relref "/" >}}?Games=true)

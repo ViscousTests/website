@@ -14,6 +14,8 @@ To update projects hosted on the site:
 git submodule update --recursive --remote
 ```
 
+**Make sure you clear your browser cache after updating to see the new code!**
+
 ## Development
 
 Run server locally when writing with:

@@ -5,6 +5,5 @@ Watched with my Dad after being told that it would be very hard to understand. T
 Feelings:
 
 Categories: [Consuming Content]({{< relref "/" >}}?Consuming-Content=true),
-[Experiences]({{< relref "/" >}}?Experiences=true),
 [Movie]({{< relref "/" >}}?Movie=true),
 [Videos]({{< relref "/" >}}?Videos=true)

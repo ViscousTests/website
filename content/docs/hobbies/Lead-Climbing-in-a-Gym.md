@@ -11,7 +11,6 @@ Feelings:
 
 Categories: [Climbing]({{< relref "/" >}}?Climbing=true),
 [Exercise]({{< relref "/" >}}?Exercise=true),
-[Experiences]({{< relref "/" >}}?Experiences=true),
 [Hobbies]({{< relref "/" >}}?Hobbies=true),
 [Social]({{< relref "/" >}}?Social=true),
 [⭐top10]({{< relref "/" >}}?⭐top10=true)

@@ -42,4 +42,5 @@ https://github.com/kovasap/autojournal-on-gas
 
 *This page should be kept up to date via a recurring Google task*
 
-Categories: [Lifestyle Optimizations]({{< relref "/" >}}?Lifestyle-Optimizations=true)
+Categories: [Lifestyle Optimizations]({{< relref "/" >}}?Lifestyle-Optimizations=true),
+[Recent]({{< relref "/" >}}?Recent=true)
