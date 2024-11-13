@@ -14,6 +14,9 @@ made this visualization:
 <iframe src="/reddit-tree.html" width="100%" height="100%" style="border:none;" scrolling="no"></iframe>
 -->
 
+I learned that most upvotes go to the first comments by far.
+Comments that come in later are far less likely to reach the top of the list.
+
 The code can be found at
 [github.com/kovasap/reddit-tree](https://github.com/kovasap/reddit-tree).
 
