@@ -7,7 +7,6 @@ Feelings:
   - [Wonder]({{< relref "/docs/feelings.md" >}}#wonder)
 
 Categories: [Consuming Content]({{< relref "/" >}}?Consuming-Content=true),
-[Experiences]({{< relref "/" >}}?Experiences=true),
 [Videos]({{< relref "/" >}}?Videos=true)
 
 Backlinks: [Feelings]({{< relref "/docs/feelings.md" >}}), 

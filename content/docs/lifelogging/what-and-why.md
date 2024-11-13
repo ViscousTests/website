@@ -88,7 +88,7 @@ be achieved with the following components:
  - A tool that can find correlations in the stored data and in general condense
    it down to insights. Preferably this would be folded into the calendar or
    timeline visualization.
-   - Partially done with [biomarker correlator]({{< relref "/biomarker-correlator.html" >}})
+   - Partially done with [biomarker correlator]({{< relref "/docs/health-and-longevity/biomarker-correlator.md" >}})
 
 An example of what this looks like can be found at
 https://miguelrochefort.com/blog/calendar/ (not my system exactly, but very
@@ -157,7 +157,8 @@ track almost any data type with very few taps, AND it syncs to Google Drive
 
 Categories: [Lifelogging]({{< relref "/" >}}?Lifelogging=true)
 
-Backlinks: [Continuous Glucose Monitoring]({{< relref "/docs/health-and-longevity/continuous-glucose-monitoring.md" >}}), 
+Backlinks: [Biomarker Correlator]({{< relref "/docs/health-and-longevity/biomarker-correlator.md" >}}), 
+[Continuous Glucose Monitoring]({{< relref "/docs/health-and-longevity/continuous-glucose-monitoring.md" >}}), 
 [Tracking Health]({{< relref "/docs/health-and-longevity/tracking-health.md" >}}), 
 [Camera]({{< relref "/docs/lifelogging/camera.md" >}}), 
 [Task Tracking]({{< relref "/docs/lifestyle-optimizations/task-tracking.md" >}}), 

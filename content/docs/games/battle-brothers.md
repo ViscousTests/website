@@ -17,13 +17,16 @@ with.
 This means that it's tricky to personally track if your strategy is working
 without a decent time investment for each strategy you are trying.
 
+Mods I've worked on:
+
+ - https://github.com/kovasap/mod_rng_free
+ - https://github.com/kovasap/mod_deterministic_loot
+
 Feelings: 
 
   - [Reactive Randomness Stress]({{< relref "/docs/feelings.md" >}}#reactive-randomness-stress)
 
-Categories: [Experiences]({{< relref "/" >}}?Experiences=true),
-[Game]({{< relref "/" >}}?Game=true),
-[Games]({{< relref "/" >}}?Games=true),
+Categories: [Games]({{< relref "/" >}}?Games=true),
 [Solitary]({{< relref "/" >}}?Solitary=true),
 [Turn Based]({{< relref "/" >}}?Turn-Based=true)
 

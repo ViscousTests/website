@@ -7,7 +7,6 @@ Feelings:
   - [Relaxing]({{< relref "/docs/feelings.md" >}}#relaxing)
 
 Categories: [Exercise]({{< relref "/" >}}?Exercise=true),
-[Experiences]({{< relref "/" >}}?Experiences=true),
 [Games]({{< relref "/" >}}?Games=true),
 [Lifestyle]({{< relref "/" >}}?Lifestyle=true)
 

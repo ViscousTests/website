@@ -5,6 +5,4 @@ This game was pretty mindless but at least it let me [make a YouTube video with 
 Feelings:
 
 Categories: [Competitive]({{< relref "/" >}}?Competitive=true),
-[Experiences]({{< relref "/" >}}?Experiences=true),
-[Game]({{< relref "/" >}}?Game=true),
 [Games]({{< relref "/" >}}?Games=true)

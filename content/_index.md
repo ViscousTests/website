@@ -28,4 +28,8 @@ I also try to follow this advice on my [Writing]({{< relref
 
 Double click on nodes to go to the pages the represent!
 
-Whole site count: 59277 words, 77.0% of Harry Potter and the Sorcerer's Stone
+Nodes with bold text and a purple background are "recent" - a tag I use to
+denote something as important or recently relevant to let it stand out from
+everything else.
+
+Whole site count: 59588 words, 77.0% of Harry Potter and the Sorcerer's Stone

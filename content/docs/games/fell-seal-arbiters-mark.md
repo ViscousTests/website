@@ -15,9 +15,7 @@ This is an awesome way to reward players who do a good job with their builds
 
 Feelings:
 
-Categories: [Experiences]({{< relref "/" >}}?Experiences=true),
-[Game]({{< relref "/" >}}?Game=true),
-[Games]({{< relref "/" >}}?Games=true),
+Categories: [Games]({{< relref "/" >}}?Games=true),
 [Solitary]({{< relref "/" >}}?Solitary=true),
 [Turn Based]({{< relref "/" >}}?Turn-Based=true),
 [⭐top10]({{< relref "/" >}}?⭐top10=true)

@@ -5,6 +5,5 @@ Great story, cool themes about family and parenting. Also about self discovery. 
 Feelings:
 
 Categories: [Consuming Content]({{< relref "/" >}}?Consuming-Content=true),
-[Experiences]({{< relref "/" >}}?Experiences=true),
 [Movie]({{< relref "/" >}}?Movie=true),
 [Videos]({{< relref "/" >}}?Videos=true)

@@ -7,8 +7,7 @@ Feelings:
   - [Financial Control]({{< relref "/docs/feelings.md" >}}#financial-control)
   - [Scanning through possibilities]({{< relref "/docs/feelings.md" >}}#scanning-through-possibilities)
 
-Categories: [Experiences]({{< relref "/" >}}?Experiences=true),
-[Games]({{< relref "/" >}}?Games=true),
+Categories: [Games]({{< relref "/" >}}?Games=true),
 [Habit]({{< relref "/" >}}?Habit=true)
 
 Backlinks: [Feelings]({{< relref "/docs/feelings.md" >}}), 

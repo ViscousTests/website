@@ -270,14 +270,7 @@ Some great resources for goal execution:
  - Meditation to help when getting overwhelmed:
    https://www.youtube.com/watch?v=i7kh8pNRWOo
  - Work specific motivation: https://jasont.co/ennui/
-
-
-
-
-
-
-
-
+ - https://www.lesswrong.com/posts/JBR6AF9Gusv4u6Fwo/laziness-death-spirals
 
 
 

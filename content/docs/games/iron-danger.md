@@ -6,8 +6,6 @@ Really cool strategy game with a cool story. Would love it if they made a sequel
 
 Feelings:
 
-Categories: [Experiences]({{< relref "/" >}}?Experiences=true),
-[Game]({{< relref "/" >}}?Game=true),
-[Games]({{< relref "/" >}}?Games=true),
+Categories: [Games]({{< relref "/" >}}?Games=true),
 [Solitary]({{< relref "/" >}}?Solitary=true),
 [Story]({{< relref "/" >}}?Story=true)
