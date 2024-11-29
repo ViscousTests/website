@@ -17,14 +17,24 @@
 
 ## Tasks
 
-All things I need to do should be tracked in a "reminders" task list in Google Tasks with an associated date/time.  When that date/time occurs, I should get a notification on my phone.  At this point I will immediately either:
+All things I need to do should be tracked in a "reminders" task list in Google
+Tasks with an associated date/time.
+When that date/time occurs, I should get a notification on my phone.
+At this point I will immediately either:
 
 1. Do the task or
 2. Reset the task date/time for when I think I can do it or
 3. Delete the task if it is obselete or
-4. Remove the date/time and move the task to another task list like "Stuff to Try"
+4. Remove the date/time and move the task to another task list like "Stuff to
+   Try" (this list has hundreds of items for me that most of which I will likely
+   never do).
 
 I should never have any task notifications "sitting around" or any obselete tasks.
+
+One of the reasons why this works so well for me is that I often look down at my
+phone when I am bored or in between tasks.
+This is the perfect time to do or reassign tasks; otherwise I would likely just
+browse Reddit.
 
 This applies for recurring tasks as well: if I get a recurring task that I want
 to do later, I will mark it as complete, then make a new task with the new name

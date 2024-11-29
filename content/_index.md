@@ -32,4 +32,4 @@ Nodes with bold text and a purple background are "recent" - a tag I use to
 denote something as important or recently relevant to let it stand out from
 everything else.
 
-Whole site count: 59617 words, 77.0% of Harry Potter and the Sorcerer's Stone
+Whole site count: 59692 words, 78.0% of Harry Potter and the Sorcerer's Stone
