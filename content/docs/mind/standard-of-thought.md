@@ -1,4 +1,4 @@
-# What standard of thought should be expect from people?
+# What standard of thought should we expect from people?
 
 I recently read *What's Our Problem* by Tim Urban, where he makes the case that
 many of our current societal divisions are caused by more primitive parts of our
@@ -37,4 +37,5 @@ to make decisions.
 I don't think freedom of speech should be suppressed by any means here.
 I'm purely speaking about cultural norms, not legal changes.
 
-Categories: [Recent]({{< relref "/" >}}?Recent=true)
+Categories: [Mind]({{< relref "/" >}}?Mind=true),
+[Recent]({{< relref "/" >}}?Recent=true)
