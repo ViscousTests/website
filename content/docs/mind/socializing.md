@@ -1,6 +1,12 @@
 # Socializing
 
-## The Art of Conversation
+## Positive Vibes
+
+It helps form connections with others to all be in a similar positive mental
+state when you are together.
+People commonly use drugs (e.g. food, alcohol) to get into this state, but other
+activities that everyone is excited about can do it too.
+Exercise can also help.
 
 ## Disruption
 
