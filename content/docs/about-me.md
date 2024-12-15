@@ -15,6 +15,13 @@ See https://forvo.com/word/kovas_%28m.%29/ for an accurate recording.
 
 https://www.michaelcaloz.com/personality/index.html?screen=last&Ti=10&Te=7&Fi=1&Fe=5&Si=2&Se=5&Ni=10&Ne=8&SJ=0&NF=0&NT=1.5&SP=1.5&iFi=1&iTi=0&iSi=1&iNi=0&iFe=0&iTe=1&iSe=0&iNe=0&E=0&I=2&N=2&S=0&T=2&F=0&J=0&P=2
 
+## Career
+
+I gave a presentation about my career so far for undergrads in the UW Chemical
+Engineering department in 2024.
+My slides are at
+https://docs.google.com/presentation/d/12z8Dy2ExytNbjtzmcARk6IsyCDEHh_kIjbsoPesTAfY/edit#slide=id.gc6f90357f_0_47.
+
 ## Links
 
  - https://github.com/kovasap
