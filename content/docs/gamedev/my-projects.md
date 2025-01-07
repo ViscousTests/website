@@ -37,4 +37,12 @@ Code can be found at https://github.com/kovasap/farming_strategy_game. Inspired
 by resource management board games, and turn based tactics games. Supposed to
 be a fusion of these genres.
 
+## Tactics RPG Game
+
+Code can be found at https://github.com/kovasap/tactics/blob/main/DESIGN.md.
+
+## No RNG Battle Brothers Overhaul
+
+Code can be found at https://github.com/kovasap/mod_rng_free.
+
 Categories: [Gamedev]({{< relref "/" >}}?Gamedev=true)
