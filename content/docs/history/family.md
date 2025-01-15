@@ -11,6 +11,16 @@
 ---
 title: Family Tree
 ---
+%%{
+  init: {
+    'theme': 'base',
+    'themeVariables': {
+      'background': '#f4f4f4',
+      'edgeLabelBackground': '#f4f4f4',
+      'secondaryColor': '#f4f4f4'
+    }
+  }
+}%%
 flowchart TB;
 
   %% Types of nodes with distinctive styles
@@ -88,7 +98,7 @@ flowchart TB;
 
   subgraph rim["Rimvydas"]
   end
-  rim-->|Invited| palunas-seattle 
+  rim--->|Invited| palunas-seattle 
 
   antanas-nijole-married-->neris
   subgraph neris["🌊 Neris"]
@@ -109,7 +119,7 @@ flowchart TB;
   orcas-move["Moved to Orcas 🐋"]
   end
 
-  neris-andy-married-->kovas
+  neris-andy-married-->|1993|kovas
   kovas["🐦 Kovas"]@{ shape: braces }
   kovas-->kovas-claire-married
 
