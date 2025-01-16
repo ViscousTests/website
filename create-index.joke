@@ -32,6 +32,14 @@
 (defn is-md? [file]
   (= "md" (last (s/split (:name file) "."))))
 
+(defn is-symlink? [file]
+  (try (do (os/stat file) false)
+       (catch Error e (try (do (os/lstat file) true)
+                           (catch Error e false)))))
+
+(assert= (is-symlink? "content/docs/manifesto.md") false)
+(assert= (is-symlink? "content/docs/life-timeline-test.md") true)
+
 (defn should-include? [file]
   (let [filepath (:name file)]
     (and (not (s/ends-with? filepath "-pics"))
@@ -148,13 +156,18 @@ Backlinks:
   [#{"Climbing" "Event Reports"} "# My First 5.12!\n\nI projected this route for a while and still can remember its movements.\nPosting it here mostly for my own personal nostalgia : ).\n\nHere is the route: https://photos.app.goo.gl/fvva4kiMPeRbi6tP9.\n\nBacklinks:"])
 
 
-(defn add-file-data [file]
-  (let [markdown (slurp (:path file))]
+(defn add-file-data
+  [file]
+  ; Assume symlinks are links to private repositories that we do not
+  ; want included in the indexed data.
+  (let [markdown (if (is-symlink? (:path file))
+                   "This file is encrypted."
+                   (slurp (:path file)))]
     (merge file
-      {:categories (first (parse-categories markdown))
-       :markdown markdown
-       :links (parse-links markdown)
-       :title (to-title (:path file))})))
+           {:categories (first (parse-categories markdown))
+            :markdown   markdown
+            :links      (parse-links markdown)
+            :title      (to-title (:path file))})))
 
 (defn get-files [filepath]
   (sort-by (fn [file] [(:dir? file) (:name file)])
@@ -258,8 +271,10 @@ Categories: [Climbing]({{< relref \"/\" >}}?Climbing=true),
           :let [path-categories
                 (set (map format-word
                           (drop-last (drop 2 (s/split (:path file) "/")))))]]
-      (spit (:path file)
-            (update-categories (:markdown file) path-categories)))))
+      (if (is-symlink? (:path file))
+        nil
+        (spit (:path file)
+             (update-categories (:markdown file) path-categories))))))
 
 ; -------------- Adding Backlinks to All Pages ----------------------------
 
@@ -305,9 +320,10 @@ Categories: [Climbing]({{< relref \"/\" >}}?Climbing=true),
       (do 
         (prn (str "Adding " (count (:backlinks file)) " backlinks for "
                   (:path file)))
-        ; (prn (update-backlinks "" backlinks))
-        (spit (:path file)
-              (update-backlinks (:markdown file) (:backlinks file)))))))
+        (if (is-symlink? (:path file))
+          (prn (str "Not updating backlinks for symlink " (:path file)))
+          (spit (:path file)
+                (update-backlinks (:markdown file) (:backlinks file))))))))
 
 ;; ------------- Experiences.edn to Markdown Files -------------------------
 
@@ -399,10 +415,15 @@ Categories: [Climbing]({{< relref \"/\" >}}?Climbing=true),
     (s/join "\n\n" (drop 1 (s/split md "\n\n")))
     md))
 
-(defn truncate-md [md]
+(defn truncate-md
+  [md]
   "Grabs the title and first paragraph from the given markdown."
   (let [[p1 p2] (take 2 (s/split (drop-frontmatter md) "\n\n"))]
-    (str "#" p1 "\n\n" (if (s/starts-with? p2 "#") "" p2) "...")))
+    (str "#"
+         p1
+         "\n\n"
+         (if (and (not (nil? p2)) (s/starts-with? p2 "#")) "" p2)
+         "...")))
   
 
 (defn make-all-notes-page
