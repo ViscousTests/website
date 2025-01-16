@@ -38,7 +38,7 @@
                            (catch Error e false)))))
 
 (assert= (is-symlink? "content/docs/manifesto.md") false)
-(assert= (is-symlink? "content/docs/life-timeline-test.md") true)
+(assert= (is-symlink? "content/docs/history/family.md") true)
 
 (defn should-include? [file]
   (let [filepath (:name file)]
