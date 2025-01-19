@@ -31,7 +31,7 @@ git add themes/hugo-book
 To add encrypted pages:
 
 1. Make sure your encrypted data is in a private git repository that is added as a submodule of this repository.
-2. Make a symlink like `ln submodule/path/to/your/file.md content/docs/.../file.md -s`.
+2. Make a symlink like `ln submodule/path/to/your/file.md content/docs/.../file.md`.
 3. Add a line to `deloy.sh` that encrypts your file.
 4. Supply your desired password whenever running `deploy.sh`.
 
@@ -40,8 +40,10 @@ To add encrypted pages:
 Run server locally when writing with:
 
 ```
-hugo server --disableBrowserError
+hugo server --disableBrowserError --disableFastRender --poll 1000
 ```
+
+The poll option is necessary to detect changes to files link to with symlinks.
 
 ## Analytics
 
