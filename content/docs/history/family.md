@@ -137,7 +137,7 @@ flowchart BT;
   end
 
   neris-andy-married-->|September 14, 1993; Seattle|kovas
-  kovas["`🐦 Kovas
+  kovas["`<a href='/docs/about-me/'>🐦 Kovas</a>
   Programmer, Bio Data Analyst
   Rock Climber, Gamer
   kovasap.github.io
