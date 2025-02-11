@@ -176,4 +176,9 @@ are as frustrated as anyone else, but are unable to effectively prescribe the
 3. Most "alt-health" specific cures have low or unknown effect sizes, so
    prescribing them is a gamble that will probably not pay off and may do harm.
 
+## Further Reading
+
+I highly recommend https://www.redpenreviews.org/ as a good critical review of
+different health philosophies/strategies.  See how your favorite books fare!
+
 Categories: [Health And Longevity]({{< relref "/" >}}?Health-And-Longevity=true)
