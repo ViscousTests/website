@@ -53,7 +53,7 @@ cure.
 I also felt a bit betrayed by the doctor - the word "incurable" so strongly
 echoed in my mind and made me feel terrible and defeatist about my condition.
 The fact that it was in fact curable despite what the doctor said was a relief,
-but also made me feel bad that I had to life with the defeatist attitude about
+but also made me feel bad that I had to live with the defeatist attitude about
 an uncomfortable condition for so long.
 
 ## Interlude: Effect Size
@@ -82,7 +82,7 @@ Many, many billions of dollars are continuously and painfully spent on drug
 trials that fail in probably the best illustration of this phenomenon.
 
 Keeping effect size in mind is a good way to consistency judge things that
-impact health, and helps keep me from being distracted by the reasonable
+impact health, and helps prevent getting distracted by the reasonable
 explanations.
 
 ## Specificity: An Alt-Health Tendency
@@ -170,3 +170,5 @@ are as frustrated as anyone else, but are unable to effectively prescribe the
      for every patient.
 3. Most "alt-health" specific cures have low or unknown effect sizes, so
    prescribing them is a gamble that will probably not pay off and may do harm.
+
+Categories: [Health And Longevity]({{< relref "/" >}}?Health-And-Longevity=true)
