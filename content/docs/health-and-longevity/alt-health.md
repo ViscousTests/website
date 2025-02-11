@@ -105,7 +105,12 @@ These include:
 I see this happening for interventions that benefit health too:
 
  - Most supplements (flagship example: resveratrol)
- - Some specific diets, like the blood type diet
+ - Some specific diets that make sweeping generalizations, like the blood type
+   diet
+
+It's entirely possible that some of these things actually do have a measurable
+effect size that I haven't found in the literature yet; if they do please let me
+know!
 
 I suspect people keep doing this for several reasons, depending on the
 cause/intervention:
