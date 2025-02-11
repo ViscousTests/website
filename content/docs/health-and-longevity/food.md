@@ -16,6 +16,9 @@
 
 ## Current Eating Habits and Opinions (3/2022)
 
+NOTE that these habits are obselete, up to date ones can be found at [Daily
+Habits]({{< relref "/docs/lifestyle-optimizations/daily-habits.md" >}})!
+
 ### Food Timing
 
 I try to eat a breakfast after I wake up - around 9am, since I wake up around

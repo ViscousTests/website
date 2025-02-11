@@ -2,11 +2,13 @@
 
 ## Food
 
- - **Breakfast:** eat a somewhat large one, with a focus on protein/fat and
-   maybe some carbs.
+### Schedule
+
+ - **Breakfast:** Oats, fruit, not too much fat.  Not too large.
  - **Lunch:** eat one, but try to wait until hungry again from breakfast.
    This could be 5+ hours later.
    Focus on protein/fat with some carbs like potatoes/grains.
+   Eating only fats/greens can lead to low energy and continued hunger.
    If eating desserts during the day, eat them now.
  - **Dinner:** eat only if hungry.
    Focus on mainly whole grain carbs, avoid fat and salt!
@@ -14,6 +16,51 @@
    digesting fat/salt keeps me awake).
     - *Enforcement mechanism:* I have a calendar event every day starting at
       5:30 that reminds me of this item.
+
+### Food Reactions
+
+How I personally react to different foods in 2025.
+
+#### Animal Products
+
+ - **Fish:** Often make me feel tired/sleepy when digesting.
+   Not great to overeat on.  I like to eat regularly for the omega-3s.
+ - **Dairy:** Makes me gassy and generally not feel great.
+ - **Eggs:** No issues, although can take longer to digest than other foods; not
+ great to eat them if my next meal will be soon.
+
+#### Legumes
+
+ - **Tofu:** No issues digesting.
+ - **Beans/Chickpeas/Lentils:** When I eat these plain, I tend to stay hungry for a while
+   and eat a lot of them.
+   This invariably leads to me feeling very overfull and tired, as they are also
+   hard for me to digest.
+ - **Peanut Products:** Good in small quantities, but very easy to overdo.
+   - **Peanut Butter:** Very easy for me to overeat and feel really bad for many
+     hours afterward as I digest.
+   - **Peanuts:** Generally make me feel ok when I eat them.
+   - **Peanut Protein Powder:** I tolerate this really well even in higher
+     quantities, making me think that the oil in peanuts is the main thing I
+     react poorly too.
+
+#### Grains
+
+ - **Rolled Oats:** I love oats and even eat them raw.
+   I don't have any issues eating/digesting them.
+ - **Brown Rice:** Good in small quantities, too much can make me feel bloated.
+ - **White Rice:** Similar to brown rice, but I can eat more of it.
+
+#### Fruits
+
+ - **Apples:** No issues here!
+ - **Bananas:** For some reason, eating bananas alone can give me a short-lived
+   headache and seems to mess with my energy.
+
+#### Vegetables
+
+ - **Cabbage:** I love cabbage, and it seems to be very easy for me to digest.
+ - **Broccoli:** Good in smaller quantities, too much can make me feel bloated.
 
 ## Tasks
 
