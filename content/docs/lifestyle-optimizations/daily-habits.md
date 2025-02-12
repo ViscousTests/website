@@ -101,3 +101,5 @@ https://github.com/kovasap/autojournal-on-gas
 
 Categories: [Lifestyle Optimizations]({{< relref "/" >}}?Lifestyle-Optimizations=true),
 [Recent]({{< relref "/" >}}?Recent=true)
+
+Backlinks: [Food]({{< relref "/docs/health-and-longevity/food.md" >}}), 

@@ -6,7 +6,7 @@ I'm defining "alt-health" as a general movement of people on the internet who
 feel that the modern healthcare system ("healthcare 2.0" in Peter Attia's
 parlance) is "broken" or not meeting the needs of society.
 Specifically, these people cite the growing incidence of chronic disease - e.g.
-obesity - in our population, and criticize how the modern healthcase system is
+obesity - in our population, and criticize how the modern healthcare system is
 really a "sick-care" system that specializes in managing symptoms of chronic
 disease, as opposed to preventing that disease in the first place.
 
@@ -21,7 +21,7 @@ I want to explore this more in this post.
 I was inspired to write this when listening to
 https://thenuggetclimbing.com/episodes/kaizen-asiedu; a "Nugget Climbing"
 podcast episode that talks a lot about the health in America.
-This episode specifically focused a lot on RFK, jr., a quintesenntial
+This episode specifically focused a lot on RFK, jr., a quintessential
 "alt-health"-er who has just come to some power in the Trump administration.
 
 In the episode, the host tells a story about how he had psoriasis on the back of
@@ -32,7 +32,7 @@ symptoms.
 Then, the host describes how he started reading more "alt-health" content and
 started experimenting with his diet.
 Miraculously, this experimentation led to a dramatic reduction in symptoms (much
-more than the steriod)!
+more than the steroid)!
 The host concludes his story by discussing how this experience made him feel a
 bit betrayed by the healthcare system, and much more interested in "alt-health"
 takes.
