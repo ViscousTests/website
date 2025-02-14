@@ -59,6 +59,7 @@ How I personally react to different foods in 2025.
 
 #### Vegetables
 
+ - **Pickled Onions:** Upset my stomach.  I should avoid them generally.
  - **Cabbage:** I love cabbage, and it seems to be very easy for me to digest.
  - **Broccoli:** Good in smaller quantities, too much can make me feel bloated.
 
