@@ -98,6 +98,14 @@ Sheet](https://docs.google.com/spreadsheets/d/1nZ-iliU7MtRPoAdP-HbjBees6u3-NIlic
 
 https://github.com/kovasap/autojournal-on-gas
 
+TODO: try making my own version of https://weeks.ginatrapani.org/ based on my
+activity log data.
+It should be possible to do this by writing a script that downloads activity log
+data from the google sheet with the `gdrive` command line tool and formats it to
+the proper format for the weeks website.
+
+## This Page
+
 *This page should be kept up to date via a recurring Google task*
 
 Categories: [Lifestyle Optimizations]({{< relref "/" >}}?Lifestyle-Optimizations=true),
