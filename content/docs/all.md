@@ -915,6 +915,10 @@ of the methods....
 
 Game goes in two phases: the build phase and the run phase. ...
 
+## Self Sacrificers
+
+There are those who corrupt their own moral standing to benefit society:...
+
 ## Skyrim
 
 Best played with mods: https://drive.google.com/drive/folders/1ekiDIGgRXa7bplPzls803Y0dYBrP53tz?usp=sharing...
@@ -1053,6 +1057,18 @@ This includes watching videos from channels like [Veritasium](https://www.youtub
 
 An icebreaker-type game that revolves around guessing people's opinions....
 
+## What standard of thought should we expect from people?
+
+I recently read *What's Our Problem* by Tim Urban, where he makes the case that
+many of our current societal divisions are caused by more primitive parts of our
+minds dominating the conversation.
+He argues that our "higher minds" that are capable of considering many
+conflicting perspectives to seek truth should instead be driving the
+conversation.
+Specifically, Tim argues that all perspectives should be open to higher-minded
+discussion and shutting down discussion on certain topics is dangerously
+illiberal....
+
 ## What to Believe
 
 In order to make good decisions, people need to build an understanding of how
@@ -1115,6 +1131,12 @@ One variant worth trying is trying to play with pictures instead of words on the
 ## [DAT Creativity](https://www.datcreativity.com/)
 
 A test about tring to come up with the most different words possible....
+
+## [Dark and Darker](https://www.darkanddarker.com/)
+
+I've made a [bunch of reddit
+posts](https://www.reddit.com/user/a-curious-crow/search/?q=darkanddarker&cId=8a33d130-1208-4e92-9ee1-2ebb42d05766&iId=894256b8-cde2-488c-b5e1-24c83062e550&sort=new)
+about this game....
 
 ## [Darkest Dungeon](https://en.wikipedia.org/wiki/Darkest_Dungeon)
 
