@@ -18,5 +18,7 @@
 - [The Grug Brained Developer](https://grugbrain.dev/)
   - A good reality check on being practical when programming, and being honest
     with oneself about how things are actually working.
+ - [Cognitive load is what matters](https://news.ycombinator.com/item?id=42489645)
+   - A framework for thinking about what organizational systems to adopt in your code.
 
 Categories: [Software Dev]({{< relref "/" >}}?Software-Dev=true)

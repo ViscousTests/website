@@ -37,4 +37,5 @@
 
 (println (str "Writing to " file-name ":\n" page-contents))
 (spit file-name page-contents)
+(sh "git" "add" file-name)
   

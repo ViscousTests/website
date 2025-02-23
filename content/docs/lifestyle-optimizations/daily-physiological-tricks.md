@@ -34,18 +34,6 @@
  - If on a "snack train", eat wasabi to try to curb it.
  - Soup broths are a great way to sate hunger without eating too many calories.
    Try dried seaweed as an addition!
- - Don't eat a lot of these foods in a day (to avoid feeling bloated / overfull):
-   - broccoli
-
-### Food Priority List
-
-When given the option, try to pick foods towards the top of the list:
-
- - Fish / Seafood
- - Leafy Greens
- - Brassicas (brussel sprouts, etc.)
- - Eggs
- - Peanuts / Legumes
 
 ### Old / Obselete?
 

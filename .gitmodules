@@ -19,3 +19,6 @@
 [submodule "public"]
 	path = public
 	url = git@github.com:kovasap/kovasap.github.io.git
+[submodule "life-timeline"]
+	path = life-timeline
+	url = git@github.com:kovasap/life-timeline.git

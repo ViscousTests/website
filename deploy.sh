@@ -10,6 +10,11 @@ joker create-index.joke
 # Build the project.
 hugo # if using a theme, replace with `hugo -t <YOURTHEME>`
 
+# Encrypt pages that should be private
+# Ideally I should write some code here that finds all the files that were
+# generated via symlinks and encrypts only those.
+npx staticrypt public/docs/history/family/index.html -d public/docs/history/family
+
 # Go To Public folder
 cd public
 git checkout master

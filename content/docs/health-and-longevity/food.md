@@ -16,6 +16,9 @@
 
 ## Current Eating Habits and Opinions (3/2022)
 
+NOTE that these habits are obselete, up to date ones can be found at [Daily
+Habits]({{< relref "/docs/lifestyle-optimizations/daily-habits.md" >}})!
+
 ### Food Timing
 
 I try to eat a breakfast after I wake up - around 9am, since I wake up around
@@ -394,3 +397,4 @@ Backlinks: [Manifesto]({{< relref "/docs/manifesto.md" >}}),
 [Aging Science]({{< relref "/docs/health-and-longevity/aging-science.md" >}}), 
 [Biomarker Correlator]({{< relref "/docs/health-and-longevity/biomarker-correlator.md" >}}), 
 [Fasting]({{< relref "/docs/health-and-longevity/fasting.md" >}}), 
+[Daily Habits]({{< relref "/docs/lifestyle-optimizations/daily-habits.md" >}}), 

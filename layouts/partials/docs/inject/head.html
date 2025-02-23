@@ -30,8 +30,11 @@ const urlParams = new URLSearchParams(window.location.search);
 // }
 
 
-// Open the details elements in the index for the current page.
-window.onload = function() {  // Execute this after the page loads.
+// Execute after one second.
+setTimeout(
+// window.onload is the proper way to do this, but it will run this code before mermaid charts are rendered, which means we will miss links within them.
+// window.onload =
+    function() {  // Execute this after the page loads.
     // Hide the menu and TOC when embedding
     if (urlParams.get('embed') == '1') {
         ['book-menu', 'book-toc', 'book-header'].forEach(
@@ -65,13 +68,21 @@ window.onload = function() {  // Execute this after the page loads.
     var all_links = [];
     all_links = Array.prototype.concat.apply(
         all_links,
-        document.getElementsByClassName("book-page").item(0)
-        .getElementsByTagName('a'));
+        document.getElementsByClassName("book-page").item(0).getElementsByTagName('a'));
     all_links = Array.prototype.concat.apply(
         all_links,
         document.getElementsByClassName("book-menu").item(0)
         .getElementsByTagName('a'));
-    all_links.forEach(
+    var internal_links = all_links.filter(
+        (element, index, array) => {
+            return element.href.includes('/docs/')
+                && (window.location.pathname == "/" ||
+                    !element.href.includes(window.location.pathname))
+                && element.innerText.length > 0;
+        });
+    // console.log(internal_links.map(
+    //     (element, index, array) => {return element.innerText}));
+    internal_links.forEach(
         (element, index, array) => {
             const showEmbeddedPage = (e) => {
                 const embedded_page = getEmbeddedPage(element.href);
@@ -87,6 +98,7 @@ window.onload = function() {  // Execute this after the page loads.
                     (window.location.pathname == "/" ||
                         !element.href.includes(window.location.pathname))){
                 element.onmouseover = function(e) {
+                    console.log(element.innerText);
                     var delay = setTimeout(function(){showEmbeddedPage(e);},
                         200);
                     element.onmouseout = function(){clearTimeout(delay);
@@ -95,5 +107,14 @@ window.onload = function() {  // Execute this after the page loads.
                 element.onmouseout = hideEmbeddedPage;
             }
         });
-}
+},
+3500);
 </script>
+
+
+{{ if .Store.Get "hasMermaid" }}
+  <script type="module">
+    import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11.4.1/dist/mermaid.esm.min.mjs';
+    mermaid.initialize({ startOnLoad: true });
+  </script>
+{{ end }}
