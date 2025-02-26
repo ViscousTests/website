@@ -16,3 +16,5 @@ their job, so they continue to do it and even defend its existence!
 Politicians often pander to large electorates of people with jobs on the sole
 platform of maintaining them or making more, nevermind the usefulness of the
 jobs in question.
+
+Categories: [Society]({{< relref "/" >}}?Society=true)

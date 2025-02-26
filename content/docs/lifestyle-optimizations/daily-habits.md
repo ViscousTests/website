@@ -9,8 +9,7 @@
    This could be 5+ hours later.
    Focus on protein/fat with some carbs like potatoes/grains.
    Eating only fats/greens can lead to low energy and continued hunger.
-   If eating desserts during the day, eat them now.
- - **Dinner:** eat only if hungry.
+ - **Dinner:** eat only if hungry OR if I worked out in the afternoon/evening.
    Focus on mainly whole grain carbs, avoid fat and salt!
    This is to avoid disturbing sleep (I find whole grains make me sleepy,
    digesting fat/salt keeps me awake).
@@ -63,6 +62,30 @@ How I personally react to different foods in 2025.
  - **Cabbage:** I love cabbage, and it seems to be very easy for me to digest.
  - **Broccoli:** Good in smaller quantities, too much can make me feel bloated.
 
+#### Nuts/Seeds
+
+ - **Nut Butters:** Very easy for me to overeat and feel really bad for many
+   hours afterward as I digest.
+ - **Chia Seeds:** I love chia seeds and have no issues eating them.
+ - **Almonds:** Good, just don't eat too many.
+ - **Walnuts:** Good, just don't eat too many.
+
+## Supplements
+
+I take vitamin D and omega-3 fish oil daily.
+  - *Enforcement mechanism:* I have a recurring daily task to take these in the
+    morning.
+
+## Exercise
+
+### When using a computer
+
+I try to move around regularly, via walking around or doing some light
+physical-therapy-style exercises like
+https://www.momentumphysicaltherapy.ca/blog/okotoks-physiotherapy-posture-exercises.
+  - *Enforcement mechanism:* I have a recurring daily task to do this in the
+    afternoon.
+
 ## Tasks
 
 All things I need to do should be tracked in a "reminders" task list in Google
@@ -93,6 +116,7 @@ with a different date/time.
 Try to write a couple notes of what happened during the day in my momentodb
 activity journal, which syncs to [this Google
 Sheet](https://docs.google.com/spreadsheets/d/1nZ-iliU7MtRPoAdP-HbjBees6u3-NIlicHRfewD0Q7A/edit?gid=1108618816#gid=1108618816).
+I specifically try to note at least one thing about work, and one other thing.
 
 *Enforcement mechanism:* I have a recurring daily task to do this.
 
