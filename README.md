@@ -26,6 +26,10 @@ git add themes/hugo-book
 
 **Make sure you clear your browser cache after updating to see the new code!**
 
+**And make sure that the projects you have updated have been "deployed" (they
+have built javascript in a directory in their repositories).
+Usually there is a script in each project that does this.**
+
 ## Encrypted Pages
 
 To add encrypted pages:
