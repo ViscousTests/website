@@ -97,7 +97,7 @@ These include:
  - Glyphosate and other herbicides
  - "GMO" foods
  - Non-organic foods generally
- - Seed oils
+ - [Seed oils](https://dynomight.net/seed-oil/)
  - Preservatives
  - "Anti-nutrients" like oxalates and phytates
  - Microplastics and teflon
