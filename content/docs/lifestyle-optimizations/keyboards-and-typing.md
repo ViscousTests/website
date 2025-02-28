@@ -176,6 +176,8 @@ all the sockets/diodes are on the bottom!*
 
 #### Final Product
 
+![lintilla](/docs/lifestyle-optimizations/lintilla-both.jpg)
+
 ![lintilla one side](/docs/lifestyle-optimizations/lintilla-right.jpg)
 *Except for the middle thumb key, the keycaps are colored by the finger that will use them.*
 
