@@ -303,3 +303,6 @@ By the end I was very thankful the hike was over!
 
 ![](/docs/climbing/event-reports/2024-7-enchantments-prusik-peak-pics/before-and-after.jpg)
 *Us before and after the trip.*
+
+Categories: [Climbing]({{< relref "/" >}}?Climbing=true),
+[Event Reports]({{< relref "/" >}}?Event-Reports=true)
