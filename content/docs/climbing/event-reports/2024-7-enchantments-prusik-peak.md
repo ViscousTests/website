@@ -357,4 +357,5 @@ By the end I was very thankful the hike was over!
    do some research about the best way to dry boots overnight in the wilderness.
 
 Categories: [Climbing]({{< relref "/" >}}?Climbing=true),
-[Event Reports]({{< relref "/" >}}?Event-Reports=true)
+[Event Reports]({{< relref "/" >}}?Event-Reports=true),
+[Recent]({{< relref "/" >}}?Recent=true)

@@ -113,6 +113,8 @@ with a different date/time.
 
 ## Lifelogging
 
+See more at [Lifelogging / What and Why]({{< relref "/docs/lifelogging/what-and-why.md" >}}).
+
 Try to write a couple notes of what happened during the day in my momentodb
 activity journal, which syncs to [this Google
 Sheet](https://docs.google.com/spreadsheets/d/1nZ-iliU7MtRPoAdP-HbjBees6u3-NIlicHRfewD0Q7A/edit?gid=1108618816#gid=1108618816).
@@ -133,6 +135,6 @@ the proper format for the weeks website.
 *This page should be kept up to date via a recurring Google task*
 
 Categories: [Lifestyle Optimizations]({{< relref "/" >}}?Lifestyle-Optimizations=true),
-[Recent]({{< relref "/" >}}?Recent=true)
+[Important]({{< relref "/" >}}?Important=true)
 
 Backlinks: [Food]({{< relref "/docs/health-and-longevity/food.md" >}}), 

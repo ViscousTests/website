@@ -7,5 +7,4 @@ There are those who corrupt their own moral standing to benefit society:
 
 I feel like we should have a term for this phenomenon.
 
-Categories: [Morality]({{< relref "/" >}}?Morality=true),
-[Recent]({{< relref "/" >}}?Recent=true)
+Categories: [Morality]({{< relref "/" >}}?Morality=true)

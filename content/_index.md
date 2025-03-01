@@ -26,10 +26,4 @@ I also try to follow this advice on my [Writing]({{< relref
 {{% include "/content/docs/all.edn" %}}
 {{< /website_graph >}}
 
-Double click on nodes to go to the pages the represent!
-
-Nodes with bold text and a purple background are "recent" - a tag I use to
-denote something as important or recently relevant to let it stand out from
-everything else.
-
-Whole site count: 64987 words, 84.0% of Harry Potter and the Sorcerer's Stone
+Whole site count: 64988 words, 84.0% of Harry Potter and the Sorcerer's Stone
