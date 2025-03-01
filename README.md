@@ -56,3 +56,9 @@ The poll option is necessary to detect changes to files link to with symlinks.
 ## Analytics
 
 See analytics at https://analytics.google.com/analytics/web/#/report-home/a184778596w255183429p234174405
+
+## Adding Images
+
+Sometimes images will not show up (you will get a 404 error) if you do not add
+an `index.md` file to the directory containing the image.
+This is a hugo quirk.
