@@ -122,13 +122,13 @@ self-arrest is so important.
 Others tried to descend without sliding, but everyone slipped just like me so
 eventually we just started having fun with it.
 
-![](/docs/climbing/event-reports/2024-7-enchantments-prusik-peak-pics/sliding-down.MOV)
+[Sliding Video](https://photos.google.com/share/AF1QipOFMA41w7gbJRZeE4GOA0smt5OtV2XbNeQMEoZ8ZQHn3VXhaGVXOssPaNZjwn2zmQ/photo/AF1QipP5hc1v3dNjKZ_23Y8v5hxkoKLzCXLYlm5VRqKm?key=YXZsU3UxUkNPc2hWMVFVeElhRVFnTDQyeFFodkpR)
 
 Towards the end of our day, we finally found a good place to camp.
 There was only one more obstacle to overcome: a rushing river draining out of a
 nearby lake.  Our best way across after much searching was a snowbridge.
 
-![](/docs/climbing/event-reports/2024-7-enchantments-prusik-peak-pics/snowbridge-crossing.MOV)
+[Snowbridge Video](https://photos.google.com/share/AF1QipOFMA41w7gbJRZeE4GOA0smt5OtV2XbNeQMEoZ8ZQHn3VXhaGVXOssPaNZjwn2zmQ/photo/AF1QipNPd3MisNH2f0zmVL9zHSAbqjcVtOnqDm9f5GeU?key=YXZsU3UxUkNPc2hWMVFVeElhRVFnTDQyeFFodkpR)
 
 From below, the bridge was a bit hair-raising.
 
