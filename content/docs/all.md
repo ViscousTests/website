@@ -913,6 +913,11 @@ This IMO is a really bad experience because (1) it's boring and (2) it puts the
 player in a more reactive frame of mind.
 Turn based games sidestep this problem....
 
+## Recent Interests
+
+Here I list stuff I've been interested in recently.
+I try to update this monthly, using a recurring task to help....
+
 ## Recommendations
 
 ...
@@ -1120,11 +1125,12 @@ illiberal....
 ## What to Believe
 
 In order to make good decisions, people need to build an understanding of how
-the world works by gathering information.  Luckily, it is getting easier and
-easier to do this as technology becomes more and more efficient at sending data
-around the world.  Unfortunately, simply gathering information is not enough;
-one must also make sure that the information is of high enough quality to use
-in world modelling or decision making....
+the world works by gathering information.
+Luckily, it is getting easier and easier to do this as technology becomes more
+and more efficient at sending data around the world.
+Unfortunately, simply gathering information is not enough; one must also make
+sure that the information is of high enough quality to use in world modeling or
+decision making....
 
 ## Why Foods Are "Unhealthy"
 
@@ -1175,6 +1181,10 @@ Using a bike to fulfill daily transportation needs. Best with combined with audi
 ## [Codenames](https://codenames.game/)
 
 One variant worth trying is trying to play with pictures instead of words on the main board. A stand-alone game (Codenames Pictures) exists for this, but it's also fun to try using custom pictures. For instance, the dream cards from Mysterium led to a pretty fun game. Note that [this site](https://codenames-pictures.dport.me/) looks like it allows you to do this in a virtual setting....
+
+## [Counter Strike]()
+
+...
 
 ## [DAT Creativity](https://www.datcreativity.com/)
 
@@ -1306,6 +1316,10 @@ Categories: [Books]({{< relref "/" >}}?Books=true)...
 Book that tries to answer the question of (1) what kinds of work
 will have the highest (positive) impact on humanity and (2) how to do that
 work....
+
+## [games/counter-strike.md]()
+
+...
 
 ## _Why Greatness Cannot be Planned_ by Kenneth O. Stanley and Joel Lehman
 

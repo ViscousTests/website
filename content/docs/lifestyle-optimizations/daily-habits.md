@@ -134,7 +134,7 @@ the proper format for the weeks website.
 
 *This page should be kept up to date via a recurring Google task*
 
-Categories: [Lifestyle Optimizations]({{< relref "/" >}}?Lifestyle-Optimizations=true),
-[Important]({{< relref "/" >}}?Important=true)
+Categories: [Important]({{< relref "/" >}}?Important=true),
+[Lifestyle Optimizations]({{< relref "/" >}}?Lifestyle-Optimizations=true)
 
 Backlinks: [Food]({{< relref "/docs/health-and-longevity/food.md" >}}), 

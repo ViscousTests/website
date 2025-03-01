@@ -183,3 +183,5 @@ different health philosophies/strategies.  See how your favorite books fare!
 
 Categories: [Health And Longevity]({{< relref "/" >}}?Health-And-Longevity=true),
 [Recent]({{< relref "/" >}}?Recent=true)
+
+Backlinks: [Recent Interests]({{< relref "/docs/recent-interests.md" >}}), 

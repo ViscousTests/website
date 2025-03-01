@@ -329,8 +329,8 @@ But has these problems:
 
 
 
-Categories: [Understanding The World]({{< relref "/" >}}?Understanding-The-World=true),
-[Important]({{< relref "/" >}}?Important=true)
+Categories: [Important]({{< relref "/" >}}?Important=true),
+[Understanding The World]({{< relref "/" >}}?Understanding-The-World=true)
 
 Backlinks: [Manifesto]({{< relref "/docs/manifesto.md" >}}), 
 [Why Greatness Cannot Be Planned]({{< relref "/docs/books/why-greatness-cannot-be-planned.md" >}}), 
