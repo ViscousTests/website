@@ -5,6 +5,25 @@ Spreadsheet](https://docs.google.com/spreadsheets/d/1d25vAW2nD0BdffwPbQgmy4lRhBi
 
 Check out https://www.reciperadar.com/#search for a good way to find recipies based on what you currently have.
 
+## Microwave Breads
+
+Very flexible recipe, an example base:
+
+ - One part unflavored pea protein powder
+ - One part rolled oats
+ - One part whole wheat flour
+
+Add enough water to make a runny dough.  Microwave for ~10 minutes.
+
+This recipe is pretty bland: I recommend adding more stuff for flavor, like:
+
+ - Poppy seeds
+ - Lemon Juice
+ - Banana
+ - Frozen Berries
+ - Cocoa powder
+ - Egg
+
 ## Microwave Steam Bowls
 
 A really easy and convenient way to make some pretty tasty (and healthy!) food.
@@ -132,6 +151,10 @@ omega-6 and 0.3g omega-3 fatty acids.  Per 100g, flax seeds have 5.9g omega-6
 and 22.8g omega-3 fatty acids.  So combined, we have 23.1g omega3 and 15.6g
 omega-6, a **~1.5 ratio**!  Data was taken from NCCDB via Cronometer.
 
+### Pie Crust
+
+From [King Arthur
+Flour](https://www.kingarthurflour.com/recipes/no-roll-pie-crust-recipe)
 
 ## Creating New Recipes
 
@@ -142,8 +165,5 @@ butter) and you add a third food that goes well with one of the foods but would
 be weird to combine with the other (e.g. spinach in this case).  More often
 than not, the result is actually pretty good!
 
-
-From [King Arthur
-Flour](https://www.kingarthurflour.com/recipes/no-roll-pie-crust-recipe)
 
 Categories: [Health And Longevity]({{< relref "/" >}}?Health-And-Longevity=true)

@@ -4,7 +4,9 @@
 
 ### Schedule
 
- - **Breakfast:** Oats, fruit, not too much fat.  Not too large.
+ - **Breakfast:** Avoid very heavy foods (like lots of oil).
+   Not too large; overeating at breakfast is a good way to derail energy for the
+   rest of the day.
  - **Lunch:** eat one, but try to wait until hungry again from breakfast.
    This could be 5+ hours later.
    Focus on protein/fat with some carbs like potatoes/grains.
@@ -15,6 +17,12 @@
    digesting fat/salt keeps me awake).
     - *Enforcement mechanism:* I have a calendar event every day starting at
       5:30 that reminds me of this item.
+
+### Staple Foods
+
+ - See [Cooking]({{< relref "/docs/health-and-longevity/cooking.md" >}}).
+   Foods here are roughly ranked in the order I consume them.
+ - Raw vegetables and fruits for snacking (apples, cabbage)
 
 ### Food Reactions
 
