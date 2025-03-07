@@ -161,4 +161,5 @@ Backlinks: [Biomarker Correlator]({{< relref "/docs/health-and-longevity/biomark
 [Continuous Glucose Monitoring]({{< relref "/docs/health-and-longevity/continuous-glucose-monitoring.md" >}}), 
 [Tracking Health]({{< relref "/docs/health-and-longevity/tracking-health.md" >}}), 
 [Camera]({{< relref "/docs/lifelogging/camera.md" >}}), 
+[Daily Habits]({{< relref "/docs/lifestyle-optimizations/daily-habits.md" >}}), 
 [Task Tracking]({{< relref "/docs/lifestyle-optimizations/task-tracking.md" >}}), 

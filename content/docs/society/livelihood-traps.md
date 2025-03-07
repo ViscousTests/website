@@ -31,4 +31,5 @@ https://www.astralcodexten.com/i/157690414/so-what-does-drive-political-disagree
   This could be accomplished via making interviews at companies based more on
   skill demonstration and less on credentials.
 
-Categories: [Society]({{< relref "/" >}}?Society=true)
+Categories: [Recent]({{< relref "/" >}}?Recent=true),
+[Society]({{< relref "/" >}}?Society=true)

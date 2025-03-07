@@ -215,3 +215,5 @@ My config is at https://github.com/kovasap/dotfiles/tree/master/keyboard.
 
 Categories: [Lifestyle Optimizations]({{< relref "/" >}}?Lifestyle-Optimizations=true),
 [Recent]({{< relref "/" >}}?Recent=true)
+
+Backlinks: [Recent Interests]({{< relref "/docs/recent-interests.md" >}}), 

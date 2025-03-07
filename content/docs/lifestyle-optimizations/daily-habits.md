@@ -4,7 +4,9 @@
 
 ### Schedule
 
- - **Breakfast:** Oats, fruit, not too much fat.  Not too large.
+ - **Breakfast:** Avoid very heavy foods (like lots of oil).
+   Not too large; overeating at breakfast is a good way to derail energy for the
+   rest of the day.
  - **Lunch:** eat one, but try to wait until hungry again from breakfast.
    This could be 5+ hours later.
    Focus on protein/fat with some carbs like potatoes/grains.
@@ -15,6 +17,12 @@
    digesting fat/salt keeps me awake).
     - *Enforcement mechanism:* I have a calendar event every day starting at
       5:30 that reminds me of this item.
+
+### Staple Foods
+
+ - See [Cooking]({{< relref "/docs/health-and-longevity/cooking.md" >}}).
+   Foods here are roughly ranked in the order I consume them.
+ - Raw vegetables and fruits for snacking (apples, cabbage)
 
 ### Food Reactions
 
@@ -113,6 +121,8 @@ with a different date/time.
 
 ## Lifelogging
 
+See more at [Lifelogging / What and Why]({{< relref "/docs/lifelogging/what-and-why.md" >}}).
+
 Try to write a couple notes of what happened during the day in my momentodb
 activity journal, which syncs to [this Google
 Sheet](https://docs.google.com/spreadsheets/d/1nZ-iliU7MtRPoAdP-HbjBees6u3-NIlicHRfewD0Q7A/edit?gid=1108618816#gid=1108618816).
@@ -132,7 +142,7 @@ the proper format for the weeks website.
 
 *This page should be kept up to date via a recurring Google task*
 
-Categories: [Lifestyle Optimizations]({{< relref "/" >}}?Lifestyle-Optimizations=true),
-[Recent]({{< relref "/" >}}?Recent=true)
+Categories: [Important]({{< relref "/" >}}?Important=true),
+[Lifestyle Optimizations]({{< relref "/" >}}?Lifestyle-Optimizations=true)
 
 Backlinks: [Food]({{< relref "/docs/health-and-longevity/food.md" >}}), 

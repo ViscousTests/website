@@ -181,4 +181,7 @@ are as frustrated as anyone else, but are unable to effectively prescribe the
 I highly recommend https://www.redpenreviews.org/ as a good critical review of
 different health philosophies/strategies.  See how your favorite books fare!
 
-Categories: [Health And Longevity]({{< relref "/" >}}?Health-And-Longevity=true)
+Categories: [Health And Longevity]({{< relref "/" >}}?Health-And-Longevity=true),
+[Recent]({{< relref "/" >}}?Recent=true)
+
+Backlinks: [Recent Interests]({{< relref "/docs/recent-interests.md" >}}), 
