@@ -333,6 +333,7 @@ Categories: [Important]({{< relref "/" >}}?Important=true),
 [Understanding The World]({{< relref "/" >}}?Understanding-The-World=true)
 
 Backlinks: [Manifesto]({{< relref "/docs/manifesto.md" >}}), 
+[The Enigma Of Reason]({{< relref "/docs/books/The-Enigma-of-Reason.md" >}}), 
 [Why Greatness Cannot Be Planned]({{< relref "/docs/books/why-greatness-cannot-be-planned.md" >}}), 
 [Aging Science]({{< relref "/docs/health-and-longevity/aging-science.md" >}}), 
 [Sens]({{< relref "/docs/health-and-longevity/sens.md" >}}), 
