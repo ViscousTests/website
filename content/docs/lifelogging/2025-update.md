@@ -89,23 +89,21 @@ other forms of lifelogging data.
 Not specifics, but as stated earlier I am consistently amazed at how vivid the
 memories my lifelog triggers can be, even of very old events.
 
-**
-We’ve designed a lifelogging device with the following specs:
+**We’ve designed a lifelogging device with the following specs:**
 
-Weight: ~30g (wearable/clippable)
-Features: Interval photo/video, audio recording. etc
-Battery life: ~2 days
-AI integration: Auto-categorization & video clipping
-**
+ - Weight: ~30g (wearable/clippable)
+ - Features: Interval photo/video, audio recording. etc
+ - Battery life: ~2 days
+ - AI integration: Auto-categorization & video clipping
 
 **Would you be willing to use this product? Do you see any potential shortcomings?**
 
-Yes definitely.
+Yes definitely!
 
 I worry that the data generated will need to be stored somewhere, which will
 lead to a monthly subscription fee requirement.
-I would much rather pay a larger upfront fee or manage my own data somehow than
-need to pay a subscription.
+I would much rather have an option to aggressively cull data, pay a larger
+upfront fee, or manage my own data somehow than need to pay a subscription.
 
 **Which features interest you most, or features you want that we didn't provide?**
 
