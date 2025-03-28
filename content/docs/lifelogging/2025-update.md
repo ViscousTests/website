@@ -115,3 +115,5 @@ from the microphone that would be amazing!
 **What's your top concern regarding this product/system? (privacy? storage?)**
 
 Managing data storage.
+
+Categories: [Lifelogging]({{< relref "/" >}}?Lifelogging=true)
