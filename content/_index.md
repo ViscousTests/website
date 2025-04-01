@@ -26,4 +26,4 @@ I also try to follow this advice on my [Writing]({{< relref
 {{% include "/content/docs/all.edn" %}}
 {{< /website_graph >}}
 
-Whole site count: 66573 words, 87.0% of Harry Potter and the Sorcerer's Stone
+Whole site count: 66578 words, 87.0% of Harry Potter and the Sorcerer's Stone
