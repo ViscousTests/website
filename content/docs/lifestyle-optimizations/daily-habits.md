@@ -4,19 +4,21 @@
 
 ### Schedule
 
- - **Breakfast:** Avoid very heavy foods (like lots of oil).
-   Not too large; overeating at breakfast is a good way to derail energy for the
+ - **Breakfast:** Avoid grains/beans.  Eat a small amount of vegetables with oil.  Eat eggs/fish.
+   Don't eat too much; overeating at breakfast is a good way to derail energy for the
    rest of the day.
  - **Lunch:** eat one, but try to wait until hungry again from breakfast.
    This could be 5+ hours later.
-   Focus on protein/fat with some carbs like potatoes/grains.
-   Eating only fats/greens can lead to low energy and continued hunger.
+   Eat a mixed variety, with more carbs than breakfast.  Still avoid grains/beans if possible.
+   Eating only fats/greens (e.g. salad) can lead to low energy and continued hunger.
  - **Dinner:** eat only if hungry OR if I worked out in the afternoon/evening.
-   Focus on mainly whole grain carbs, avoid fat and salt!
+   Focus on mainly whole grain carbs, fruit, some legumes, avoid fat and salt!
    This is to avoid disturbing sleep (I find whole grains make me sleepy,
    digesting fat/salt keeps me awake).
     - *Enforcement mechanism:* I have a calendar event every day starting at
       5:30 that reminds me of this item.
+
+<details><summary>More food notes.</summary>
 
 ### Staple Foods
 
@@ -78,9 +80,13 @@ How I personally react to different foods in 2025.
  - **Almonds:** Good, just don't eat too many.
  - **Walnuts:** Good, just don't eat too many.
 
+</details>
+
 ## Supplements
 
-I take vitamin D and omega-3 fish oil daily.
+I take vitamin D (2000 IU) daily.
+  - I recently stopped taking fish oil after I noticed a pretty minimal impact
+    on my omega-3 index score.
   - *Enforcement mechanism:* I have a recurring daily task to take these in the
     morning.
 
