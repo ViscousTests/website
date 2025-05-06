@@ -34,6 +34,26 @@ I try to update this monthly, using a recurring task to help.
  - Tried Due Process, good first impression!
  - Dark and Darker and FTL: Multiverse continue to be amazing.
 
+## April
+
+ - Started playing The Bazaar with Claire.
+   Really fun, if a bit tiring to do a single run all at once.
+ - Watched a bunch of Dave MacLeod videos and tried out a mostly meat diet.
+   It felt pretty good at first, but less good over time.
+   I think I'd need to be particularly motivated to try it more purely for an
+   extended period of time.
+ - Had a bunch of computer issues to debug.
+   Namely some black screen crashes when playing cleric in Dark and Darker(which
+   I think were fixed by decreasing particle count in a custom `Engine.ini`
+   file), and some slowness with The Last Spell which prompted me to upgrade my
+   cpu (which didn't seem to help :().
+ - Still writing lots of SQL at work.
+   Had a brutal bug to debug where function arguments were being overwritten by
+   aliased column names in a query.
+ - Checked out Taskmaster and Ted Lasso, both pretty great in their own ways
+ - Played a bunch of Tarkir: Dragonflight draft first in person then on MTG:
+   Arena.
+
 Categories: [Recent]({{< relref "/" >}}?Recent=true)
 
 Backlinks: [Counter Strike]({{< relref "/docs/games/Counter-Strike.md" >}}), 
