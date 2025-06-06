@@ -151,4 +151,7 @@ the proper format for the weeks website.
 Categories: [Important]({{< relref "/" >}}?Important=true),
 [Lifestyle Optimizations]({{< relref "/" >}}?Lifestyle-Optimizations=true)
 
-Backlinks: [Food]({{< relref "/docs/health-and-longevity/food.md" >}}), 
+Backlinks: [Cooking]({{< relref "/docs/health-and-longevity/cooking.md" >}}), 
+[Food]({{< relref "/docs/health-and-longevity/food.md" >}}), 
+[2025 Update]({{< relref "/docs/lifelogging/2025-update.md" >}}), 
+[What And Why]({{< relref "/docs/lifelogging/what-and-why.md" >}}), 

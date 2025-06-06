@@ -7,6 +7,12 @@ The ultimate goal is to get a realtime datafeed of total home power
 usage, so I can have more direct feedback to how my appliance usage
 effects power consumption....
 
+## 2025 Lifelogging Update
+
+Someone on Reddit working on developing a new lifelogging product reached out to
+me to help guide their work.
+Here are my responses to their survey on March 28, 2025:...
+
 ## 3-in-1 Phone Case
 
 This system for a wallet, keys, and phone in one package has been serving me
@@ -446,6 +452,10 @@ A list of great explanations for things I've stumbled across....
 
 I've found that hang drying cloths over using a cloths dryer has some pretty
 neat advantages:...
+
+## History of my Musical Interests
+
+For each period are listed some of my most listened to albums....
 
 ## Honorable Extraction Looter
 
