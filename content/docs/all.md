@@ -378,6 +378,10 @@ https://healthcostinstitute.org/hcci-originals/hmi-interactive#HMI-Summary-Repor
 
 ...
 
+## Footwear
+
+...
+
 ## Freedom, Inequality, and Meritocracy
 
 I was listening to the rational reminder financial podcast and they had [an
@@ -1184,7 +1188,7 @@ One variant worth trying is trying to play with pictures instead of words on the
 
 ## [Counter Strike]()
 
-...
+Categories: [Games]({{< relref "/" >}}?Games=true)...
 
 ## [DAT Creativity](https://www.datcreativity.com/)
 
@@ -1319,7 +1323,7 @@ work....
 
 ## [games/counter-strike.md]()
 
-...
+Categories: [Games]({{< relref "/" >}}?Games=true)...
 
 ## _Why Greatness Cannot be Planned_ by Kenneth O. Stanley and Joel Lehman
 

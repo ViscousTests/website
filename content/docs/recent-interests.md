@@ -21,3 +21,7 @@ I try to update this monthly, using a recurring task to help.
  - Reading ACX, like https://www.astralcodexten.com/p/why-i-am-not-a-conflict-theorist
 
 Categories: [Recent]({{< relref "/" >}}?Recent=true)
+
+Backlinks: [Counter Strike]({{< relref "/docs/games/Counter-Strike.md" >}}), 
+[Alt Health]({{< relref "/docs/health-and-longevity/alt-health.md" >}}), 
+[Keyboards And Typing]({{< relref "/docs/lifestyle-optimizations/keyboards-and-typing.md" >}}), 

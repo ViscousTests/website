@@ -9,5 +9,3 @@ Feelings:
 Categories: [Games]({{< relref "/" >}}?Games=true),
 [Solitary]({{< relref "/" >}}?Solitary=true),
 [Story]({{< relref "/" >}}?Story=true)
-
-Backlinks: [Managing Player Failure]({{< relref "/docs/gamedev/managing-player-failure.md" >}}), 
