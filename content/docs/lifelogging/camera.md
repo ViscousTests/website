@@ -41,4 +41,5 @@ A much more user friendly experience!  Unfortunately the company no longer exist
 
 Categories: [Lifelogging]({{< relref "/" >}}?Lifelogging=true)
 
-Backlinks: [What And Why]({{< relref "/docs/lifelogging/what-and-why.md" >}}), 
+Backlinks: [2025 Update]({{< relref "/docs/lifelogging/2025-update.md" >}}), 
+[What And Why]({{< relref "/docs/lifelogging/what-and-why.md" >}}), 

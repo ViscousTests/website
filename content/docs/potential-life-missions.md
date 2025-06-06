@@ -68,6 +68,14 @@ The largest cause of sickness in the world today by far.
 
 Also an extreme humanitarian tragedy that dwarfs all others.
 
+#### Participating in Biomedical Research
+
+As someone without formal training in biology or medicine, I've found it
+difficult to find a way to contribute to biomedical research personally.
+Most jobs are very competitive (or I am not qualified for them), and based on
+the doomerism on r/biotech it seems like even those who are qualified face a
+pretty fraught industry.
+Probably the best way forward here is to go back to school for a PhD.
 
 ### Reduce Costs of Common Wants/Needs
 
