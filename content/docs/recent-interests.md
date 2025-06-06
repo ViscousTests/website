@@ -54,6 +54,18 @@ I try to update this monthly, using a recurring task to help.
  - Played a bunch of Tarkir: Dragonflight draft first in person then on MTG:
    Arena.
 
+## May
+
+ - V Rising
+ - Epic saga trying to debug my computer not sleeping after replacing CPU:
+   https://bbs.archlinux.org/viewtopic.php?pid=2244784#p2244784
+ - Send long term black 5.12+ project at the IMA crags
+ - Started going out climbing at the exits again, feeling strong!
+ - Started running to/from work, way better than I expected.
+ - Started working on neuroscience research project https://github.com/kovasap/nightly-nwb
+ - Started working on new drafting game idea https://github.com/kovasap/draft-concept
+ - Got back into R6: siege a bit
+
 Categories: [Recent]({{< relref "/" >}}?Recent=true)
 
 Backlinks: [Counter Strike]({{< relref "/docs/games/Counter-Strike.md" >}}), 
