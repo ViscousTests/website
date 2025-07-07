@@ -662,6 +662,10 @@ See title :)...
 
 ...
 
+## Mice
+
+...
+
 ## Microphone Setup Notes
 
 Use

@@ -29,15 +29,24 @@ More buttons, but some downgrades from the Sabre:
 
 ## To Try Perhaps?
 
-## Corsair DARKSTAR WIRELESS RGB
+### Corsair DARKSTAR WIRELESS RGB
 
  - Expensive
+ - Has tilt gestures
  - Many complaints about build/technical issues
 
-## Corsair IRONCLAW RGB WIRELESS
+### Corsair IRONCLAW RGB WIRELESS
 
  - No mouse wheel side buttons
 
-## Steelseries Rival 500 
+### Steelseries Rival 500 
 
  - Discontinued :(
+
+### Swiftpoint Z2
+
+ - Very unique!
+ - Has tilt gestures
+ - Expensive
+
+Categories: [Lifestyle Optimizations]({{< relref "/" >}}?Lifestyle-Optimizations=true)
