@@ -2,19 +2,39 @@
 
 ## Food
 
+### Eating Setting
+
+I used to eat a lot of my meals while watching YouTube videos, browsing social
+media, or talking to other people I was sharing the meal with.
+I found that the extra stimulation/low grade stress from these activities often
+led me to lose track of my eating and/or overeat.
+
+Recently I've been experimenting with disconnecting entirely when eating and
+focusing only on the food.
+Usually this entails going outside and eating there.
+This has helped a lot to curb overeating, and gives me some time to consider
+what I have coming up in the day.
+I think I want to continue doing this as much as I can!
+
 ### Schedule
 
- - **Breakfast:** Avoid grains/beans.  Eat a small amount of vegetables with oil.  Eat eggs/fish.
-   Don't eat too much; overeating at breakfast is a good way to derail energy for the
-   rest of the day.
+ - **Breakfast:** Avoid grains/beans.
+   Eat a small amount of vegetables with oil.
+   Eat eggs/fish.
+   Don't eat too much!!
+   Overeating at breakfast is a good way to derail energy for the rest of the
+   day.
  - **Lunch:** eat one, but try to wait until hungry again from breakfast.
    This could be 5+ hours later.
-   Eat a mixed variety, with more carbs than breakfast.  Still avoid grains/beans if possible.
-   Eating only fats/greens (e.g. salad) can lead to low energy and continued hunger.
+   Eat a mixed variety, with more carbs than breakfast.
+   Still avoid grains/beans if possible.
+   Eating only fats/greens (like salad) can lead to low energy and continued
+   hunger.
  - **Dinner:** eat only if hungry OR if I worked out in the afternoon/evening.
-   Focus on mainly whole grain carbs, fruit, some legumes, avoid fat and salt!
+   Focus on mainly whole grain carbs, fruit, some legumes, avoid too much
+   protein and salt!
    This is to avoid disturbing sleep (I find whole grains make me sleepy,
-   digesting fat/salt keeps me awake).
+   digesting protein/salt keeps me awake).
     - *Enforcement mechanism:* I have a calendar event every day starting at
       5:30 that reminds me of this item.
 
@@ -33,16 +53,18 @@ How I personally react to different foods in 2025.
 #### Animal Products
 
  - **Fish:** Often make me feel tired/sleepy when digesting.
-   Not great to overeat on.  I like to eat regularly for the omega-3s.
+   Not great to overeat on.
+   I like to eat regularly for the omega-3s.
+   - I tolerate sardines and salmon better than tuna for some reason.
  - **Dairy:** Makes me gassy and generally not feel great.
  - **Eggs:** No issues, although can take longer to digest than other foods; not
- great to eat them if my next meal will be soon.
+   great to eat them if my next meal will be soon.
 
 #### Legumes
 
  - **Tofu:** No issues digesting.
- - **Beans/Chickpeas/Lentils:** When I eat these plain, I tend to stay hungry for a while
-   and eat a lot of them.
+ - **Beans/Chickpeas/Lentils:** When I eat these plain, I tend to stay hungry
+   for a while and eat a lot of them.
    This invariably leads to me feeling very overfull and tired, as they are also
    hard for me to digest.
  - **Peanut Products:** Good in small quantities, but very easy to overdo.
@@ -58,7 +80,8 @@ How I personally react to different foods in 2025.
  - **Rolled Oats:** I love oats and even eat them raw.
    I don't have any issues eating/digesting them.
  - **Brown Rice:** Good in small quantities, too much can make me feel bloated.
- - **White Rice:** Similar to brown rice, but I can eat more of it.
+ - **White Rice:** Similar to brown rice, and can make me feel tired when eating
+   too much, which is easy to do.
 
 #### Fruits
 
@@ -97,8 +120,6 @@ I take vitamin D (2000 IU) daily.
 I try to move around regularly, via walking around or doing some light
 physical-therapy-style exercises like
 https://www.momentumphysicaltherapy.ca/blog/okotoks-physiotherapy-posture-exercises.
-  - *Enforcement mechanism:* I have a recurring daily task to do this in the
-    afternoon.
 
 ## Tasks
 
@@ -109,12 +130,12 @@ At this point I will immediately either:
 
 1. Do the task or
 2. Reset the task date/time for when I think I can do it or
-3. Delete the task if it is obselete or
+3. Delete the task if it is obsolete or
 4. Remove the date/time and move the task to another task list like "Stuff to
    Try" (this list has hundreds of items for me that most of which I will likely
    never do).
 
-I should never have any task notifications "sitting around" or any obselete tasks.
+I should never have any task notifications "sitting around" or any obsolete tasks.
 
 One of the reasons why this works so well for me is that I often look down at my
 phone when I am bored or in between tasks.
