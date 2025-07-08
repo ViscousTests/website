@@ -63,7 +63,7 @@ I probably forget a lot of things that happen each month :(.
  - Send long term black 5.12+ project at the IMA crags
  - Started going out climbing at the exits again, feeling strong!
  - Started running to/from work, way better than I expected.
- - Started working on neuroscience research project https://github.com/kovasap/nightly-nwb
+ - Started working in neuroscience research project https://github.com/kovasap/nightly-nwb
  - Started working on new drafting game idea https://github.com/kovasap/draft-concept
  - Got back into R6: siege a bit
 
@@ -86,6 +86,8 @@ I probably forget a lot of things that happen each month :(.
  - Ate a bunch of iceberg lettuce salads.
    E.g.
    tortilla chips/mayo/lettuce/shredded carrots.
+ - Selling old Pokemon cards I discovered.  Quite a labor intensive process to price and sell them all.
+ - The Bazaar continues to be great!
 
 Categories: [Recent]({{< relref "/" >}}?Recent=true)
 
