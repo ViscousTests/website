@@ -49,4 +49,8 @@ More buttons, but some downgrades from the Sabre:
  - Has tilt gestures
  - Expensive
 
+### Logitech G300s Optical Ambidextrous Gaming Mouse
+
+ - No side wheel buttons, or side buttons at all
+
 Categories: [Lifestyle Optimizations]({{< relref "/" >}}?Lifestyle-Optimizations=true)
