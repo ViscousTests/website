@@ -22,3 +22,6 @@
 [submodule "life-timeline"]
 	path = life-timeline
 	url = git@github.com:kovasap/life-timeline.git
+[submodule "music-management"]
+	path = music-management
+	url = git@github.com:kovasap/music-management.git

@@ -14,6 +14,7 @@ hugo # if using a theme, replace with `hugo -t <YOURTHEME>`
 # Ideally I should write some code here that finds all the files that were
 # generated via symlinks and encrypts only those.
 npx staticrypt public/docs/history/family/index.html -d public/docs/history/family
+npx staticrypt public/docs/music/music-library-management/index.html -d public/docs/music/music-library-management
 
 # Go To Public folder
 cd public
