@@ -934,7 +934,8 @@ Turn based games sidestep this problem....
 ## Recent Interests
 
 Here I list stuff I've been interested in recently.
-I try to update this monthly, using a recurring task to help....
+I try to update this monthly, using a recurring task to help.
+I probably forget a lot of things that happen each month :(....
 
 ## Recommendations
 
