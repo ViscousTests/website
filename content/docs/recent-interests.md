@@ -4,6 +4,9 @@ Here I list stuff I've been interested in recently.
 I try to update this monthly, using a recurring task to help.
 I probably forget a lot of things that happen each month :(.
 
+To populate this page, try using my mementodb diary, and
+https://github.com/kovasap/dotfiles/blob/master/bin/chrome-history-for-gemini.zsh.
+
 ## 2025
 
 ## February
