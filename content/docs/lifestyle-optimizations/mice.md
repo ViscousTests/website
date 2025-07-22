@@ -27,13 +27,22 @@ More buttons, but some downgrades from the Sabre:
 
 ### Razer Naga
 
-## To Try Perhaps?
+Felt so wrong in my hands, both very bulky and hard to grip, with my thumb
+constantly not finding a good position due to the grid of buttons.
 
 ### Corsair DARKSTAR WIRELESS RGB
 
  - Expensive
- - Has tilt gestures
+ - Has tilt gestures, but NOT usable on linux with build in memory customization
+   option.
  - Many complaints about build/technical issues
+    - I personally experienced a creeky side-to-side scroll wheel button
+      actuation, and the top left left-click button did not depress properly
+      when hitting the front part of it.
+      This is more annoying than it sounds.
+ - For me, this mouse felt pretty good in my hand.  If anything a bit big.
+
+## To Try Perhaps?
 
 ### Corsair IRONCLAW RGB WIRELESS
 
@@ -52,5 +61,10 @@ More buttons, but some downgrades from the Sabre:
 ### Logitech G300s Optical Ambidextrous Gaming Mouse
 
  - No side wheel buttons, or side buttons at all
+ - Discontinued :(
+
+### Logitech G700s
+
+Tried a friend's.  Felt great in my hand.  Unfortunately discontinued :(.
 
 Categories: [Lifestyle Optimizations]({{< relref "/" >}}?Lifestyle-Optimizations=true)
