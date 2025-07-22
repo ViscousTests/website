@@ -44,6 +44,8 @@ constantly not finding a good position due to the grid of buttons.
 
 ## To Try Perhaps?
 
+See this Gemini chat: https://g.co/gemini/share/f856fe7477aa
+
 ### Corsair IRONCLAW RGB WIRELESS
 
  - No mouse wheel side buttons
