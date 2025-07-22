@@ -33,7 +33,8 @@
   (= "md" (last (s/split (:name file) "."))))
 
 (defn is-symlink? [file]
-  (= file "content/docs/history/family.md"))
+  (or (= file "content/docs/history/family.md")
+      (= file "content/docs/music/music-library-management.md")))
 ; This code only works for soft symbolic links, I can't find anything in the
 ; joker API that will count references to a file, which AFAICT is the only way
 ; to detect hard links.
