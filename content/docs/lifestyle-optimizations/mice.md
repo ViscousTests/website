@@ -41,6 +41,20 @@ constantly not finding a good position due to the grid of buttons.
       when hitting the front part of it.
       This is more annoying than it sounds.
  - For me, this mouse felt pretty good in my hand.  If anything a bit big.
+ - Buttons are plentiful and easy to reach for the most part.
+
+### Turtle Beach Kone Wireless XP
+
+ - Amazing software, seems like all settings can be stored in mouse memory as
+   well
+ - Many buttons, including cool "easy shift" button that is very easy to use
+   with thumb
+ - Kinda small for my hand to palm.
+ - "easy shift" button acts as thumb shelf, and my thumb feels too big for the
+   shelf slot, just like the Logitech G502
+ - very cool lighting that seems to appear out of nowhere and gives the mouse depth
+
+I wish my hand fit this mouse better :(.
 
 ## To Try Perhaps?
 
