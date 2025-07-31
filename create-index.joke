@@ -178,14 +178,30 @@ Backlinks:
          (s/replace formatted-category " " "-")
          "=true)")))
 
-(defn make-category-str
+(defn make-category-section
   [categories]
-  (let [linked-categories (for [category categories]
-                            (link-category category))]
-    (str "Categories: " (s/join ",\n" linked-categories))))
+  (str "Categories: " (s/join ",\n" (map link-category (sort categories)))))
 
 ;; ------------------ Backlink Management --------------------------------
 
+(defn file-to-md-link
+  [filepath]
+  (str "["
+       (to-title filepath)
+       "]({{< relref \""
+       (s/replace-first filepath "content" "")
+       "\" >}})"))
+
+(defn make-backlinks-section
+  [file]
+  (if (= 0 (count (:backlinks file)))
+    ""
+    (str "Backlinks: "
+         (apply str
+           (for [path (sort (:backlinks file))]
+             (str (file-to-md-link (:path file) ", \n")))))))
+
+; Helper function for update-files-with-backlinks
 (defn get-file-to-backlinks
   [all-files]
   (apply merge-with
@@ -195,13 +211,19 @@ Backlinks:
         (for [link (:links file :when (not (= "/docs/all.md" link)))]
           {link #{(:path file)}})))))
 
+; TODO update this code to link to specific md sections, not just pages as a
+; whole. this is particularly helpful for the "feelings" page and how it
+; interacts with "experiences"
 (defn update-files-with-backlinks
   [all-files]
   (let [path-to-backlinks (get-file-to-backlinks all-files)]
     (for [file all-files]
-      (assoc file
-        :backlinks (get path-to-backlinks
-                        (s/replace-first (:path file) "content" ""))))))
+      (as-> file f
+        (assoc f
+          :backlinks (get path-to-backlinks
+                          (s/replace-first (:path f) "content" "")))
+        (assoc
+          :backlinks-section (make-backlinks-section f))))))
 
 ;; ------------------ All File Data Construction --------------------------
 
@@ -231,11 +253,13 @@ Backlinks:
                                   (remove-paragraph-starting-with "Backlinks:")
                                   (remove-paragraph-starting-with
                                     "Categories:")))
-      (assoc f :categories-section (make-category-section f))
-      (assoc f :backlinks-section (make-backlinks-section f))
-      (assoc f :complete-markdown (str (:sectionless-markdown f) "\n\n"
-                                       (:categories-section f) "\n\n"
-                                       (:backlinks-section f))))))
+      (assoc f :categories-section (make-category-section f)))))
+
+(defn generate-markdown
+  [file]
+  (str (:sectionless-markdown file) "\n\n"
+       (:categories-section file) "\n\n"
+       (:backlinks-section file)))
 
 (defn get-files
   [filepath]
@@ -248,11 +272,11 @@ Backlinks:
 
 (defn get-all-files
   [filepath]
-  (reduce concat
-    (for [file  (get-files filepath)
-          :when (should-include? file)]
-      (if (:dir? file) (get-all-files (:path file)) [file]))))
-
+  (update-files-with-backlinks
+    (reduce concat
+      (for [file  (get-files filepath)
+            :when (should-include? file)]
+        (if (:dir? file) (get-all-files (:path file)) [file])))))
 
 ; DOES NOT include backlink information!
 (defn get-file-tree
@@ -261,6 +285,8 @@ Backlinks:
         (for [{:keys [path size name dir?]} (get-files filepath)]
           (let [file {:name name :size size}]
             (if dir? (assoc file :children (get-file-tree path)) file)))))
+
+;; ---------------- Directory Section Management -------------------------
 
 (declare make-dir-into-header)
 
@@ -285,42 +311,6 @@ Backlinks:
        [:details {:id (:name file)}
         [:summary [:strong (to-title filepath)]]
         inner-list]])))
-
-; -------------- Adding Backlinks to All Pages ----------------------------
-
-(defn file-to-md-link
-  [filepath]
-  (str "["
-       (to-title filepath)
-       "]({{< relref \""
-       (s/replace-first filepath "content" "")
-       "\" >}})"))
-      
-(defn update-backlinks
-  [md backlinks]
-  (let [[backlinkless-text _] (extract-paragraph md "Backlinks:")]
-    (if (= 0 (count backlinks))
-      backlinkless-text
-      (str backlinkless-text
-           "\n\nBacklinks: "
-           (apply str
-             (for [path backlinks]
-               (str (file-to-md-link path) ", \n")))))))
-
-                                                           
-; TODO update this code to link to specific md sections, not just pages as a
-; whole. this is particularly helpful for the "feelings" page and how it
-; interacts with "experiences"
-(defn add-all-backlinks!
-  [root-dir]
-  (doall
-    (for [file (update-files-with-backlinks (get-all-files root-dir))]
-      (do (prn (str "Adding "         (count (:backlinks file))
-                    " backlinks for " (:path file)))
-          (if (is-symlink? (:path file))
-            (prn (str "Not updating backlinks for symlink " (:path file)))
-            (spit (:path file)
-                  (update-backlinks (:markdown file) (:backlinks file))))))))
 
 ;; ------------- Experiences.edn to Markdown Files -------------------------
 
