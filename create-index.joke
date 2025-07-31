@@ -20,14 +20,14 @@
           (for [word (s/split string " ")]
             (s/capitalize word))))
 
-(defn to-title [filepath]
-  (capitalize-words
-    (-> filepath
-        (fp/base)
-        (s/replace "-" " ")
-        ; Remove extension
-        (s/split ".")
-        (first))))
+(defn to-title
+  [filepath]
+  (capitalize-words (-> filepath
+                        (fp/base)
+                        (s/replace "-" " ")
+                        ; Remove extension
+                        (s/split ".")
+                        (first))))
 
 (defn is-md? [file]
   (= "md" (last (s/split (:name file) "."))))
@@ -180,7 +180,11 @@ Backlinks:
 
 (defn make-category-section
   [categories]
-  (str "Categories: " (s/join ",\n" (map link-category (sort categories)))))
+  (->> categories
+       (sort)
+       (map link-category)
+       (s/join ",\n")
+       (str "Categories:\n")))
 
 ;; ------------------ Backlink Management --------------------------------
 
@@ -193,13 +197,14 @@ Backlinks:
        "\" >}})"))
 
 (defn make-backlinks-section
-  [file]
-  (if (= 0 (count (:backlinks file)))
+  [backlinks]
+  (if (or (nil? backlinks) (= 0 (count backlinks)))
     ""
-    (str "Backlinks: "
-         (apply str
-           (for [path (sort (:backlinks file))]
-             (str (file-to-md-link (:path file) ", \n")))))))
+    (->> backlinks
+         (sort)
+         (map file-to-md-link)
+         (s/join ",\n")
+         (str "Backlinks:\n"))))
 
 ; Helper function for update-files-with-backlinks
 (defn get-file-to-backlinks
@@ -208,7 +213,8 @@ Backlinks:
     into
     (reduce concat
       (for [file all-files]
-        (for [link (:links file :when (not (= "/docs/all.md" link)))]
+        (for [link  (:links file)
+              :when (not (= "/docs/all.md" link))]
           {link #{(:path file)}})))))
 
 ; TODO update this code to link to specific md sections, not just pages as a
@@ -222,45 +228,50 @@ Backlinks:
         (assoc f
           :backlinks (get path-to-backlinks
                           (s/replace-first (:path f) "content" "")))
-        (assoc
-          :backlinks-section (make-backlinks-section f))))))
+        (assoc f
+          :backlinks-section (make-backlinks-section (:backlinks f)))))))
 
 ;; ------------------ All File Data Construction --------------------------
 
 (defn add-file-data
   [file]
+  (prn (str "Processing data for " (:path file)))
   ; Assume symlinks are links to private repositories that we do not
   ; want included in the indexed data.
   (let [markdown (if (is-symlink? (:path file))
                    "This file is encrypted."
                    (slurp (:path file)))]
     (as-> file f
-      (merge
-        f
-        {:categories (first (parse-categories markdown))
-         :path-categories (get-categories-from-filepath file)
-         :original-markdown markdown
-         :last-modified-unix-timestamp
-         (:out (os/sh "git" "log" "-1" "--pretty=format:%ct" (:path file)))
-         :created-unix-timestamp (:out (os/sh "git"
-                                              "log" "-1"
-                                              "--diff-filter=A" "--follow"
-                                              "--format=%ct" (:path file)))
-         :links (parse-links markdown)
-         :title (to-title (:path file))})
+      (merge f
+             {:path-categories (get-categories-from-filepath file)
+              :original-markdown markdown
+              :last-modified-unix-timestamp
+              (parse-long (s/trim (:out (os/sh "git" "log"
+                                               "-1"  "--pretty=format:%ct"
+                                               "--"  (:path file)))))
+              :created-unix-timestamp
+              (parse-long (s/trim (:out (os/sh "git"      "log"
+                                               "-1"       "--diff-filter=A"
+                                               "--follow" "--format=%ct"
+                                               "--"       (:path file)))))
+              :links (parse-links markdown)
+              :title (to-title (:path file))})
+      (assoc f
+        :categories (union (:path-categories f) (parse-categories markdown)))
       (assoc f
         :sectionless-markdown (-> (:original-markdown f)
                                   (remove-paragraph-starting-with "Backlinks:")
                                   (remove-paragraph-starting-with
                                     "Categories:")))
-      (assoc f :categories-section (make-category-section f)))))
+      (assoc f :categories-section (make-category-section (:categories f))))))
 
-(defn generate-markdown
+(defn generate-final-markdown
   [file]
-  (str (:sectionless-markdown file) "\n\n"
-       (:categories-section file) "\n\n"
-       (:backlinks-section file)))
+  (s/trim (str (:sectionless-markdown file)
+               "\n\n" (:categories-section file)
+               "\n\n" (:backlinks-section file))))
 
+; Helper function for get-all-files and get-file-tree
 (defn get-files
   [filepath]
   (sort-by
@@ -272,11 +283,13 @@ Backlinks:
 
 (defn get-all-files
   [filepath]
-  (update-files-with-backlinks
-    (reduce concat
-      (for [file  (get-files filepath)
-            :when (should-include? file)]
-        (if (:dir? file) (get-all-files (:path file)) [file])))))
+  (->> filepath
+      (get-files)
+      (filter should-include?)
+      (map #(if (:dir? %) (get-all-files (:path %)) [%]))
+      (reduce concat)
+      (update-files-with-backlinks)
+      (map #(assoc % :markdown (generate-final-markdown %)))))
 
 ; DOES NOT include backlink information!
 (defn get-file-tree
@@ -451,13 +464,16 @@ Backlinks:
 
 (defn word-count
   [files]
-  (let [words (filter is-word
-                      (s/split (reduce str (map :markdown
-                                              (get-all-files "content/docs")))
-                               #"\s+"))]
-    (str (count words) " words, "
-         (m/round (* 100 (double (/ (count words)
-                                    harry-potter-sorcerers-stone-words))))
+  (let [word-count (as-> files d
+                     (map :markdown d)
+                     (reduce str d)
+                     (s/split d #"\s+")
+                     (filter is-word d)
+                     (count d))]
+    (str word-count
+         " words, "
+         (m/round
+           (* 100 (double (/ word-count harry-potter-sorcerers-stone-words))))
          "% of Harry Potter and the Sorcerer's Stone")))
 
 (defn update-word-count
@@ -473,14 +489,14 @@ Backlinks:
 (def content-path "content/docs")
 (defn main []
   (let [all-files (get-all-files content-path)]
-    ; (spit index-path (h/html (make-dir-contents content-path)))
-    ; (spit "content/menu/index.edn" (get-file-tree content-path))
     (spit "content/docs/all.edn" 
           ; THIS EATS DEBUGGING PRINT STATEMENTS!!!
           (with-out-str (pprint (into [] all-files))))
     (spit "content/docs/all.md" (make-all-notes-page all-files))
     (prn (word-count all-files))
-    (update-word-count "content/_index.md" all-files))
+    (update-word-count "content/_index.md" all-files)
+    (doall (for [file all-files]
+             (spit (:path file) (generate-final-markdown file))))))
 
   ; Skip generating experience md pages from the edn file for now.
   ; (let [experiences-edn
@@ -489,10 +505,10 @@ Backlinks:
   ;   (feelings-to-file experiences-edn)
   ;   (experiences-to-md experiences-edn))
 
-  (add-dir-categories! content-path)
-  (add-all-backlinks! content-path))
-  
-
+  ; Actually generate the index.  This code is obseleted by the website-helpers
+  ; index generation
+  ; (spit index-path (h/html (make-dir-contents content-path)))
+  ; (spit "content/menu/index.edn" (get-file-tree content-path))
   ; ; Requires `sudo apt install tidy`
   ; (os/sh "tidy"
   ;        "-indent"
