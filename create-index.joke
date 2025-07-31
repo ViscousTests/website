@@ -495,7 +495,10 @@ Backlinks:
     (spit "content/docs/all.md" (make-all-notes-page all-files))
     (prn (word-count all-files))
     (update-word-count "content/_index.md" all-files)
-    (doall (for [file all-files]
+    (doall (for [file all-files
+                 ; Assume symlinks are links to private repositories that we
+                 ; do not want to modify. 
+                 :when (not (is-symlink? (:path file)))]
              (spit (:path file) (generate-final-markdown file))))))
 
   ; Skip generating experience md pages from the edn file for now.
