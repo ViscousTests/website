@@ -12,9 +12,10 @@ having to reload a long time ago in order to progress in the game.
 Also a lot of games have long loading times and quick saving/loading can lead to
 frustrating waiting.
 If you think you need quicksaving and quick loading in your game, I recommend
-looking into games like [Iron Danger]({{< relref
-"/docs/games/Iron-Danger.md" >}}) that have a time rewind mechanic which
-serves the same purpose but is a lot more ergonomic for the player to work with.
+looking into games like
+[Iron Danger]({{< relref "/docs/games/iron-danger.md" >}})
+that have a time rewind mechanic which serves the same purpose but is a lot
+more ergonomic for the player to work with.
 
 A very silly and IMO bad quick loading and quicksaving system in a game series
 is the system in Shadow Tactics: Blades of the Shogun.
@@ -25,7 +26,3 @@ I think a time rewinding mechanic in these games would be miles better.
 
 Categories:
 [Gamedev]({{< relref "/" >}}?Gamedev=true)
-
-Backlinks:
-[Iron Danger]({{< relref "/docs/games/Iron-Danger.md" >}}),
-[Iron Danger]({{< relref "/docs/games/iron-danger.md" >}})

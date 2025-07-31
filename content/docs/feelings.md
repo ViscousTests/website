@@ -21,6 +21,7 @@ Backlinks:
 [Wordle]({{< relref "/docs/games/Wordle.md" >}}),
 [Battle Brothers]({{< relref "/docs/games/battle-brothers.md" >}}),
 [Dead Of Winter]({{< relref "/docs/games/dead-of-winter.md" >}}),
+[Subnautica]({{< relref "/docs/games/subnautica.md" >}}),
 [Lead Climbing In A Gym]({{< relref "/docs/hobbies/Lead-Climbing-in-a-Gym.md" >}}),
 [Yo Yoing]({{< relref "/docs/hobbies/Yo-Yoing.md" >}}),
 [Watching Gothamchess]({{< relref "/docs/videos/Watching-GothamChess.md" >}}),
