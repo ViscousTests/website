@@ -27,4 +27,5 @@ Categories:
 [Gamedev]({{< relref "/" >}}?Gamedev=true)
 
 Backlinks:
-[Iron Danger]({{< relref "/docs/games/Iron-Danger.md" >}})
+[Iron Danger]({{< relref "/docs/games/Iron-Danger.md" >}}),
+[Iron Danger]({{< relref "/docs/games/iron-danger.md" >}})
