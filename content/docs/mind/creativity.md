@@ -65,11 +65,12 @@ point where the original vision is unfulfilled in some way.
  - [Guided idea generation tool](https://old.tjcx.me/tools/idea-generator.html)
  - [My thoughts on copyright/ip]({{< relref "/docs/understanding-the-world/copyright-and-ip.md" >}})
 
+Categories:
+[Mind]({{< relref "/" >}}?Mind=true)
 
-Categories: [Mind]({{< relref "/" >}}?Mind=true)
-
-Backlinks: [Manifesto]({{< relref "/docs/manifesto.md" >}}), 
-[Gamedev Context]({{< relref "/docs/gamedev/gamedev-context.md" >}}), 
-[Motivation]({{< relref "/docs/mind/motivation.md" >}}), 
-[Utopia]({{< relref "/docs/society/utopia.md" >}}), 
-[Copyright And Ip]({{< relref "/docs/understanding-the-world/copyright-and-ip.md" >}}), 
+Backlinks:
+[Gamedev Context]({{< relref "/docs/gamedev/gamedev-context.md" >}}),
+[Manifesto]({{< relref "/docs/manifesto.md" >}}),
+[Motivation]({{< relref "/docs/mind/motivation.md" >}}),
+[Utopia]({{< relref "/docs/society/utopia.md" >}}),
+[Copyright And Ip]({{< relref "/docs/understanding-the-world/copyright-and-ip.md" >}})

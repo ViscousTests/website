@@ -37,5 +37,6 @@ to make decisions.
 I don't think freedom of speech should be suppressed by any means here.
 I'm purely speaking about cultural norms, not legal changes.
 
-Categories: [Mind]({{< relref "/" >}}?Mind=true),
+Categories:
+[Mind]({{< relref "/" >}}?Mind=true),
 [Recent]({{< relref "/" >}}?Recent=true)

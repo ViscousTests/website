@@ -10,8 +10,10 @@ This IMO is a really bad experience because (1) it's boring and (2) it puts the
 player in a more reactive frame of mind.
 Turn based games sidestep this problem.
 
-Categories: [Gamedev]({{< relref "/" >}}?Gamedev=true)
+Categories:
+[Gamedev]({{< relref "/" >}}?Gamedev=true)
 
-Backlinks: [Offworld Trading Company]({{< relref "/docs/games/Offworld-Trading-Company.md" >}}), 
-[Rimworld]({{< relref "/docs/games/Rimworld.md" >}}), 
-[Oxygen Not Included]({{< relref "/docs/games/oxygen-not-included.md" >}}), 
+Backlinks:
+[Offworld Trading Company]({{< relref "/docs/games/Offworld-Trading-Company.md" >}}),
+[Rimworld]({{< relref "/docs/games/Rimworld.md" >}}),
+[Oxygen Not Included]({{< relref "/docs/games/oxygen-not-included.md" >}})

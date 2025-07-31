@@ -19,5 +19,6 @@ start or other mischeif they cause is mitigated properly by your design.
 
 [Gamedev]({{< relref "/" >}}?Gamedev=true)
 
-Categories: [Game Ideas]({{< relref "/" >}}?Game-Ideas=true),
+Categories:
+[Game Ideas]({{< relref "/" >}}?Game-Ideas=true),
 [Gamedev]({{< relref "/" >}}?Gamedev=true)

@@ -35,4 +35,5 @@ it's less convenient to do so.
   - https://wiki.c2.com/, especially the hover-links-to-see-page feature, which
     I added to this website.
 
-Categories: [Lifestyle Optimizations]({{< relref "/" >}}?Lifestyle-Optimizations=true)
+Categories:
+[Lifestyle Optimizations]({{< relref "/" >}}?Lifestyle-Optimizations=true)

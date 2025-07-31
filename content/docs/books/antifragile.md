@@ -32,7 +32,9 @@ into the process, hopefully stumbling the tinkerer closer to a solution.  This
 is antifragile - your expectations are low most of the time, but sometimes you
 stumble onto something very groundbreaking.
 
-Categories: [Books]({{< relref "/" >}}?Books=true),
+Categories:
+[Books]({{< relref "/" >}}?Books=true),
 [Understanding The World]({{< relref "/" >}}?Understanding-The-World=true)
 
-Backlinks: [Utopia]({{< relref "/docs/society/utopia.md" >}}), 
+Backlinks:
+[Utopia]({{< relref "/docs/society/utopia.md" >}})

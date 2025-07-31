@@ -16,6 +16,7 @@ progress.
 
 Feelings:
 
-Categories: [Competitive]({{< relref "/" >}}?Competitive=true),
+Categories:
+[Competitive]({{< relref "/" >}}?Competitive=true),
 [Games]({{< relref "/" >}}?Games=true),
 [Turn Based]({{< relref "/" >}}?Turn-Based=true)

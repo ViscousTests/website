@@ -38,4 +38,5 @@ an additional step.
 
 Discussion: https://news.ycombinator.com/item?id=38725340#38727474
 
-Categories: [Software Dev]({{< relref "/" >}}?Software-Dev=true)
+Categories:
+[Software Dev]({{< relref "/" >}}?Software-Dev=true)

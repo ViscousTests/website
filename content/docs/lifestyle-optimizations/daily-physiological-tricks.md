@@ -51,9 +51,10 @@
    Both are OK right after lunch.
    - Not sure if caffeine at all is a net positive for me anymore.
 
+Categories:
+[Lifestyle Optimizations]({{< relref "/" >}}?Lifestyle-Optimizations=true)
 
-Categories: [Lifestyle Optimizations]({{< relref "/" >}}?Lifestyle-Optimizations=true)
-
-Backlinks: [Sleep]({{< relref "/docs/health-and-longevity/sleep.md" >}}), 
-[Things To Do When Unmotivated]({{< relref "/docs/mind/things-to-do-when-unmotivated.md" >}}), 
-[Productive Conversations]({{< relref "/docs/understanding-the-world/productive-conversations.md" >}}), 
+Backlinks:
+[Sleep]({{< relref "/docs/health-and-longevity/sleep.md" >}}),
+[Things To Do When Unmotivated]({{< relref "/docs/mind/things-to-do-when-unmotivated.md" >}}),
+[Productive Conversations]({{< relref "/docs/understanding-the-world/productive-conversations.md" >}})

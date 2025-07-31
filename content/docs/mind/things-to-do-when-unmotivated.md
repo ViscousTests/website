@@ -66,7 +66,9 @@ while. Some ideas:
    - Pro: Is relaxing.
    - Con: Can lead to time consuming rabbit hole.
 
-Categories: [Mind]({{< relref "/" >}}?Mind=true)
+Categories:
+[Mind]({{< relref "/" >}}?Mind=true)
 
-Backlinks: [Daily Physiological Tricks]({{< relref "/docs/lifestyle-optimizations/daily-physiological-tricks.md" >}}), 
-[Motivation]({{< relref "/docs/mind/motivation.md" >}}), 
+Backlinks:
+[Daily Physiological Tricks]({{< relref "/docs/lifestyle-optimizations/daily-physiological-tricks.md" >}}),
+[Motivation]({{< relref "/docs/mind/motivation.md" >}})

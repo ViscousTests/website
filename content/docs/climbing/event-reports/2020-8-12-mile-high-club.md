@@ -220,5 +220,6 @@ you give yourself enough time!
 
 [Event Reports]({{< relref "/" >}}?Event-Reports=true)
 
-Categories: [Climbing]({{< relref "/" >}}?Climbing=true),
+Categories:
+[Climbing]({{< relref "/" >}}?Climbing=true),
 [Event Reports]({{< relref "/" >}}?Event-Reports=true)

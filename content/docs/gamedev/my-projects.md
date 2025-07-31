@@ -45,4 +45,5 @@ Code can be found at https://github.com/kovasap/tactics/blob/main/DESIGN.md.
 
 Code can be found at https://github.com/kovasap/mod_rng_free.
 
-Categories: [Gamedev]({{< relref "/" >}}?Gamedev=true)
+Categories:
+[Gamedev]({{< relref "/" >}}?Gamedev=true)

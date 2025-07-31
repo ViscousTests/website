@@ -12,9 +12,10 @@ sidebar.
 {{% include "docs/lifestyle-optimizations/experiences.edn" %}}
 {{< /experience_aggregator >}}
 
+Categories:
+[Lifestyle Optimizations]({{< relref "/" >}}?Lifestyle-Optimizations=true)
 
-Categories: [Lifestyle Optimizations]({{< relref "/" >}}?Lifestyle-Optimizations=true)
-
-Backlinks: [Common Patterns]({{< relref "/docs/gamedev/common-patterns.md" >}}), 
-[Recommendations]({{< relref "/docs/gaming/recommendations.md" >}}), 
-[Mind Mapping Concept]({{< relref "/docs/thought-experiments/mind-mapping-concept.md" >}}), 
+Backlinks:
+[Common Patterns]({{< relref "/docs/gamedev/common-patterns.md" >}}),
+[Recommendations]({{< relref "/docs/gaming/recommendations.md" >}}),
+[Mind Mapping Concept]({{< relref "/docs/thought-experiments/mind-mapping-concept.md" >}})

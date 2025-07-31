@@ -31,16 +31,9 @@ do its visualization.
 
 **[The data visualization can be found here!](/cgm-data.html)**
 
+Categories:
+[Health And Longevity]({{< relref "/" >}}?Health-And-Longevity=true)
 
-
-
-
-
-
-
-
-
-Categories: [Health And Longevity]({{< relref "/" >}}?Health-And-Longevity=true)
-
-Backlinks: [Tracking Health]({{< relref "/docs/health-and-longevity/tracking-health.md" >}}), 
-[What And Why]({{< relref "/docs/lifelogging/what-and-why.md" >}}), 
+Backlinks:
+[Tracking Health]({{< relref "/docs/health-and-longevity/tracking-health.md" >}}),
+[What And Why]({{< relref "/docs/lifelogging/what-and-why.md" >}})

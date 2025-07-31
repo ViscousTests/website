@@ -30,4 +30,5 @@ I interviewed someone currently working at Nubank for a Google job in Clojure
 interview didn't go very well in part because the candidate had trouble
 incrementally building up the solution.
 
-Categories: [Software Dev]({{< relref "/" >}}?Software-Dev=true)
+Categories:
+[Software Dev]({{< relref "/" >}}?Software-Dev=true)

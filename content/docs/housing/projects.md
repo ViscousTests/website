@@ -14,4 +14,5 @@
 
  - Solar powered fridge with no batteries: http://joeyh.name/blog/entry/fridge_0.2/
 
-Categories: [Housing]({{< relref "/" >}}?Housing=true)
+Categories:
+[Housing]({{< relref "/" >}}?Housing=true)

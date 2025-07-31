@@ -5,4 +5,5 @@ data.
 I have a repository of small data deep dives I've done at
 https://github.com/kovasap/clerk-notebooks.
 
-Categories: [Datavis]({{< relref "/" >}}?Datavis=true)
+Categories:
+[Datavis]({{< relref "/" >}}?Datavis=true)

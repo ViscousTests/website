@@ -27,4 +27,5 @@ If this theory is correct at all, then a way to avoid the above problem is to
 diversify your endevours, at least adding some that have clear progress marks
 you can feel satisfied about.
 
-Categories: [Mind]({{< relref "/" >}}?Mind=true)
+Categories:
+[Mind]({{< relref "/" >}}?Mind=true)

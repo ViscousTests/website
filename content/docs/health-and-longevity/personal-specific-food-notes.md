@@ -24,4 +24,5 @@ Here I catalog how specific foods affect my body.
 
  - I tolerate these well
 
-Categories: [Health And Longevity]({{< relref "/" >}}?Health-And-Longevity=true)
+Categories:
+[Health And Longevity]({{< relref "/" >}}?Health-And-Longevity=true)

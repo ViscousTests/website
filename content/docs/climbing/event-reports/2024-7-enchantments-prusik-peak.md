@@ -356,6 +356,7 @@ By the end I was very thankful the hike was over!
    Next time I should bring a second pair of shoes besides climbing shoes, and
    do some research about the best way to dry boots overnight in the wilderness.
 
-Categories: [Climbing]({{< relref "/" >}}?Climbing=true),
+Categories:
+[Climbing]({{< relref "/" >}}?Climbing=true),
 [Event Reports]({{< relref "/" >}}?Event-Reports=true),
 [Recent]({{< relref "/" >}}?Recent=true)

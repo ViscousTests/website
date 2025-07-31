@@ -155,4 +155,5 @@ If you must hold close to an angle, you have to bank on your opponent not being 
    gameplay](https://www.youtube.com/watch?v=L4QuNEkLtl8&ab_channel=kandyrew)
    which helped inspire the "cone of danger" thinking.
 
-Categories: [Gaming]({{< relref "/" >}}?Gaming=true)
+Categories:
+[Gaming]({{< relref "/" >}}?Gaming=true)

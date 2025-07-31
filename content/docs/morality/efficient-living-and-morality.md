@@ -163,4 +163,5 @@ led to me have a strong negative emotional reaction to the podcast.
 It felt like a hyper rich individual exploring how to live life as inefficiently
 as possible :/.
 
-Categories: [Morality]({{< relref "/" >}}?Morality=true)
+Categories:
+[Morality]({{< relref "/" >}}?Morality=true)

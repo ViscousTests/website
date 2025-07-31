@@ -35,4 +35,5 @@ are worth exploring:
    other things.
  - Lower commitment, and therefore less stressful.
 
-Categories: [Investing And Finances]({{< relref "/" >}}?Investing-And-Finances=true)
+Categories:
+[Investing And Finances]({{< relref "/" >}}?Investing-And-Finances=true)

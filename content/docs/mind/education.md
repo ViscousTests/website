@@ -118,4 +118,5 @@ government policy as a full-time job.
 Or what the concerns of people doing this job are for  instance with respect to
 their compensation or job security.
 
-Categories: [Mind]({{< relref "/" >}}?Mind=true)
+Categories:
+[Mind]({{< relref "/" >}}?Mind=true)

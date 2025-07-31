@@ -6,8 +6,10 @@ Feelings:
 
   - [Thought Provoking]({{< relref "/docs/feelings.md" >}}#thought-provoking)
 
-Categories: [Games]({{< relref "/" >}}?Games=true),
+Categories:
+[Games]({{< relref "/" >}}?Games=true),
 [Philosophy]({{< relref "/" >}}?Philosophy=true),
 [Story]({{< relref "/" >}}?Story=true)
 
-Backlinks: [Feelings]({{< relref "/docs/feelings.md" >}}), 
+Backlinks:
+[Feelings]({{< relref "/docs/feelings.md" >}})

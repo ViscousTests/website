@@ -8,4 +8,5 @@
    place them too far and not be able to connect them.
  - Early temple for earth 1 is strong
 
-Categories: [Games]({{< relref "/" >}}?Games=true)
+Categories:
+[Games]({{< relref "/" >}}?Games=true)

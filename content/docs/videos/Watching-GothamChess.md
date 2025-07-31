@@ -8,7 +8,9 @@ Feelings:
   - [False Understanding]({{< relref "/docs/feelings.md" >}}#false-understanding)
   - [Relaxing]({{< relref "/docs/feelings.md" >}}#relaxing)
 
-Categories: [Consuming Content]({{< relref "/" >}}?Consuming-Content=true),
+Categories:
+[Consuming Content]({{< relref "/" >}}?Consuming-Content=true),
 [Videos]({{< relref "/" >}}?Videos=true)
 
-Backlinks: [Feelings]({{< relref "/docs/feelings.md" >}}), 
+Backlinks:
+[Feelings]({{< relref "/docs/feelings.md" >}})

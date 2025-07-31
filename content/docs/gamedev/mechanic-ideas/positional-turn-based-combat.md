@@ -40,5 +40,6 @@ Attack ranges could be based on position adjacency.
 
 Each battlefield would have different positions, keeping combat varied and fresh.
 
-Categories: [Gamedev]({{< relref "/" >}}?Gamedev=true),
+Categories:
+[Gamedev]({{< relref "/" >}}?Gamedev=true),
 [Mechanic Ideas]({{< relref "/" >}}?Mechanic-Ideas=true)

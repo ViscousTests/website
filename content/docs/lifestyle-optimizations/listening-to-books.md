@@ -20,4 +20,5 @@ for use in audiobook generation.
 https://beta.elevenlabs.io/ is another good solution that I've listened to
 samples from, but haven't paid for yet.
 
-Categories: [Lifestyle Optimizations]({{< relref "/" >}}?Lifestyle-Optimizations=true)
+Categories:
+[Lifestyle Optimizations]({{< relref "/" >}}?Lifestyle-Optimizations=true)

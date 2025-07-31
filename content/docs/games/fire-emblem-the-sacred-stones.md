@@ -28,7 +28,8 @@ battle puzzles as everyone else.
 
 Feelings:
 
-Categories: [Games]({{< relref "/" >}}?Games=true),
+Categories:
+[Games]({{< relref "/" >}}?Games=true),
 [Solitary]({{< relref "/" >}}?Solitary=true),
 [Story]({{< relref "/" >}}?Story=true),
 [Turn Based]({{< relref "/" >}}?Turn-Based=true),

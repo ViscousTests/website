@@ -9,10 +9,12 @@ Feelings:
   - [Having a clear goal]({{< relref "/docs/feelings.md" >}}#having-a-clear-goal)
   - [Being in the Zone]({{< relref "/docs/feelings.md" >}}#being-in-the-zone)
 
-Categories: [Climbing]({{< relref "/" >}}?Climbing=true),
+Categories:
+[Climbing]({{< relref "/" >}}?Climbing=true),
 [Exercise]({{< relref "/" >}}?Exercise=true),
 [Hobbies]({{< relref "/" >}}?Hobbies=true),
 [Social]({{< relref "/" >}}?Social=true),
 [⭐top10]({{< relref "/" >}}?⭐top10=true)
 
-Backlinks: [Feelings]({{< relref "/docs/feelings.md" >}}), 
+Backlinks:
+[Feelings]({{< relref "/docs/feelings.md" >}})

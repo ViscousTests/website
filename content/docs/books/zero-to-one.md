@@ -14,7 +14,9 @@ seeking incremental change.
 Interesting criticism at
 https://medium.com/@LouisGudema/zero-to-some-a-critique-of-peter-thiels-zero-to-one-a3df11d484de.
 
-Categories: [Books]({{< relref "/" >}}?Books=true),
+Categories:
+[Books]({{< relref "/" >}}?Books=true),
 [Understanding The World]({{< relref "/" >}}?Understanding-The-World=true)
 
-Backlinks: [Influences]({{< relref "/docs/understanding-the-world/influences.md" >}}), 
+Backlinks:
+[Influences]({{< relref "/docs/understanding-the-world/influences.md" >}})

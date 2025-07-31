@@ -83,4 +83,5 @@ See this Gemini chat: https://g.co/gemini/share/f856fe7477aa
 
 Tried a friend's.  Felt great in my hand.  Unfortunately discontinued :(.
 
-Categories: [Lifestyle Optimizations]({{< relref "/" >}}?Lifestyle-Optimizations=true)
+Categories:
+[Lifestyle Optimizations]({{< relref "/" >}}?Lifestyle-Optimizations=true)

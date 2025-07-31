@@ -15,4 +15,5 @@ would lead to you getting to know their playstyle, and would make it easier to
 start conversations. In other words, this would make the experience similar to
 something like playing pick up basketball at a community center.
 
-Categories: [Gamedev]({{< relref "/" >}}?Gamedev=true)
+Categories:
+[Gamedev]({{< relref "/" >}}?Gamedev=true)

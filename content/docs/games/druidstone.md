@@ -2,4 +2,5 @@
 
 {{< game-img "druidstone" "400px" >}}
 
-Categories: [Games]({{< relref "/" >}}?Games=true)
+Categories:
+[Games]({{< relref "/" >}}?Games=true)

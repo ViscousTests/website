@@ -224,4 +224,5 @@ front.
    you are saving (or losing) per month compared to your **Personal monthly
    "rent"**.
 
-Categories: [Investing And Finances]({{< relref "/" >}}?Investing-And-Finances=true)
+Categories:
+[Investing And Finances]({{< relref "/" >}}?Investing-And-Finances=true)

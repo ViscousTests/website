@@ -4,5 +4,6 @@
 
 Feelings:
 
-Categories: [Games]({{< relref "/" >}}?Games=true),
+Categories:
+[Games]({{< relref "/" >}}?Games=true),
 [Puzzle]({{< relref "/" >}}?Puzzle=true)

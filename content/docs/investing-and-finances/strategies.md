@@ -128,4 +128,5 @@ Note that Taleb himself seems to think that a better plan for retirement is
 [![Reddit
 Answer](nntaleb_reddit.png)](https://www.reddit.com/r/options/comments/38onec/i_am_nassim_nicholas_taleb_ask_me_anything_on/)
 
-Categories: [Investing And Finances]({{< relref "/" >}}?Investing-And-Finances=true)
+Categories:
+[Investing And Finances]({{< relref "/" >}}?Investing-And-Finances=true)

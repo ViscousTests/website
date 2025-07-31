@@ -12,6 +12,8 @@
  - Ask people to explain how the thing that's being discussed works (objectively).
    See https://freakonomics.com/podcast/how-to-change-your-mind/.
 
-Categories: [Understanding The World]({{< relref "/" >}}?Understanding-The-World=true)
+Categories:
+[Understanding The World]({{< relref "/" >}}?Understanding-The-World=true)
 
-Backlinks: [Daily Physiological Tricks]({{< relref "/docs/lifestyle-optimizations/daily-physiological-tricks.md" >}}), 
+Backlinks:
+[Daily Physiological Tricks]({{< relref "/docs/lifestyle-optimizations/daily-physiological-tricks.md" >}})

@@ -13,5 +13,6 @@ Best played with mods: https://drive.google.com/drive/folders/1ekiDIGgRXa7bplPzl
 
 [Gaming]({{< relref "/" >}}?Gaming=true)
 
-Categories: [Games]({{< relref "/" >}}?Games=true),
+Categories:
+[Games]({{< relref "/" >}}?Games=true),
 [Gaming]({{< relref "/" >}}?Gaming=true)

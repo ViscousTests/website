@@ -58,6 +58,8 @@ Some information should still be restricted.  This includes:
    to prove/show that new books they write were written by them in a specific
    canonical world, even if the books themselves are freely copyable.
 
-Categories: [Society]({{< relref "/" >}}?Society=true)
+Categories:
+[Society]({{< relref "/" >}}?Society=true)
 
-Backlinks: [Utopia]({{< relref "/docs/society/utopia.md" >}}), 
+Backlinks:
+[Utopia]({{< relref "/docs/society/utopia.md" >}})

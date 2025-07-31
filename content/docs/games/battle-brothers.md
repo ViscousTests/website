@@ -26,8 +26,10 @@ Feelings:
 
   - [Reactive Randomness Stress]({{< relref "/docs/feelings.md" >}}#reactive-randomness-stress)
 
-Categories: [Games]({{< relref "/" >}}?Games=true),
+Categories:
+[Games]({{< relref "/" >}}?Games=true),
 [Solitary]({{< relref "/" >}}?Solitary=true),
 [Turn Based]({{< relref "/" >}}?Turn-Based=true)
 
-Backlinks: [Feelings]({{< relref "/docs/feelings.md" >}}), 
+Backlinks:
+[Feelings]({{< relref "/docs/feelings.md" >}})

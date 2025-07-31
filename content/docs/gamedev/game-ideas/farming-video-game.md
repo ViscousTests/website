@@ -36,5 +36,6 @@ See https://github.com/kovasap/farming_strategy_game.
 
 [Gamedev]({{< relref "/" >}}?Gamedev=true)
 
-Categories: [Game Ideas]({{< relref "/" >}}?Game-Ideas=true),
+Categories:
+[Game Ideas]({{< relref "/" >}}?Game-Ideas=true),
 [Gamedev]({{< relref "/" >}}?Gamedev=true)

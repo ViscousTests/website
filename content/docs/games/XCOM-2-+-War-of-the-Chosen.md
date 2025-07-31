@@ -4,9 +4,11 @@ Very similar appeal to Fire Emblem. Less story focused and more focused on chara
 
 Feelings:
 
-Categories: [Games]({{< relref "/" >}}?Games=true),
+Categories:
+[Games]({{< relref "/" >}}?Games=true),
 [Solitary]({{< relref "/" >}}?Solitary=true),
 [Turn Based]({{< relref "/" >}}?Turn-Based=true),
 [⭐top10]({{< relref "/" >}}?⭐top10=true)
 
-Backlinks: [Common Patterns]({{< relref "/docs/gamedev/common-patterns.md" >}}), 
+Backlinks:
+[Common Patterns]({{< relref "/docs/gamedev/common-patterns.md" >}})

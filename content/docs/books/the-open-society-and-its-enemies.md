@@ -2,7 +2,9 @@
 
 NOT READ YET!
 
-Categories: [Books]({{< relref "/" >}}?Books=true),
+Categories:
+[Books]({{< relref "/" >}}?Books=true),
 [Understanding The World]({{< relref "/" >}}?Understanding-The-World=true)
 
-Backlinks: [Fooled By Randomness]({{< relref "/docs/books/fooled-by-randomness.md" >}}), 
+Backlinks:
+[Fooled By Randomness]({{< relref "/docs/books/fooled-by-randomness.md" >}})

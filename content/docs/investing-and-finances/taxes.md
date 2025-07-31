@@ -69,4 +69,5 @@ Things to deduct for a rental property:
  - Depreciation
  - Large capital improvements (via "safe harbor" law for small landlords)
 
-Categories: [Investing And Finances]({{< relref "/" >}}?Investing-And-Finances=true)
+Categories:
+[Investing And Finances]({{< relref "/" >}}?Investing-And-Finances=true)

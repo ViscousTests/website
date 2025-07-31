@@ -13,7 +13,9 @@ putting a lot of faith in predictions is a mistake.
 It might be a better strategy to have different plans of action for different
 possible outcomes.
 
-Categories: [Understanding The World]({{< relref "/" >}}?Understanding-The-World=true)
+Categories:
+[Understanding The World]({{< relref "/" >}}?Understanding-The-World=true)
 
-Backlinks: [Predicting The Future]({{< relref "/docs/understanding-the-world/predicting-the-future.md" >}}), 
-[What To Believe]({{< relref "/docs/understanding-the-world/what-to-believe.md" >}}), 
+Backlinks:
+[Predicting The Future]({{< relref "/docs/understanding-the-world/predicting-the-future.md" >}}),
+[What To Believe]({{< relref "/docs/understanding-the-world/what-to-believe.md" >}})

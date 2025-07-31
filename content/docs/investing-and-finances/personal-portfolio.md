@@ -35,4 +35,5 @@ See some discussion of this strategy at https://www.reddit.com/r/Bogleheads/s/6c
 
 See https://www.youtube.com/watch?v=JlgMSDYnT2o for some thoughts.
 
-Categories: [Investing And Finances]({{< relref "/" >}}?Investing-And-Finances=true)
+Categories:
+[Investing And Finances]({{< relref "/" >}}?Investing-And-Finances=true)

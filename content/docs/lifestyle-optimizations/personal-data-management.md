@@ -21,4 +21,5 @@ Bitwarden.
 
 Also this project looks useful: https://github.com/mprimi/portable-secret
 
-Categories: [Lifestyle Optimizations]({{< relref "/" >}}?Lifestyle-Optimizations=true)
+Categories:
+[Lifestyle Optimizations]({{< relref "/" >}}?Lifestyle-Optimizations=true)

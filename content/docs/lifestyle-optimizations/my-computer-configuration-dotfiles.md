@@ -129,4 +129,5 @@ the filename).  Then, I need to replace the names I put in this documentation
 with the values from the mapping.  This code would run when the website is
 built.
 
-Categories: [Lifestyle Optimizations]({{< relref "/" >}}?Lifestyle-Optimizations=true)
+Categories:
+[Lifestyle Optimizations]({{< relref "/" >}}?Lifestyle-Optimizations=true)

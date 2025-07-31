@@ -4,5 +4,6 @@ One variant worth trying is trying to play with pictures instead of words on the
 
 Feelings:
 
-Categories: [Games]({{< relref "/" >}}?Games=true),
+Categories:
+[Games]({{< relref "/" >}}?Games=true),
 [Social]({{< relref "/" >}}?Social=true)

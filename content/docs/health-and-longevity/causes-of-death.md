@@ -15,4 +15,5 @@ highest risk of death:
 
 Another lens to look at this from is using a [micromort](https://micromorts.rip/).  Related: a [microCOVID](https://www.microcovid.org/about) measures risk of getting COVID.
 
-Categories: [Health And Longevity]({{< relref "/" >}}?Health-And-Longevity=true)
+Categories:
+[Health And Longevity]({{< relref "/" >}}?Health-And-Longevity=true)

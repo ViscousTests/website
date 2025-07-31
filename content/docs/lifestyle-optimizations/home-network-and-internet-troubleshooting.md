@@ -15,4 +15,5 @@ prompt. This measures the latency between your computer and the router - if
 this is high, then something internal to the network may be causing the
 latency.
 
-Categories: [Lifestyle Optimizations]({{< relref "/" >}}?Lifestyle-Optimizations=true)
+Categories:
+[Lifestyle Optimizations]({{< relref "/" >}}?Lifestyle-Optimizations=true)

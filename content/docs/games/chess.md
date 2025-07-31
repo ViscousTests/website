@@ -10,6 +10,7 @@ https://www.alexcrompton.com/blog/time-thoughts-chess has good guidance for deal
 
 https://www.openingtree.com/ is a good analysis tool to identify weaknesses across all your games.
 
-Categories: [Competitive]({{< relref "/" >}}?Competitive=true),
+Categories:
+[Competitive]({{< relref "/" >}}?Competitive=true),
 [Games]({{< relref "/" >}}?Games=true),
 [Turn Based]({{< relref "/" >}}?Turn-Based=true)

@@ -5,5 +5,6 @@ implications that has for humankind, and "people" more generally. David's
 theory is that knowledge is created by filtering many creative conjectures into
 those that give the best explanations for things via a tradition of criticism.
 
-Categories: [Books]({{< relref "/" >}}?Books=true),
+Categories:
+[Books]({{< relref "/" >}}?Books=true),
 [Understanding The World]({{< relref "/" >}}?Understanding-The-World=true)

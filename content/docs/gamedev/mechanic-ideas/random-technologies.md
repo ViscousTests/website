@@ -7,7 +7,9 @@ This would force the player to adapt to the consequences of what their people di
 
 Inspired in part by ["Why Greatness Cannot be Planned" by Kenneth O. Stanley and Joel Lehman]({{< relref "/docs/books/why-greatness-cannot-be-planned.md" >}}).
 
-Categories: [Gamedev]({{< relref "/" >}}?Gamedev=true),
+Categories:
+[Gamedev]({{< relref "/" >}}?Gamedev=true),
 [Mechanic Ideas]({{< relref "/" >}}?Mechanic-Ideas=true)
 
-Backlinks: [Why Greatness Cannot Be Planned]({{< relref "/docs/books/why-greatness-cannot-be-planned.md" >}}), 
+Backlinks:
+[Why Greatness Cannot Be Planned]({{< relref "/docs/books/why-greatness-cannot-be-planned.md" >}})

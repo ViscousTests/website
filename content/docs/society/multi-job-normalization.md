@@ -18,4 +18,5 @@ Issues:
    IMO benefits shouldn't be tied to employment as much as they are in the U.S.
    now, but this would currently be a problem.
 
-Categories: [Society]({{< relref "/" >}}?Society=true)
+Categories:
+[Society]({{< relref "/" >}}?Society=true)

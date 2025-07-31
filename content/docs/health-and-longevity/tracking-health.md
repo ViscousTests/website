@@ -127,20 +127,10 @@ healthspan?
 
  - Mood tracking via heart data: https://upmood.com/
 
+Categories:
+[Health And Longevity]({{< relref "/" >}}?Health-And-Longevity=true)
 
-
-
-
-
-
-
-
-
-
-
-
-Categories: [Health And Longevity]({{< relref "/" >}}?Health-And-Longevity=true)
-
-Backlinks: [Continuous Glucose Monitoring]({{< relref "/docs/health-and-longevity/continuous-glucose-monitoring.md" >}}), 
-[Tracking Food]({{< relref "/docs/health-and-longevity/tracking-food.md" >}}), 
-[What And Why]({{< relref "/docs/lifelogging/what-and-why.md" >}}), 
+Backlinks:
+[Continuous Glucose Monitoring]({{< relref "/docs/health-and-longevity/continuous-glucose-monitoring.md" >}}),
+[Tracking Food]({{< relref "/docs/health-and-longevity/tracking-food.md" >}}),
+[What And Why]({{< relref "/docs/lifelogging/what-and-why.md" >}})

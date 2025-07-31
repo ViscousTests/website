@@ -11,4 +11,5 @@ I've struggled a lot to get non-usb mics to work well, for some reason they all
 end up very quiet for me.
 Maybe I'm just unlucky.
 
-Categories: [Gaming]({{< relref "/" >}}?Gaming=true)
+Categories:
+[Gaming]({{< relref "/" >}}?Gaming=true)

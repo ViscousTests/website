@@ -10,15 +10,8 @@
 
  - https://etodd.io/2023/06/27/making-games/
 
+Categories:
+[Gamedev]({{< relref "/" >}}?Gamedev=true)
 
-
-
-
-
-
-
-
-
-Categories: [Gamedev]({{< relref "/" >}}?Gamedev=true)
-
-Backlinks: [Creativity]({{< relref "/docs/mind/creativity.md" >}}), 
+Backlinks:
+[Creativity]({{< relref "/docs/mind/creativity.md" >}})

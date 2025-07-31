@@ -24,4 +24,5 @@ unguided territory.
 This system has the benefit of encouraging new essays to form from the body of
 work, which is always at hand and even partially connected already.
 
-Categories: [Understanding The World]({{< relref "/" >}}?Understanding-The-World=true)
+Categories:
+[Understanding The World]({{< relref "/" >}}?Understanding-The-World=true)

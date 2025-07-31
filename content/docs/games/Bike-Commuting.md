@@ -6,8 +6,10 @@ Feelings:
 
   - [Relaxing]({{< relref "/docs/feelings.md" >}}#relaxing)
 
-Categories: [Exercise]({{< relref "/" >}}?Exercise=true),
+Categories:
+[Exercise]({{< relref "/" >}}?Exercise=true),
 [Games]({{< relref "/" >}}?Games=true),
 [Lifestyle]({{< relref "/" >}}?Lifestyle=true)
 
-Backlinks: [Feelings]({{< relref "/docs/feelings.md" >}}), 
+Backlinks:
+[Feelings]({{< relref "/docs/feelings.md" >}})

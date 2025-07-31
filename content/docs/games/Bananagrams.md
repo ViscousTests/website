@@ -10,5 +10,6 @@ To make hard varients easier, you can play with a "wildcard rule".  With this ru
 
 Feelings:
 
-Categories: [Games]({{< relref "/" >}}?Games=true),
+Categories:
+[Games]({{< relref "/" >}}?Games=true),
 [Social]({{< relref "/" >}}?Social=true)

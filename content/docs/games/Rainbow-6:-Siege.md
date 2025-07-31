@@ -35,5 +35,6 @@ defenders, giving attackers advantage.
 
 Feelings:
 
-Categories: [Competitive]({{< relref "/" >}}?Competitive=true),
+Categories:
+[Competitive]({{< relref "/" >}}?Competitive=true),
 [Games]({{< relref "/" >}}?Games=true)

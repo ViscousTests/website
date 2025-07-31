@@ -11,7 +11,9 @@ Arbor tree -> ethanol setup:
 
 Dreko farm for plastic: https://forums.kleientertainment.com/forums/topic/95124-an-easy-to-build-compact-and-efficient-glossy-drecko-farm/
 
-Categories: [Games]({{< relref "/" >}}?Games=true),
+Categories:
+[Games]({{< relref "/" >}}?Games=true),
 [Gaming]({{< relref "/" >}}?Gaming=true)
 
-Backlinks: [Real Time Strategy]({{< relref "/docs/gamedev/real-time-strategy.md" >}}), 
+Backlinks:
+[Real Time Strategy]({{< relref "/docs/gamedev/real-time-strategy.md" >}})

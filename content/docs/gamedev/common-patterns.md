@@ -63,17 +63,10 @@ Some sense that the player needs to do something to avoid loss is important to
 avoid players getting bored. If nothing happens when they do nothing, how much
 do the player's actions really mean?
 
+Categories:
+[Gamedev]({{< relref "/" >}}?Gamedev=true)
 
-
-
-
-
-
-
-
-
-Categories: [Gamedev]({{< relref "/" >}}?Gamedev=true)
-
-Backlinks: [Xcom 2 + War Of The Chosen]({{< relref "/docs/games/XCOM-2-+-War-of-the-Chosen.md" >}}), 
-[Fell Seal Arbiters Mark]({{< relref "/docs/games/fell-seal-arbiters-mark.md" >}}), 
-[Experiences]({{< relref "/docs/lifestyle-optimizations/experiences.md" >}}), 
+Backlinks:
+[Xcom 2 + War Of The Chosen]({{< relref "/docs/games/XCOM-2-+-War-of-the-Chosen.md" >}}),
+[Fell Seal Arbiters Mark]({{< relref "/docs/games/fell-seal-arbiters-mark.md" >}}),
+[Experiences]({{< relref "/docs/lifestyle-optimizations/experiences.md" >}})

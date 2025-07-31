@@ -62,4 +62,5 @@ about 16 mixes.
 If I only wanted to mix N times, how much milk tea can I make with two glasses
 of fixed size?
 
-Categories: [Thought Experiments]({{< relref "/" >}}?Thought-Experiments=true)
+Categories:
+[Thought Experiments]({{< relref "/" >}}?Thought-Experiments=true)

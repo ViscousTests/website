@@ -16,7 +16,9 @@ health outcomes.  His view is that the SENS program is a set of ["plausible
 ideas"]({{< relref "/docs/understanding-the-world/what-to-believe.md" >}})
 without enough evidence behind them to warrant funding or pursuit.
 
-Categories: [Health And Longevity]({{< relref "/" >}}?Health-And-Longevity=true)
+Categories:
+[Health And Longevity]({{< relref "/" >}}?Health-And-Longevity=true)
 
-Backlinks: [Influences]({{< relref "/docs/health-and-longevity/influences.md" >}}), 
-[What To Believe]({{< relref "/docs/understanding-the-world/what-to-believe.md" >}}), 
+Backlinks:
+[Influences]({{< relref "/docs/health-and-longevity/influences.md" >}}),
+[What To Believe]({{< relref "/docs/understanding-the-world/what-to-believe.md" >}})

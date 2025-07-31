@@ -188,6 +188,8 @@ https://www.lesswrong.com/posts/b8mz7zi6D6Y35dar4/book-review-age-later.
 I haven't read this yet, but like what I've heard about Levine's work on
 podcasts.
 
-Categories: [Health And Longevity]({{< relref "/" >}}?Health-And-Longevity=true)
+Categories:
+[Health And Longevity]({{< relref "/" >}}?Health-And-Longevity=true)
 
-Backlinks: [Sens]({{< relref "/docs/health-and-longevity/sens.md" >}}), 
+Backlinks:
+[Sens]({{< relref "/docs/health-and-longevity/sens.md" >}})

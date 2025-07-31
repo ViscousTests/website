@@ -25,4 +25,5 @@ helps lead to the right place.
 At the very least it lets your subconscious work on the problem as it tries to
 map what you are reading onto the problem.
 
-Categories: [Software Dev]({{< relref "/" >}}?Software-Dev=true)
+Categories:
+[Software Dev]({{< relref "/" >}}?Software-Dev=true)

@@ -30,6 +30,8 @@ Cool art and art tutorials that I've stumbled across.
 
  - https://images.wur.nl/digital/collection/coll13/search
 
-Categories: [Visual Art]({{< relref "/" >}}?Visual-Art=true)
+Categories:
+[Visual Art]({{< relref "/" >}}?Visual-Art=true)
 
-Backlinks: [Generative Art]({{< relref "/docs/visual-art/generative-art.md" >}}), 
+Backlinks:
+[Generative Art]({{< relref "/docs/visual-art/generative-art.md" >}})

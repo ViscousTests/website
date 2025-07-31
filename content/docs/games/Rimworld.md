@@ -4,7 +4,9 @@ A great description of a core issue: https://news.ycombinator.com/item?id=338827
 
 Feelings:
 
-Categories: [Games]({{< relref "/" >}}?Games=true),
+Categories:
+[Games]({{< relref "/" >}}?Games=true),
 [Solitary]({{< relref "/" >}}?Solitary=true)
 
-Backlinks: [Real Time Strategy]({{< relref "/docs/gamedev/real-time-strategy.md" >}}), 
+Backlinks:
+[Real Time Strategy]({{< relref "/docs/gamedev/real-time-strategy.md" >}})

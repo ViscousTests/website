@@ -24,7 +24,9 @@ https://laniakeabooks.org/#home
 
 https://matthewstrom.com/writing/copying/
 
-Categories: [Understanding The World]({{< relref "/" >}}?Understanding-The-World=true)
+Categories:
+[Understanding The World]({{< relref "/" >}}?Understanding-The-World=true)
 
-Backlinks: [Creativity]({{< relref "/docs/mind/creativity.md" >}}), 
-[Utopia]({{< relref "/docs/society/utopia.md" >}}), 
+Backlinks:
+[Creativity]({{< relref "/docs/mind/creativity.md" >}}),
+[Utopia]({{< relref "/docs/society/utopia.md" >}})

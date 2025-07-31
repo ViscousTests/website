@@ -65,4 +65,5 @@ BEFORE RAPPELLING:
 
 See also https://climbingdangers.net/.
 
-Categories: [Climbing]({{< relref "/" >}}?Climbing=true)
+Categories:
+[Climbing]({{< relref "/" >}}?Climbing=true)

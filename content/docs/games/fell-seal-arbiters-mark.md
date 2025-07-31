@@ -15,9 +15,11 @@ This is an awesome way to reward players who do a good job with their builds
 
 Feelings:
 
-Categories: [Games]({{< relref "/" >}}?Games=true),
+Categories:
+[Games]({{< relref "/" >}}?Games=true),
 [Solitary]({{< relref "/" >}}?Solitary=true),
 [Turn Based]({{< relref "/" >}}?Turn-Based=true),
 [⭐top10]({{< relref "/" >}}?⭐top10=true)
 
-Backlinks: [Common Patterns]({{< relref "/docs/gamedev/common-patterns.md" >}}), 
+Backlinks:
+[Common Patterns]({{< relref "/docs/gamedev/common-patterns.md" >}})

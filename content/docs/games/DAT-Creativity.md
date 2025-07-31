@@ -6,6 +6,8 @@ Feelings:
 
   - [Scanning through possibilities]({{< relref "/docs/feelings.md" >}}#scanning-through-possibilities)
 
-Categories: [Games]({{< relref "/" >}}?Games=true)
+Categories:
+[Games]({{< relref "/" >}}?Games=true)
 
-Backlinks: [Feelings]({{< relref "/docs/feelings.md" >}}), 
+Backlinks:
+[Feelings]({{< relref "/docs/feelings.md" >}})

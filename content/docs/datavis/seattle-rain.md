@@ -46,4 +46,5 @@ something, so I ran with more data (2000-2021)...
 
 ...and everything averaged out 😦.
 
-Categories: [Datavis]({{< relref "/" >}}?Datavis=true)
+Categories:
+[Datavis]({{< relref "/" >}}?Datavis=true)

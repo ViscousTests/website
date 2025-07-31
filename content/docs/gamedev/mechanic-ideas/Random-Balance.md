@@ -6,5 +6,6 @@ This would make a big part of the game trying to understand what is strong this
 session, as it always changes.
 This could lead to less staleness overall, and avoid the problem many games have where some strategies are perennially weak and never get used.
 
-Categories: [Gamedev]({{< relref "/" >}}?Gamedev=true),
+Categories:
+[Gamedev]({{< relref "/" >}}?Gamedev=true),
 [Mechanic Ideas]({{< relref "/" >}}?Mechanic-Ideas=true)

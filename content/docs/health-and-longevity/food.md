@@ -380,21 +380,12 @@ harmful](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6952072/)) and uric acid
 ([source](https://selfhacked.com/blog/nutritional-yeast/)).  Also is a fairly
 processed food.
 
+Categories:
+[Health And Longevity]({{< relref "/" >}}?Health-And-Longevity=true)
 
-
-
-
-
-
-
-
-
-
-
-Categories: [Health And Longevity]({{< relref "/" >}}?Health-And-Longevity=true)
-
-Backlinks: [Manifesto]({{< relref "/docs/manifesto.md" >}}), 
-[Aging Science]({{< relref "/docs/health-and-longevity/aging-science.md" >}}), 
-[Biomarker Correlator]({{< relref "/docs/health-and-longevity/biomarker-correlator.md" >}}), 
-[Fasting]({{< relref "/docs/health-and-longevity/fasting.md" >}}), 
-[Daily Habits]({{< relref "/docs/lifestyle-optimizations/daily-habits.md" >}}), 
+Backlinks:
+[Aging Science]({{< relref "/docs/health-and-longevity/aging-science.md" >}}),
+[Biomarker Correlator]({{< relref "/docs/health-and-longevity/biomarker-correlator.md" >}}),
+[Fasting]({{< relref "/docs/health-and-longevity/fasting.md" >}}),
+[Daily Habits]({{< relref "/docs/lifestyle-optimizations/daily-habits.md" >}}),
+[Manifesto]({{< relref "/docs/manifesto.md" >}})

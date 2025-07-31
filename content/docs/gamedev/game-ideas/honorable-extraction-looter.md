@@ -19,5 +19,6 @@ resources/monsters/bosses.
 If another player also claims them and the other doesn't relinquish, they fight.
 This would keep the competition for sought after resources alive in the game.
 
-Categories: [Game Ideas]({{< relref "/" >}}?Game-Ideas=true),
+Categories:
+[Game Ideas]({{< relref "/" >}}?Game-Ideas=true),
 [Gamedev]({{< relref "/" >}}?Gamedev=true)

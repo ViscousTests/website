@@ -218,11 +218,13 @@ Other reading: https://slatestarcodex.com/2014/07/30/meditations-on-moloch/
 
 See also [thoughts on creativity]({{< relref "/docs/mind/creativity.md" >}}).
 
-Categories: [Society]({{< relref "/" >}}?Society=true)
+Categories:
+[Society]({{< relref "/" >}}?Society=true)
 
-Backlinks: [Potential Life Missions]({{< relref "/docs/potential-life-missions.md" >}}), 
-[Antifragile]({{< relref "/docs/books/antifragile.md" >}}), 
-[Why Greatness Cannot Be Planned]({{< relref "/docs/books/why-greatness-cannot-be-planned.md" >}}), 
-[Creativity]({{< relref "/docs/mind/creativity.md" >}}), 
-[Utopian Idea Management]({{< relref "/docs/society/utopian-idea-management.md" >}}), 
-[Copyright And Ip]({{< relref "/docs/understanding-the-world/copyright-and-ip.md" >}}), 
+Backlinks:
+[Antifragile]({{< relref "/docs/books/antifragile.md" >}}),
+[Why Greatness Cannot Be Planned]({{< relref "/docs/books/why-greatness-cannot-be-planned.md" >}}),
+[Creativity]({{< relref "/docs/mind/creativity.md" >}}),
+[Potential Life Missions]({{< relref "/docs/potential-life-missions.md" >}}),
+[Utopian Idea Management]({{< relref "/docs/society/utopian-idea-management.md" >}}),
+[Copyright And Ip]({{< relref "/docs/understanding-the-world/copyright-and-ip.md" >}})

@@ -4,4 +4,5 @@
    https://www.heywhatsthat.com/
  - 3D map of all satellites: https://platform.leolabs.space/visualizations/leo
 
-Categories: [Lifestyle Optimizations]({{< relref "/" >}}?Lifestyle-Optimizations=true)
+Categories:
+[Lifestyle Optimizations]({{< relref "/" >}}?Lifestyle-Optimizations=true)

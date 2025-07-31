@@ -213,7 +213,9 @@ My config is at https://github.com/kovasap/dotfiles/tree/master/keyboard.
    https://news.ycombinator.com/item?id=32634511
  - https://ianthehenry.com/posts/peggi/
 
-Categories: [Lifestyle Optimizations]({{< relref "/" >}}?Lifestyle-Optimizations=true),
+Categories:
+[Lifestyle Optimizations]({{< relref "/" >}}?Lifestyle-Optimizations=true),
 [Recent]({{< relref "/" >}}?Recent=true)
 
-Backlinks: [Recent Interests]({{< relref "/docs/recent-interests.md" >}}), 
+Backlinks:
+[Recent Interests]({{< relref "/docs/recent-interests.md" >}})

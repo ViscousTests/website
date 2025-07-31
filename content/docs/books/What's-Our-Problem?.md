@@ -1,3 +1,4 @@
 # [What's Our Problem?]()
 
-Categories: [Books]({{< relref "/" >}}?Books=true)
+Categories:
+[Books]({{< relref "/" >}}?Books=true)

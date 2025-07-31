@@ -22,9 +22,10 @@ Representative articles:
 - [danluu](http://danluu.com)
 - [Paul Graham](http://www.paulgraham.com/articles.html)
 
+Categories:
+[Understanding The World]({{< relref "/" >}}?Understanding-The-World=true)
 
-Categories: [Understanding The World]({{< relref "/" >}}?Understanding-The-World=true)
-
-Backlinks: [Zero To One]({{< relref "/docs/books/zero-to-one.md" >}}), 
-[Influences]({{< relref "/docs/investing-and-finances/influences.md" >}}), 
-[Influences]({{< relref "/docs/understanding-the-world/influences.md" >}}), 
+Backlinks:
+[Zero To One]({{< relref "/docs/books/zero-to-one.md" >}}),
+[Influences]({{< relref "/docs/investing-and-finances/influences.md" >}}),
+[Influences]({{< relref "/docs/understanding-the-world/influences.md" >}})

@@ -166,5 +166,6 @@ the beginning.
 
 **D** - Just bad
 
-Categories: [Favorites]({{< relref "/" >}}?Favorites=true),
+Categories:
+[Favorites]({{< relref "/" >}}?Favorites=true),
 [Recent]({{< relref "/" >}}?Recent=true)

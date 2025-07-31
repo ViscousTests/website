@@ -29,5 +29,6 @@ Most of the time during the day I untie the laces for comfort.  I tie a knot in 
 
 ![](/docs/lifestyle-optimizations/knot-in-laces.jpg)
 
-Categories: [Lifestyle Optimizations]({{< relref "/" >}}?Lifestyle-Optimizations=true),
+Categories:
+[Lifestyle Optimizations]({{< relref "/" >}}?Lifestyle-Optimizations=true),
 [Recent]({{< relref "/" >}}?Recent=true)

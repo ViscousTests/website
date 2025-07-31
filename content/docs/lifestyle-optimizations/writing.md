@@ -39,4 +39,5 @@ How: https://github.com/whonore/vim-sentencer
 
 https://critter.blog/2020/10/02/write-5x-more-but-write-5x-less/
 
-Categories: [Lifestyle Optimizations]({{< relref "/" >}}?Lifestyle-Optimizations=true)
+Categories:
+[Lifestyle Optimizations]({{< relref "/" >}}?Lifestyle-Optimizations=true)

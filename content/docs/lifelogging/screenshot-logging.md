@@ -22,4 +22,5 @@ timeline easily.
 https://github.com/kovasap/dotfiles?tab=readme-ov-file#automatic-screenshooting
 describes a good method to do this on windows.
 
-Categories: [Lifelogging]({{< relref "/" >}}?Lifelogging=true)
+Categories:
+[Lifelogging]({{< relref "/" >}}?Lifelogging=true)

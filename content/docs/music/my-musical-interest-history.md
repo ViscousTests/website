@@ -59,4 +59,5 @@ For each period are listed some of my most listened to albums.
  - Breaking Benjamin
    - Used to listen to them a while ago too.
 
-Categories: [Music]({{< relref "/" >}}?Music=true)
+Categories:
+[Music]({{< relref "/" >}}?Music=true)

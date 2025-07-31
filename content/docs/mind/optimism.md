@@ -44,7 +44,9 @@ From Howard Zinn:
 > human beings should live, in defiance of all that is bad around us, is itself a
 > marvelous victory.
 
-Categories: [Mind]({{< relref "/" >}}?Mind=true)
+Categories:
+[Mind]({{< relref "/" >}}?Mind=true)
 
-Backlinks: [Potential Life Missions]({{< relref "/docs/potential-life-missions.md" >}}), 
-[Solving Societal Problems]({{< relref "/docs/society/solving-societal-problems.md" >}}), 
+Backlinks:
+[Potential Life Missions]({{< relref "/docs/potential-life-missions.md" >}}),
+[Solving Societal Problems]({{< relref "/docs/society/solving-societal-problems.md" >}})

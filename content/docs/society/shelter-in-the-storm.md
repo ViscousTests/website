@@ -7,4 +7,5 @@ drain and build you up for any future forays into the storm.
 These pockest are most commonly jobs, but could also be self constructed passive
 income systems.
 
-Categories: [Society]({{< relref "/" >}}?Society=true)
+Categories:
+[Society]({{< relref "/" >}}?Society=true)

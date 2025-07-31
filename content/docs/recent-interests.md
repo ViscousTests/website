@@ -92,8 +92,10 @@ https://github.com/kovasap/dotfiles/blob/master/bin/chrome-history-for-gemini.zs
  - Selling old Pokemon cards I discovered.  Quite a labor intensive process to price and sell them all.
  - The Bazaar continues to be great!
 
-Categories: [Recent]({{< relref "/" >}}?Recent=true)
+Categories:
+[Recent]({{< relref "/" >}}?Recent=true)
 
-Backlinks: [Counter Strike]({{< relref "/docs/games/Counter-Strike.md" >}}), 
-[Alt Health]({{< relref "/docs/health-and-longevity/alt-health.md" >}}), 
-[Keyboards And Typing]({{< relref "/docs/lifestyle-optimizations/keyboards-and-typing.md" >}}), 
+Backlinks:
+[Counter Strike]({{< relref "/docs/games/Counter-Strike.md" >}}),
+[Alt Health]({{< relref "/docs/health-and-longevity/alt-health.md" >}}),
+[Keyboards And Typing]({{< relref "/docs/lifestyle-optimizations/keyboards-and-typing.md" >}})

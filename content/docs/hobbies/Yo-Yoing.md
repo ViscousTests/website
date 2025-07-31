@@ -6,6 +6,8 @@ Feelings:
 
   - [Skill clicking into place]({{< relref "/docs/feelings.md" >}}#skill-clicking-into-place)
 
-Categories: [Hobbies]({{< relref "/" >}}?Hobbies=true)
+Categories:
+[Hobbies]({{< relref "/" >}}?Hobbies=true)
 
-Backlinks: [Feelings]({{< relref "/docs/feelings.md" >}}), 
+Backlinks:
+[Feelings]({{< relref "/docs/feelings.md" >}})

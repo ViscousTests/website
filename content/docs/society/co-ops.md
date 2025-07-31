@@ -88,4 +88,5 @@ How did they start?
 How do they grow?
 Does every employee have an equal voting right who owns them?
 
-Categories: [Society]({{< relref "/" >}}?Society=true)
+Categories:
+[Society]({{< relref "/" >}}?Society=true)

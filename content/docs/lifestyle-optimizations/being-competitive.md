@@ -43,4 +43,5 @@ handicap of ratty shoes makes me feel stronger that I would otherwise.
 I also feel great when I have early ("beginner's luck"-y) strong performance in
 an activity with the handicap of lack of experience.
 
-Categories: [Lifestyle Optimizations]({{< relref "/" >}}?Lifestyle-Optimizations=true)
+Categories:
+[Lifestyle Optimizations]({{< relref "/" >}}?Lifestyle-Optimizations=true)

@@ -114,7 +114,9 @@ from the microphone that would be amazing!
 
 Managing data storage.
 
-Categories: [Lifelogging]({{< relref "/" >}}?Lifelogging=true)
+Categories:
+[Lifelogging]({{< relref "/" >}}?Lifelogging=true)
 
-Backlinks: [Camera]({{< relref "/docs/lifelogging/camera.md" >}}), 
-[Daily Habits]({{< relref "/docs/lifestyle-optimizations/daily-habits.md" >}}), 
+Backlinks:
+[Camera]({{< relref "/docs/lifelogging/camera.md" >}}),
+[Daily Habits]({{< relref "/docs/lifestyle-optimizations/daily-habits.md" >}})

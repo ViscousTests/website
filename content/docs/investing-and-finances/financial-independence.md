@@ -25,4 +25,5 @@ look promising to me:
  - https://projectifi.io/
  - https://fiers.co/
 
-Categories: [Investing And Finances]({{< relref "/" >}}?Investing-And-Finances=true)
+Categories:
+[Investing And Finances]({{< relref "/" >}}?Investing-And-Finances=true)

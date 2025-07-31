@@ -13,5 +13,6 @@ the key with shift/ctrl/other modifiers will change the action type.
 
 [Gamedev]({{< relref "/" >}}?Gamedev=true)
 
-Categories: [Game Ideas]({{< relref "/" >}}?Game-Ideas=true),
+Categories:
+[Game Ideas]({{< relref "/" >}}?Game-Ideas=true),
 [Gamedev]({{< relref "/" >}}?Gamedev=true)
