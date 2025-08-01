@@ -267,9 +267,12 @@ Backlinks:
 
 (defn generate-final-markdown
   [file]
-  (s/trim (str (:sectionless-markdown file)
-               "\n\n" (:categories-section file)
-               "\n\n" (:backlinks-section file))))
+  (s/trim (str (:sectionless-markdown file))))
+               ; This hardcodes categories and backlinks, but now we are
+               ; dynamically generating a sidebar with this info using
+               ; website-helpers!)))
+               ; "\n\n" (:categories-section file)
+               ; "\n\n" (:backlinks-section file))))
 
 ; Helper function for get-all-files and get-file-tree
 (defn get-files
