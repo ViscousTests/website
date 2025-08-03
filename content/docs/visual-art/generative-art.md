@@ -1,3 +1,7 @@
+---
+testing: frontmatter
+---
+
 # Generative Art
 
 ## Inspiration

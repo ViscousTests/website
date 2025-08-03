@@ -111,6 +111,31 @@ hi
   [text prefix]
   (first (extract-paragraph text prefix)))
 
+(defn is-frontmatter-delimiter?
+  [line]
+  (= "---" (s/trim line)))
+
+(defn split-frontmatter-lines
+  [markdown]
+  (let [all-lines (s/split markdown #"\n")]
+    (if (is-frontmatter-delimiter? (first all-lines))
+      (let [[frontmatter body] (split-with is-frontmatter-delimiter?
+                                           (rest all-lines))]
+        [(into ["---"] frontmatter) body])
+      ; If no frontmatter, make a blank one
+      [["---" "---"] all-lines])))
+
+(defn get-frontmatter-set
+  [frontmatter-lines prefix]
+  (as-> frontmatter-lines f
+    (filter #(s/starts-with? % prefix) f)
+    (first f)
+    (if (nil? f) "" f)
+    (s/replace f prefix "")
+    (eval f)
+    (if (set? f) f #{})))
+
+
 ;; ------------------ Category Management --------------------------------
 
 (defn get-category-from-link
@@ -186,6 +211,23 @@ Backlinks:
        (s/join ",\n")
        (str "Categories:\n")))
 
+(def categories-prefix "categories-set: ")
+
+(defn add-categories-frontmatter
+  [markdown categories]
+  (let [[frontmatter body]  (split-frontmatter-lines markdown)
+        categories-set      (union (get-frontmatter-set frontmatter
+                                                        categories-prefix)
+                                   categories)
+        updated-frontmatter (as-> frontmatter f
+                              (remove #(s/starts-with? % categories-prefix) f)
+                              (apply conj
+                                [(first f)]
+                                (str categories-prefix categories-set)
+                                (rest f)))]
+    (s/join "\n" (concat updated-frontmatter body))))
+
+
 ;; ------------------ Backlink Management --------------------------------
 
 (defn file-to-md-link
@@ -228,8 +270,21 @@ Backlinks:
         (assoc f
           :backlinks (get path-to-backlinks
                           (s/replace-first (:path f) "content" "")))
-        (assoc f
-          :backlinks-section (make-backlinks-section (:backlinks f)))))))
+        #_(assoc f
+            :backlinks-section (make-backlinks-section (:backlinks f)))))))
+
+(def backlinks-prefix "backlinks-set: ")
+
+(defn add-backlinks-frontmatter
+  [markdown backlinks]
+  (let [[frontmatter body]  (split-frontmatter-lines markdown)
+        updated-frontmatter (as-> frontmatter f
+                              (remove #(s/starts-with? % backlinks-prefix) f)
+                              (apply conj
+                                [(first f)]
+                                (str backlinks-prefix backlinks)
+                                (rest f)))]
+    (s/join "\n" (concat updated-frontmatter body))))
 
 ;; ------------------ All File Data Construction --------------------------
 
@@ -244,35 +299,32 @@ Backlinks:
     (as-> file f
       (merge f
              {:path-categories (get-categories-from-filepath file)
-              :original-markdown markdown
-              :last-modified-unix-timestamp
-              (parse-long (s/trim (:out (os/sh "git" "log"
-                                               "-1"  "--pretty=format:%ct"
-                                               "--"  (:path file)))))
-              :created-unix-timestamp
-              (parse-long (s/trim (:out (os/sh "git"      "log"
-                                               "-1"       "--diff-filter=A"
-                                               "--follow" "--format=%ct"
-                                               "--"       (:path file)))))
+              :markdown markdown
+              :modification-unix-timestamps
+              (mapv parse-long
+                (s/split (s/trim (:out (os/sh "git"
+                                              "log" "--pretty=format:%ct"
+                                              "--"  (:path file))))
+                         #"\n"))
               :links (parse-links markdown)
               :title (to-title (:path file))})
       (assoc f
-        :categories (union (:path-categories f) (parse-categories markdown)))
-      (assoc f
-        :sectionless-markdown (-> (:original-markdown f)
-                                  (remove-paragraph-starting-with "Backlinks:")
-                                  (remove-paragraph-starting-with
-                                    "Categories:")))
-      (assoc f :categories-section (make-category-section (:categories f))))))
+        :categories (union (:path-categories f) (parse-categories markdown))))))
+
 
 (defn generate-final-markdown
   [file]
-  (s/trim (str (:sectionless-markdown file))))
-               ; This hardcodes categories and backlinks, but now we are
-               ; dynamically generating a sidebar with this info using
-               ; website-helpers!)))
-               ; "\n\n" (:categories-section file)
-               ; "\n\n" (:backlinks-section file))))
+  (-> (:markdown file)
+      (remove-paragraph-starting-with "Backlinks:")
+      (remove-paragraph-starting-with "Categories:")
+      (add-categories-frontmatter (:categories file))
+      (add-backlinks-frontmatter (:backlinks file))))
+  ; (s/trim (str (:sectionless-markdown file))))
+              ; This hardcodes categories and backlinks, but now we are
+              ; dynamically generating a sidebar with this info using
+              ; website-helpers!)))
+              ; "\n\n" (:categories-section file)
+              ; "\n\n" (:backlinks-section file))))
 
 ; Helper function for get-all-files and get-file-tree
 (defn get-files
@@ -489,7 +541,8 @@ Backlinks:
 
 (def index-path "content/menu/index.md")
 ; Path to all the pages that we want to process.
-(def content-path "content/docs")
+(def content-path "content/docs/visual-art")
+; (def content-path "content/docs")
 (defn main []
   (let [all-files (get-all-files content-path)]
     (spit "content/docs/all.edn" 
@@ -502,7 +555,7 @@ Backlinks:
                  ; Assume symlinks are links to private repositories that we
                  ; do not want to modify. 
                  :when (not (is-symlink? (:path file)))]
-             (spit (:path file) (generate-final-markdown file))))))
+             (spit (:path file) (:markdown file))))))
 
   ; Skip generating experience md pages from the edn file for now.
   ; (let [experiences-edn
