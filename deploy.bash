@@ -30,11 +30,10 @@ done
 
 # Go To Public folder
 cd public
-git checkout master -f
-cp ../content/docs/all.edn .
+cp --verbose ../content/docs/all.edn .
 
 # Add changes to git.
-git add .
+git add --verbose .
 
 # Commit changes.
 msg="rebuilding site $(date)"
