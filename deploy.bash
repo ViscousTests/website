@@ -41,7 +41,9 @@ msg="rebuilding site $(date)"
 if [ -n "$*" ]; then
 	msg="$*"
 fi
-git commit --no-verify -m "$msg"
+# Commit with special username and no email.  Without this running under GitHub
+# Actions fails.
+git commit --no-verify -m "$msg" --author "Deployer <>"
 
 # Push source and build repos.
 git pull -X ours
