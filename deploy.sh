@@ -9,8 +9,7 @@ printf "\033[0;32mDeploying updates to GitHub...\033[0m\n"
 
 for file in private-website-pages/content/**/*; do
 	if [[ -f "$file" ]]; then
-		file_with_first_two_dirs=$(cut -d'/' -f4- $file)
-		cp --verbose $file $file_with_first_two_dirs
+		cp --verbose $file ${file#private-website-pages/}
 	fi
 done
 
@@ -21,10 +20,10 @@ hugo # if using a theme, replace with `hugo -t <YOURTHEME>`
 
 for file in private-website-pages/content/**/*; do
 	if [[ -f "$file" ]]; then
-		file_with_first_two_dirs=$(cut -d'/' -f4- $file)
-		echo "Encrypting public/${file_with_first_two_dirs%.md}/index.html to public/${file_with_first_two_dirs%.md}"
-		npx staticrypt public/${file_with_first_two_dirs%.md}/index.html \
-			-d public/${file_with_first_two_dirs%.md} \
+		file_starting_at_docs=${file#private-website-pages/content/}
+		echo "Encrypting public/${file_starting_at_docs%.md}/index.html to public/${file_starting_at_docs%.md}"
+		npx staticrypt public/${file_starting_at_docs%.md}/index.html \
+			-d public/${file_starting_at_docs%.md} \
 			-p $(cat private-website-pages/password.txt)
 	fi
 done
