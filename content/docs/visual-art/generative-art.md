@@ -1,5 +1,5 @@
 ---
-backlinks-set: #{"content/docs/visual-art/inspiration-and-resources.md"}
+backlinks-set: 
 categories-set: #{"Visual Art"}
 testing: frontmatter
 ---

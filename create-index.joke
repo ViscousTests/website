@@ -32,19 +32,6 @@
 (defn is-md? [file]
   (= "md" (last (s/split (:name file) "."))))
 
-(defn is-symlink? [file]
-  (or (= file "content/docs/history/family.md")
-      (= file "content/docs/music/music-library-management.md")))
-; This code only works for soft symbolic links, I can't find anything in the
-; joker API that will count references to a file, which AFAICT is the only way
-; to detect hard links.
-#_(try (do (os/stat file) false)
-       (catch Error e (try (do (os/lstat file) true
-                                  (catch Error e false)))))
-
-(assert= (is-symlink? "content/docs/manifesto.md") false)
-(assert= (is-symlink? "content/docs/history/family.md") true)
-
 (defn should-include? [file]
   (let [filepath (:name file)]
     (and (not (s/ends-with? filepath "-pics"))
@@ -117,21 +104,40 @@ hi
 
 (defn split-frontmatter-lines
   [markdown]
-  (let [all-lines (s/split markdown #"\n")]
+  (let [all-lines (s/split-lines markdown)]
     (if (is-frontmatter-delimiter? (first all-lines))
-      (let [[frontmatter body] (split-with is-frontmatter-delimiter?
+      (let [[frontmatter body] (split-with #(not (is-frontmatter-delimiter? %))
                                            (rest all-lines))]
-        [(into ["---"] frontmatter) body])
+        [(into ["---"] (concat frontmatter ["---"])) (rest body)])
       ; If no frontmatter, make a blank one
       [["---" "---"] all-lines])))
 
-(defn get-frontmatter-set
-  [frontmatter-lines prefix]
+(assert=
+  (split-frontmatter-lines
+    "---
+backlinks-set#{\"content/docs/visual-art/generative-art.md\")
+categories-set#{\"Visual Art\"}
+backlinks-set: #{\"content/docs/visual-art/generative-art.md\")
+categories-set: #{\"Visual Art\"}
+---
+# Inspiration and Resources
+
+Cool art and art tutorials that I've stumbled across.
+
+")
+  ['("---" "backlinks-set#{\"content/docs/visual-art/generative-art.md\")" "categories-set#{\"Visual Art\"}" "backlinks-set: #{\"content/docs/visual-art/generative-art.md\")" "categories-set: #{\"Visual Art\"}" "---")
+   '("# Inspiration and Resources" "" "Cool art and art tutorials that I've stumbled across." "" "")])
+
+(defn get-frontmatter-value
+  [frontmatter-lines k]
   (as-> frontmatter-lines f
-    (filter #(s/starts-with? % prefix) f)
+    (filter #(s/starts-with? % k) f)
     (first f)
-    (if (nil? f) "" f)
-    (s/replace f prefix "")
+    (if (nil? f) nil (s/replace f (str k ": ") ""))))
+
+(defn get-frontmatter-set
+  [frontmatter-lines k]
+  (as-> (get-frontmatter-value frontmatter-lines k) f
     (eval f)
     (if (set? f) f #{})))
 
@@ -211,7 +217,7 @@ Backlinks:
        (s/join ",\n")
        (str "Categories:\n")))
 
-(def categories-prefix "categories-set: ")
+(def categories-prefix "categories-set")
 
 (defn add-categories-frontmatter
   [markdown categories]
@@ -223,7 +229,7 @@ Backlinks:
                               (remove #(s/starts-with? % categories-prefix) f)
                               (apply conj
                                 [(first f)]
-                                (str categories-prefix categories-set)
+                                (str categories-prefix ": " categories-set)
                                 (rest f)))]
     (s/join "\n" (concat updated-frontmatter body))))
 
@@ -273,7 +279,7 @@ Backlinks:
         #_(assoc f
             :backlinks-section (make-backlinks-section (:backlinks f)))))))
 
-(def backlinks-prefix "backlinks-set: ")
+(def backlinks-prefix "backlinks-set")
 
 (defn add-backlinks-frontmatter
   [markdown backlinks]
@@ -282,7 +288,7 @@ Backlinks:
                               (remove #(s/starts-with? % backlinks-prefix) f)
                               (apply conj
                                 [(first f)]
-                                (str backlinks-prefix backlinks)
+                                (str backlinks-prefix ": " backlinks)
                                 (rest f)))]
     (s/join "\n" (concat updated-frontmatter body))))
 
@@ -293,23 +299,26 @@ Backlinks:
   (prn (str "Processing data for " (:path file)))
   ; Assume symlinks are links to private repositories that we do not
   ; want included in the indexed data.
-  (let [markdown (if (is-symlink? (:path file))
-                   "This file is encrypted."
-                   (slurp (:path file)))]
+  (let [markdown (slurp (:path file))]
     (as-> file f
       (merge f
              {:path-categories (get-categories-from-filepath file)
-              :markdown markdown
+              :private         (boolean (get-frontmatter-value
+                                          (first (split-frontmatter-lines
+                                                   markdown))
+                                          "private"))
               :modification-unix-timestamps
               (mapv parse-long
                 (s/split (s/trim (:out (os/sh "git"
                                               "log" "--pretty=format:%ct"
                                               "--"  (:path file))))
                          #"\n"))
-              :links (parse-links markdown)
-              :title (to-title (:path file))})
+              :links           (parse-links markdown)
+              :title           (to-title (:path file))})
+      (assoc f :markdown (if (:private f) "This file is private" markdown))
       (assoc f
-        :categories (union (:path-categories f) (parse-categories markdown))))))
+        :categories (union (:path-categories f)
+                           (parse-categories markdown))))))
 
 
 (defn generate-final-markdown
@@ -543,18 +552,21 @@ Backlinks:
 ; Path to all the pages that we want to process.
 (def content-path "content/docs/visual-art")
 ; (def content-path "content/docs")
-(defn main []
-  (let [all-files (get-all-files content-path)]
-    (spit "content/docs/all.edn" 
+(defn main
+  []
+  ; Use doall so that we don't evaluate get all files when under the influence
+  ; of with-out-str, which will eat any debugging statements we are using.
+  (let [all-files (doall (get-all-files content-path))]
+    (spit "content/docs/all.edn"
           ; THIS EATS DEBUGGING PRINT STATEMENTS!!!
           (with-out-str (pprint (into [] all-files))))
     (spit "content/docs/all.md" (make-all-notes-page all-files))
     (prn (word-count all-files))
     (update-word-count "content/_index.md" all-files)
-    (doall (for [file all-files
-                 ; Assume symlinks are links to private repositories that we
-                 ; do not want to modify. 
-                 :when (not (is-symlink? (:path file)))]
+    (doall (for [file  all-files
+                 ; Assume symlinks are links to private repositories that
+                 ; we do not want to modify.
+                 :when (not (:private file))]
              (spit (:path file) (:markdown file))))))
 
   ; Skip generating experience md pages from the edn file for now.
