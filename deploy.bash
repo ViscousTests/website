@@ -43,5 +43,5 @@ fi
 git commit --no-verify -m "$msg"
 
 # Push source and build repos.
-git pull -X ours
+git pull -s recursive -X ours
 git push origin master

@@ -23,6 +23,8 @@ jobs:
         run: git config --global user.name GitHubActions
       - name: config commit email
         run: git config --global user.email actions@github.com
+      - name config merge divergent branches
+        run: git config --global pull.rebase false
       - run: |
           cd ${{ github.workspace }}
           npm install staticrypt
