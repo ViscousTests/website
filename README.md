@@ -38,10 +38,10 @@ To add encrypted pages:
    a submodule of this repository.
 2. Make a symlink like `ln submodule/path/to/your/file.md
    content/docs/.../file.md`.
-3. Add a line to `deploy.sh` that encrypts your file.
+3. Add a line to `deploy.bash` that encrypts your file.
 4. For now, add a line to the `is-symlink?` function in `create-index.joke` that
    identifies your file.
-5. Supply your desired password whenever running `deploy.sh`.
+5. Supply your desired password whenever running `deploy.bash`.
 
 ## Development
 
