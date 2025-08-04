@@ -17,6 +17,7 @@ jobs:
       - run: echo "💡 The ${{ github.repository }} repository has been cloned to the runner."
       - run: |
           cd ${{ github.workspace }}
+          npm install staticrypt
           hugo
           ./joker --version
       - run: echo "🍏 This job's status is ${{ job.status }}."

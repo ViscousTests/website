@@ -25,3 +25,6 @@
 [submodule "music-management"]
 	path = music-management
 	url = git@github.com:kovasap/music-management.git
+[submodule "private-website-pages"]
+	path = private-website-pages
+	url = git@github.com:kovasap/private-website-pages.git
