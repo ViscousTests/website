@@ -28,8 +28,6 @@ for file in private-website-pages/content/**/*; do
 	fi
 done
 
-exit 0
-
 # Go To Public folder
 cd public
 git checkout master -f

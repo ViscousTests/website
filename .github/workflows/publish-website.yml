@@ -18,6 +18,5 @@ jobs:
       - run: |
           cd ${{ github.workspace }}
           npm install staticrypt
-          hugo
-          ./joker --version
+          ./deploy.sh
       - run: echo "🍏 This job's status is ${{ job.status }}."
