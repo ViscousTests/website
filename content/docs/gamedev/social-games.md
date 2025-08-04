@@ -1,3 +1,7 @@
+---
+backlinks-set: 
+categories-set: #{"Gamedev"}
+---
 # Social Games
 
 I used to play Team Fortress 2 on a specific server (OSU) with a list of
@@ -14,6 +18,3 @@ that through normal game play you would see the same people over and over. This
 would lead to you getting to know their playstyle, and would make it easier to
 start conversations. In other words, this would make the experience similar to
 something like playing pick up basketball at a community center.
-
-Categories:
-[Gamedev]({{< relref "/" >}}?Gamedev=true)

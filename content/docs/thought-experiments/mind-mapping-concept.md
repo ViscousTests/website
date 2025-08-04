@@ -1,3 +1,7 @@
+---
+backlinks-set: #{"content/docs/lifestyle-optimizations/experiences.md"}
+categories-set: #{"..." "Thought Experiments"}
+---
 # Mind Mapping Concept
 
 Organize notes into different **types**, each getting their own directory.
@@ -71,10 +75,3 @@ A subset of this is my [Experiences]({{< relref
 [Cat1]({{< relref "/" >}}?Cat1=true),
 [Cat2]({{< relref "/" >}}?Cat2=true),
 [Thought Experiments]({{< relref "/" >}}?Thought-Experiments=true)
-
-Categories:
-[...]({{< relref "/" >}}?...=true),
-[Thought Experiments]({{< relref "/" >}}?Thought-Experiments=true)
-
-Backlinks:
-[Experiences]({{< relref "/docs/lifestyle-optimizations/experiences.md" >}})

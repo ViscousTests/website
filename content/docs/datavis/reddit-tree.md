@@ -1,3 +1,7 @@
+---
+backlinks-set: 
+categories-set: #{"Datavis"}
+---
 # Reddit Comment Tree
 
 I was curious about which Reddit comments end up getting many upvotes, so I
@@ -24,6 +28,3 @@ The code can be found at
 
  - [Map of Reddit](https://anvaka.github.io/map-of-reddit/), an amazing
    visualization of all subreddits and how they are related (by user activity).
-
-Categories:
-[Datavis]({{< relref "/" >}}?Datavis=true)

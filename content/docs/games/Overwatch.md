@@ -1,3 +1,7 @@
+---
+backlinks-set: 
+categories-set: #{"Competitive" "Games"}
+---
 # [Overwatch](https://en.wikipedia.org/wiki/Overwatch_(video_game%29))
 
 
@@ -46,7 +50,3 @@ Ideally the team will respect the state that it is in and behave accordingly to 
 
 
 Feelings:
-
-Categories:
-[Competitive]({{< relref "/" >}}?Competitive=true),
-[Games]({{< relref "/" >}}?Games=true)

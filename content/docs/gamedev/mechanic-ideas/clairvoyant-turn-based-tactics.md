@@ -1,3 +1,7 @@
+---
+backlinks-set: 
+categories-set: #{"Gamedev" "Mechanic Ideas"}
+---
 # Clairvoyant Turn Based Tactics
 
 Instead of guessing or assuming what the computer opponent will do in a turn
@@ -20,8 +24,4 @@ are statically predetermined and do not change at all).
 
 
 
-[Mechanic Ideas]({{< relref "/" >}}?Mechanic-Ideas=true)
-
-Categories:
-[Gamedev]({{< relref "/" >}}?Gamedev=true),
 [Mechanic Ideas]({{< relref "/" >}}?Mechanic-Ideas=true)

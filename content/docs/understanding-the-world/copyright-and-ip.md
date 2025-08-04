@@ -1,3 +1,7 @@
+---
+backlinks-set: #{"content/docs/mind/creativity.md" "content/docs/society/utopia.md"}
+categories-set: #{"Understanding The World"}
+---
 # Copyright and IP
 
 TODO finish this piece.
@@ -23,10 +27,3 @@ https://libgen.rs/
 https://laniakeabooks.org/#home
 
 https://matthewstrom.com/writing/copying/
-
-Categories:
-[Understanding The World]({{< relref "/" >}}?Understanding-The-World=true)
-
-Backlinks:
-[Creativity]({{< relref "/docs/mind/creativity.md" >}}),
-[Utopia]({{< relref "/docs/society/utopia.md" >}})

@@ -1,3 +1,7 @@
+---
+backlinks-set: #{"content/docs/games/dead-of-winter.md"}
+categories-set: #{"Gamedev" "Mechanic Ideas"}
+---
 # Limiting Collaboration
 
 In several turn-based collaborative multiplayer games I've played
@@ -85,10 +89,3 @@ in combat, somewhat like a small group of mercenaries would.
 
 
 [Mechanic Ideas]({{< relref "/" >}}?Mechanic-Ideas=true)
-
-Categories:
-[Gamedev]({{< relref "/" >}}?Gamedev=true),
-[Mechanic Ideas]({{< relref "/" >}}?Mechanic-Ideas=true)
-
-Backlinks:
-[Dead Of Winter]({{< relref "/docs/games/dead-of-winter.md" >}})

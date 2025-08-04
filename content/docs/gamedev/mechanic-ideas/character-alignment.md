@@ -1,3 +1,7 @@
+---
+backlinks-set: 
+categories-set: #{"Gamedev" "Mechanic Ideas"}
+---
 # Character Alignment Visualization
 
 If a character in an RPG becomes more intelligent, strong, or aligned with a
@@ -14,8 +18,4 @@ color aura.
 
 
 
-[Mechanic Ideas]({{< relref "/" >}}?Mechanic-Ideas=true)
-
-Categories:
-[Gamedev]({{< relref "/" >}}?Gamedev=true),
 [Mechanic Ideas]({{< relref "/" >}}?Mechanic-Ideas=true)

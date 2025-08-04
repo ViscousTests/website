@@ -1,3 +1,7 @@
+---
+backlinks-set: #{"content/docs/feelings.md" "content/docs/gamedev/mechanic-ideas/limiting-collaboration.md"}
+categories-set: #{"Games"}
+---
 # Dead of Winter
 
 A cooperative strategy board game that doesn't require too much inter-player
@@ -19,10 +23,3 @@ Played first in June 2022.
 Feelings:
 
  - [Watching with Extra Information]({{< relref "/docs/feelings.md" >}}#watching-with-extra-information)
-
-Categories:
-[Games]({{< relref "/" >}}?Games=true)
-
-Backlinks:
-[Feelings]({{< relref "/docs/feelings.md" >}}),
-[Limiting Collaboration]({{< relref "/docs/gamedev/mechanic-ideas/limiting-collaboration.md" >}})

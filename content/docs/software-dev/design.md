@@ -1,3 +1,7 @@
+---
+backlinks-set: 
+categories-set: #{"Software Dev"}
+---
 # Design via Documentation
 
 One trap that I've fallen into early on in a project is a lack of "concreteness"
@@ -37,6 +41,3 @@ point to a specific step in the user journey and express skepticism or propose
 an additional step.
 
 Discussion: https://news.ycombinator.com/item?id=38725340#38727474
-
-Categories:
-[Software Dev]({{< relref "/" >}}?Software-Dev=true)

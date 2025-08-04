@@ -1,3 +1,7 @@
+---
+backlinks-set: 
+categories-set: #{"Games" "Gaming"}
+---
 # Pathfinder Kingmaker
 
 {{< game-img "pathfinder-kingmaker" "400px" >}}
@@ -15,7 +19,3 @@ target with which skill, is really high.  I think this is because:
 This makes me think that the game is not actually meant to be played as a
 tactical strategy game, but rather as a level-gated exploration game (where you
 just run from too-high-level fights instead of trying to puzzle them out).
-
-Categories:
-[Games]({{< relref "/" >}}?Games=true),
-[Gaming]({{< relref "/" >}}?Gaming=true)

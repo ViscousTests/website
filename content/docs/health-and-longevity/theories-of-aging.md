@@ -1,3 +1,7 @@
+---
+backlinks-set: #{"content/docs/health-and-longevity/aging-science.md"}
+categories-set: #{"Aging" "Health And Longevity"}
+---
 # Theories of Aging
 
 ## Information Theory of Aging
@@ -59,10 +63,3 @@ dysfunctional.
 ### Experimental Evidence
 
 ### Source
-
-Categories:
-[Aging]({{< relref "/" >}}?Aging=true),
-[Health And Longevity]({{< relref "/" >}}?Health-And-Longevity=true)
-
-Backlinks:
-[Aging Science]({{< relref "/docs/health-and-longevity/aging-science.md" >}})

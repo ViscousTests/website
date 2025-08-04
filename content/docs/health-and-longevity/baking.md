@@ -1,3 +1,7 @@
+---
+backlinks-set: 
+categories-set: #{"Health And Longevity"}
+---
 # Baking
 
 ## Bread Machine Recipes
@@ -189,6 +193,3 @@ Whisk together oil and water, then pour over dry ingredients and mix.
 Use fork/hands to spread flour evenly into a pie pan.
 
 Fill pie pan and bake!
-
-Categories:
-[Health And Longevity]({{< relref "/" >}}?Health-And-Longevity=true)

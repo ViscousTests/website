@@ -1,3 +1,7 @@
+---
+backlinks-set: 
+categories-set: #{"Gamedev"}
+---
 # My Projects
 
 Here's a list of mainly unfinished projects I've worked on in the past. Like
@@ -44,6 +48,3 @@ Code can be found at https://github.com/kovasap/tactics/blob/main/DESIGN.md.
 ## No RNG Battle Brothers Overhaul
 
 Code can be found at https://github.com/kovasap/mod_rng_free.
-
-Categories:
-[Gamedev]({{< relref "/" >}}?Gamedev=true)

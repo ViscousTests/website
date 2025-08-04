@@ -1,3 +1,7 @@
+---
+backlinks-set: #{"content/docs/mind/motivation.md"}
+categories-set: #{"Mind"}
+---
 # How to Do Hard Tasks
 
 This goes hand-in-hand with [motivation]({{< relref "/docs/mind/motivation.md" >}}).
@@ -114,9 +118,3 @@ concept for a while before it finally clicks.
 - [Inversion by James Clear](https://jamesclear.com/inversion)
   - Imagining how to avoid failure is often more useful than imagining how to
     succeed.
-
-Categories:
-[Mind]({{< relref "/" >}}?Mind=true)
-
-Backlinks:
-[Motivation]({{< relref "/docs/mind/motivation.md" >}})

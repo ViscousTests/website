@@ -1,3 +1,7 @@
+---
+backlinks-set: 
+categories-set: #{"Understanding The World"}
+---
 # Applying Theories
 
 **NOTE: This is a very rough draft, and in some ways doesn't really make sense
@@ -90,6 +94,3 @@ Just because the advice is good in this case does not mean it's good in
 general!
 
 Some good thinking on advice giving: https://guzey.com/advice/
-
-Categories:
-[Understanding The World]({{< relref "/" >}}?Understanding-The-World=true)

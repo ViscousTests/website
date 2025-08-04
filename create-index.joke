@@ -550,8 +550,8 @@ Backlinks:
 
 (def index-path "content/menu/index.md")
 ; Path to all the pages that we want to process.
-(def content-path "content/docs/visual-art")
-; (def content-path "content/docs")
+; (def content-path "content/docs/visual-art")
+(def content-path "content/docs")
 (defn main
   []
   ; Use doall so that we don't evaluate get all files when under the influence

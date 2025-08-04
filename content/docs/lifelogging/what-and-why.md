@@ -1,3 +1,7 @@
+---
+backlinks-set: #{"content/docs/health-and-longevity/biomarker-correlator.md" "content/docs/health-and-longevity/continuous-glucose-monitoring.md" "content/docs/health-and-longevity/tracking-health.md" "content/docs/lifelogging/camera.md" "content/docs/lifestyle-optimizations/daily-habits.md" "content/docs/lifestyle-optimizations/task-tracking.md"}
+categories-set: #{"Lifelogging"}
+---
 # Lifelogging
 
 ## What?
@@ -153,14 +157,3 @@ For tracing of general information, I've found
 [Momentodb](https://mementodatabase.com/) for Android to be super useful. It can
 track almost any data type with very few taps, AND it syncs to Google Drive
 (Sheets) automatically!
-
-Categories:
-[Lifelogging]({{< relref "/" >}}?Lifelogging=true)
-
-Backlinks:
-[Biomarker Correlator]({{< relref "/docs/health-and-longevity/biomarker-correlator.md" >}}),
-[Continuous Glucose Monitoring]({{< relref "/docs/health-and-longevity/continuous-glucose-monitoring.md" >}}),
-[Tracking Health]({{< relref "/docs/health-and-longevity/tracking-health.md" >}}),
-[Camera]({{< relref "/docs/lifelogging/camera.md" >}}),
-[Daily Habits]({{< relref "/docs/lifestyle-optimizations/daily-habits.md" >}}),
-[Task Tracking]({{< relref "/docs/lifestyle-optimizations/task-tracking.md" >}})

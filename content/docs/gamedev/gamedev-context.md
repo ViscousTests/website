@@ -1,3 +1,7 @@
+---
+backlinks-set: #{"content/docs/mind/creativity.md"}
+categories-set: #{"Gamedev"}
+---
 # Useful Gamedev Context and Concepts
 
 ## [The story of SNKRX](https://www.a327ex.com/posts/snkrx_log/#day-55-210709)
@@ -9,9 +13,3 @@
 ## Why Gamedev
 
  - https://etodd.io/2023/06/27/making-games/
-
-Categories:
-[Gamedev]({{< relref "/" >}}?Gamedev=true)
-
-Backlinks:
-[Creativity]({{< relref "/docs/mind/creativity.md" >}})

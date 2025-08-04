@@ -1,3 +1,7 @@
+---
+backlinks-set: 
+categories-set: #{"Gamedev" "Game Ideas"}
+---
 # Honorable Extraction Looter
 
 One aspect of Dark and Darker that sometimes bothers me is how important the
@@ -18,7 +22,3 @@ To incentivize fights, players can temporarily "claim"
 resources/monsters/bosses.
 If another player also claims them and the other doesn't relinquish, they fight.
 This would keep the competition for sought after resources alive in the game.
-
-Categories:
-[Game Ideas]({{< relref "/" >}}?Game-Ideas=true),
-[Gamedev]({{< relref "/" >}}?Gamedev=true)

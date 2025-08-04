@@ -1,3 +1,7 @@
+---
+backlinks-set: 
+categories-set: #{"Gamedev" "Mechanic Ideas"}
+---
 # Minimizing UI Friction in Turn Based Tactics Games
 
 ## One-click actions
@@ -61,8 +65,4 @@ I find very tedious (see the turn-based modes for Pathfinder: Kingmaker and Pill
 
 
 
-[Mechanic Ideas]({{< relref "/" >}}?Mechanic-Ideas=true)
-
-Categories:
-[Gamedev]({{< relref "/" >}}?Gamedev=true),
 [Mechanic Ideas]({{< relref "/" >}}?Mechanic-Ideas=true)

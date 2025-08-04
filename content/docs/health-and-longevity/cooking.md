@@ -1,3 +1,7 @@
+---
+backlinks-set: #{"content/docs/lifestyle-optimizations/daily-habits.md"}
+categories-set: #{"Health And Longevity"}
+---
 # Cooking 
 
 [Master Cooking
@@ -164,9 +168,3 @@ works is you take two foods that go well together (e.g. banana and peanut
 butter) and you add a third food that goes well with one of the foods but would
 be weird to combine with the other (e.g. spinach in this case).  More often
 than not, the result is actually pretty good!
-
-Categories:
-[Health And Longevity]({{< relref "/" >}}?Health-And-Longevity=true)
-
-Backlinks:
-[Daily Habits]({{< relref "/docs/lifestyle-optimizations/daily-habits.md" >}})

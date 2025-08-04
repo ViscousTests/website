@@ -1,3 +1,7 @@
+---
+backlinks-set: #{"content/docs/games/Counter-Strike.md" "content/docs/health-and-longevity/alt-health.md" "content/docs/lifestyle-optimizations/keyboards-and-typing.md"}
+categories-set: #{"Recent"}
+---
 # Recent Interests
 
 Here I list stuff I've been interested in recently.
@@ -91,11 +95,3 @@ https://github.com/kovasap/dotfiles/blob/master/bin/chrome-history-for-gemini.zs
    tortilla chips/mayo/lettuce/shredded carrots.
  - Selling old Pokemon cards I discovered.  Quite a labor intensive process to price and sell them all.
  - The Bazaar continues to be great!
-
-Categories:
-[Recent]({{< relref "/" >}}?Recent=true)
-
-Backlinks:
-[Counter Strike]({{< relref "/docs/games/Counter-Strike.md" >}}),
-[Alt Health]({{< relref "/docs/health-and-longevity/alt-health.md" >}}),
-[Keyboards And Typing]({{< relref "/docs/lifestyle-optimizations/keyboards-and-typing.md" >}})

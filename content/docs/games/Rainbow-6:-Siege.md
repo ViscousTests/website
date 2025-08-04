@@ -1,3 +1,7 @@
+---
+backlinks-set: 
+categories-set: #{"Competitive" "Games"}
+---
 # Rainbow 6: Siege
 
 ## Summary
@@ -34,7 +38,3 @@ defenders, giving attackers advantage.
      - Instead, play next to the angle and peek when you hear movement on the other side.  Works best with a shotgun
 
 Feelings:
-
-Categories:
-[Competitive]({{< relref "/" >}}?Competitive=true),
-[Games]({{< relref "/" >}}?Games=true)

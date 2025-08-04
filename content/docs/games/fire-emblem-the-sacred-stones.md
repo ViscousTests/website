@@ -1,3 +1,7 @@
+---
+backlinks-set: 
+categories-set: #{"Games" "Solitary" "Story" "Turn Based" "⭐top10"}
+---
 # [Fire Emblem The Sacred Stones](https://en.wikipedia.org/wiki/Fire_Emblem_(video_game%29)
 
 {{< game-img "fire-emblem-the-sacred-stones" "400px" >}}
@@ -27,10 +31,3 @@ which makes the game feel more interesting than if I was just solving the same
 battle puzzles as everyone else.
 
 Feelings:
-
-Categories:
-[Games]({{< relref "/" >}}?Games=true),
-[Solitary]({{< relref "/" >}}?Solitary=true),
-[Story]({{< relref "/" >}}?Story=true),
-[Turn Based]({{< relref "/" >}}?Turn-Based=true),
-[⭐top10]({{< relref "/" >}}?⭐top10=true)

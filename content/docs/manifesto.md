@@ -1,3 +1,7 @@
+---
+backlinks-set: #{"content/docs/health-and-longevity/circadian-rhythm.md" "content/docs/understanding-the-world/what-to-believe.md" "content/docs/books/why-greatness-cannot-be-planned.md" "content/docs/health-and-longevity/food.md" "content/docs/health-and-longevity/chronic-stress.md" "content/docs/mind/creativity.md" "content/docs/health-and-longevity/sleep.md" "content/docs/mind/motivation.md" "content/docs/health-and-longevity/exercise.md"}
+categories-set: #{"Me"}
+---
 # Personal Manifesto
 
 I aspire to be a **vigorous**, **wise**, and **curious** person that feels
@@ -210,17 +214,3 @@ parts of your brain to make you feel very fresh in the new context.
 ### Expectations
 
 TODO: fill this in (potentially from the "motivation" doc)
-
-Categories:
-[Me]({{< relref "/" >}}?Me=true)
-
-Backlinks:
-[Why Greatness Cannot Be Planned]({{< relref "/docs/books/why-greatness-cannot-be-planned.md" >}}),
-[Chronic Stress]({{< relref "/docs/health-and-longevity/chronic-stress.md" >}}),
-[Circadian Rhythm]({{< relref "/docs/health-and-longevity/circadian-rhythm.md" >}}),
-[Exercise]({{< relref "/docs/health-and-longevity/exercise.md" >}}),
-[Food]({{< relref "/docs/health-and-longevity/food.md" >}}),
-[Sleep]({{< relref "/docs/health-and-longevity/sleep.md" >}}),
-[Creativity]({{< relref "/docs/mind/creativity.md" >}}),
-[Motivation]({{< relref "/docs/mind/motivation.md" >}}),
-[What To Believe]({{< relref "/docs/understanding-the-world/what-to-believe.md" >}})

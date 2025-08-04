@@ -1,3 +1,7 @@
+---
+backlinks-set: 
+categories-set: #{"Gamedev" "Game Ideas"}
+---
 # Safe Building Designer
 
 Game goes in two phases: the build phase and the run phase. 
@@ -17,8 +21,4 @@ start or other mischeif they cause is mitigated properly by your design.
 
 
 
-[Gamedev]({{< relref "/" >}}?Gamedev=true)
-
-Categories:
-[Game Ideas]({{< relref "/" >}}?Game-Ideas=true),
 [Gamedev]({{< relref "/" >}}?Gamedev=true)

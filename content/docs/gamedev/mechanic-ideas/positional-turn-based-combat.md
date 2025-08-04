@@ -1,3 +1,7 @@
+---
+backlinks-set: 
+categories-set: #{"Gamedev" "Mechanic Ideas"}
+---
 # Positional Turn Based Combat
 
 I'm a huge fan of the Darkest Dungeon combat system, where each team is arranged
@@ -39,7 +43,3 @@ The tags on each position would unlock use of different abilities.
 Attack ranges could be based on position adjacency.
 
 Each battlefield would have different positions, keeping combat varied and fresh.
-
-Categories:
-[Gamedev]({{< relref "/" >}}?Gamedev=true),
-[Mechanic Ideas]({{< relref "/" >}}?Mechanic-Ideas=true)

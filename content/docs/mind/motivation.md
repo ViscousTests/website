@@ -1,3 +1,7 @@
+---
+backlinks-set: #{"content/docs/manifesto.md" "content/docs/mind/creativity.md" "content/docs/mind/how-to-do-hard-tasks.md" "content/docs/mind/things-to-do-when-unmotivated.md"}
+categories-set: #{"Mind"}
+---
 # Motivation
 
 NOTE This is a random theory of mine; don't put too much stock into it!
@@ -271,12 +275,3 @@ Some great resources for goal execution:
    https://www.youtube.com/watch?v=i7kh8pNRWOo
  - Work specific motivation: https://jasont.co/ennui/
  - https://www.lesswrong.com/posts/JBR6AF9Gusv4u6Fwo/laziness-death-spirals
-
-Categories:
-[Mind]({{< relref "/" >}}?Mind=true)
-
-Backlinks:
-[Manifesto]({{< relref "/docs/manifesto.md" >}}),
-[Creativity]({{< relref "/docs/mind/creativity.md" >}}),
-[How To Do Hard Tasks]({{< relref "/docs/mind/how-to-do-hard-tasks.md" >}}),
-[Things To Do When Unmotivated]({{< relref "/docs/mind/things-to-do-when-unmotivated.md" >}})

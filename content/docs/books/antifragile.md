@@ -1,3 +1,7 @@
+---
+backlinks-set: #{"content/docs/society/utopia.md"}
+categories-set: #{"Books" "Understanding The World"}
+---
 # [Antifragile by Nassim Taleb](https://en.wikipedia.org/wiki/Antifragile)
 
 Really insightful book into types of systems in the world and how they behave.
@@ -31,10 +35,3 @@ options) in a more near-sighted way.  The results of these decisions feed back
 into the process, hopefully stumbling the tinkerer closer to a solution.  This
 is antifragile - your expectations are low most of the time, but sometimes you
 stumble onto something very groundbreaking.
-
-Categories:
-[Books]({{< relref "/" >}}?Books=true),
-[Understanding The World]({{< relref "/" >}}?Understanding-The-World=true)
-
-Backlinks:
-[Utopia]({{< relref "/docs/society/utopia.md" >}})

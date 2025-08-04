@@ -1,3 +1,7 @@
+---
+backlinks-set: #{"content/docs/understanding-the-world/influences.md"}
+categories-set: #{"Investing And Finances"}
+---
 # Investing and Finance Influences
 
 These books/blogs/podcasts/people have most shaped how I understand finances.
@@ -29,9 +33,3 @@ previously heard but forgotten.
 ## [Antifragile by Nassim Taleb](https://en.wikipedia.org/wiki/Antifragile)
 
 [See description here.](({{< relref "/docs/understanding-the-world/influences.md" >}}))
-
-Categories:
-[Investing And Finances]({{< relref "/" >}}?Investing-And-Finances=true)
-
-Backlinks:
-[Influences]({{< relref "/docs/understanding-the-world/influences.md" >}})

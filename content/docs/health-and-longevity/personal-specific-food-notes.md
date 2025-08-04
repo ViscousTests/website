@@ -1,3 +1,7 @@
+---
+backlinks-set: 
+categories-set: #{"Health And Longevity"}
+---
 # Personal Specific Food Notes
 
 Here I catalog how specific foods affect my body.
@@ -23,6 +27,3 @@ Here I catalog how specific foods affect my body.
 ## Potatoes
 
  - I tolerate these well
-
-Categories:
-[Health And Longevity]({{< relref "/" >}}?Health-And-Longevity=true)

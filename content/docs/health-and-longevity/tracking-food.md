@@ -1,3 +1,7 @@
+---
+backlinks-set: #{"content/docs/health-and-longevity/tracking-health.md"}
+categories-set: #{"Health And Longevity"}
+---
 # Tracking Food
 
 ## Recommended Apps
@@ -130,9 +134,3 @@ Some other estimates to use:
 https://100-grams.blogspot.com/ gives a good view into what 100g of various
 foods looks like, which is useful for building intuition for non-scale-based
 tracking (e.g. Bitesnap).
-
-Categories:
-[Health And Longevity]({{< relref "/" >}}?Health-And-Longevity=true)
-
-Backlinks:
-[Tracking Health]({{< relref "/docs/health-and-longevity/tracking-health.md" >}})

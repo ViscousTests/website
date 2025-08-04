@@ -1,3 +1,7 @@
+---
+backlinks-set: #{"content/docs/games/iron-danger.md"}
+categories-set: #{"Gamedev"}
+---
 # Managing player failure in games
 
 ## Quick saving and quick loading is a bad system
@@ -23,9 +27,3 @@ In this game, you are literally reminded you to quick save on a regular timer.
 You would think that the game would be able to handle that for the player if
 that's really the way the designers want you to progress through those games.
 I think a time rewinding mechanic in these games would be miles better.
-
-Categories:
-[Gamedev]({{< relref "/" >}}?Gamedev=true)
-
-Backlinks:
-[Iron Danger]({{< relref "/docs/games/iron-danger.md" >}})

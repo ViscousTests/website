@@ -1,3 +1,7 @@
+---
+backlinks-set: 
+categories-set: #{"Games"}
+---
 # Terra Mystica
 
 ## Strategy Tips
@@ -7,6 +11,3 @@
    It's better to place them too close and have to expand outward than it is to
    place them too far and not be able to connect them.
  - Early temple for earth 1 is strong
-
-Categories:
-[Games]({{< relref "/" >}}?Games=true)

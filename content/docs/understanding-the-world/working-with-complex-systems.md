@@ -1,3 +1,7 @@
+---
+backlinks-set: #{"content/docs/understanding-the-world/predicting-the-future.md" "content/docs/understanding-the-world/what-to-believe.md"}
+categories-set: #{"Understanding The World"}
+---
 # Working With Complex Systems
 
 Systems of a sufficient complexity are hard/impossible to intuitively reason
@@ -12,10 +16,3 @@ That doesn't mean we should attempt this prediction, but IMO it does mean that
 putting a lot of faith in predictions is a mistake.
 It might be a better strategy to have different plans of action for different
 possible outcomes.
-
-Categories:
-[Understanding The World]({{< relref "/" >}}?Understanding-The-World=true)
-
-Backlinks:
-[Predicting The Future]({{< relref "/docs/understanding-the-world/predicting-the-future.md" >}}),
-[What To Believe]({{< relref "/docs/understanding-the-world/what-to-believe.md" >}})

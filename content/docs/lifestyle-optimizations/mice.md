@@ -1,3 +1,7 @@
+---
+backlinks-set: 
+categories-set: #{"Lifestyle Optimizations"}
+---
 # Mice
 
 ## Things I've tried
@@ -82,6 +86,3 @@ See this Gemini chat: https://g.co/gemini/share/f856fe7477aa
 ### Logitech G700s
 
 Tried a friend's.  Felt great in my hand.  Unfortunately discontinued :(.
-
-Categories:
-[Lifestyle Optimizations]({{< relref "/" >}}?Lifestyle-Optimizations=true)

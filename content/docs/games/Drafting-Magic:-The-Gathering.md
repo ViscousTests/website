@@ -1,3 +1,7 @@
+---
+backlinks-set: 
+categories-set: #{"Competitive" "Games" "Turn Based"}
+---
 # Drafting Magic: The Gathering
 
 My first experience was 'that complex card game that older kids played' when I
@@ -15,8 +19,3 @@ to learn about new formats, and https://www.17lands.com/ to keep track of
 progress.
 
 Feelings:
-
-Categories:
-[Competitive]({{< relref "/" >}}?Competitive=true),
-[Games]({{< relref "/" >}}?Games=true),
-[Turn Based]({{< relref "/" >}}?Turn-Based=true)

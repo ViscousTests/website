@@ -1,3 +1,7 @@
+---
+backlinks-set: 
+categories-set: #{"Mind"}
+---
 # Influences
 
 These works have guided my thinking about how the mind works. They are roughly
@@ -32,6 +36,3 @@ chapters.
 ## [Robert Sapolsky's Human Behavioral Biology Lecture](https://www.youtube.com/watch?v=NNnIGh9g6fA&list=PLD7E21BF91F3F9683)
 
 Cool lecture series, not done yet!
-
-Categories:
-[Mind]({{< relref "/" >}}?Mind=true)

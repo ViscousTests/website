@@ -1,3 +1,7 @@
+---
+backlinks-set: 
+categories-set: #{"Games" "Turn Based"}
+---
 # Symphony of War
 
 {{< game-img "symphony-of-war" "400px" >}}
@@ -9,7 +13,3 @@ Useful references:
 Discussions:
 
 1. [Information Given to Player](https://steamcommunity.com/app/1488200/discussions/0/5595187488984677120/)
-
-Categories:
-[Games]({{< relref "/" >}}?Games=true),
-[Turn Based]({{< relref "/" >}}?Turn-Based=true)

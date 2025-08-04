@@ -1,3 +1,7 @@
+---
+backlinks-set: 
+categories-set: #{"Recent" "Society"}
+---
 # Livelihood Traps
 
 ## The Problem
@@ -30,7 +34,3 @@ https://www.astralcodexten.com/i/157690414/so-what-does-drive-political-disagree
 - Easier ways for people to self organize to retrain for new jobs.
   This could be accomplished via making interviews at companies based more on
   skill demonstration and less on credentials.
-
-Categories:
-[Recent]({{< relref "/" >}}?Recent=true),
-[Society]({{< relref "/" >}}?Society=true)

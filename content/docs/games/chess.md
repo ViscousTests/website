@@ -1,3 +1,7 @@
+---
+backlinks-set: 
+categories-set: #{"Competitive" "Games" "Turn Based"}
+---
 # Chess
 
 I play my chess on [lichess.org](https://www.lichess.org), which has a great UI and cool analysis features.
@@ -9,8 +13,3 @@ I want to try out [chessable](https://www.chessable.com/?page=landingpage) at so
 https://www.alexcrompton.com/blog/time-thoughts-chess has good guidance for dealing with timed games.
 
 https://www.openingtree.com/ is a good analysis tool to identify weaknesses across all your games.
-
-Categories:
-[Competitive]({{< relref "/" >}}?Competitive=true),
-[Games]({{< relref "/" >}}?Games=true),
-[Turn Based]({{< relref "/" >}}?Turn-Based=true)

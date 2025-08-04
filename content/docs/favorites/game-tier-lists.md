@@ -1,3 +1,7 @@
+---
+backlinks-set: 
+categories-set: #{"Favorites" "Recent"}
+---
 # Game Tier Lists
 
 ## Tactics Single Player Experiences
@@ -165,7 +169,3 @@ the beginning.
 the beginning.
 
 **D** - Just bad
-
-Categories:
-[Favorites]({{< relref "/" >}}?Favorites=true),
-[Recent]({{< relref "/" >}}?Recent=true)

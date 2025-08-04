@@ -1,3 +1,7 @@
+---
+backlinks-set: 
+categories-set: #{"Hydroponics"}
+---
 # My Hydroponics Setup
 
 ## Overview Presentation
@@ -91,6 +95,3 @@ attached to the raspberry pi if i use that.
    growth.
  - Create a light sensor feedback system where if the light near plants goes
    below a certain level, the grow lights turn on.
-
-Categories:
-[Hydroponics]({{< relref "/" >}}?Hydroponics=true)

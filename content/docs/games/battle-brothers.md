@@ -1,3 +1,7 @@
+---
+backlinks-set: #{"content/docs/feelings.md"}
+categories-set: #{"Games" "Solitary" "Turn Based"}
+---
 # [Battle Brothers](http://battlebrothersgame.com/)
 
 {{< game-img "battle-brothers" "400px" >}}
@@ -25,11 +29,3 @@ Mods I've worked on:
 Feelings: 
 
   - [Reactive Randomness Stress]({{< relref "/docs/feelings.md" >}}#reactive-randomness-stress)
-
-Categories:
-[Games]({{< relref "/" >}}?Games=true),
-[Solitary]({{< relref "/" >}}?Solitary=true),
-[Turn Based]({{< relref "/" >}}?Turn-Based=true)
-
-Backlinks:
-[Feelings]({{< relref "/docs/feelings.md" >}})

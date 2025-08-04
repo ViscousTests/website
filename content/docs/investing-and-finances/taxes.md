@@ -1,3 +1,7 @@
+---
+backlinks-set: 
+categories-set: #{"Investing And Finances"}
+---
 # Taxes
 
 ## Selling Stock
@@ -68,6 +72,3 @@ Things to deduct for a rental property:
  - Insurance
  - Depreciation
  - Large capital improvements (via "safe harbor" law for small landlords)
-
-Categories:
-[Investing And Finances]({{< relref "/" >}}?Investing-And-Finances=true)

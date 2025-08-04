@@ -1,3 +1,7 @@
+---
+backlinks-set: 
+categories-set: #{"Morality"}
+---
 # Efficiency and Morality
 
 A thought experiment based on some simplified assumptions. Could very well have
@@ -162,6 +166,3 @@ The fact that the ideas discussed here don't seem to be discussed in that book
 led to me have a strong negative emotional reaction to the podcast.
 It felt like a hyper rich individual exploring how to live life as inefficiently
 as possible :/.
-
-Categories:
-[Morality]({{< relref "/" >}}?Morality=true)

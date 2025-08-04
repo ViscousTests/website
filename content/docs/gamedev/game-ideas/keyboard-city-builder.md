@@ -1,3 +1,7 @@
+---
+backlinks-set: 
+categories-set: #{"Gamedev" "Game Ideas"}
+---
 # Keyboard City Builder
 
 A city builder/strategy game where the map is a keyboard And buildings are
@@ -11,8 +15,4 @@ the key with shift/ctrl/other modifiers will change the action type.
 
 
 
-[Gamedev]({{< relref "/" >}}?Gamedev=true)
-
-Categories:
-[Game Ideas]({{< relref "/" >}}?Game-Ideas=true),
 [Gamedev]({{< relref "/" >}}?Gamedev=true)

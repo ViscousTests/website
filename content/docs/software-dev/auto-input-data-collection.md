@@ -1,3 +1,7 @@
+---
+backlinks-set: 
+categories-set: #{"Software Dev"}
+---
 # Auto Input Data Collection
 
 Frequently when I am debugging code, I will make some changes to a single
@@ -263,6 +267,3 @@ Then we would be able to relaunch functions with those given inputs.
  outputs, if you're looking for nondeterminism.
 ```
 </details>
-
-Categories:
-[Software Dev]({{< relref "/" >}}?Software-Dev=true)

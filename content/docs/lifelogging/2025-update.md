@@ -1,3 +1,7 @@
+---
+backlinks-set: #{"content/docs/lifelogging/camera.md" "content/docs/lifestyle-optimizations/daily-habits.md"}
+categories-set: #{"Lifelogging"}
+---
 # 2025 Lifelogging Update
 
 Someone on Reddit working on developing a new lifelogging product reached out to
@@ -113,10 +117,3 @@ from the microphone that would be amazing!
 **What's your top concern regarding this product/system? (privacy? storage?)**
 
 Managing data storage.
-
-Categories:
-[Lifelogging]({{< relref "/" >}}?Lifelogging=true)
-
-Backlinks:
-[Camera]({{< relref "/docs/lifelogging/camera.md" >}}),
-[Daily Habits]({{< relref "/docs/lifestyle-optimizations/daily-habits.md" >}})

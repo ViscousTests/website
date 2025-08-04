@@ -1,3 +1,7 @@
+---
+backlinks-set: 
+categories-set: #{"Lifestyle Optimizations"}
+---
 # This Website
 
 This website serves as a useful place to organize and share my thoughts.
@@ -34,6 +38,3 @@ it's less convenient to do so.
   - TODO use https://markmap.js.org/ for tables of contents.
   - https://wiki.c2.com/, especially the hover-links-to-see-page feature, which
     I added to this website.
-
-Categories:
-[Lifestyle Optimizations]({{< relref "/" >}}?Lifestyle-Optimizations=true)

@@ -1,3 +1,7 @@
+---
+backlinks-set: #{"content/docs/potential-life-missions.md" "content/docs/society/solving-societal-problems.md"}
+categories-set: #{"Mind"}
+---
 # Optimism
 
 > Optimism is a duty.
@@ -43,10 +47,3 @@ From Howard Zinn:
 > The future is an infinite succession of presents, and to live now as we think
 > human beings should live, in defiance of all that is bad around us, is itself a
 > marvelous victory.
-
-Categories:
-[Mind]({{< relref "/" >}}?Mind=true)
-
-Backlinks:
-[Potential Life Missions]({{< relref "/docs/potential-life-missions.md" >}}),
-[Solving Societal Problems]({{< relref "/docs/society/solving-societal-problems.md" >}})

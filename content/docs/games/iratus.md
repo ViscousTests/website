@@ -1,3 +1,7 @@
+---
+backlinks-set: 
+categories-set: #{"Games"}
+---
 # Iratus: Lord of the Dead
 
 I get the feeling that this game is trying too hard.
@@ -18,6 +22,3 @@ This makes it impossible to make an informed, tactical decision.
 Overall my experience made me wonder if this game is focusing on the tactical
 combat or if it's just throwing a bunch of things in and relying on the
 spectacle and all the little micro decisions to keep players engaged.
-
-Categories:
-[Games]({{< relref "/" >}}?Games=true)

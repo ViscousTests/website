@@ -1,27 +1,5 @@
+---
+backlinks-set: #{"content/docs/games/Comparing-prices.md" "content/docs/games/Apex-Legends.md" "content/docs/videos/Watching-GothamChess.md" "content/docs/games/Redditing.md" "content/docs/videos/Watching-educational-YouTube.md" "content/docs/games/Quordle.md" "content/docs/games/Browsing-Hacker-News.md" "content/docs/games/Islanders.md" "content/docs/games/Wordle.md" "content/docs/games/Age-of-Darkness:-Final-Stand.md" "content/docs/hobbies/Lead-Climbing-in-a-Gym.md" "content/docs/games/Bike-Commuting.md" "content/docs/games/Beat-Saber.md" "content/docs/games/battle-brothers.md" "content/docs/hobbies/Yo-Yoing.md" "content/docs/games/Slipways.md" "content/docs/games/dead-of-winter.md" "content/docs/games/Semantle.md" "content/docs/games/Making-Small-Web-Apps-in-ClojureScript-with-Reagent.md" "content/docs/games/DAT-Creativity.md" "content/docs/games/Three-Worlds-Collide.md"}
+categories-set: #{}
+---
 This file is encrypted.
-
-Categories:
-
-
-Backlinks:
-[Age Of Darkness: Final Stand]({{< relref "/docs/games/Age-of-Darkness:-Final-Stand.md" >}}),
-[Apex Legends]({{< relref "/docs/games/Apex-Legends.md" >}}),
-[Beat Saber]({{< relref "/docs/games/Beat-Saber.md" >}}),
-[Bike Commuting]({{< relref "/docs/games/Bike-Commuting.md" >}}),
-[Browsing Hacker News]({{< relref "/docs/games/Browsing-Hacker-News.md" >}}),
-[Comparing Prices]({{< relref "/docs/games/Comparing-prices.md" >}}),
-[Dat Creativity]({{< relref "/docs/games/DAT-Creativity.md" >}}),
-[Islanders]({{< relref "/docs/games/Islanders.md" >}}),
-[Making Small Web Apps In Clojurescript With Reagent]({{< relref "/docs/games/Making-Small-Web-Apps-in-ClojureScript-with-Reagent.md" >}}),
-[Quordle]({{< relref "/docs/games/Quordle.md" >}}),
-[Redditing]({{< relref "/docs/games/Redditing.md" >}}),
-[Semantle]({{< relref "/docs/games/Semantle.md" >}}),
-[Slipways]({{< relref "/docs/games/Slipways.md" >}}),
-[Three Worlds Collide]({{< relref "/docs/games/Three-Worlds-Collide.md" >}}),
-[Wordle]({{< relref "/docs/games/Wordle.md" >}}),
-[Battle Brothers]({{< relref "/docs/games/battle-brothers.md" >}}),
-[Dead Of Winter]({{< relref "/docs/games/dead-of-winter.md" >}}),
-[Lead Climbing In A Gym]({{< relref "/docs/hobbies/Lead-Climbing-in-a-Gym.md" >}}),
-[Yo Yoing]({{< relref "/docs/hobbies/Yo-Yoing.md" >}}),
-[Watching Gothamchess]({{< relref "/docs/videos/Watching-GothamChess.md" >}}),
-[Watching Educational Youtube]({{< relref "/docs/videos/Watching-educational-YouTube.md" >}})

@@ -1,3 +1,7 @@
+---
+backlinks-set: 
+categories-set: #{"Games" "Social"}
+---
 # Bananagrams
 
 One fun variant is to open a book in text format with some program that can search text and make it so that you can only use words that exist in that book.
@@ -9,7 +13,3 @@ For a game with more players, this variation might be interesting to try: http:/
 To make hard varients easier, you can play with a "wildcard rule".  With this rule, you are allowed to flip over one of your tiles and treat it as a wildcard letter.  You can choose to switch out which tile is flipped at any time.
 
 Feelings:
-
-Categories:
-[Games]({{< relref "/" >}}?Games=true),
-[Social]({{< relref "/" >}}?Social=true)

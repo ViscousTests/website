@@ -1,3 +1,7 @@
+---
+backlinks-set: 
+categories-set: #{"Music"}
+---
 # History of my Musical Interests
 
 For each period are listed some of my most listened to albums.
@@ -58,6 +62,3 @@ For each period are listed some of my most listened to albums.
  - Poppy, *Am I a Girl?*, *Negative Spaces*
  - Breaking Benjamin
    - Used to listen to them a while ago too.
-
-Categories:
-[Music]({{< relref "/" >}}?Music=true)

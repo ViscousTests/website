@@ -1,3 +1,7 @@
+---
+backlinks-set: #{"content/docs/health-and-longevity/cooking.md" "content/docs/health-and-longevity/food.md" "content/docs/lifelogging/2025-update.md" "content/docs/lifelogging/what-and-why.md"}
+categories-set: #{"Important" "Lifestyle Optimizations"}
+---
 # Daily Habits
 
 ## Food
@@ -168,13 +172,3 @@ the proper format for the weeks website.
 ## This Page
 
 *This page should be kept up to date via a recurring Google task*
-
-Categories:
-[Important]({{< relref "/" >}}?Important=true),
-[Lifestyle Optimizations]({{< relref "/" >}}?Lifestyle-Optimizations=true)
-
-Backlinks:
-[Cooking]({{< relref "/docs/health-and-longevity/cooking.md" >}}),
-[Food]({{< relref "/docs/health-and-longevity/food.md" >}}),
-[2025 Update]({{< relref "/docs/lifelogging/2025-update.md" >}}),
-[What And Why]({{< relref "/docs/lifelogging/what-and-why.md" >}})

@@ -1,3 +1,7 @@
+---
+backlinks-set: 
+categories-set: #{"Climbing" "Event Reports"}
+---
 # Mile High Club
 
 Done in Mid-August 2020.
@@ -218,8 +222,4 @@ you give yourself enough time!
 
 
 
-[Event Reports]({{< relref "/" >}}?Event-Reports=true)
-
-Categories:
-[Climbing]({{< relref "/" >}}?Climbing=true),
 [Event Reports]({{< relref "/" >}}?Event-Reports=true)

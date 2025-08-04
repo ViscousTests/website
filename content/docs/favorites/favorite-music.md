@@ -1,3 +1,7 @@
+---
+backlinks-set: 
+categories-set: #{"Favorites"}
+---
 # My Favorite Albums
 
 ## Flow/Immersive
@@ -30,6 +34,3 @@
 - [Glitch Mob](https://theglitchmob.bandcamp.com/)
 - [Tim Hecker](https://timhecker.bandcamp.com/)
 - [Nick Johnston](https://www.youtube.com/watch?v=MfiNRE6IZJM)
-
-Categories:
-[Favorites]({{< relref "/" >}}?Favorites=true)

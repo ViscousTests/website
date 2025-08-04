@@ -1,3 +1,7 @@
+---
+backlinks-set: #{"content/docs/gamedev/common-patterns.md"}
+categories-set: #{"Games" "Solitary" "Turn Based" "⭐top10"}
+---
 # [Fell Seal - Arbiter's Mark](https://www.fellseal.com/)
 
 {{< game-img "fell-seal-arbiters-mark" "400px" >}}
@@ -14,12 +18,3 @@ This is an awesome way to reward players who do a good job with their builds
 (they have to grind less) without forcing players into said optimal builds.
 
 Feelings:
-
-Categories:
-[Games]({{< relref "/" >}}?Games=true),
-[Solitary]({{< relref "/" >}}?Solitary=true),
-[Turn Based]({{< relref "/" >}}?Turn-Based=true),
-[⭐top10]({{< relref "/" >}}?⭐top10=true)
-
-Backlinks:
-[Common Patterns]({{< relref "/docs/gamedev/common-patterns.md" >}})

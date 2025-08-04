@@ -1,4 +1,5 @@
+---
+backlinks-set: 
+categories-set: #{"Games"}
+---
 # [games/counter-strike.md]()
-
-Categories:
-[Games]({{< relref "/" >}}?Games=true)

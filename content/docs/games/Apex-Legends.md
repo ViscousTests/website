@@ -1,3 +1,7 @@
+---
+backlinks-set: #{"content/docs/feelings.md"}
+categories-set: #{"Competitive" "Games" "Multiplayer" "Real Time"}
+---
 # Apex Legends
 
 A fast-paced first person shooter video game. Has extremely good art direction, smooth gameplay, and balanced mechanics.
@@ -5,12 +9,3 @@ A fast-paced first person shooter video game. Has extremely good art direction, 
 Feelings: 
 
   - [Constructive regret]({{< relref "/docs/feelings.md" >}}#constructive-regret)
-
-Categories:
-[Competitive]({{< relref "/" >}}?Competitive=true),
-[Games]({{< relref "/" >}}?Games=true),
-[Multiplayer]({{< relref "/" >}}?Multiplayer=true),
-[Real Time]({{< relref "/" >}}?Real-Time=true)
-
-Backlinks:
-[Feelings]({{< relref "/docs/feelings.md" >}})

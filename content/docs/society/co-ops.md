@@ -1,3 +1,7 @@
+---
+backlinks-set: 
+categories-set: #{"Society"}
+---
 # Co-ops
 
 ## Marxism
@@ -87,6 +91,3 @@ like Costco or WinCo or PCC grew.
 How did they start?
 How do they grow?
 Does every employee have an equal voting right who owns them?
-
-Categories:
-[Society]({{< relref "/" >}}?Society=true)

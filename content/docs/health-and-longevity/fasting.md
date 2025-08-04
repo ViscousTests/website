@@ -1,3 +1,7 @@
+---
+backlinks-set: #{"content/docs/health-and-longevity/food.md"}
+categories-set: #{"Health And Longevity"}
+---
 # Fasting
 
 ## Why fast?
@@ -134,9 +138,3 @@ productive in this way.
 
 I collected some data during this fast which can be seen at
 https://docs.google.com/spreadsheets/d/1gp4n59h3I0r1DnM8NQq4ISGtDY9ameoDuqInhsv2WYI/edit#gid=0.
-
-Categories:
-[Health And Longevity]({{< relref "/" >}}?Health-And-Longevity=true)
-
-Backlinks:
-[Food]({{< relref "/docs/health-and-longevity/food.md" >}})

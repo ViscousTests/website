@@ -1,3 +1,7 @@
+---
+backlinks-set: 
+categories-set: #{"Gamedev" "Game Ideas"}
+---
 # Rogue-like Base Builder Concept
 
 Game is played on a square grid in two phases.
@@ -62,8 +66,4 @@ artificially extend the game and make it more grindy.
 
 
 
-[Gamedev]({{< relref "/" >}}?Gamedev=true)
-
-Categories:
-[Game Ideas]({{< relref "/" >}}?Game-Ideas=true),
 [Gamedev]({{< relref "/" >}}?Gamedev=true)

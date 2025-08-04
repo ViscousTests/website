@@ -1,3 +1,7 @@
+---
+backlinks-set: #{"content/docs/manifesto.md" "content/docs/health-and-longevity/aging-science.md" "content/docs/health-and-longevity/biomarker-correlator.md" "content/docs/health-and-longevity/fasting.md" "content/docs/lifestyle-optimizations/daily-habits.md"}
+categories-set: #{"Health And Longevity"}
+---
 # Food
 
 ## Goals
@@ -379,13 +383,3 @@ harmful](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6952072/)) and uric acid
 ([probably harmful in large quantity](https://peterattiamd.com/rickjohnson/))
 ([source](https://selfhacked.com/blog/nutritional-yeast/)).  Also is a fairly
 processed food.
-
-Categories:
-[Health And Longevity]({{< relref "/" >}}?Health-And-Longevity=true)
-
-Backlinks:
-[Aging Science]({{< relref "/docs/health-and-longevity/aging-science.md" >}}),
-[Biomarker Correlator]({{< relref "/docs/health-and-longevity/biomarker-correlator.md" >}}),
-[Fasting]({{< relref "/docs/health-and-longevity/fasting.md" >}}),
-[Daily Habits]({{< relref "/docs/lifestyle-optimizations/daily-habits.md" >}}),
-[Manifesto]({{< relref "/docs/manifesto.md" >}})
