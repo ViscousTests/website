@@ -42,7 +42,7 @@ if [ -n "$*" ]; then
 fi
 # Commit with special username and no email.  Without this running under GitHub
 # Actions fails.
-git commit --no-verify -m "$msg" --author "Deployer <>"
+git commit --no-verify -m "$msg" -c "user.name=Deployer" -c "user.email=kovas.palunas@gmail.com" # --author "Deployer <>"
 
 # Push source and build repos.
 git pull -X ours
