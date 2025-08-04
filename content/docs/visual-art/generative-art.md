@@ -1,4 +1,6 @@
 ---
+backlinks-set: #{"content/docs/visual-art/inspiration-and-resources.md"}
+categories-set: #{"Visual Art"}
 testing: frontmatter
 ---
 
@@ -46,9 +48,3 @@ out works when looked at from certain angles.
 
 Add music/sound to BeesAndBombs-type visualizations like
 [ChaosDoodle](https://www.youtube.com/watch?v=vcBn04IyELc) videos.
-
-Categories:
-[Visual Art]({{< relref "/" >}}?Visual-Art=true)
-
-Backlinks:
-[Inspiration And Resources]({{< relref "/docs/visual-art/inspiration-and-resources.md" >}})
