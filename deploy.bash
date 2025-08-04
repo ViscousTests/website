@@ -7,6 +7,12 @@ shopt -s globstar
 
 printf "\033[0;32mDeploying updates to GitHub...\033[0m\n"
 
+# Before doing anything, make sure the public repo is at head so that we can
+# modify it without wierd merging
+cd public
+git checkout master -f
+cd ..
+
 for file in private-website-pages/content/**/*; do
 	if [[ -f "$file" ]]; then
 		cp --verbose $file ${file#private-website-pages/}
@@ -44,4 +50,5 @@ git commit --no-verify -m "$msg"
 
 # Push source and build repos.
 git pull -s recursive -X ours
+git merge -s recursive -X ours -m 'merged' --no-ff
 git push origin master
