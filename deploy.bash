@@ -13,7 +13,7 @@ for file in private-website-pages/content/**/*; do
 	fi
 done
 
-joker create-index.joke
+./joker create-index.joke
 
 # Build the project.
 hugo # if using a theme, replace with `hugo -t <YOURTHEME>`
