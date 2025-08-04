@@ -25,6 +25,6 @@
 [submodule "private-website-pages"]
 	path = private-website-pages
 	url = git@github.com:kovasap/private-website-pages.git
-[submodule "themes/-h"]
-	path = themes/-h
+[submodule "themes/hugo-book"]
+	path = themes/hugo-book
 	url = git@github.com:kovasap/hugo-book.git
