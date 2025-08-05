@@ -7,7 +7,9 @@ shopt -s globstar
 
 printf "\033[0;32mDeploying updates to GitHub...\033[0m\n"
 
-rm -r public
+if [[ -f public ]]; then
+  rm -r public
+fi
 git clone git@github.com:kovasap/kovasap.github.io.git public/
 
 for file in private-website-pages/content/**/*; do
