@@ -25,7 +25,8 @@ fall into) goes something like this:
    - The strategy was physically uncomfortable/painful.
    - The strategy was time consuming.
    - The strategy was too daunting to attempt.
-     For example:
+
+   For example:
    - _"During and after my first 30 minute run my joints hurt a lot."_
    - _"I felt super bloated and low energy after my 2nd day easing breakfast
      salads.
@@ -45,7 +46,6 @@ fall into) goes something like this:
      willpower."_
    - _"This habit does not fit into my identity - I'm not the kind of person who
      can do it."_
-   - <insert thoughts of self-loathing here>
    - _"These new habits wouldn't have helped me much anyway."_
 6. You start preemptively ignoring/avoiding inspirations to do similar things in
    the future, because of the negative impression.
