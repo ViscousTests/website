@@ -1,2 +1,7 @@
 *.DS_Store*
 resources/
+.clj-kondo/
+.hugo_build.lock
+.lsp/
+.staticrypt.json
+public/

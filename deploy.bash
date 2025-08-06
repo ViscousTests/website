@@ -7,13 +7,20 @@ shopt -s globstar
 
 printf "\033[0;32mDeploying updates to GitHub...\033[0m\n"
 
-rm -r public
-git clone git@github.com:kovasap/kovasap.github.io.git public/
+if [[ -n "$GITHUB_WORKFLOW" ]]; then
+  echo "Running in GitHub Actions Workflow, GitHub Pages repository should already be cloned!"
+else
+  echo "Cloning fresh GitHub Pages repository..."
+  if [[ -f public ]]; then
+    rm -r public
+  fi
+  git clone git@github.com:kovasap/kovasap.github.io.git public/
+fi
 
 for file in private-website-pages/content/**/*; do
-	if [[ -f "$file" ]]; then
-		cp --verbose $file ${file#private-website-pages/}
-	fi
+  if [[ -f "$file" ]]; then
+    cp --verbose $file ${file#private-website-pages/}
+  fi
 done
 
 ./joker create-index.joke
@@ -22,13 +29,13 @@ done
 hugo # if using a theme, replace with `hugo -t <YOURTHEME>`
 
 for file in private-website-pages/content/**/*; do
-	if [[ -f "$file" ]]; then
-		file_starting_at_docs=${file#private-website-pages/content/}
-		echo "Encrypting public/${file_starting_at_docs%.md}/index.html to public/${file_starting_at_docs%.md}"
-		npx staticrypt public/${file_starting_at_docs%.md}/index.html \
-			-d public/${file_starting_at_docs%.md} \
-			-p $(cat private-website-pages/password.txt)
-	fi
+  if [[ -f "$file" ]]; then
+    file_starting_at_docs=${file#private-website-pages/content/}
+    echo "Encrypting public/${file_starting_at_docs%.md}/index.html to public/${file_starting_at_docs%.md}"
+    npx staticrypt public/${file_starting_at_docs%.md}/index.html \
+      -d public/${file_starting_at_docs%.md} \
+      -p $(cat private-website-pages/password.txt)
+  fi
 done
 
 # Go To Public folder
@@ -41,7 +48,7 @@ git add --verbose .
 # Commit changes.
 msg="rebuilding site $(date)"
 if [ -n "$*" ]; then
-	msg="$*"
+  msg="$*"
 fi
 git commit --no-verify -m "$msg"
 
