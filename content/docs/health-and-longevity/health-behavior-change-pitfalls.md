@@ -58,6 +58,8 @@ execute**.
 For me at least, but I expect for everyone, different strategies work way better
 or worse than others depending on lots of factors, **many impossible to fully
 understand**.
+I wont try to enumerate them here, and knowing what they are isn't even
+necessarily important to proceed.
 
 Therefore, it's likely that if instead of reacting as in step (4), going back to
 step (2) right away - or spending more time at step (2) in the first place -
