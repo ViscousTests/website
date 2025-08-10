@@ -62,3 +62,10 @@ For each period are listed some of my most listened to albums.
  - Poppy, *Am I a Girl?*, *Negative Spaces*
  - Breaking Benjamin
    - Used to listen to them a while ago too.
+ - The Plot in You, *Vol 1, 2, 3*
+ - Time, the Valuator
+ - Imminence
+ - Vola
+ - Sleep Token
+ - The Defect
+ - Conquer Divide
