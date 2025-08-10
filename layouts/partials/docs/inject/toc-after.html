@@ -10,7 +10,7 @@
         //     website_helpers.core.list_to_hiccup(["a", "b"])));
         // const urlParams = new URLSearchParams(window.location.search);
         website_helpers.core.render_to_element(
-            website_helpers.notes.categories_and_backlinks(
+            website_helpers.hyperlink_lists.categories_and_backlinks(
                 {{ with .File }}{{ .Path }}{{ end }}),
             "categories_and_backlinks_wrapper");
     </script>
