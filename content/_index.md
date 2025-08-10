@@ -19,11 +19,9 @@ I also try to follow this advice on my [Writing]({{< relref
 "/docs/lifestyle-optimizations/writing.md" >}}) page.
 
 {{< random_page >}}
-{{% include "/content/docs/all.edn" %}}
 {{< /random_page >}}
 
 {{< website_graph >}}
-{{% include "/content/docs/all.edn" %}}
 {{< /website_graph >}}
 
 Whole site count: 66991 words, 87.0% of Harry Potter and the Sorcerer's Stone
