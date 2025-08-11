@@ -1,7 +1,8 @@
 <!-- Depends on website-helpers repository. -->
 
 <div id="categories_and_backlinks_wrapper">
-    <div id="categories_and_backlinks"></div>
+    <div>Testing</div>
+    <div id="categoriesandbacklinks">my div</div>
     <script type="text/javascript">
         // Show all exported defs/defns we can use.
         // console.log(website_helpers.core);
@@ -9,9 +10,20 @@
         // console.log(website_helpers.core.to_js(
         //     website_helpers.core.list_to_hiccup(["a", "b"])));
         // const urlParams = new URLSearchParams(window.location.search);
+        console.log({{ with .File }}{{ .Path }}{{ end }});
         website_helpers.core.render_to_element(
             website_helpers.hyperlink_lists.categories_and_backlinks(
                 {{ with .File }}{{ .Path }}{{ end }}),
-            "categories_and_backlinks_wrapper");
+            // This div works for some reason - it updates properly.
+            // "inspiration-and-resources");
+            "categoriesandbacklinks");
+        /*
+        document.getElementById('categoriesandbacklinks').style.display = 'none';
+        document.getElementById('categoriesandbacklinks').style.display = 'block';
+        const parent = document.getElementById('categories_and_backlinks_wrapper');
+        const child = document.getElementById('categoriesandbacklinks');
+        parent.removeChild(child);
+        parent.appendChild(child);
+        */
     </script>
 </div>
