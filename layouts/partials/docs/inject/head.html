@@ -33,7 +33,6 @@ website_helpers.global.set_global_notes(
     website_helpers.core.read_edn_string(
         {{ "/content/docs/all.edn" | readFile }}));
 
-
 // Execute after one second.
 setTimeout(
 // window.onload is the proper way to do this, but it will run this code before mermaid charts are rendered, which means we will miss links within them.
