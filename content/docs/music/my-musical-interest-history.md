@@ -48,6 +48,7 @@ For each period are listed some of my most listened to albums.
      As I listened more this became one of my favorite albums.
  - Tool, *Lateralus*, *10,000 Days*
  - Shiny Toy Guns, *III*
+ - Jeremy Blake, [*Juvenile Hyperobject*](https://soundvision.bandcamp.com/album/juvenile-hyperobject-deluxe-edition)
 
 ## 30s
 
