@@ -150,7 +150,7 @@ Cool art and art tutorials that I've stumbled across.
                  delinked
                  link)))
 
-(defn parse-categories
+(defn parse-categories-from-legacy-section
   "Finds all categories in the text and returns them alongside the categoryless
   text."
   [text]
@@ -165,7 +165,7 @@ Cool art and art tutorials that I've stumbled across.
       category)))
 
 (assert=
-  (parse-categories
+  (parse-categories-from-legacy-section
     "<markdown>
 
 Categories: cat1, ..., [Housing]({{< relref \"/docs/all.md\" >}}?Housing=true)
@@ -176,7 +176,7 @@ other
 
 
 (assert=
-  (parse-categories
+  (parse-categories-from-legacy-section
     "
 # My First 5.12!
 
@@ -222,14 +222,11 @@ Backlinks:
 (defn add-categories-frontmatter
   [markdown categories]
   (let [[frontmatter body]  (split-frontmatter-lines markdown)
-        categories-set      (union (get-frontmatter-set frontmatter
-                                                        categories-prefix)
-                                   categories)
         updated-frontmatter (as-> frontmatter f
                               (remove #(s/starts-with? % categories-prefix) f)
                               (apply conj
                                 [(first f)]
-                                (str categories-prefix ": " categories-set)
+                                (str categories-prefix ": " categories)
                                 (rest f)))]
     (s/join "\n" (concat updated-frontmatter body))))
 
@@ -318,7 +315,10 @@ Backlinks:
       (assoc f :markdown (if (:private f) "This file is private" markdown))
       (assoc f
         :categories (union (:path-categories f)
-                           (parse-categories markdown))))))
+                           (parse-categories-from-legacy-section markdown)
+                           (get-frontmatter-set (first (split-frontmatter-lines
+                                                         markdown))
+                                                categories-prefix))))))
 
 
 (defn generate-final-markdown
@@ -550,8 +550,8 @@ Backlinks:
 
 (def index-path "content/menu/index.md")
 ; Path to all the pages that we want to process.
-; (def content-path "content/docs/visual-art")
-(def content-path "content/docs")
+(def content-path "content/docs/visual-art")
+; (def content-path "content/docs")
 (defn main
   []
   ; Use doall so that we don't evaluate get all files when under the influence
