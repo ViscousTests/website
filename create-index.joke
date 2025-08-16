@@ -3,7 +3,7 @@
 (ns script
     (:require [joker.filepath :as fp]
               [joker.string :as s]
-              [joker.set :refer [union]]
+              [joker.set :refer [intersection]]
               [joker.os :as os]
               [joker.hiccup :as h]
               [joker.math :as m]
@@ -314,11 +314,12 @@ Backlinks:
               :title           (to-title (:path file))})
       (assoc f :markdown (if (:private f) "This file is private" markdown))
       (assoc f
-        :categories (union (:path-categories f)
-                           (parse-categories-from-legacy-section markdown)
-                           (get-frontmatter-set (first (split-frontmatter-lines
-                                                         markdown))
-                                                categories-prefix))))))
+        :categories (intersection (:path-categories f)
+                                  (parse-categories-from-legacy-section
+                                    markdown)
+                                  (get-frontmatter-set
+                                    (first (split-frontmatter-lines markdown))
+                                    categories-prefix))))))
 
 
 (defn generate-final-markdown
