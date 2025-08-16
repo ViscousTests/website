@@ -291,6 +291,13 @@ Backlinks:
 
 ;; ------------------ All File Data Construction --------------------------
 
+(defn remove-tinkering-time-ranges
+  "remove :modification-unix-timestamps during periods when i wasn't 
+  actually changing page content, just messing with technical stuff"
+  [timestamps]
+  (remove #(< 1753934890 % 1754284390) timestamps))
+ 
+
 (defn add-file-data
   [file]
   (prn (str "Processing data for " (:path file)))
@@ -305,11 +312,12 @@ Backlinks:
                                                    markdown))
                                           "private"))
               :modification-unix-timestamps
-              (mapv parse-long
-                (s/split (s/trim (:out (os/sh "git"
-                                              "log" "--pretty=format:%ct"
-                                              "--"  (:path file))))
-                         #"\n"))
+              (remove-tinkering-time-ranges
+                (mapv parse-long
+                  (s/split (s/trim (:out (os/sh "git"
+                                                "log" "--pretty=format:%ct"
+                                                "--"  (:path file))))
+                           #"\n")))
               :links           (parse-links markdown)
               :title           (to-title (:path file))})
       (assoc f :markdown (if (:private f) "This file is private" markdown))
