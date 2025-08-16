@@ -1,5 +1,5 @@
 ---
-backlinks-set: #{"content/docs/manifesto.md" "content/docs/mind/creativity.md" "content/docs/mind/how-to-do-hard-tasks.md" "content/docs/mind/things-to-do-when-unmotivated.md"}
+backlinks-set: #{"content/docs/manifesto.md" "content/docs/mind/how-to-do-hard-tasks.md" "content/docs/mind/things-to-do-when-unmotivated.md"}
 categories-set: #{"Mind"}
 ---
 # Motivation

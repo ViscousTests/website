@@ -1,5 +1,5 @@
 ---
-backlinks-set: #{"content/docs/games/Offworld-Trading-Company.md" "content/docs/games/Rimworld.md" "content/docs/games/oxygen-not-included.md"}
+backlinks-set: 
 categories-set: #{"Gamedev"}
 ---
 # Real Time Strategy

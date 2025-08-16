@@ -1,5 +1,5 @@
 ---
-backlinks-set: #{"content/docs/health-and-longevity/biomarker-correlator.md" "content/docs/health-and-longevity/continuous-glucose-monitoring.md" "content/docs/health-and-longevity/tracking-health.md" "content/docs/lifelogging/camera.md" "content/docs/lifestyle-optimizations/daily-habits.md" "content/docs/lifestyle-optimizations/task-tracking.md"}
+backlinks-set: #{"content/docs/lifestyle-optimizations/daily-habits.md"}
 categories-set: #{"Lifelogging"}
 ---
 # Lifelogging

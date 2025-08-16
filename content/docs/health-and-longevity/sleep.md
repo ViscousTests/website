@@ -1,5 +1,5 @@
 ---
-backlinks-set: #{"content/docs/manifesto.md" "content/docs/health-and-longevity/aging-science.md" "content/docs/lifestyle-optimizations/daily-physiological-tricks.md" "content/docs/lifestyle-optimizations/task-tracking.md"}
+backlinks-set: #{"content/docs/manifesto.md" "content/docs/health-and-longevity/aging-science.md" "content/docs/lifestyle-optimizations/daily-physiological-tricks.md"}
 categories-set: #{"Health And Longevity" "Important"}
 ---
 # Sleep

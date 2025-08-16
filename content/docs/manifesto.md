@@ -1,5 +1,5 @@
 ---
-backlinks-set: #{"content/docs/health-and-longevity/circadian-rhythm.md" "content/docs/understanding-the-world/what-to-believe.md" "content/docs/books/why-greatness-cannot-be-planned.md" "content/docs/health-and-longevity/food.md" "content/docs/health-and-longevity/chronic-stress.md" "content/docs/mind/creativity.md" "content/docs/health-and-longevity/sleep.md" "content/docs/mind/motivation.md" "content/docs/health-and-longevity/exercise.md"}
+backlinks-set: 
 categories-set: #{"Me"}
 ---
 # Personal Manifesto

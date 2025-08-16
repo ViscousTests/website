@@ -1,5 +1,5 @@
 ---
-backlinks-set: #{"content/docs/books/everyday-utopia.md"}
+backlinks-set: 
 categories-set: #{"Society"}
 ---
 # Communal Living

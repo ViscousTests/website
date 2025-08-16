@@ -1,5 +1,5 @@
 ---
-backlinks-set: #{"content/docs/society/utopia.md"}
+backlinks-set: 
 categories-set: #{"Society"}
 ---
 # Utopian Idea Management

@@ -1,5 +1,5 @@
 ---
-backlinks-set: #{"content/docs/mind/motivation.md"}
+backlinks-set: 
 categories-set: #{"Mind"}
 ---
 # How to Do Hard Tasks

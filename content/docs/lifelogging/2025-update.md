@@ -1,5 +1,5 @@
 ---
-backlinks-set: #{"content/docs/lifelogging/camera.md" "content/docs/lifestyle-optimizations/daily-habits.md"}
+backlinks-set: 
 categories-set: #{"Lifelogging"}
 ---
 # 2025 Lifelogging Update

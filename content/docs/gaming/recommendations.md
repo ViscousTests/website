@@ -1,5 +1,5 @@
 ---
-backlinks-set: #{"content/docs/gaming/recommendations.md" "content/docs/lifestyle-optimizations/experiences.md"}
+backlinks-set: #{"content/docs/gaming/recommendations.md"}
 categories-set: #{"Gaming"}
 ---
 # Recommendations

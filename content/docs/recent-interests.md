@@ -1,5 +1,5 @@
 ---
-backlinks-set: #{"content/docs/games/Counter-Strike.md" "content/docs/health-and-longevity/alt-health.md" "content/docs/lifestyle-optimizations/keyboards-and-typing.md"}
+backlinks-set: 
 categories-set: #{"Recent"}
 ---
 # Recent Interests

@@ -1,5 +1,5 @@
 ---
-backlinks-set: #{"content/docs/feelings.md"}
+backlinks-set: 
 categories-set: #{"Games" "Solitary"}
 ---
 # [Age of Darkness: Final Stand](https://www.ageofdarkness.com/)

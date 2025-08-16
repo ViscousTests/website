@@ -1,5 +1,5 @@
 ---
-backlinks-set: #{"content/docs/health-and-longevity/continuous-glucose-monitoring.md" "content/docs/health-and-longevity/tracking-food.md" "content/docs/lifelogging/what-and-why.md"}
+backlinks-set: #{"content/docs/lifelogging/what-and-why.md"}
 categories-set: #{"Health And Longevity"}
 ---
 # Tracking Health

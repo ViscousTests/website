@@ -1,5 +1,5 @@
 ---
-backlinks-set: #{"content/docs/health-and-longevity/sleep.md" "content/docs/mind/things-to-do-when-unmotivated.md" "content/docs/understanding-the-world/productive-conversations.md"}
+backlinks-set: 
 categories-set: #{"Lifestyle Optimizations"}
 ---
 # Daily Physiological Tricks

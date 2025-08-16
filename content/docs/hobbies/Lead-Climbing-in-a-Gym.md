@@ -1,5 +1,5 @@
 ---
-backlinks-set: #{"content/docs/feelings.md"}
+backlinks-set: 
 categories-set: #{"Climbing" "Exercise" "Hobbies" "Social" "⭐top10"}
 ---
 # Lead Climbing in a Gym

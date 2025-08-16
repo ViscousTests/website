@@ -1,5 +1,5 @@
 ---
-backlinks-set: #{"content/docs/feelings.md"}
+backlinks-set: 
 categories-set: #{"Exercise" "Games" "Lifestyle"}
 ---
 # [Bike Commuting](https://kovasap.github.io/docs/lifestyle-optimizations/bike-commuting/)

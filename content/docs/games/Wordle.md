@@ -1,5 +1,5 @@
 ---
-backlinks-set: #{"content/docs/feelings.md"}
+backlinks-set: 
 categories-set: #{"Games" "Puzzle" "Social"}
 ---
 # [Wordle](https://www.nytimes.com/games/wordle/index.html)

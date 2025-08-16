@@ -1,5 +1,5 @@
 ---
-backlinks-set: #{"content/docs/manifesto.md" "content/docs/books/The-Enigma-of-Reason.md" "content/docs/books/why-greatness-cannot-be-planned.md" "content/docs/health-and-longevity/aging-science.md" "content/docs/health-and-longevity/sens.md" "content/docs/mind/perspective.md" "content/docs/understanding-the-world/working-with-complex-systems.md"}
+backlinks-set: #{"content/docs/manifesto.md" "content/docs/health-and-longevity/aging-science.md" "content/docs/health-and-longevity/sens.md"}
 categories-set: #{"Important" "Understanding The World"}
 ---
 # What to Believe

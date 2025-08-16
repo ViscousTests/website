@@ -1,5 +1,5 @@
 ---
-backlinks-set: #{"content/docs/books/zero-to-one.md" "content/docs/investing-and-finances/influences.md" "content/docs/understanding-the-world/influences.md"}
+backlinks-set: #{"content/docs/investing-and-finances/influences.md" "content/docs/understanding-the-world/influences.md"}
 categories-set: #{"Understanding The World"}
 ---
 # Influences

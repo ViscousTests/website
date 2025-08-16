@@ -1,5 +1,5 @@
 ---
-backlinks-set: #{"content/docs/potential-life-missions.md" "content/docs/books/antifragile.md" "content/docs/books/why-greatness-cannot-be-planned.md" "content/docs/mind/creativity.md" "content/docs/society/utopian-idea-management.md" "content/docs/understanding-the-world/copyright-and-ip.md"}
+backlinks-set: #{"content/docs/potential-life-missions.md" "content/docs/society/utopian-idea-management.md" "content/docs/understanding-the-world/copyright-and-ip.md"}
 categories-set: #{"Society"}
 ---
 # Achieving Utopia

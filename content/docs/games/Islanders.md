@@ -1,5 +1,5 @@
 ---
-backlinks-set: #{"content/docs/feelings.md"}
+backlinks-set: 
 categories-set: #{"Games" "Puzzle" "Solitary" "Turn Based"}
 ---
 # [Islanders](https://en.wikipedia.org/wiki/Islanders_(video_game%29)

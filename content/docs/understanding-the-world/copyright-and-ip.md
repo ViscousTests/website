@@ -1,5 +1,5 @@
 ---
-backlinks-set: #{"content/docs/mind/creativity.md" "content/docs/society/utopia.md"}
+backlinks-set: #{"content/docs/mind/creativity.md"}
 categories-set: #{"Understanding The World"}
 ---
 # Copyright and IP

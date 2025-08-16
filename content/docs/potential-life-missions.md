@@ -1,5 +1,5 @@
 ---
-backlinks-set: #{"content/docs/books/why-greatness-cannot-be-planned.md" "content/docs/mind/optimism.md" "content/docs/society/utopia.md"}
+backlinks-set: 
 categories-set: #{}
 ---
 # Potential Life Missions

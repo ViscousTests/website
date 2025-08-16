@@ -1,5 +1,5 @@
 ---
-backlinks-set: #{"content/docs/feelings.md"}
+backlinks-set: 
 categories-set: #{"Games" "Puzzle" "Social"}
 ---
 # [Semantle](https://semantle.novalis.org/)

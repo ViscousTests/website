@@ -1,5 +1,5 @@
 ---
-backlinks-set: #{"content/docs/books/The-Black-Swan.md"}
+backlinks-set: 
 categories-set: #{"Society"}
 ---
 # Gerrymandering

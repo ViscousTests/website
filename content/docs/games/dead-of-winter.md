@@ -1,5 +1,5 @@
 ---
-backlinks-set: #{"content/docs/feelings.md" "content/docs/gamedev/mechanic-ideas/limiting-collaboration.md"}
+backlinks-set: 
 categories-set: #{"Games"}
 ---
 # Dead of Winter

@@ -1,5 +1,5 @@
 ---
-backlinks-set: #{"content/docs/manifesto.md" "content/docs/health-and-longevity/aging-science.md" "content/docs/health-and-longevity/biomarker-correlator.md" "content/docs/health-and-longevity/fasting.md" "content/docs/lifestyle-optimizations/daily-habits.md"}
+backlinks-set: #{"content/docs/manifesto.md" "content/docs/health-and-longevity/aging-science.md"}
 categories-set: #{"Health And Longevity"}
 ---
 # Food

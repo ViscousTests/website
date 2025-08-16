@@ -1,5 +1,5 @@
 ---
-backlinks-set: #{"content/docs/understanding-the-world/influences.md"}
+backlinks-set: 
 categories-set: #{"Investing And Finances"}
 ---
 # Investing and Finance Influences

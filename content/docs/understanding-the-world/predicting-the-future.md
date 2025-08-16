@@ -1,5 +1,5 @@
 ---
-backlinks-set: #{"content/docs/understanding-the-world/working-with-complex-systems.md"}
+backlinks-set: 
 categories-set: #{"Understanding The World"}
 ---
 # Predicting the Future

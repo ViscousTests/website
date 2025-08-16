@@ -1,5 +1,5 @@
 ---
-backlinks-set: #{"content/docs/feelings.md"}
+backlinks-set: 
 categories-set: #{"Games" "Programming"}
 ---
 # Making Small Web Apps in ClojureScript with Reagent

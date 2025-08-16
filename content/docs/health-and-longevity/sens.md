@@ -1,5 +1,5 @@
 ---
-backlinks-set: #{"content/docs/health-and-longevity/influences.md" "content/docs/understanding-the-world/what-to-believe.md"}
+backlinks-set: #{"content/docs/health-and-longevity/influences.md"}
 categories-set: #{"Health And Longevity"}
 ---
 # SENS

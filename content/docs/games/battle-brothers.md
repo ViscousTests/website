@@ -1,5 +1,5 @@
 ---
-backlinks-set: #{"content/docs/feelings.md"}
+backlinks-set: 
 categories-set: #{"Games" "Solitary" "Turn Based"}
 ---
 # [Battle Brothers](http://battlebrothersgame.com/)

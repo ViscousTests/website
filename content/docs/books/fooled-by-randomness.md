@@ -1,5 +1,5 @@
 ---
-backlinks-set: #{"content/docs/books/the-open-society-and-its-enemies.md"}
+backlinks-set: 
 categories-set: #{"Books" "Understanding The World"}
 ---
 # [_Fooled by Randomness_ by Nassim Taleb](https://en.wikipedia.org/wiki/Fooled_by_Randomness)

@@ -1,5 +1,5 @@
 ---
-backlinks-set: #{"content/docs/books/why-greatness-cannot-be-planned.md"}
+backlinks-set: 
 categories-set: #{"Gamedev" "Mechanic Ideas"}
 ---
 # Random Technologies

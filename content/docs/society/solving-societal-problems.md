@@ -1,5 +1,5 @@
 ---
-backlinks-set: #{"content/docs/mind/optimism.md"}
+backlinks-set: 
 categories-set: #{"Society"}
 ---
 # Solving Societal Problems

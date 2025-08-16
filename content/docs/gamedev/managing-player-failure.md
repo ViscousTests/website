@@ -1,5 +1,5 @@
 ---
-backlinks-set: #{"content/docs/games/iron-danger.md"}
+backlinks-set: 
 categories-set: #{"Gamedev"}
 ---
 # Managing player failure in games

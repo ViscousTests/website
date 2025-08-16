@@ -1,5 +1,5 @@
 ---
-backlinks-set: #{"content/docs/feelings.md"}
+backlinks-set: 
 categories-set: #{"Competitive" "Games" "Multiplayer" "Real Time"}
 ---
 # Apex Legends

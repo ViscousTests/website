@@ -1,5 +1,5 @@
 ---
-backlinks-set: #{"content/docs/manifesto.md" "content/docs/gamedev/gamedev-context.md" "content/docs/mind/motivation.md" "content/docs/society/utopia.md" "content/docs/understanding-the-world/copyright-and-ip.md"}
+backlinks-set: #{"content/docs/manifesto.md" "content/docs/mind/motivation.md" "content/docs/society/utopia.md" "content/docs/understanding-the-world/copyright-and-ip.md"}
 categories-set: #{"Mind"}
 ---
 # Creativity

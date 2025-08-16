@@ -1,5 +1,5 @@
 ---
-backlinks-set: #{"content/docs/games/XCOM-2-+-War-of-the-Chosen.md" "content/docs/games/fell-seal-arbiters-mark.md" "content/docs/lifestyle-optimizations/experiences.md"}
+backlinks-set: 
 categories-set: #{"Gamedev"}
 ---
 # Game Types/Mechanics/Appeals

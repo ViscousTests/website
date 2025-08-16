@@ -1,5 +1,5 @@
 ---
-backlinks-set: #{"content/docs/lifestyle-optimizations/daily-physiological-tricks.md" "content/docs/mind/motivation.md"}
+backlinks-set: #{"content/docs/lifestyle-optimizations/daily-physiological-tricks.md"}
 categories-set: #{"Mind"}
 ---
 # Things to do When Unmotivated
