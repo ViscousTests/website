@@ -291,11 +291,25 @@ Backlinks:
 
 ;; ------------------ All File Data Construction --------------------------
 
-(defn remove-tinkering-time-ranges
-  "remove :modification-unix-timestamps during periods when i wasn't 
-  actually changing page content, just messing with technical stuff"
-  [timestamps]
-  (remove #(or (nil? %) (< 1753934890 % 1754284390)) timestamps))
+(defn get-modification-unix-timestamps
+  [filepath]
+  (doto (as-> filepath f
+          (os/sh "git" "log" "--pretty=format:%ct" "--" f)
+          (:out f)
+          (s/trim f)
+          (s/split f #"\n")
+          (map parse-long f)
+          ; remove :modification-unix-timestamps during periods when i
+          ; wasn't actually changing page content, just messing with
+          ; technical stuff
+          (let [filtered (remove #(or (nil? %) (< 1753934890 % 1754284390)) f)]
+            (cond (or (empty? f) (every? nil? f)) [0]
+                  ; Make sure there is always at least one element in the
+                  ; timestamps list. Then we don't need to handle empty
+                  ; lists in the cljs
+                  (empty? filtered) [(last f)]
+                  :else (vec filtered))))
+    prn))
  
 
 (defn add-file-data
@@ -311,13 +325,8 @@ Backlinks:
                                           (first (split-frontmatter-lines
                                                    markdown))
                                           "private"))
-              :modification-unix-timestamps
-              (remove-tinkering-time-ranges
-                (mapv parse-long
-                  (s/split (s/trim (:out (os/sh "git"
-                                                "log" "--pretty=format:%ct"
-                                                "--"  (:path file))))
-                           #"\n")))
+              :modification-unix-timestamps (get-modification-unix-timestamps
+                                              (:path file))
               :links           (parse-links markdown)
               :title           (to-title (:path file))})
       (assoc f :markdown (if (:private f) "This file is private" markdown))
