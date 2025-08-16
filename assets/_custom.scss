@@ -20,3 +20,8 @@ img {
 .book-brand a {
   flex-wrap: wrap;
 }
+
+.book-toc-content {
+  display: flex;
+  flex-direction: column;
+}
