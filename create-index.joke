@@ -131,14 +131,14 @@ Cool art and art tutorials that I've stumbled across.
 (defn get-frontmatter-value
   [frontmatter-lines k]
   (as-> frontmatter-lines f
-    (filter #(s/starts-with? % k) f)
-    (first f)
-    (if (nil? f) nil (s/replace f (str k ": ") ""))))
+     (filter #(s/starts-with? % k) f)
+     (first f)
+     (if (nil? f) nil (s/replace f (str k ": ") ""))))
 
 (defn get-frontmatter-set
   [frontmatter-lines k]
   (as-> (get-frontmatter-value frontmatter-lines k) f
-    (eval f)
+    (read-string f)
     (if (set? f) f #{})))
 
 
@@ -316,10 +316,9 @@ Backlinks:
       (assoc f
         :categories (union (:path-categories f)
                            (parse-categories-from-legacy-section markdown)
-                           (doto (get-frontmatter-set (first (split-frontmatter-lines
-                                                               markdown))
-                                                      categories-prefix)
-                            prn))))))
+                           (get-frontmatter-set (first (split-frontmatter-lines
+                                                         markdown))
+                                                categories-prefix))))))
 
 
 (defn generate-final-markdown
