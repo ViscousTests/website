@@ -22,4 +22,4 @@ I also try to follow this advice on my [Writing]({{< relref
 
 {{< website_graph />}}
 
-Whole site count: 67685 words, 88.0% of Harry Potter and the Sorcerer's Stone
+Whole site count: 269 words, 0.0% of Harry Potter and the Sorcerer's Stone

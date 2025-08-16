@@ -1,6 +1,6 @@
 ---
 backlinks-set: 
-categories-set: #{"Visual Art"}
+categories-set: #{}
 ---
 # Judging Art
 

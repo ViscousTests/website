@@ -1,6 +1,6 @@
 ---
 backlinks-set: #{"content/docs/visual-art/generative-art.md"}
-categories-set: #{"Visual Art"}
+categories-set: #{}
 ---
 # Inspiration and Resources
 
