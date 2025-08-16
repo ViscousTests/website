@@ -27,3 +27,5 @@ https://libgen.rs/
 https://laniakeabooks.org/#home
 
 https://matthewstrom.com/writing/copying/
+
+https://news.ycombinator.com/item?id=44914109
