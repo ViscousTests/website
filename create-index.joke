@@ -138,7 +138,7 @@ Cool art and art tutorials that I've stumbled across.
 (defn get-frontmatter-set
   [frontmatter-lines k]
   (as-> (get-frontmatter-value frontmatter-lines k) f
-    (read-string f)
+    (if (nil? f) nil (read-string f))
     (if (set? f) f #{})))
 
 
