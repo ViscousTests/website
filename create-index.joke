@@ -295,7 +295,7 @@ Backlinks:
   "remove :modification-unix-timestamps during periods when i wasn't 
   actually changing page content, just messing with technical stuff"
   [timestamps]
-  (remove #(< 1753934890 % 1754284390) timestamps))
+  (remove #(or (nil? %) (< 1753934890 % 1754284390)) timestamps))
  
 
 (defn add-file-data
