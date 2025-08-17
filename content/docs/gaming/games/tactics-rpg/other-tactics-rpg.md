@@ -1,8 +1,9 @@
----
-backlinks-set: 
-categories-set: #{"Games"}
----
-# Iratus: Lord of the Dead
+# Tactics RPG
+
+Games where you grow characters over time, with the gameplay consisting mostly
+of difficult tactical battles.
+
+## Iratus: Lord of the Dead
 
 I get the feeling that this game is trying too hard.
 It (IMO) has too many mechanics and stats that don't seem to be that
