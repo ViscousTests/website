@@ -24,7 +24,7 @@ This is not in-itself a problem, but it does lead to some issues:
 
 ## A Solution: Secret Objectives
 
-[Dead of Winter]({{< relref "/docs/games/dead-of-winter.md" >}}) gets
+[Dead of Winter]({{< relref "/docs/gaming/games/cooperative-rpg/dead-of-winter.md" >}}) gets
 around this problem partially by giving players secret objectives that may be
 directly in conflict. This and some other mechanics make the game play more
 like a "normal" competitive game.

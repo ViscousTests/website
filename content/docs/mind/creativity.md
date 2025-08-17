@@ -63,7 +63,7 @@ point where the original vision is unfulfilled in some way.
 ## See Also
 
  - [My thoughts on game development]({{< relref
-   "/docs/gamedev/gamedev-context.md" >}}), which play with a lot of these
+   "/docs/gaming/gamedev/gamedev-context.md" >}}), which play with a lot of these
    ideas.
  - [Cool test](https://www.datcreativity.com/)
  - [Guided idea generation tool](https://old.tjcx.me/tools/idea-generator.html)

@@ -58,8 +58,8 @@ builds are rewarded by making it through the discovery loop faster.
 Games that do this really well both with story and with character customization
 in my opinion include:
 
- - [Fell Seal - Arbiter's Mark]({{< relref "/docs/games/fell-seal-arbiters-mark.md" >}})
- - [XCOM 2]({{< relref "/docs/games/XCOM-2-+-War-of-the-Chosen.md" >}})
+ - [Fell Seal - Arbiter's Mark]({{< relref "/docs/gaming/games/tactics-rpg/fell-seal-arbiters-mark.md" >}})
+ - [XCOM 2]({{< relref "/docs/gaming/games/tactics-rpg/XCOM-2-+-War-of-the-Chosen.md" >}})
 
 ## Urgency
 
