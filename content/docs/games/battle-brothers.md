@@ -31,6 +31,7 @@ Mods to use:
 
  - Vanilla: https://drive.google.com/drive/folders/1CrddrXzBXsv7H2pEp0V8RgIzMtQ3Z3sI
  - Reforged: https://github.com/Battle-Modders/mod-reforged/wiki/Mod-Compatibility-and-Recommendations
+     - Install guide: https://github.com/Battle-Modders/mod-reforged/wiki/Installation-Guide
 
 Builds that I used for some of my vanilla playthroughs: https://docs.google.com/spreadsheets/d/1roXzfQcoudn073bf7BsIQQbeax3z3JoyxRfDRcV9Tf0/edit?gid=0#gid=0
 
