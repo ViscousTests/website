@@ -1,5 +1,4 @@
 ---
-backlinks-set: #{"content/docs/games/dead-of-winter.md"}
 categories-set: #{"Gamedev" "Mechanic Ideas"}
 ---
 # Limiting Collaboration

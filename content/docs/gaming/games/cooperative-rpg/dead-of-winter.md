@@ -6,8 +6,9 @@ categories-set: #{"Games"}
 
 A cooperative strategy board game that doesn't require too much inter-player
 planning (see [Limiting Collaboration]({{< relref
-"/docs/gamedev/mechanic-ideas/limiting-collaboration.md" >}}) for why this can
-be a problem).  Has a couple cool mechanics that I really enjoyed playing with:
+"/docs/gaming/gamedev/mechanic-ideas/limiting-collaboration.md" >}}) for why
+this can be a problem).
+Has a couple cool mechanics that I really enjoyed playing with:
 
 1. Before every players turn another player pulls an "event" card that will
    only lead to something if the player whose turn it is does something

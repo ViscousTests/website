@@ -293,23 +293,22 @@ Backlinks:
 
 (defn get-modification-unix-timestamps
   [filepath]
-  (doto (as-> filepath f
-          (os/sh "git" "log" "--pretty=format:%ct" "--" f)
-          (:out f)
-          (s/trim f)
-          (s/split f #"\n")
-          (map parse-long f)
-          ; remove :modification-unix-timestamps during periods when i
-          ; wasn't actually changing page content, just messing with
-          ; technical stuff
-          (let [filtered (remove #(or (nil? %) (< 1753934890 % 1754284390)) f)]
-            (cond (or (empty? f) (every? nil? f)) [0]
-                  ; Make sure there is always at least one element in the
-                  ; timestamps list. Then we don't need to handle empty
-                  ; lists in the cljs
-                  (empty? filtered) [(last f)]
-                  :else (vec filtered))))
-    prn))
+  (as-> filepath f
+    (os/sh "git" "log" "--pretty=format:%ct" "--" f)
+    (:out f)
+    (s/trim f)
+    (s/split f #"\n")
+    (map parse-long f)
+    ; remove :modification-unix-timestamps during periods when i
+    ; wasn't actually changing page content, just messing with
+    ; technical stuff
+    (let [filtered (remove #(or (nil? %) (< 1753934890 % 1754284390)) f)]
+      (cond (or (empty? f) (every? nil? f)) [0]
+            ; Make sure there is always at least one element in the
+            ; timestamps list. Then we don't need to handle empty
+            ; lists in the cljs
+            (empty? filtered) [(last f)]
+            :else (vec filtered)))))
  
 
 (defn add-file-data
