@@ -1,6 +1,6 @@
 ---
 backlinks-set: 
-categories-set: #{"Climbing" "Event Reports" "Recent"}
+categories-set: #{"Climbing" "Event Reports"}
 ---
 # Prusik Peak and the Enchantments
 

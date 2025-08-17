@@ -215,11 +215,3 @@ you give yourself enough time!
 
 ![Matthew Looking Back](/docs/climbing/event-reports/2020-8-12-mile-high-club-pics/matthew-looking-back.jpg)
 
-
-
-
-
-
-
-
-[Event Reports]({{< relref "/" >}}?Event-Reports=true)
