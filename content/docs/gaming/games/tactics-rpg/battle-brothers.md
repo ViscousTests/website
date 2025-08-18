@@ -11,6 +11,8 @@ Lots of character customization via different weapon types, and stat/perk
 assignment on level up.
 Not to mention the starting stats given to each character.
 
+## RNG
+
 Unfortunately, the randomness in this game will lead to characters dying, so if
 you want to preserve specific characters get ready to save and load a lot :).
 This game is pretty hard and doesn't necessarily give you direct feedback as to
@@ -22,10 +24,12 @@ with.
 This means that it's tricky to personally track if your strategy is working
 without a decent time investment for each strategy you are trying.
 
-Mods I've worked on:
+Mods I've worked on to potentially deal with this:
 
  - https://github.com/kovasap/mod_rng_free
  - https://github.com/kovasap/mod_deterministic_loot
+
+## Mods
 
 Mods to use:
 
@@ -46,6 +50,16 @@ I tried using https://github.com/autokey/autokey/wiki/Scripting, but it didn't
 seem to work on linux.
 Someone online said you can use AutoHotKey via wine but I haven't tried that
 yet.
+
+## Tips
+
+ - The game is more fun when not stressing too much about the starting stats of
+   your bros.
+   I learned this from
+   https://www.youtube.com/watch?v=msPS0Gu91Xg&list=WL&index=2 after spending
+   too much time on reddit and building my builds spreadsheet linked above.
+   Reforged helps with this as the dynamic perks give you something to be
+   excited about beyond raw stats in a new recruit.
 
 Feelings: 
 
