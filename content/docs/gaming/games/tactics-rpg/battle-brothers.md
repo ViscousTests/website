@@ -39,6 +39,14 @@ Mods I have yet to try:
 
 Builds that I used for some of my vanilla playthroughs: https://docs.google.com/spreadsheets/d/1roXzfQcoudn073bf7BsIQQbeax3z3JoyxRfDRcV9Tf0/edit?gid=0#gid=0
 
+I wish there were mods for this game that let you rebind the WASD camera
+controls.
+AFAICT there are not.
+I tried using https://github.com/autokey/autokey/wiki/Scripting, but it didn't
+seem to work on linux.
+Someone online said you can use AutoHotKey via wine but I haven't tried that
+yet.
+
 Feelings: 
 
   - [Reactive Randomness Stress]({{< relref "/docs/feelings.md" >}}#reactive-randomness-stress)
