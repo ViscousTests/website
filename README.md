@@ -1,5 +1,10 @@
 # My Personal Website
 
+## TODOs
+
+ - auto detect private pages that are present in the private repo to avoid
+   needing frontmatter on every private page
+
 ## Dependencies
 
  - `git submodule update --init --recursive`
