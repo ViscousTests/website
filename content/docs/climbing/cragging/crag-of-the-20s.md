@@ -6,6 +6,8 @@
 
 Extremely cool route.
 Haven't yet figured out how to get out of the cave with the hanging chain clip.
+Clipping that chain is exciting, as I need to rotate my upper body 180 degrees
+while stemming with my legs to do so!
 
 ### Urination Equation - 5.12c/d
 

@@ -138,7 +138,11 @@ Mind" by Michael Pollan.
 
 ## (Perceived) Meaning
 
-Activities are meaningful when they fit neatly into a larger narrative.
+I find that discussing things with other people, **especially** if those other
+people care about those things (want them to happen), imbues a lot of meaning to
+them.
+
+Activities are also meaningful when they fit neatly into a larger narrative.
 This could be a grand narrative about one's identity (e.g. defined by what
 [virtues you aspire to or
 possess](https://www.viacharacter.org/character-strengths)), or a myopic

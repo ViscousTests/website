@@ -4,6 +4,31 @@ categories-set: #{"Lifestyle Optimizations"}
 ---
 # Mice
 
+## Daily Drivers
+
+### Corsair DARKSTAR WIRELESS RGB
+
+ - Expensive
+ - Has tilt gestures, but NOT usable on linux with build in memory customization
+   option.
+ - Many complaints about build/technical issues
+    - I personally experienced a creeky side-to-side scroll wheel button
+      actuation, and the top left left-click button did not depress properly
+      when hitting the front part of it.
+      This is more annoying than it sounds.
+ - For me, this mouse felt pretty good in my hand.  If anything a bit big.
+ - Buttons are plentiful and easy to reach for the most part.
+
+### Logitech M650 L
+
+I love the remarkably quiet clicking sound this mouse makes.
+The feeling of where my hand grips the mouse is great too.
+Otherwise it's a bit small for my hand.
+
+### Corsair Sabre RGB
+
+Excellent shape and good light weight, but not enough buttons!
+
 ## Things I've tried
 
 ### PICTEK Gaming Mouse
@@ -13,10 +38,6 @@ Functional, but felt too small for my hands.
 ### Razer DeathAdder Essential
 
 Has a tall center that I find a bit uncomfortable.
-
-### Corsair Sabre RGB
-
-Excellent shape, but not enough buttons!
 
 ### Logitech G502 Hero
 
@@ -33,19 +54,6 @@ More buttons, but some downgrades from the Sabre:
 
 Felt so wrong in my hands, both very bulky and hard to grip, with my thumb
 constantly not finding a good position due to the grid of buttons.
-
-### Corsair DARKSTAR WIRELESS RGB
-
- - Expensive
- - Has tilt gestures, but NOT usable on linux with build in memory customization
-   option.
- - Many complaints about build/technical issues
-    - I personally experienced a creeky side-to-side scroll wheel button
-      actuation, and the top left left-click button did not depress properly
-      when hitting the front part of it.
-      This is more annoying than it sounds.
- - For me, this mouse felt pretty good in my hand.  If anything a bit big.
- - Buttons are plentiful and easy to reach for the most part.
 
 ### Turtle Beach Kone Wireless XP
 

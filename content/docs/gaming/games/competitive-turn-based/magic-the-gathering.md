@@ -1,8 +1,4 @@
----
-backlinks-set: 
-categories-set: #{"Competitive" "Games" "Turn Based"}
----
-# Drafting Magic: The Gathering
+# Magic: The Gathering
 
 My first experience was 'that complex card game that older kids played' when I
 was very young.
@@ -14,8 +10,12 @@ Was pretty intense/overwhelming at first, but in a good way.
 Since have played a bunch on MTG: Arena, a very polished computer interface to
 the game.
 
+## Drafting
+
+By far my favorite way to play.
+
 For MTG: Arena, I highly recommend using draftsim.com's "ultimate draft guides"
 to learn about new formats, and https://www.17lands.com/ to keep track of
 progress.
 
-Feelings:
+Try to keep your expectations low to avoid dissapointment!

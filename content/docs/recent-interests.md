@@ -95,3 +95,6 @@ https://github.com/kovasap/dotfiles/blob/master/bin/chrome-history-for-gemini.zs
    tortilla chips/mayo/lettuce/shredded carrots.
  - Selling old Pokemon cards I discovered.  Quite a labor intensive process to price and sell them all.
  - The Bazaar continues to be great!
+
+I'm trying to continue tracking my interests via updates to individual pages on
+this site; see recent edit history!

@@ -15,6 +15,13 @@ feet up, then throw strait for the right hand undercling/sidepull.
 From there I should be able to continue getting my feet up to throw for the next
 good holds.
 
+### Spent - 5.11b
+
+Sent!
+Very long on mostly good holds, but still a test of endurance towards the top.
+Crux section in the middle much harder than everything else and perplexing.
+Luckily you can stem before/after to rest and think.
+
 ### Rainy Day Woman - 5.12a
 
 Done on TR, very close on lead.
