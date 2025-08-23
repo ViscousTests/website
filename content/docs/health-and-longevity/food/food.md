@@ -20,8 +20,7 @@ categories-set: #{"Health And Longevity"}
 
 ## Current Eating Habits and Opinions (3/2022)
 
-NOTE that these habits are obselete, up to date ones can be found at [Daily
-Habits]({{< relref "/docs/lifestyle-optimizations/daily-habits.md" >}})!
+NOTE that these habits are obselete, up to date ones can be found [here]({{< relref "/docs/health-and-longevity/food/personal-food-habits.md" >}})!
 
 ### Food Timing
 
@@ -51,7 +50,7 @@ tricks that kinda work are:
    default to snacking more.
  - Drinking tea or broth after eating as a replacement behavior.
 
-### [Fasting]({{< relref "/docs/health-and-longevity/fasting.md" >}}).
+### [Fasting]({{< relref "/docs/health-and-longevity/food/fasting.md" >}}).
 
 I haven't done a long fast in a while, but am experimenting with fasting one
 day a week (Saturday) and still want to do a long fast 3x per year.  

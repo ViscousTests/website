@@ -16,7 +16,7 @@ Energy to achieve goals in my experience comes from two main sources:
 **Physical Health**: [Exercise]({{< relref
 "/docs/health-and-longevity/exercise.md" >}}), [sleep]({{< relref
 "/docs/health-and-longevity/sleep.md" >}}), [food]({{< relref
-"/docs/health-and-longevity/food.md" >}}), [cronic stress]({{< relref
+"/docs/health-and-longevity/food/food.md" >}}), [cronic stress]({{< relref
 "/docs/health-and-longevity/chronic-stress.md" >}}), [circadian rhythm]({{<
 relref "/docs/health-and-longevity/circadian-rhythm.md" >}}), and other
 environmental influences all effect personal vigor in complex and

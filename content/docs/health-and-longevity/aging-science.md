@@ -37,7 +37,7 @@ ideas for why aging might occur.
 
 [Exercising]({{< relref "/docs/health-and-longevity/exercise.md" >}}),
 [sleeping well]({{< relref "/docs/health-and-longevity/sleep.md" >}}),
-[eating intentionally]({{< relref "/docs/health-and-longevity/food.md" >}}),
+[eating intentionally]({{< relref "/docs/health-and-longevity/food/personal-food-habits.md" >}}),
 [reducing cronic stress]({{< relref "/docs/health-and-longevity/chronic-stress.md" >}}),
 among other things all can delay the effects of aging.
 Regular exercise, for one, probably has the potential to [add 1-7 years to your

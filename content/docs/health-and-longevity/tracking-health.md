@@ -29,7 +29,7 @@ Tracking them is useful to correlate them with outputs.
 
 ### Food
 
-See ["Tracking Food"]({{< relref "/docs/health-and-longevity/tracking-food.md" >}})
+See ["Tracking Food"]({{< relref "/docs/health-and-longevity/food/tracking-food.md" >}})
 
 ### Exercise
 
