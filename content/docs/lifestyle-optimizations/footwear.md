@@ -1,6 +1,6 @@
 ---
 backlinks-set: 
-categories-set: #{"Lifestyle Optimizations" "Recent"}
+categories-set: #{"Lifestyle Optimizations"}
 ---
 # Footwear
 

@@ -1,6 +1,6 @@
 ---
 backlinks-set: 
-categories-set: #{"Recent" "Society"}
+categories-set: #{"Society"}
 ---
 # Livelihood Traps
 

@@ -1,6 +1,6 @@
 ---
 backlinks-set: 
-categories-set: #{"Recent"}
+categories-set:
 ---
 # Recent Interests
 

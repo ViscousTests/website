@@ -1,6 +1,6 @@
 ---
 backlinks-set: 
-categories-set: #{"Mind" "Recent"}
+categories-set: #{"Mind"}
 ---
 # What standard of thought should we expect from people?
 

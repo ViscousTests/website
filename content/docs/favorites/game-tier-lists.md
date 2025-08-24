@@ -1,6 +1,6 @@
 ---
 backlinks-set: 
-categories-set: #{"Favorites" "Recent"}
+categories-set: #{"Favorites"}
 ---
 # Game Tier Lists
 

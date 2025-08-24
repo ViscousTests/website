@@ -1,6 +1,6 @@
 ---
 backlinks-set: #{"content/docs/recent-interests.md"}
-categories-set: #{"Health And Longevity" "Recent"}
+categories-set: #{"Health And Longevity"}
 ---
 # Alt-Health: A Critique
 

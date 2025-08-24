@@ -1,6 +1,6 @@
 ---
 backlinks-set: #{"content/docs/recent-interests.md"}
-categories-set: #{"Lifestyle Optimizations" "Recent"}
+categories-set: #{"Lifestyle Optimizations"}
 ---
 # Keyboards and Typing
 
