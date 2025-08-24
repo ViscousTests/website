@@ -1,6 +1,6 @@
 ---
 backlinks-set: 
-categories-set: #{"Games" "Recent"}
+categories-set: #{"Gaming" "Games" "Competitive Fps" "Recent"}
 ---
 # [Dark and Darker](https://www.darkanddarker.com/)
 

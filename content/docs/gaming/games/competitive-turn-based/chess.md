@@ -1,6 +1,6 @@
 ---
 backlinks-set: 
-categories-set: #{"Competitive" "Games" "Turn Based"}
+categories-set: #{"Competitive" "Games" "Turn Based" "Gaming" "Competitive Turn Based"}
 ---
 # Chess
 

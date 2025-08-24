@@ -1,6 +1,6 @@
 ---
-backlinks-set: #{"content/docs/gamedev/managing-player-failure.md"}
-categories-set: #{"Games" "Solitary" "Story"}
+backlinks-set: #{"content/docs/gaming/gamedev/managing-player-failure.md"}
+categories-set: #{"Games" "Solitary" "Story" "Gaming" "Tactics Rpg"}
 ---
 # [Iron Danger](https://store.steampowered.com/app/899310/Iron_Danger/)
 

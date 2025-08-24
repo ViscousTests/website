@@ -1,6 +1,6 @@
 ---
 backlinks-set: 
-categories-set: #{"Games" "Solitary" "Turn Based" "⭐top10"}
+categories-set: #{"Games" "Solitary" "Turn Based" "⭐top10" "Gaming" "Tactics Rpg"}
 ---
 # [Darkest Dungeon](https://en.wikipedia.org/wiki/Darkest_Dungeon)
 

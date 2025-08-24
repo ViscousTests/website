@@ -1,3 +1,7 @@
+---
+backlinks-set: 
+categories-set: #{"Gaming" "Games" "Roguelike"}
+---
 # Roguelike
 
 Here I'm defining roguelike as any highly replayable singleplayer or co-op game

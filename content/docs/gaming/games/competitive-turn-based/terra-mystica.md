@@ -1,6 +1,6 @@
 ---
 backlinks-set: 
-categories-set: #{"Games"}
+categories-set: #{"Gaming" "Games" "Competitive Turn Based"}
 ---
 # Terra Mystica
 

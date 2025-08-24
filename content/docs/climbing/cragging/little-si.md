@@ -1,3 +1,7 @@
+---
+backlinks-set: 
+categories-set: #{"Climbing" "Cragging"}
+---
 # Little Si - Exit 32
 
 ## World Wall

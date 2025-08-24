@@ -1,3 +1,7 @@
+---
+backlinks-set: 
+categories-set: #{"Climbing"}
+---
 # Injuries
 
 ## Climbers Elbow

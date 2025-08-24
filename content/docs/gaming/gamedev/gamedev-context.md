@@ -1,6 +1,6 @@
 ---
 backlinks-set: #{"content/docs/mind/creativity.md"}
-categories-set: #{"Gamedev"}
+categories-set: #{"Gaming" "Gamedev"}
 ---
 # Useful Gamedev Context and Concepts
 

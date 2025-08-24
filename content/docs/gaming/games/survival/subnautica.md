@@ -1,6 +1,6 @@
 ---
 backlinks-set: 
-categories-set: #{"Exploration" "Games" "Solitary"}
+categories-set: #{"Exploration" "Games" "Solitary" "Gaming" "Survival"}
 ---
 # [Subnautica](https://unknownworlds.com/subnautica/)
 

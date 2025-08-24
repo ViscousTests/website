@@ -1,3 +1,7 @@
+---
+backlinks-set: 
+categories-set: #{"Gaming"}
+---
 # Game Troubleshooting
 
 ## Steam Launch Options

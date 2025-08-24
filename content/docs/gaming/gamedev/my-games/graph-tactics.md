@@ -1,3 +1,7 @@
+---
+backlinks-set: 
+categories-set: #{"Gaming" "Gamedev" "My Games"}
+---
 # Untitled "Graph Tactics" Game
 
 https://github.com/kovasap/draft-concept

@@ -1,3 +1,7 @@
+---
+backlinks-set: 
+categories-set: #{"Gaming" "Games" "Tactics Rpg"}
+---
 # Those Who Rule
 
 https://discord.gg/MZjgqfn5

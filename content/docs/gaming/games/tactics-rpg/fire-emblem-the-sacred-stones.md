@@ -1,6 +1,6 @@
 ---
 backlinks-set: 
-categories-set: #{"Games" "Solitary" "Story" "Turn Based" "⭐top10"}
+categories-set: #{"Games" "Solitary" "Story" "Turn Based" "⭐top10" "Gaming" "Tactics Rpg"}
 ---
 # [Fire Emblem The Sacred Stones](https://en.wikipedia.org/wiki/Fire_Emblem_(video_game%29)
 

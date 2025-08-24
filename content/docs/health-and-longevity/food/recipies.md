@@ -1,6 +1,6 @@
 ---
-backlinks-set: #{"content/docs/lifestyle-optimizations/daily-habits.md"}
-categories-set: #{"Health And Longevity"}
+backlinks-set: 
+categories-set: #{"Health And Longevity" "Food"}
 ---
 # Recipies 
 
@@ -353,5 +353,3 @@ Whisk together oil and water, then pour over dry ingredients and mix.
 Use fork/hands to spread flour evenly into a pie pan.
 
 Fill pie pan and bake!
-
-

@@ -1,6 +1,6 @@
 ---
 backlinks-set: 
-categories-set: #{"Games"}
+categories-set: #{"Gaming" "Games" "Tactics Rpg"}
 ---
 # [Druidstone](https://druidstone-game.com/)
 

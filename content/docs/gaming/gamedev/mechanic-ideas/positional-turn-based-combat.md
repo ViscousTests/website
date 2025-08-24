@@ -1,6 +1,6 @@
 ---
 backlinks-set: 
-categories-set: #{"Gamedev" "Mechanic Ideas"}
+categories-set: #{"Gaming" "Gamedev" "Mechanic Ideas"}
 ---
 # Positional Turn Based Combat
 

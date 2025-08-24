@@ -1,6 +1,6 @@
 ---
-backlinks-set: #{"content/docs/gamedev/real-time-strategy.md"}
-categories-set: #{"Games" "Gaming"}
+backlinks-set: #{"content/docs/gaming/gamedev/real-time-strategy.md"}
+categories-set: #{"Gaming" "Games" "Strategy"}
 ---
 # Oxygen Not Included
 

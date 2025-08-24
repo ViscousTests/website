@@ -1,3 +1,7 @@
+---
+backlinks-set: 
+categories-set: #{"Gaming" "Games" "Social"}
+---
 # Social Games
 
 About guessing other's intent.

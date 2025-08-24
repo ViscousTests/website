@@ -1,3 +1,7 @@
+---
+backlinks-set: 
+categories-set: #{"Lifelogging"}
+---
 # Browser History
 
 I've found that my browser (chrome) history is a great record of what I've been

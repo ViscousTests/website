@@ -1,6 +1,6 @@
 ---
-backlinks-set: #{"content/docs/manifesto.md" "content/docs/health-and-longevity/aging-science.md"}
-categories-set: #{"Health And Longevity"}
+backlinks-set: #{"content/docs/manifesto.md"}
+categories-set: #{"Health And Longevity" "Food"}
 ---
 # Food
 

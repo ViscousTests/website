@@ -1,5 +1,5 @@
 ---
-backlinks-set: #{"content/docs/gaming/recommendations.md" "content/docs/thought-experiments/mind-mapping-concept.md"}
+backlinks-set: #{"content/docs/thought-experiments/mind-mapping-concept.md"}
 categories-set: #{"Lifestyle Optimizations"}
 ---
 # My Experiences

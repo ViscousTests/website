@@ -1,3 +1,7 @@
+---
+backlinks-set: 
+categories-set: #{"Gaming" "Games" "Tactics Rpg"}
+---
 # Tactics RPG
 
 Games where you grow characters over time, with the gameplay consisting mostly

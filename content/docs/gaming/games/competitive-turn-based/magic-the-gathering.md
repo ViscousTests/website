@@ -1,3 +1,7 @@
+---
+backlinks-set: 
+categories-set: #{"Gaming" "Games" "Competitive Turn Based"}
+---
 # Magic: The Gathering
 
 My first experience was 'that complex card game that older kids played' when I

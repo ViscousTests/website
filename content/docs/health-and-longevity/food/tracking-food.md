@@ -1,6 +1,6 @@
 ---
 backlinks-set: #{"content/docs/health-and-longevity/tracking-health.md"}
-categories-set: #{"Health And Longevity"}
+categories-set: #{"Health And Longevity" "Food"}
 ---
 # Tracking Food
 

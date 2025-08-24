@@ -1,6 +1,6 @@
 ---
 backlinks-set: 
-categories-set: #{"Games" "Puzzle" "Solitary" "Turn Based"}
+categories-set: #{"Games" "Puzzle" "Solitary" "Turn Based" "Gaming" "Strategy"}
 ---
 # [Ozymandius](https://goblinzstudio.com/game/ozymandias/)
 

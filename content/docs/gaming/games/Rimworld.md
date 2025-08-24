@@ -1,6 +1,6 @@
 ---
-backlinks-set: #{"content/docs/gamedev/real-time-strategy.md"}
-categories-set: #{"Games" "Solitary"}
+backlinks-set: #{"content/docs/gaming/gamedev/real-time-strategy.md"}
+categories-set: #{"Games" "Solitary" "Gaming"}
 ---
 # [Rimworld](https://rimworldgame.com/)
 

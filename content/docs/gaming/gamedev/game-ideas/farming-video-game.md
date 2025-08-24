@@ -1,6 +1,6 @@
 ---
 backlinks-set: 
-categories-set: #{"Gamedev" "Game Ideas"}
+categories-set: #{"Gaming" "Gamedev" "Game Ideas"}
 bookShowToc: false
 draft: true
 ---

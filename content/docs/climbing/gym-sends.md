@@ -1,3 +1,7 @@
+---
+backlinks-set: 
+categories-set: #{"Climbing"}
+---
 # Gym Sends
 
 Climbs I'm proud of doing at gyms.

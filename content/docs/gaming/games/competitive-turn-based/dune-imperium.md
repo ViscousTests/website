@@ -1,3 +1,7 @@
+---
+backlinks-set: 
+categories-set: #{"Gaming" "Games" "Competitive Turn Based"}
+---
 # Dune: Imperium
 
 Agricola squashed into Dominion.

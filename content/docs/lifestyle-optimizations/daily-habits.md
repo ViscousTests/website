@@ -1,5 +1,5 @@
 ---
-backlinks-set: #{"content/docs/health-and-longevity/food.md" "content/docs/lifelogging/2025-update.md"}
+backlinks-set: #{"content/docs/lifelogging/2025-update.md"}
 categories-set: #{"Important" "Lifestyle Optimizations"}
 ---
 # Daily Habits

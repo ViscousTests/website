@@ -1,3 +1,7 @@
+---
+backlinks-set: 
+categories-set: #{"Gaming" "Games" "Action Rpg"}
+---
 # V Rising
 
 ## World 1: Horeculture

@@ -1,6 +1,6 @@
 ---
-backlinks-set: 
-categories-set: #{"Health And Longevity"}
+backlinks-set: #{"content/docs/health-and-longevity/food/personal-food-habits.md"}
+categories-set: #{"Health And Longevity" "Food"}
 ---
 # Personal Specific Food Notes
 

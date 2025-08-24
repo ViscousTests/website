@@ -1,3 +1,7 @@
+---
+backlinks-set: 
+categories-set: #{"Gaming" "Games" "Puzzle"}
+---
 # Puzzle Games
 
 Games where the defining characteristic is pondering a solvable game state for a

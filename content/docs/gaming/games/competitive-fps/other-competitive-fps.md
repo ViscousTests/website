@@ -1,3 +1,7 @@
+---
+backlinks-set: 
+categories-set: #{"Gaming" "Games" "Competitive Fps"}
+---
 # Competitive FPS Games
 
 Games where you compete with others in matches.

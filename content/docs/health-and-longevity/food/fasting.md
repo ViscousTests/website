@@ -1,6 +1,6 @@
 ---
-backlinks-set: #{"content/docs/health-and-longevity/food.md"}
-categories-set: #{"Health And Longevity"}
+backlinks-set: #{"content/docs/health-and-longevity/food/food.md"}
+categories-set: #{"Health And Longevity" "Food"}
 ---
 # Fasting
 

@@ -1,6 +1,6 @@
 ---
-backlinks-set: #{"content/docs/gamedev/common-patterns.md"}
-categories-set: #{"Games" "Solitary" "Turn Based" "⭐top10"}
+backlinks-set: #{"content/docs/gaming/gamedev/common-patterns.md"}
+categories-set: #{"Games" "Solitary" "Turn Based" "⭐top10" "Gaming" "Tactics Rpg"}
 ---
 # [XCOM 2 + War of the Chosen](https://en.wikipedia.org/wiki/XCOM_2)
 

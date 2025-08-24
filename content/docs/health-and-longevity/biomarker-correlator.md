@@ -1,5 +1,5 @@
 ---
-backlinks-set: #{"content/docs/health-and-longevity/food.md" "content/docs/lifelogging/what-and-why.md"}
+backlinks-set: #{"content/docs/health-and-longevity/food/food.md" "content/docs/lifelogging/what-and-why.md"}
 categories-set: #{"Health And Longevity"}
 ---
 # Biomarker Correlator

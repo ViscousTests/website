@@ -1,6 +1,6 @@
 ---
 backlinks-set: 
-categories-set: #{"Games" "Gaming"}
+categories-set: #{"Gaming" "Games" "Traditional Rpg"}
 ---
 # Pathfinder Kingmaker
 

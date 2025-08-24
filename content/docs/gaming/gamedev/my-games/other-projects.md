@@ -1,6 +1,6 @@
 ---
 backlinks-set: 
-categories-set: #{"Gamedev"}
+categories-set: #{"Gaming" "Gamedev" "My Games"}
 ---
 # My Projects
 

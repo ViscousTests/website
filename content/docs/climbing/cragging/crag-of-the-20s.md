@@ -1,3 +1,7 @@
+---
+backlinks-set: 
+categories-set: #{"Climbing" "Cragging"}
+---
 # Crag of the 20s
 
 ## Quadratic Cave

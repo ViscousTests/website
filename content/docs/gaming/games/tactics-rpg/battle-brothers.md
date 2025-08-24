@@ -1,6 +1,6 @@
 ---
 backlinks-set: 
-categories-set: #{"Games" "Solitary" "Turn Based"}
+categories-set: #{"Games" "Solitary" "Turn Based" "Gaming" "Tactics Rpg"}
 ---
 # [Battle Brothers](http://battlebrothersgame.com/)
 

@@ -1,6 +1,6 @@
 ---
-backlinks-set: #{"content/docs/gamedev/common-patterns.md"}
-categories-set: #{"Games" "Solitary" "Turn Based" "⭐top10"}
+backlinks-set: #{"content/docs/gaming/gamedev/common-patterns.md"}
+categories-set: #{"Games" "Solitary" "Turn Based" "⭐top10" "Gaming" "Tactics Rpg"}
 ---
 # [Fell Seal - Arbiter's Mark](https://www.fellseal.com/)
 

@@ -1,3 +1,7 @@
+---
+backlinks-set: 
+categories-set: #{"Gaming" "Games" "Roguelike"}
+---
 # The Bazaar
 
  - Patch Notes: https://playthebazaar-cdn.azureedge.net/thebazaar/PatchNotes.html

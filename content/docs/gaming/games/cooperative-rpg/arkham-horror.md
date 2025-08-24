@@ -1,3 +1,7 @@
+---
+backlinks-set: 
+categories-set: #{"Gaming" "Games" "Cooperative Rpg"}
+---
 # Arkham Horror
 
 ## Decks I've Tried

@@ -1,6 +1,6 @@
 ---
 backlinks-set: 
-categories-set: #{"Games" "Puzzle" "Solitary" "Turn Based"}
+categories-set: #{"Games" "Puzzle" "Solitary" "Turn Based" "Gaming" "Roguelike"}
 ---
 # [Islanders](https://en.wikipedia.org/wiki/Islanders_(video_game%29)
 

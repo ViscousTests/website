@@ -1,6 +1,6 @@
 ---
 backlinks-set: 
-categories-set: #{"Games" "Turn Based"}
+categories-set: #{"Gaming" "Games" "Tactics Rpg" "Turn Based"}
 ---
 # Symphony of War
 

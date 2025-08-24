@@ -1,3 +1,7 @@
+---
+backlinks-set: #{"content/docs/lifestyle-optimizations/daily-habits.md"}
+categories-set: #{"Health And Longevity" "Food"}
+---
 # Supplements
 
 ## Vitamin D

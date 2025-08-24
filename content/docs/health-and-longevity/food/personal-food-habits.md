@@ -1,3 +1,7 @@
+---
+backlinks-set: #{"content/docs/health-and-longevity/aging-science.md" "content/docs/health-and-longevity/food/food.md" "content/docs/lifestyle-optimizations/daily-habits.md"}
+categories-set: #{"Health And Longevity" "Food"}
+---
 # Personal Food Habits
 
 Here I outline what eating habits work well/poorly for me personally.

@@ -1,3 +1,7 @@
+---
+backlinks-set: 
+categories-set: #{"Gaming" "Games" "Strategy"}
+---
 # Strategy
 
 Games that last a while and involve many small decisions adding up to a
@@ -15,5 +19,3 @@ Feelings:
 
 A game about colonizing planets and connecting them with trade routes.
 Very puzzly vibes.
-
-

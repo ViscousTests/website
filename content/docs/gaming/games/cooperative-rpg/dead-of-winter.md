@@ -1,6 +1,6 @@
 ---
-backlinks-set: #{"content/docs/gamedev/mechanic-ideas/limiting-collaboration.md"}
-categories-set: #{"Games"}
+backlinks-set: #{"content/docs/gaming/gamedev/mechanic-ideas/limiting-collaboration.md"}
+categories-set: #{"Gaming" "Games" "Cooperative Rpg"}
 ---
 # Dead of Winter
 

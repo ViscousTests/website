@@ -1,3 +1,7 @@
+---
+backlinks-set: 
+categories-set: #{"Climbing"}
+---
 # Routesetting
 
 ## 8/10/2025
