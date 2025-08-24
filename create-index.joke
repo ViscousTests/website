@@ -299,10 +299,15 @@ Backlinks:
     (s/trim f)
     (s/split f #"\n")
     (map parse-long f)
-    ; remove :modification-unix-timestamps during periods when i
-    ; wasn't actually changing page content, just messing with
-    ; technical stuff
-    (let [filtered (remove #(or (nil? %) (< 1753934890 % 1754284390)) f)]
+    ; remove :modification-unix-timestamps during periods when i wasn't
+    ; actually changing page content, just messing with technical stuff
+    ; use
+    ; git log --pretty=format:"%s %ct" -- content/docs/visual-art/generative-art.md 
+    ; to figure out what other commits to add here
+    (let [filtered (remove #(or (nil? %)
+                                (< 1753934890 % 1754284390)
+                                (contains? #{1755321565 1755321174} %))
+                     f)]
       (cond (or (empty? f) (every? nil? f)) [0]
             ; Make sure there is always at least one element in the
             ; timestamps list. Then we don't need to handle empty
