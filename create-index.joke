@@ -304,6 +304,10 @@ Backlinks:
     ; use
     ; git log --pretty=format:"%s %ct" -- content/docs/visual-art/generative-art.md 
     ; to figure out what other commits to add here
+    ; TODO read the commit message to figure out if commits should be
+    ; considered or not; then i need to make a habit of adding a special string
+    ; to the commit message to determine if it is actually changing page
+    ; content or not.
     (let [filtered (remove #(or (nil? %)
                                 (< 1753934890 % 1754284390)
                                 (contains? #{1755321565 1755321174} %))
