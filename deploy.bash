@@ -5,9 +5,6 @@ set -e
 
 shopt -s globstar
 
-echo "git log"
-git log --pretty=format:"%s %ct" -n 10
-
 printf "\033[0;32mDeploying updates to GitHub...\033[0m\n"
 
 if [[ -n "$GITHUB_WORKFLOW" ]]; then
@@ -26,13 +23,7 @@ for file in private-website-pages/content/**/*; do
   fi
 done
 
-echo "git log"
-git log --pretty=format:"%s %ct" -n 10
-
 ./joker create-index.joke
-
-echo "git log"
-git log --pretty=format:"%s %ct" -n 10
 
 # Build the project.
 hugo # if using a theme, replace with `hugo -t <YOURTHEME>`
@@ -47,15 +38,9 @@ for file in private-website-pages/content/**/*; do
   fi
 done
 
-echo "git log"
-git log --pretty=format:"%s %ct" -n 10
-
 # Go To Public folder
 cd public
 cp --verbose ../content/docs/all.edn .
-
-echo "git log"
-git log --pretty=format:"%s %ct" -n 10
 
 # Add changes to git.
 git add --verbose .
