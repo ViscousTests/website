@@ -1,7 +1,3 @@
----
-backlinks-set: 
-categories-set: #{"Society"}
----
 # Doom, and how to avoid it
 
 ## We got problems
@@ -54,3 +50,5 @@ work to invalidate:
 
 People spend too much time on non-creative tasks.  Automation with a good
 wealth redistribution system should eliminate this wasted time.
+
+Categories: [Society]({{< relref "/" >}}?Society=true)

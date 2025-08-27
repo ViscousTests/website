@@ -1,7 +1,3 @@
----
-backlinks-set: 
-categories-set: #{"Software Dev"}
----
 # Complexity
 
 A killer of productivity (and fun).
@@ -29,3 +25,5 @@ Yuanfang Cai has done a lot of cool work here.  See:
  - [Software Health Management Talk](https://www.youtube.com/watch?v=lC7khoMu0NA)
  - Quantifying coupling in code constructs: https://www.cs.drexel.edu/~yfcai/papers/2016/icse2016-DL.pdf
  - Quantifying coupling by which code files are changed together: https://www.cs.drexel.edu/~yfcai/papers/2019/icpc2019.pdf
+
+Categories: [Software Dev]({{< relref "/" >}}?Software-Dev=true)

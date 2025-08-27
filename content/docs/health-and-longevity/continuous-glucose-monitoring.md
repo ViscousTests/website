@@ -1,7 +1,3 @@
----
-backlinks-set: #{"content/docs/health-and-longevity/tracking-health.md" "content/docs/lifelogging/what-and-why.md"}
-categories-set: #{"Health And Longevity"}
----
 # Continuous Glucose Monitoring
 
 Continuous glucose monitoring is really cool because it gives a continuous look
@@ -34,3 +30,17 @@ line: `poetry run report_generator --start_date=2021-04-09
 do its visualization.
 
 **[The data visualization can be found here!](/cgm-data.html)**
+
+
+
+
+
+
+
+
+
+
+Categories: [Health And Longevity]({{< relref "/" >}}?Health-And-Longevity=true)
+
+Backlinks: [Tracking Health]({{< relref "/docs/health-and-longevity/tracking-health.md" >}}), 
+[What And Why]({{< relref "/docs/lifelogging/what-and-why.md" >}}), 

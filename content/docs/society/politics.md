@@ -1,7 +1,3 @@
----
-backlinks-set: 
-categories-set: #{"Society"}
----
 # Politics
 
 ## Institutions and Refactoring
@@ -27,3 +23,5 @@ incrementally changing code, as opposed to rewriting it from scratch.
 Institutions (I assume) also have many quirks and patched edge cases that carry
 real, hard won value. Erasing all that may be more destructive that it seems in
 the mind's eye.
+
+Categories: [Society]({{< relref "/" >}}?Society=true)

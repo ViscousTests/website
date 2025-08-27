@@ -1,7 +1,3 @@
----
-backlinks-set: #{"content/docs/understanding-the-world/influences.md"}
-categories-set: #{"Books" "Understanding The World"}
----
 # [_Zero to One_ by Peter Thiel](https://en.wikipedia.org/wiki/Zero_to_One)
 
 Book that tries to answer the question of (1) what kinds of work
@@ -17,3 +13,8 @@ seeking incremental change.
 
 Interesting criticism at
 https://medium.com/@LouisGudema/zero-to-some-a-critique-of-peter-thiels-zero-to-one-a3df11d484de.
+
+Categories: [Books]({{< relref "/" >}}?Books=true),
+[Understanding The World]({{< relref "/" >}}?Understanding-The-World=true)
+
+Backlinks: [Influences]({{< relref "/docs/understanding-the-world/influences.md" >}}), 

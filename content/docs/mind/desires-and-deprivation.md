@@ -1,7 +1,3 @@
----
-backlinks-set: 
-categories-set: #{"Mind"}
----
 # Desires and Deprivation
 
 Sometimes acting on desires can have negative consequences. For example:
@@ -28,3 +24,5 @@ better life, I have tried to instead put more energy into changing my desires
 via new beliefs. For example:
 
  - Taste (and sensory happiness) is not directly related the health of food.
+
+Categories: [Mind]({{< relref "/" >}}?Mind=true)

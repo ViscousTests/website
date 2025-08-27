@@ -1,7 +1,3 @@
----
-backlinks-set: #{"content/docs/health-and-longevity/influences.md"}
-categories-set: #{"Health And Longevity"}
----
 # SENS
 
 SENS attempts to clean up damage that accumulates with age, in the hopes that
@@ -19,3 +15,8 @@ that if any of the damage SENS is trying to clean up will lead to positive
 health outcomes.  His view is that the SENS program is a set of ["plausible
 ideas"]({{< relref "/docs/understanding-the-world/what-to-believe.md" >}})
 without enough evidence behind them to warrant funding or pursuit.
+
+Categories: [Health And Longevity]({{< relref "/" >}}?Health-And-Longevity=true)
+
+Backlinks: [Influences]({{< relref "/docs/health-and-longevity/influences.md" >}}), 
+[What To Believe]({{< relref "/docs/understanding-the-world/what-to-believe.md" >}}), 

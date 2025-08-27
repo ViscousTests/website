@@ -1,7 +1,3 @@
----
-backlinks-set: 
-categories-set: #{"Gaming"}
----
 # Microphone Setup Notes
 
 Use
@@ -14,3 +10,5 @@ Noise reduction from the above link is helpful to make it work.
 I've struggled a lot to get non-usb mics to work well, for some reason they all
 end up very quiet for me.
 Maybe I'm just unlucky.
+
+Categories: [Gaming]({{< relref "/" >}}?Gaming=true)

@@ -1,7 +1,3 @@
----
-backlinks-set: 
-categories-set: #{"Mind"}
----
 # Thoughts on Education
 
 ## Education as a Certification
@@ -121,3 +117,5 @@ For example I have no idea what it takes to become someone who works on
 government policy as a full-time job.
 Or what the concerns of people doing this job are for  instance with respect to
 their compensation or job security.
+
+Categories: [Mind]({{< relref "/" >}}?Mind=true)

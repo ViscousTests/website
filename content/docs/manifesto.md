@@ -1,7 +1,3 @@
----
-backlinks-set: 
-categories-set: #{"Me"}
----
 # Personal Manifesto
 
 I aspire to be a **vigorous**, **wise**, and **curious** person that feels
@@ -16,7 +12,7 @@ Energy to achieve goals in my experience comes from two main sources:
 **Physical Health**: [Exercise]({{< relref
 "/docs/health-and-longevity/exercise.md" >}}), [sleep]({{< relref
 "/docs/health-and-longevity/sleep.md" >}}), [food]({{< relref
-"/docs/health-and-longevity/food/food.md" >}}), [cronic stress]({{< relref
+"/docs/health-and-longevity/food.md" >}}), [cronic stress]({{< relref
 "/docs/health-and-longevity/chronic-stress.md" >}}), [circadian rhythm]({{<
 relref "/docs/health-and-longevity/circadian-rhythm.md" >}}), and other
 environmental influences all effect personal vigor in complex and
@@ -214,3 +210,24 @@ parts of your brain to make you feel very fresh in the new context.
 ### Expectations
 
 TODO: fill this in (potentially from the "motivation" doc)
+
+
+
+
+
+
+
+
+ 
+
+Categories: [Me]({{< relref "/" >}}?Me=true)
+
+Backlinks: [Circadian Rhythm]({{< relref "/docs/health-and-longevity/circadian-rhythm.md" >}}), 
+[What To Believe]({{< relref "/docs/understanding-the-world/what-to-believe.md" >}}), 
+[Why Greatness Cannot Be Planned]({{< relref "/docs/books/why-greatness-cannot-be-planned.md" >}}), 
+[Food]({{< relref "/docs/health-and-longevity/food.md" >}}), 
+[Chronic Stress]({{< relref "/docs/health-and-longevity/chronic-stress.md" >}}), 
+[Creativity]({{< relref "/docs/mind/creativity.md" >}}), 
+[Sleep]({{< relref "/docs/health-and-longevity/sleep.md" >}}), 
+[Motivation]({{< relref "/docs/mind/motivation.md" >}}), 
+[Exercise]({{< relref "/docs/health-and-longevity/exercise.md" >}}), 

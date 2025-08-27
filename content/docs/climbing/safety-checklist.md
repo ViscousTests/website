@@ -1,7 +1,3 @@
----
-backlinks-set: 
-categories-set: #{"Climbing"}
----
 # Climbing Safety Checklist
 
 At time of writing, I recently finished reading [*The Checklist
@@ -68,3 +64,5 @@ BEFORE RAPPELLING:
 ```
 
 See also https://climbingdangers.net/.
+
+Categories: [Climbing]({{< relref "/" >}}?Climbing=true)

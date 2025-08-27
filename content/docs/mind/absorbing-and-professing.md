@@ -1,7 +1,3 @@
----
-backlinks-set: 
-categories-set: #{"Mind"}
----
 # States of Mind
 
 These states can be mixed together, but are at their strongest when the mind is
@@ -149,3 +145,5 @@ fresh in your mind.  It also helps to consciously pause right after stage (1)
 above (completing a task), instead of directly jumping to the next thing with
 little thought - this simple pause really helps your next task be intentional
 and not dictated by your environment.
+
+Categories: [Mind]({{< relref "/" >}}?Mind=true)

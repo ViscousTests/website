@@ -1,17 +1,117 @@
----
-backlinks-set: #{"content/docs/lifelogging/2025-update.md"}
-categories-set: #{"Important" "Lifestyle Optimizations"}
----
 # Daily Habits
 
 ## Food
 
-See [Personal Food Habits]({{< relref
-"/docs/health-and-longevity/food/personal-food-habits.md" >}}).
+### Eating Setting
+
+I used to eat a lot of my meals while watching YouTube videos, browsing social
+media, or talking to other people I was sharing the meal with.
+I found that the extra stimulation/low grade stress from these activities often
+led me to lose track of my eating and/or overeat.
+
+Recently I've been experimenting with disconnecting entirely when eating and
+focusing only on the food.
+Usually this entails going outside and eating there.
+This has helped a lot to curb overeating, and gives me some time to consider
+what I have coming up in the day.
+I think I want to continue doing this as much as I can!
+
+### Schedule
+
+ - **Breakfast:** Avoid grains/beans.
+   Eat a small amount of vegetables with oil.
+   Eat eggs/fish.
+   Don't eat too much!!
+   Overeating at breakfast is a good way to derail energy for the rest of the
+   day.
+ - **Lunch:** eat one, but try to wait until hungry again from breakfast.
+   This could be 5+ hours later.
+   Eat a mixed variety, with more carbs than breakfast.
+   Still avoid grains/beans if possible.
+   Eating only fats/greens (like salad) can lead to low energy and continued
+   hunger.
+ - **Dinner:** eat only if hungry OR if I worked out in the afternoon/evening.
+   Focus on mainly whole grain carbs, fruit, some legumes, avoid too much
+   protein and salt!
+   This is to avoid disturbing sleep (I find whole grains make me sleepy,
+   digesting protein/salt keeps me awake).
+    - *Enforcement mechanism:* I have a calendar event every day starting at
+      5:30 that reminds me of this item.
+
+<details><summary>More food notes.</summary>
+
+### Staple Foods
+
+ - See [Cooking]({{< relref "/docs/health-and-longevity/cooking.md" >}}).
+   Foods here are roughly ranked in the order I consume them.
+ - Raw vegetables and fruits for snacking (apples, cabbage)
+
+### Food Reactions
+
+How I personally react to different foods in 2025.
+
+#### Animal Products
+
+ - **Fish:** Often make me feel tired/sleepy when digesting.
+   Not great to overeat on.
+   I like to eat regularly for the omega-3s.
+   - I tolerate sardines and salmon better than tuna for some reason.
+ - **Dairy:** Makes me gassy and generally not feel great.
+ - **Eggs:** No issues, although can take longer to digest than other foods; not
+   great to eat them if my next meal will be soon.
+
+#### Legumes
+
+ - **Tofu:** No issues digesting.
+ - **Beans/Chickpeas/Lentils:** When I eat these plain, I tend to stay hungry
+   for a while and eat a lot of them.
+   This invariably leads to me feeling very overfull and tired, as they are also
+   hard for me to digest.
+ - **Peanut Products:** Good in small quantities, but very easy to overdo.
+   - **Peanut Butter:** Very easy for me to overeat and feel really bad for many
+     hours afterward as I digest.
+   - **Peanuts:** Generally make me feel ok when I eat them.
+   - **Peanut Protein Powder:** I tolerate this really well even in higher
+     quantities, making me think that the oil in peanuts is the main thing I
+     react poorly too.
+
+#### Grains
+
+ - **Rolled Oats:** I love oats and even eat them raw.
+   I don't have any issues eating/digesting them.
+ - **Brown Rice:** Good in small quantities, too much can make me feel bloated.
+ - **White Rice:** Similar to brown rice, and can make me feel tired when eating
+   too much, which is easy to do.
+
+#### Fruits
+
+ - **Apples:** No issues here!
+ - **Bananas:** For some reason, eating bananas alone can give me a short-lived
+   headache and seems to mess with my energy.
+
+#### Vegetables
+
+ - **Pickled Onions:** Upset my stomach.  I should avoid them generally.
+ - **Cabbage:** I love cabbage, and it seems to be very easy for me to digest.
+ - **Broccoli:** Good in smaller quantities, too much can make me feel bloated.
+
+#### Nuts/Seeds
+
+ - **Nut Butters:** Very easy for me to overeat and feel really bad for many
+   hours afterward as I digest.
+ - **Chia Seeds:** I love chia seeds and have no issues eating them.
+ - **Almonds:** Good, just don't eat too many.
+ - **Walnuts:** Good, just don't eat too many.
+
+</details>
 
 ## Supplements
 
-See [Supplements]({{< relref "/docs/health-and-longevity/food/supplements.md" >}}).
+I take vitamin D (2000 IU) daily.
+  - I recently stopped taking fish oil after I noticed a pretty minimal impact
+    on my omega-3 index score.
+  - *Enforcement mechanism:* I have a recurring daily task to take these in the
+    morning.
 
 ## Exercise
 
@@ -68,3 +168,11 @@ the proper format for the weeks website.
 ## This Page
 
 *This page should be kept up to date via a recurring Google task*
+
+Categories: [Important]({{< relref "/" >}}?Important=true),
+[Lifestyle Optimizations]({{< relref "/" >}}?Lifestyle-Optimizations=true)
+
+Backlinks: [Cooking]({{< relref "/docs/health-and-longevity/cooking.md" >}}), 
+[Food]({{< relref "/docs/health-and-longevity/food.md" >}}), 
+[2025 Update]({{< relref "/docs/lifelogging/2025-update.md" >}}), 
+[What And Why]({{< relref "/docs/lifelogging/what-and-why.md" >}}), 

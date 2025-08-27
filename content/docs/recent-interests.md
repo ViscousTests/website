@@ -1,7 +1,3 @@
----
-backlinks-set: 
-categories-set: #{}
----
 # Recent Interests
 
 Here I list stuff I've been interested in recently.
@@ -23,7 +19,7 @@ https://github.com/kovasap/dotfiles/blob/master/bin/chrome-history-for-gemini.zs
  - FTL: Multiverse
  - Dark and Darker Wizard
  - Building my [Lintilla custom keyboard]({{< relref "/docs/lifestyle-optimizations/keyboards-and-typing.md" >}})
- - Wingman in Counter Strike
+ - Wingman in [Counter Strike]({{< relref "/docs/games/Counter-Strike.md" >}})
  - Arkham Horror Dunwich Campaign
  - [Alt Health]({{< relref "/docs/health-and-longevity/alt-health.md" >}}) thinking
  - Reading ACX, like https://www.astralcodexten.com/p/why-i-am-not-a-conflict-theorist
@@ -96,5 +92,8 @@ https://github.com/kovasap/dotfiles/blob/master/bin/chrome-history-for-gemini.zs
  - Selling old Pokemon cards I discovered.  Quite a labor intensive process to price and sell them all.
  - The Bazaar continues to be great!
 
-I'm trying to continue tracking my interests via updates to individual pages on
-this site; see recent edit history!
+Categories: [Recent]({{< relref "/" >}}?Recent=true)
+
+Backlinks: [Counter Strike]({{< relref "/docs/games/Counter-Strike.md" >}}), 
+[Alt Health]({{< relref "/docs/health-and-longevity/alt-health.md" >}}), 
+[Keyboards And Typing]({{< relref "/docs/lifestyle-optimizations/keyboards-and-typing.md" >}}), 

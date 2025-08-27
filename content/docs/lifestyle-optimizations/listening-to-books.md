@@ -1,7 +1,3 @@
----
-backlinks-set: 
-categories-set: #{"Lifestyle Optimizations"}
----
 # Listening to Books
 
 When commuting I like to listen to podcasts or books for learning and
@@ -23,3 +19,5 @@ for use in audiobook generation.
 
 https://beta.elevenlabs.io/ is another good solution that I've listened to
 samples from, but haven't paid for yet.
+
+Categories: [Lifestyle Optimizations]({{< relref "/" >}}?Lifestyle-Optimizations=true)

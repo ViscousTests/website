@@ -1,7 +1,3 @@
----
-backlinks-set: 
-categories-set: #{"Lifestyle Optimizations"}
----
 # Footwear
 
 ## Socks
@@ -32,3 +28,6 @@ having an overheated sweaty foot; I hate that feeling.
 Most of the time during the day I untie the laces for comfort.  I tie a knot in the end of each lace so that I don't step/trip on them:
 
 ![](/docs/lifestyle-optimizations/knot-in-laces.jpg)
+
+Categories: [Lifestyle Optimizations]({{< relref "/" >}}?Lifestyle-Optimizations=true),
+[Recent]({{< relref "/" >}}?Recent=true)

@@ -1,7 +1,3 @@
----
-backlinks-set: 
-categories-set: #{"Mind"}
----
 # How to Work With Others
 
 Everyone you are working with will have a model in their heads that describes
@@ -148,3 +144,5 @@ People complain for at least two main reasons:
 It is easy (at least for me) to jump strait to advice help when people complain
 around me and ignore the fact that the complainer may need one of the other
 types of resolution described above.
+
+Categories: [Mind]({{< relref "/" >}}?Mind=true)

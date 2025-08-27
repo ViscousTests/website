@@ -1,7 +1,3 @@
----
-backlinks-set: 
-categories-set: #{"Lifestyle Optimizations"}
----
 # The Most Useful Knot in the World (Taut-line hitch)
 
 This knot allows you to adjust its location on a string **after** you've tied
@@ -13,3 +9,5 @@ on how to tie. Some of the many uses I've found for this knot:
  - Tying, then tightening, a clothsline
  - Tying drawstrings on sweatpants or shorts - you never need to untie/retie
    them again!
+
+Categories: [Lifestyle Optimizations]({{< relref "/" >}}?Lifestyle-Optimizations=true)

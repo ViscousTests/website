@@ -1,7 +1,3 @@
----
-backlinks-set: 
-categories-set: #{"Climbing" "Event Reports"}
----
 # Mile High Club
 
 Done in Mid-August 2020.
@@ -214,3 +210,15 @@ called it, but it was a really cool alpine climbing experience.  Just make sure
 you give yourself enough time!
 
 ![Matthew Looking Back](/docs/climbing/event-reports/2020-8-12-mile-high-club-pics/matthew-looking-back.jpg)
+
+
+
+
+
+
+
+
+[Event Reports]({{< relref "/" >}}?Event-Reports=true)
+
+Categories: [Climbing]({{< relref "/" >}}?Climbing=true),
+[Event Reports]({{< relref "/" >}}?Event-Reports=true)
