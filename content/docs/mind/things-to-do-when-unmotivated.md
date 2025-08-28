@@ -1,7 +1,3 @@
----
-backlinks-set: #{"content/docs/lifestyle-optimizations/daily-physiological-tricks.md"}
-categories-set: #{"Mind"}
----
 # Things to do When Unmotivated
 
 See also my [deeper dive on the nature of motivation]({{< relref
@@ -69,3 +65,8 @@ while. Some ideas:
  - YouTubeing.
    - Pro: Is relaxing.
    - Con: Can lead to time consuming rabbit hole.
+
+Categories: [Mind]({{< relref "/" >}}?Mind=true)
+
+Backlinks: [Daily Physiological Tricks]({{< relref "/docs/lifestyle-optimizations/daily-physiological-tricks.md" >}}), 
+[Motivation]({{< relref "/docs/mind/motivation.md" >}}), 

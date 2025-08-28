@@ -1,7 +1,3 @@
----
-backlinks-set: 
-categories-set: #{"Lifestyle Optimizations"}
----
 # 3-in-1 Phone Case
 
 This system for a wallet, keys, and phone in one package has been serving me
@@ -18,3 +14,5 @@ for this system.
 ![Back](https://lh3.googleusercontent.com/Z3PDElnAu0izgwc9VcPAJQwBY_5NjCtd90R38tS484aAQhRnI_aL646SAFVL_8iZgCWaj4_ocOlmp2as5PgCiHj5dENfItbZTjCqHVoeAbakOgndKBwKOYJJvTuOJRlWM6CaUjFqnFA=w2400)
 
 ![Side](https://lh3.googleusercontent.com/V7sDcbO-WeTrip0VKsikEZ12kvw0ZIAIP67BGVJ8E1e3YSu5t3Odk-bLpccUhH8QOUJ2bRR39DdKkU4oAcel1OURsSPFQVlP_lJ9yKSb5uBwboMzJIi3AgaiiL_MGsolatnZF1lVgVM=w2400)
+
+Categories: [Lifestyle Optimizations]({{< relref "/" >}}?Lifestyle-Optimizations=true)

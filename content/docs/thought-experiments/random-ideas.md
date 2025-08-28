@@ -1,7 +1,3 @@
----
-backlinks-set: 
-categories-set: #{"Thought Experiments"}
----
 # Random Ideas
 
 A collection of random short ideas I've had over the years that I haven't
@@ -261,3 +257,5 @@ spiral staircase.  Maybe you can animate it like this?
 If you have a round table to eat at that seats ~4 people, put a symmetrical
 fountain like those found in gardens in the middle for people to use to refill
 their water cups.  Could have four streams for easier filling.
+
+Categories: [Thought Experiments]({{< relref "/" >}}?Thought-Experiments=true)

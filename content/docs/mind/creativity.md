@@ -1,7 +1,3 @@
----
-backlinks-set: #{"content/docs/manifesto.md" "content/docs/mind/motivation.md" "content/docs/society/utopia.md" "content/docs/understanding-the-world/copyright-and-ip.md"}
-categories-set: #{"Mind"}
----
 # Creativity
 
 ## Constraining the Problem Space
@@ -63,8 +59,17 @@ point where the original vision is unfulfilled in some way.
 ## See Also
 
  - [My thoughts on game development]({{< relref
-   "/docs/gaming/gamedev/gamedev-context.md" >}}), which play with a lot of these
+   "/docs/gamedev/gamedev-context.md" >}}), which play with a lot of these
    ideas.
  - [Cool test](https://www.datcreativity.com/)
  - [Guided idea generation tool](https://old.tjcx.me/tools/idea-generator.html)
  - [My thoughts on copyright/ip]({{< relref "/docs/understanding-the-world/copyright-and-ip.md" >}})
+
+
+Categories: [Mind]({{< relref "/" >}}?Mind=true)
+
+Backlinks: [Manifesto]({{< relref "/docs/manifesto.md" >}}), 
+[Gamedev Context]({{< relref "/docs/gamedev/gamedev-context.md" >}}), 
+[Motivation]({{< relref "/docs/mind/motivation.md" >}}), 
+[Utopia]({{< relref "/docs/society/utopia.md" >}}), 
+[Copyright And Ip]({{< relref "/docs/understanding-the-world/copyright-and-ip.md" >}}), 

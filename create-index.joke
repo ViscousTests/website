@@ -20,17 +20,30 @@
           (for [word (s/split string " ")]
             (s/capitalize word))))
 
-(defn to-title
-  [filepath]
-  (capitalize-words (-> filepath
-                        (fp/base)
-                        (s/replace "-" " ")
-                        ; Remove extension
-                        (s/split ".")
-                        (first))))
+(defn to-title [filepath]
+  (capitalize-words
+    (-> filepath
+        (fp/base)
+        (s/replace "-" " ")
+        ; Remove extension
+        (s/split ".")
+        (first))))
 
 (defn is-md? [file]
   (= "md" (last (s/split (:name file) "."))))
+
+(defn is-symlink? [file]
+  (or (= file "content/docs/history/family.md")
+      (= file "content/docs/music/music-library-management.md")))
+; This code only works for soft symbolic links, I can't find anything in the
+; joker API that will count references to a file, which AFAICT is the only way
+; to detect hard links.
+#_(try (do (os/stat file) false)
+       (catch Error e (try (do (os/lstat file) true
+                                  (catch Error e false)))))
+
+(assert= (is-symlink? "content/docs/manifesto.md") false)
+(assert= (is-symlink? "content/docs/history/family.md") true)
 
 (defn should-include? [file]
   (let [filepath (:name file)]
@@ -94,89 +107,42 @@ hi
                         " "Thing")
   ["another 'graph\nhi" "Thing: ai asnteisa \noanetu\nanote"])
            
-(defn remove-paragraph-starting-with
-  [text prefix]
-  (first (extract-paragraph text prefix)))
 
-(defn is-frontmatter-delimiter?
-  [line]
-  (= "---" (s/trim line)))
-
-(defn split-frontmatter-lines
-  [markdown]
-  (let [all-lines (s/split-lines markdown)]
-    (if (is-frontmatter-delimiter? (first all-lines))
-      (let [[frontmatter body] (split-with #(not (is-frontmatter-delimiter? %))
-                                           (rest all-lines))]
-        [(into ["---"] (concat frontmatter ["---"])) (rest body)])
-      ; If no frontmatter, make a blank one
-      [["---" "---"] all-lines])))
-
-(assert=
-  (split-frontmatter-lines
-    "---
-backlinks-set#{\"content/docs/visual-art/generative-art.md\")
-categories-set#{\"Visual Art\"}
-backlinks-set: #{\"content/docs/visual-art/generative-art.md\")
-categories-set: #{\"Visual Art\"}
----
-# Inspiration and Resources
-
-Cool art and art tutorials that I've stumbled across.
-
-")
-  ['("---" "backlinks-set#{\"content/docs/visual-art/generative-art.md\")" "categories-set#{\"Visual Art\"}" "backlinks-set: #{\"content/docs/visual-art/generative-art.md\")" "categories-set: #{\"Visual Art\"}" "---")
-   '("# Inspiration and Resources" "" "Cool art and art tutorials that I've stumbled across." "" "")])
-
-(defn get-frontmatter-value
-  [frontmatter-lines k]
-  (as-> frontmatter-lines f
-     (filter #(s/starts-with? % k) f)
-     (first f)
-     (if (nil? f) nil (s/replace f (str k ": ") ""))))
-
-(defn get-frontmatter-set
-  [frontmatter-lines k]
-  (as-> (get-frontmatter-value frontmatter-lines k) f
-    (if (nil? f) nil (read-string f))
-    (if (set? f) f #{})))
-
-
-;; ------------------ Category Management --------------------------------
-
-(defn get-category-from-link
-  [link]
-  (format-word (if-let [delinked (last (re-find #"\[(.*?)\]" link))]
-                 delinked
-                 link)))
-
-(defn parse-categories-from-legacy-section
+(defn parse-categories
   "Finds all categories in the text and returns them alongside the categoryless
   text."
   [text]
-  (into
-    #{}
-    (for [category-link (-> (last (extract-paragraph text "Categories:"))
-                            (s/replace "Categories:" "")
-                            (s/trim)
-                            (s/split ","))
-          :let          [category (get-category-from-link category-link)]
-          :when         (not (contains? #{"Game" "Experiences" ""} category))]
-      category)))
+  (let [[categoryless-text categories-text] (extract-paragraph text
+                                                               "Categories:")]
+    [(into #{}
+           (for [category (-> categories-text
+                              (s/replace "Categories:" "")
+                              (s/trim)
+                              (s/split ","))
+                 :let     [cleaned-category (format-word
+                                              (if-let [delinked
+                                                         (last (re-find
+                                                                 #"\[(.*?)\]"
+                                                                 category))]
+                                                delinked
+                                                category))]
+                 :when    (not (contains? #{"Game" "Experiences" ""} cleaned-category))]
+             cleaned-category))
+     categoryless-text]))
 
 (assert=
-  (parse-categories-from-legacy-section
+  (parse-categories
     "<markdown>
 
 Categories: cat1, ..., [Housing]({{< relref \"/docs/all.md\" >}}?Housing=true)
 
 other
 ")
-  #{"Cat1" "..." "Housing"})
+  [#{"Cat1" "..." "Housing"} "<markdown>\n\nother"])
 
 
 (assert=
-  (parse-categories-from-legacy-section
+  (parse-categories
     "
 # My First 5.12!
 
@@ -192,297 +158,231 @@ Categories: [Climbing]({{< relref \"/\" >}}?Climbing=true),
 
 Backlinks: 
 ")
-  #{"Climbing" "Event Reports"})
+  [#{"Climbing" "Event Reports"} "# My First 5.12!\n\nI projected this route for a while and still can remember its movements.\nPosting it here mostly for my own personal nostalgia : ).\n\nHere is the route: https://photos.app.goo.gl/fvva4kiMPeRbi6tP9.\n\nBacklinks:"])
 
-(defn get-categories-from-filepath
-  "All directories besides content/docs in a file's path are considered
-  categories."
-  [file]
-  (set (map format-word (drop-last (drop 2 (s/split (:path file) "/"))))))
-
-(defn link-category
-  [category]
-  (let [formatted-category (format-word category)]
-    (str "["
-         formatted-category
-         "]({{< relref \"/\" >}}?"
-         (s/replace formatted-category " " "-")
-         "=true)")))
-
-(defn make-category-section
-  [categories]
-  (->> categories
-       (sort)
-       (map link-category)
-       (s/join ",\n")
-       (str "Categories:\n")))
-
-(def categories-prefix "categories-set")
-
-(defn add-categories-frontmatter
-  [markdown categories]
-  (let [[frontmatter body]  (split-frontmatter-lines markdown)
-        updated-frontmatter (as-> frontmatter f
-                              (remove #(s/starts-with? % categories-prefix) f)
-                              (apply conj
-                                [(first f)]
-                                (str categories-prefix ": " categories)
-                                (rest f)))]
-    (s/join "\n" (concat updated-frontmatter body))))
-
-
-;; ------------------ Backlink Management --------------------------------
-
-(defn file-to-md-link
-  [filepath]
-  (str "["
-       (to-title filepath)
-       "]({{< relref \""
-       (s/replace-first filepath "content" "")
-       "\" >}})"))
-
-(defn make-backlinks-section
-  [backlinks]
-  (if (or (nil? backlinks) (= 0 (count backlinks)))
-    ""
-    (->> backlinks
-         (sort)
-         (map file-to-md-link)
-         (s/join ",\n")
-         (str "Backlinks:\n"))))
-
-; Helper function for update-files-with-backlinks
-(defn get-file-to-backlinks
-  [all-files]
-  (apply merge-with
-    into
-    (reduce concat
-      (for [file all-files]
-        (for [link  (:links file)
-              :when (not (= "/docs/all.md" link))]
-          {link #{(:path file)}})))))
-
-; TODO update this code to link to specific md sections, not just pages as a
-; whole. this is particularly helpful for the "feelings" page and how it
-; interacts with "experiences"
-(defn update-files-with-backlinks
-  [all-files]
-  (let [path-to-backlinks (get-file-to-backlinks all-files)]
-    (for [file all-files]
-      (as-> file f
-        (assoc f
-          :backlinks (get path-to-backlinks
-                          (s/replace-first (:path f) "content" "")))
-        #_(assoc f
-            :backlinks-section (make-backlinks-section (:backlinks f)))))))
-
-(def backlinks-prefix "backlinks-set")
-
-(defn add-backlinks-frontmatter
-  [markdown backlinks]
-  (let [[frontmatter body]  (split-frontmatter-lines markdown)
-        updated-frontmatter (as-> frontmatter f
-                              (remove #(s/starts-with? % backlinks-prefix) f)
-                              (apply conj
-                                [(first f)]
-                                (str backlinks-prefix ": " backlinks)
-                                (rest f)))]
-    (s/join "\n" (concat updated-frontmatter body))))
-
-;; ------------------ All File Data Construction --------------------------
-
-(defn get-modification-unix-timestamps
-  [filepath]
-  (as-> filepath f
-    (os/sh "git" "log" "--pretty=format:%ct" "--" f)
-    (:out f)
-    (s/trim f)
-    (s/split f #"\n")
-    (map parse-long f)
-    ; remove :modification-unix-timestamps during periods when i wasn't
-    ; actually changing page content, just messing with technical stuff
-    ; use
-    ; git log --pretty=format:"%s %ct" -- content/docs/visual-art/generative-art.md 
-    ; to figure out what other commits to add here
-    ; TODO read the commit message to figure out if commits should be
-    ; considered or not; then i need to make a habit of adding a special string
-    ; to the commit message to determine if it is actually changing page
-    ; content or not.
-    (let [filtered (remove #(or (nil? %)
-                                (< 1753934890 % 1754284390)
-                                (contains? #{1755321565 1755321174} %))
-                     f)]
-      (cond (or (empty? f) (every? nil? f)) [0]
-            ; Make sure there is always at least one element in the
-            ; timestamps list. Then we don't need to handle empty
-            ; lists in the cljs
-            (empty? filtered) [(last f)]
-            :else (vec filtered)))))
- 
 
 (defn add-file-data
   [file]
-  (prn (str "Processing data for " (:path file)))
   ; Assume symlinks are links to private repositories that we do not
   ; want included in the indexed data.
-  (let [markdown (slurp (:path file))]
-    (as-> file f
-      (merge f
-             {:path-categories (get-categories-from-filepath file)
-              :private         (boolean (get-frontmatter-value
-                                          (first (split-frontmatter-lines
-                                                   markdown))
-                                          "private"))
-              :modification-unix-timestamps (get-modification-unix-timestamps
-                                              (:path file))
-              :links           (parse-links markdown)
-              :title           (to-title (:path file))})
-      (assoc f :markdown (if (:private f) "This file is private" markdown))
-      (assoc f
-        :categories (union (:path-categories f)
-                           (parse-categories-from-legacy-section markdown)
-                           (get-frontmatter-set (first (split-frontmatter-lines
-                                                         markdown))
-                                                categories-prefix))))))
+  (let [markdown (if (is-symlink? (:path file))
+                   "This file is encrypted."
+                   (slurp (:path file)))]
+    (merge file
+           {:categories (first (parse-categories markdown))
+            :markdown   markdown
+            :links      (parse-links markdown)
+            :title      (to-title (:path file))})))
 
-
-(defn generate-final-markdown
-  [file]
-  (-> (:markdown file)
-      (remove-paragraph-starting-with "Backlinks:")
-      (remove-paragraph-starting-with "Categories:")
-      (add-categories-frontmatter (:categories file))
-      (add-backlinks-frontmatter (:backlinks file))))
-  ; (s/trim (str (:sectionless-markdown file))))
-              ; This hardcodes categories and backlinks, but now we are
-              ; dynamically generating a sidebar with this info using
-              ; website-helpers!)))
-              ; "\n\n" (:categories-section file)
-              ; "\n\n" (:backlinks-section file))))
-
-; Helper function for get-all-files and get-file-tree
-(defn get-files
-  [filepath]
-  (sort-by
-    (fn [file] [(:dir? file) (:name file)])
-    (for [file  (os/ls filepath)
-          :when (should-include? file)]
-      (let [pathed-file (assoc file :path (fp/join filepath (:name file)))]
-        (if (:dir? pathed-file) pathed-file (add-file-data pathed-file))))))
+(defn get-files [filepath]
+  (sort-by (fn [file] [(:dir? file) (:name file)])
+           (for [file (os/ls filepath)
+                 :when (should-include? file)]
+             (let [pathed-file
+                   (assoc file :path (fp/join filepath (:name file)))]
+               (if (:dir? pathed-file)
+                 pathed-file
+                 (add-file-data pathed-file))))))
 
 (defn get-all-files
   [filepath]
-  (->> filepath
-      (get-files)
-      (filter should-include?)
-      (map #(if (:dir? %) (get-all-files (:path %)) [%]))
-      (reduce concat)
-      (update-files-with-backlinks)
-      (map #(assoc % :markdown (generate-final-markdown %)))))
+  (reduce concat
+          (for [file (get-files filepath)
+                :when (should-include? file)]
+            (if (:dir? file)
+              (get-all-files (:path file)) 
+              [file]))))
 
-; DOES NOT include backlink information!
+
 (defn get-file-tree
   [filepath]
-  (into []
-        (for [{:keys [path size name dir?]} (get-files filepath)]
-          (let [file {:name name :size size}]
-            (if dir? (assoc file :children (get-file-tree path)) file)))))
-
-;; ---------------- Directory Section Management -------------------------
+  (into [] (for [{:keys [path size name dir?]} (get-files filepath)]
+             (let [file {:name name
+                         :size size}]
+               (if dir?
+                 (assoc file :children (get-file-tree path)) 
+                 file)))))
 
 (declare make-dir-into-header)
 
-(defn make-dir-contents
-  [filepath]
-  [:ul
-   (for [file (get-files filepath)]
-     (cond (:dir? file)  (make-dir-into-header file filepath)
-           (is-md? file) (file-to-hiccup-li (fp/join filepath (:name file)))
-           :else         [:div "bad " file]))])
+(defn make-dir-contents [filepath]
+  [:ul (for [file (get-files filepath)] 
+         (cond
+            (:dir? file)
+            (make-dir-into-header file filepath)
+            (is-md? file)
+            (file-to-hiccup-li (fp/join filepath (:name file)))
+            :else
+            [:div "bad " file]))])
   
-(defn make-dir-into-header
-  [file cur-path]
+(defn make-dir-into-header [file cur-path]
   "Converts file map like {:dir? true :name my-dir} into collapsed html ul with 
   a bold header. Recursively generates all sub-directories."
-  (let [filepath   (fp/join cur-path (:name file))
+  (let [filepath (fp/join cur-path (:name file))
         inner-list (make-dir-contents filepath)]
     (j/println filepath)
     (if (= (count (last inner-list)) 0)
       nil
-      [:li
-       [:details {:id (:name file)}
-        [:summary [:strong (to-title filepath)]]
-        inner-list]])))
+      [:li [:details {:id (:name file)}
+            [:summary [:strong (to-title filepath)]] inner-list]])))
+
+;; ------------- Adding Categories based on Directory Structure ------------
+
+(defn link-category [category]
+  (let [formated-category (format-word category)]
+    (str "[" formated-category
+         "]({{< relref \"/\" >}}?"
+         (s/replace formated-category " " "-")
+         "=true)")))
+  
+
+(defn make-category-str [categories]
+  (let [linked-categories
+        (for [category categories]
+          (link-category category))]
+    (str "Categories: " (s/join ",\n" linked-categories))))
+
+(defn update-categories [text new-categories]
+  (let [[old-categories categoryless-text] (parse-categories text)
+        categories (sort (union new-categories old-categories))]
+    (str categoryless-text "\n\n" (make-category-str categories))))
+
+(assert=
+  (update-categories
+    "
+# My First 5.12!
+
+I projected this route for a while and still can remember its movements.
+Posting it here mostly for my own personal nostalgia : ).
+
+Here is the route: https://photos.app.goo.gl/fvva4kiMPeRbi6tP9.
+
+Categories: [Climbing]({{< relref \"/\" >}}?Climbing=true),
+[Event Reports]({{< relref \"/\" >}}?Event-Reports=true)
+" #{"Climbing" "Event Reports"})
+  "# My First 5.12!
+
+I projected this route for a while and still can remember its movements.
+Posting it here mostly for my own personal nostalgia : ).
+
+Here is the route: https://photos.app.goo.gl/fvva4kiMPeRbi6tP9.
+
+Categories: [Climbing]({{< relref \"/\" >}}?Climbing=true),
+[Event Reports]({{< relref \"/\" >}}?Event-Reports=true)")
+
+(defn add-dir-categories! [root-dir]
+  (doall
+    (for [file (get-all-files root-dir)
+          :let [path-categories
+                (set (map format-word
+                          (drop-last (drop 2 (s/split (:path file) "/")))))]]
+      (if (is-symlink? (:path file))
+        nil
+        (spit (:path file)
+             (update-categories (:markdown file) path-categories))))))
+
+; -------------- Adding Backlinks to All Pages ----------------------------
+
+(defn file-to-md-link
+  [filepath]
+  (str "[" (to-title filepath)
+       "]({{< relref \"" (s/replace-first filepath "content" "") "\" >}})"))
+      
+(defn update-backlinks
+  [md backlinks]
+  (let [[backlinkless-text _] (extract-paragraph md "Backlinks:")]
+    (if (= 0 (count backlinks))
+      backlinkless-text
+      (str backlinkless-text
+           "\n\nBacklinks: "
+           (apply str
+                  (for [path backlinks]
+                    (str (file-to-md-link path) ", \n")))))))
+
+(defn get-file-to-backlinks
+  [all-files]
+  (apply merge-with into 
+    (reduce concat
+      (for [file all-files]
+        (for [link (:links file)
+              :when (not (= "/docs/all.md" link))]
+          {link #{(:path file)}})))))
+
+(defn update-files-with-backlinks
+  [files]
+  (let [path-to-backlinks (get-file-to-backlinks files)]
+    (for [file files]
+      (assoc file
+             :backlinks (get path-to-backlinks
+                             (s/replace-first (:path file) "content" ""))))))
+                                                              
+; TODO update this code to link to specific md sections, not just pages as a
+; whole. this is particularly helpful for the "feelings" page and how it
+; interacts with "experiences"
+(defn add-all-backlinks! [root-dir]
+  (doall
+    (for [file (update-files-with-backlinks (get-all-files root-dir))]
+      (do 
+        (prn (str "Adding " (count (:backlinks file)) " backlinks for "
+                  (:path file)))
+        (if (is-symlink? (:path file))
+          (prn (str "Not updating backlinks for symlink " (:path file)))
+          (spit (:path file)
+                (update-backlinks (:markdown file) (:backlinks file))))))))
 
 ;; ------------- Experiences.edn to Markdown Files -------------------------
 
-(defn remove-md-link
-  [md]
+(defn remove-md-link [md]
   (if-let [delinked (last (re-find #"\[(.*?)\]" md))]
-    delinked
-    md))
+    delinked md))
 
-(defn clean-whitespace
-  [md]
+(defn clean-whitespace [md]
   "Removes multiple spaces and newlines."
-  (s/replace (s/replace md "\n" "") #"\s\s+" " "))
+  (s/replace (s/replace md "\n" "")
+             #"\s\s+" " "))
 
-(defn name-to-anchor-link [s] (str "#" (s/replace (s/lower-case s) " " "-")))
+(defn name-to-anchor-link [s]
+  (str "#" (s/replace (s/lower-case s) " " "-")))
 
-(defn make-feelings-list
-  [feelings]
+(defn make-feelings-list [feelings]
   (s/join "\n"
           (for [[feeling desc] feelings]
-            (str "  - ["
-                 feeling
+            (str "  - [" feeling
                  "]({{< relref \"/docs/feelings.md\" >}}"
-                 (name-to-anchor-link feeling)
-                 ")"))))
+                 (name-to-anchor-link feeling) ")"))))
 
-(defn experiences-to-md
-  [experiences-edn]
+(defn experiences-to-md [experiences-edn]
   (doall (for [[title description tags feelings] experiences-edn
                :let [clean-title (clean-whitespace title)
-                     filename    (str "content/docs/experiences/"
-                                      (s/replace (remove-md-link clean-title)
-                                                 " "
-                                                 "-")
-                                      ".md")
-                     body        (str "# "
-                                      clean-title
-                                      "\n\n"
-                                      (clean-whitespace description)
-                                      "\n\n"
-                                      "Feelings: \n\n"
-                                      (make-feelings-list feelings)
-                                      "\n\n"
-                                      "Categories: "
-                                      (s/join ", " tags))]]
-           (spit filename body))))
+                     filename (str "content/docs/experiences/"
+                                   (s/replace (remove-md-link clean-title)
+                                              " " "-")
+                                   ".md")
+                     body (str "# " clean-title "\n\n"
+                               (clean-whitespace description) "\n\n"
+                               "Feelings: \n\n" (make-feelings-list feelings) "\n\n"
+                               "Categories: " (s/join ", " tags))]]
+            (spit filename body))))
 
-(defn get-all-feelings
-  [experiences]
+(defn get-all-feelings [experiences]
   (sort-by #(first %)
-           (reduce concat
-             (for [[_ _ _ feelings] experiences]
-               feelings))))
+    (reduce concat (for [[_ _ _ feelings] experiences]
+                     feelings))))
 
-(defn feelings-to-file
-  [experiences-edn]
+(defn feelings-to-file [experiences-edn]
   (spit "content/docs/feelings.md"
-        (str "# Feelings\n\n"
-             (s/join "\n\n"
-                     (for [[feeling description valences] (get-all-feelings
-                                                            experiences-edn)
-                           :when (not (nil? description))]
-                       (str "## "  feeling
-                            "\n\n" (clean-whitespace description)
-                            "\n"   (if valences
-                                     (str "\n"
-                                          (s/join "\n"
-                                                  (for [v valences]
-                                                    (str "  - " v))))
-                                     "")))))))
+    (str "# Feelings\n\n"
+          (s/join "\n\n"
+                  (for [[feeling description valences]
+                        (get-all-feelings experiences-edn)
+                        :when (not (nil? description))]
+                    (str "## " feeling "\n\n" (clean-whitespace description)
+                         "\n"
+                         (if valences
+                           (str "\n"
+                                (s/join "\n" (for [v valences] 
+                                               (str "  - " v))))
+                           "")))))))
                     
 ; -------------------------------------------------------------------------
 
@@ -553,16 +453,13 @@ Backlinks:
 
 (defn word-count
   [files]
-  (let [word-count (as-> files d
-                     (map :markdown d)
-                     (reduce str d)
-                     (s/split d #"\s+")
-                     (filter is-word d)
-                     (count d))]
-    (str word-count
-         " words, "
-         (m/round
-           (* 100 (double (/ word-count harry-potter-sorcerers-stone-words))))
+  (let [words (filter is-word
+                      (s/split (reduce str (map :markdown
+                                              (get-all-files "content/docs")))
+                               #"\s+"))]
+    (str (count words) " words, "
+         (m/round (* 100 (double (/ (count words)
+                                    harry-potter-sorcerers-stone-words))))
          "% of Harry Potter and the Sorcerer's Stone")))
 
 (defn update-word-count
@@ -574,37 +471,27 @@ Backlinks:
 
 
 (def index-path "content/menu/index.md")
-; Path to all the pages that we want to process.
-; (def content-path "content/docs/visual-art")
-(def content-path "content/docs")
-(defn main
-  []
-  ; Use doall so that we don't evaluate get all files when under the influence
-  ; of with-out-str, which will eat any debugging statements we are using.
-  (let [all-files (doall (get-all-files content-path))]
-    (spit "content/docs/all.edn"
+(defn main []
+  (let [all-files (get-all-files "content/docs")]
+    ; (spit index-path (h/html (make-dir-contents "content/docs")))
+    ; (spit "content/menu/index.edn" (get-file-tree "content/docs"))
+    (spit "content/docs/all.edn" 
           ; THIS EATS DEBUGGING PRINT STATEMENTS!!!
           (with-out-str (pprint (into [] all-files))))
     (spit "content/docs/all.md" (make-all-notes-page all-files))
     (prn (word-count all-files))
-    (update-word-count "content/_index.md" all-files)
-    (doall (for [file  all-files
-                 ; Assume symlinks are links to private repositories that
-                 ; we do not want to modify.
-                 :when (not (:private file))]
-             (spit (:path file) (:markdown file))))))
+    (update-word-count "content/_index.md" all-files))
 
-  ; Skip generating experience md pages from the edn file for now.
-  ; (let [experiences-edn
-  ;       (read-string
-  ;         (slurp "content/docs/lifestyle-optimizations/experiences.edn")))
-  ;   (feelings-to-file experiences-edn)
-  ;   (experiences-to-md experiences-edn))
+  #_(let [experiences-edn
+          (read-string
+            (slurp "content/docs/lifestyle-optimizations/experiences.edn"))]
+      (feelings-to-file experiences-edn)
+      (experiences-to-md experiences-edn))
 
-  ; Actually generate the index.  This code is obseleted by the website-helpers
-  ; index generation
-  ; (spit index-path (h/html (make-dir-contents content-path)))
-  ; (spit "content/menu/index.edn" (get-file-tree content-path))
+  (add-dir-categories! "content/docs")
+  (add-all-backlinks! "content/docs"))
+  
+
   ; ; Requires `sudo apt install tidy`
   ; (os/sh "tidy"
   ;        "-indent"

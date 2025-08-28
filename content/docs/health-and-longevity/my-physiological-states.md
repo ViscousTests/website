@@ -1,7 +1,3 @@
----
-backlinks-set: 
-categories-set: #{"Health And Longevity"}
----
 # My Physiological States
 
 Here are some different physiological states I find myself in, with some
@@ -35,3 +31,5 @@ A need to eat food.
 
  - Engaging conversation.
  - Exercise.
+
+Categories: [Health And Longevity]({{< relref "/" >}}?Health-And-Longevity=true)

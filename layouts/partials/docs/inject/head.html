@@ -29,9 +29,6 @@ const urlParams = new URLSearchParams(window.location.search);
 //     head.appendChild(js);
 // }
 
-website_helpers.global.set_global_notes(
-    website_helpers.core.read_edn_string(
-        {{ "/content/docs/all.edn" | readFile }}));
 
 // Execute after one second.
 setTimeout(

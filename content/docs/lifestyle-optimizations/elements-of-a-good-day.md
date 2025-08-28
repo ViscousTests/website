@@ -1,7 +1,3 @@
----
-backlinks-set: 
-categories-set: #{"Lifestyle Optimizations"}
----
 # Elements of a Good Day
 
 1. Coming up with a good explanation for something.
@@ -17,3 +13,5 @@ go (not fats like peanut butter).
 
 There's some really good insight at
 https://web.archive.org/web/20220711101916/https://nabeelqu.co/advice.
+
+Categories: [Lifestyle Optimizations]({{< relref "/" >}}?Lifestyle-Optimizations=true)

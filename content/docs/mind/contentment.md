@@ -1,7 +1,3 @@
----
-backlinks-set: 
-categories-set: #{"Mind"}
----
 # Contentment and Satisfaction
 
 > At a party given by a billionaire on Shelter Island, Kurt Vonnegut informs his pal, Joseph Heller, that their host, a hedge fund manager, had made more money in a single day than Heller had earned from his wildly popular novel Catch-22 over its whole history.
@@ -30,3 +26,5 @@ feel as impactful as anticipated.
 If this theory is correct at all, then a way to avoid the above problem is to
 diversify your endevours, at least adding some that have clear progress marks
 you can feel satisfied about.
+
+Categories: [Mind]({{< relref "/" >}}?Mind=true)

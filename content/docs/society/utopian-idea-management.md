@@ -1,7 +1,3 @@
----
-backlinks-set: 
-categories-set: #{"Society"}
----
 # Utopian Idea Management
 
 As touched on in [Utopia]({{< relref "/docs/society/utopia.md" >}}), in my
@@ -61,3 +57,7 @@ Some information should still be restricted.  This includes:
    An individual with a canonical fantasy world for instance should have a way
    to prove/show that new books they write were written by them in a specific
    canonical world, even if the books themselves are freely copyable.
+
+Categories: [Society]({{< relref "/" >}}?Society=true)
+
+Backlinks: [Utopia]({{< relref "/docs/society/utopia.md" >}}), 

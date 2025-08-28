@@ -1,7 +1,3 @@
----
-backlinks-set: #{"content/docs/visual-art/generative-art.md"}
-categories-set: #{"Visual Art"}
----
 # Inspiration and Resources
 
 Cool art and art tutorials that I've stumbled across.
@@ -33,3 +29,7 @@ Cool art and art tutorials that I've stumbled across.
 ## Natural Inspiration
 
  - https://images.wur.nl/digital/collection/coll13/search
+
+Categories: [Visual Art]({{< relref "/" >}}?Visual-Art=true)
+
+Backlinks: [Generative Art]({{< relref "/docs/visual-art/generative-art.md" >}}), 

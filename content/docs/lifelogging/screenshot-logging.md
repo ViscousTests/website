@@ -1,7 +1,3 @@
----
-backlinks-set: 
-categories-set: #{"Lifelogging"}
----
 # Lifelogging via Screenshots
 
 Pictures are easy to take and contain a ton of context-rich information.
@@ -25,3 +21,5 @@ timeline easily.
 
 https://github.com/kovasap/dotfiles?tab=readme-ov-file#automatic-screenshooting
 describes a good method to do this on windows.
+
+Categories: [Lifelogging]({{< relref "/" >}}?Lifelogging=true)

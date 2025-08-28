@@ -1,7 +1,3 @@
----
-backlinks-set: 
-categories-set: #{"Software Dev"}
----
 # Actionable Tips to Improve Code
 
 Here are various specific and actionable things you can try out to improve code
@@ -11,3 +7,5 @@ quality (and/or challenge yourself).
    only). This was taken from Clean Code, Ch. 3.
  - Don't mutate anything (instead copy). This may be more possible in some
    languages than others
+
+Categories: [Software Dev]({{< relref "/" >}}?Software-Dev=true)

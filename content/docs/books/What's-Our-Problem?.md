@@ -1,5 +1,3 @@
----
-backlinks-set: 
-categories-set: #{"Books"}
----
 # [What's Our Problem?]()
+
+Categories: [Books]({{< relref "/" >}}?Books=true)

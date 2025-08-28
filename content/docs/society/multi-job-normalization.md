@@ -1,7 +1,3 @@
----
-backlinks-set: 
-categories-set: #{"Society"}
----
 # Normalizing Multiple Jobs
 
 It would be interesting if it was the norm for most people to work multiple
@@ -21,3 +17,5 @@ Issues:
  - Benefits (e.g. healthcare) would be more complicated to manage.
    IMO benefits shouldn't be tied to employment as much as they are in the U.S.
    now, but this would currently be a problem.
+
+Categories: [Society]({{< relref "/" >}}?Society=true)

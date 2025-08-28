@@ -1,7 +1,3 @@
----
-backlinks-set: 
-categories-set: #{"Lifestyle Optimizations"}
----
 # Ad-Free YouTube Viewing
 
 Sometimes YouTube videos are riddled with ads that make them hard to watch. To
@@ -15,3 +11,5 @@ YouTube video I just need to copy the url to my clipboard and then hit "mod-y"
 on my keyboard (mod is the windows key)! This also has the added benefit of
 saving the video to my hard drive in case I want to watch it later when
 offline.
+
+Categories: [Lifestyle Optimizations]({{< relref "/" >}}?Lifestyle-Optimizations=true)

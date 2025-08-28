@@ -1,7 +1,3 @@
----
-backlinks-set: 
-categories-set: #{"Visual Art"}
----
 # Judging Art
 
 How can you tell what art is high quality and/or worth consuming?
@@ -20,3 +16,5 @@ what is worth experiencing yourself.
 
 https://www.pewforum.org/2018/11/20/where-americans-find-meaning-in-life/ is
 an interesting place to start here.
+
+Categories: [Visual Art]({{< relref "/" >}}?Visual-Art=true)
