@@ -1,3 +1,7 @@
+---
+backlinks-set: #{"content/docs/manifesto.md" "content/docs/health-and-longevity/aging-science.md" "content/docs/health-and-longevity/sens.md"}
+categories-set: #{"Important" "Understanding The World"}
+---
 # What to Believe
 
 In order to make good decisions, people need to build an understanding of how
@@ -319,23 +323,3 @@ But has these problems:
  - Reproducing the logic behind the information can be very difficult or
    impossible, since it requires walking though the life experience of the
    tinkerer.  This can make it easy for the tinkerer to hide bias.
-
-
-
-
-
-
-
-
-
-
-Categories: [Important]({{< relref "/" >}}?Important=true),
-[Understanding The World]({{< relref "/" >}}?Understanding-The-World=true)
-
-Backlinks: [Manifesto]({{< relref "/docs/manifesto.md" >}}), 
-[The Enigma Of Reason]({{< relref "/docs/books/The-Enigma-of-Reason.md" >}}), 
-[Why Greatness Cannot Be Planned]({{< relref "/docs/books/why-greatness-cannot-be-planned.md" >}}), 
-[Aging Science]({{< relref "/docs/health-and-longevity/aging-science.md" >}}), 
-[Sens]({{< relref "/docs/health-and-longevity/sens.md" >}}), 
-[Perspective]({{< relref "/docs/mind/perspective.md" >}}), 
-[Working With Complex Systems]({{< relref "/docs/understanding-the-world/working-with-complex-systems.md" >}}), 

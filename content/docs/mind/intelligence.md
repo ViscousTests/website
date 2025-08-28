@@ -1,3 +1,7 @@
+---
+backlinks-set: 
+categories-set: #{"Mind"}
+---
 # Intelligence
 
 **Disclaimer:** This is not based on any specific research, just my own personal
@@ -37,5 +41,3 @@ I think skills like this can be learned like many others, and are built by
 etching heuristics and patterns into your brain.
 
 Relevant note: https://news.ycombinator.com/item?id=38509399
-
-Categories: [Mind]({{< relref "/" >}}?Mind=true)

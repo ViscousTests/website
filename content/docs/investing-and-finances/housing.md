@@ -1,3 +1,7 @@
+---
+backlinks-set: 
+categories-set: #{"Investing And Finances"}
+---
 # Housing
 
 ## Buying vs Renting
@@ -34,5 +38,3 @@ are worth exploring:
  - Housing will take up less mental space and energy, which you can use for
    other things.
  - Lower commitment, and therefore less stressful.
-
-Categories: [Investing And Finances]({{< relref "/" >}}?Investing-And-Finances=true)

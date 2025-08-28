@@ -1,25 +1,5 @@
+---
+backlinks-set: #{"content/docs/gaming/games/strategy/other-strategy.md" "content/docs/gaming/games/tactics-rpg/battle-brothers.md" "content/docs/gaming/games/cooperative-rpg/dead-of-winter.md" "content/docs/gaming/games/Beat-Saber.md" "content/docs/hobbies/Lead-Climbing-in-a-Gym.md" "content/docs/hobbies/Yo-Yoing.md" "content/docs/gaming/games/roguelike/Islanders.md" "content/docs/gaming/games/competitive-fps/other-competitive-fps.md" "content/docs/gaming/games/puzzle/other-puzzle.md"}
+categories-set: #{}
+---
 This file is encrypted.
-
-Categories:
-
-Backlinks: [Comparing Prices]({{< relref "/docs/games/Comparing-prices.md" >}}), 
-[Apex Legends]({{< relref "/docs/games/Apex-Legends.md" >}}), 
-[Watching Gothamchess]({{< relref "/docs/videos/Watching-GothamChess.md" >}}), 
-[Redditing]({{< relref "/docs/games/Redditing.md" >}}), 
-[Watching Educational Youtube]({{< relref "/docs/videos/Watching-educational-YouTube.md" >}}), 
-[Quordle]({{< relref "/docs/games/Quordle.md" >}}), 
-[Browsing Hacker News]({{< relref "/docs/games/Browsing-Hacker-News.md" >}}), 
-[Islanders]({{< relref "/docs/games/Islanders.md" >}}), 
-[Wordle]({{< relref "/docs/games/Wordle.md" >}}), 
-[Age Of Darkness: Final Stand]({{< relref "/docs/games/Age-of-Darkness:-Final-Stand.md" >}}), 
-[Lead Climbing In A Gym]({{< relref "/docs/hobbies/Lead-Climbing-in-a-Gym.md" >}}), 
-[Bike Commuting]({{< relref "/docs/games/Bike-Commuting.md" >}}), 
-[Beat Saber]({{< relref "/docs/games/Beat-Saber.md" >}}), 
-[Battle Brothers]({{< relref "/docs/games/battle-brothers.md" >}}), 
-[Yo Yoing]({{< relref "/docs/hobbies/Yo-Yoing.md" >}}), 
-[Slipways]({{< relref "/docs/games/Slipways.md" >}}), 
-[Dead Of Winter]({{< relref "/docs/games/dead-of-winter.md" >}}), 
-[Semantle]({{< relref "/docs/games/Semantle.md" >}}), 
-[Making Small Web Apps In Clojurescript With Reagent]({{< relref "/docs/games/Making-Small-Web-Apps-in-ClojureScript-with-Reagent.md" >}}), 
-[Dat Creativity]({{< relref "/docs/games/DAT-Creativity.md" >}}), 
-[Three Worlds Collide]({{< relref "/docs/games/Three-Worlds-Collide.md" >}}), 

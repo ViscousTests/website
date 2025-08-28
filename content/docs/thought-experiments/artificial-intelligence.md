@@ -1,3 +1,7 @@
+---
+backlinks-set: 
+categories-set: #{"Thought Experiments"}
+---
 # Artificial Intelligence
 
 Reading Chapter 7 (Artificial Creativity) of "The Beginning of Infinity" by
@@ -56,5 +60,3 @@ specific direction, or how to reward it for making "good" changes).
 ## Prior Art
 
  - https://github.com/uber-research/backpropamine
-
-Categories: [Thought Experiments]({{< relref "/" >}}?Thought-Experiments=true)

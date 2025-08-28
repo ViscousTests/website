@@ -1,3 +1,7 @@
+---
+backlinks-set: 
+categories-set: #{"Software Dev"}
+---
 # Functional Programming
 
 ## What it it?
@@ -29,5 +33,3 @@ I interviewed someone currently working at Nubank for a Google job in Clojure
 (their preferred language). This underscored to me the above observation - the
 interview didn't go very well in part because the candidate had trouble
 incrementally building up the solution.
-
-Categories: [Software Dev]({{< relref "/" >}}?Software-Dev=true)

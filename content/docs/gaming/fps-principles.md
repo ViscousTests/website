@@ -1,3 +1,7 @@
+---
+backlinks-set: 
+categories-set: #{"Gaming"}
+---
 # Core First Person Shooter (FPS) Principles
 
 These are some general guidelines I've learned over my many hours playing FPS
@@ -154,5 +158,3 @@ If you must hold close to an angle, you have to bank on your opponent not being 
  - [Great break down by CoachNihil of kandyrew's
    gameplay](https://www.youtube.com/watch?v=L4QuNEkLtl8&ab_channel=kandyrew)
    which helped inspire the "cone of danger" thinking.
-
-Categories: [Gaming]({{< relref "/" >}}?Gaming=true)

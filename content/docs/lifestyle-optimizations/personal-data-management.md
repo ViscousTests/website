@@ -1,3 +1,7 @@
+---
+backlinks-set: 
+categories-set: #{"Lifestyle Optimizations"}
+---
 # Personal Data Management
 
 ## General Purpose File Storage
@@ -20,5 +24,3 @@ Github.
 Bitwarden.
 
 Also this project looks useful: https://github.com/mprimi/portable-secret
-
-Categories: [Lifestyle Optimizations]({{< relref "/" >}}?Lifestyle-Optimizations=true)

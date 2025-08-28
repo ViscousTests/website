@@ -1,3 +1,7 @@
+---
+backlinks-set: #{"content/docs/lifestyle-optimizations/daily-physiological-tricks.md"}
+categories-set: #{"Understanding The World"}
+---
 # Productive Conversations
 
  - Start with "what would convince you that you're wrong?"
@@ -11,7 +15,3 @@
    (state it explicitly).
  - Ask people to explain how the thing that's being discussed works (objectively).
    See https://freakonomics.com/podcast/how-to-change-your-mind/.
-
-Categories: [Understanding The World]({{< relref "/" >}}?Understanding-The-World=true)
-
-Backlinks: [Daily Physiological Tricks]({{< relref "/docs/lifestyle-optimizations/daily-physiological-tricks.md" >}}), 

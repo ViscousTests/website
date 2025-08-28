@@ -1,3 +1,7 @@
+---
+backlinks-set: 
+categories-set: #{"Investing And Finances"}
+---
 # Financial Independence
 
 ## What?
@@ -24,5 +28,3 @@ look promising to me:
  - https://cfiresim.com/
  - https://projectifi.io/
  - https://fiers.co/
-
-Categories: [Investing And Finances]({{< relref "/" >}}?Investing-And-Finances=true)

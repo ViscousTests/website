@@ -1,3 +1,7 @@
+---
+backlinks-set: 
+categories-set: #{}
+---
 # Potential Life Missions
 
 Finding a way to use my time and resources to make the world a better place is
@@ -93,9 +97,3 @@ is one way to reduce these costs.
 
  - http://paulgraham.com/greatwork.html, https://news.ycombinator.com/item?id=36550615
  - [Why Greatness Cannot be Planned]({{< relref "/docs/books/why-greatness-cannot-be-planned.md" >}})
-
-Categories:
-
-Backlinks: [Why Greatness Cannot Be Planned]({{< relref "/docs/books/why-greatness-cannot-be-planned.md" >}}), 
-[Optimism]({{< relref "/docs/mind/optimism.md" >}}), 
-[Utopia]({{< relref "/docs/society/utopia.md" >}}), 

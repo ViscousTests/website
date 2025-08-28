@@ -1,3 +1,7 @@
+---
+backlinks-set: 
+categories-set: #{"Lifestyle Optimizations"}
+---
 # Being Competitive
 
 Here when I talk about being competitive I mean striving/expecting to improve at
@@ -42,5 +46,3 @@ For example, my ability to (rock) climb routes of a given grade with the
 handicap of ratty shoes makes me feel stronger that I would otherwise.
 I also feel great when I have early ("beginner's luck"-y) strong performance in
 an activity with the handicap of lack of experience.
-
-Categories: [Lifestyle Optimizations]({{< relref "/" >}}?Lifestyle-Optimizations=true)

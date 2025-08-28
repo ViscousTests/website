@@ -1,3 +1,7 @@
+---
+backlinks-set: #{"content/docs/lifelogging/what-and-why.md"}
+categories-set: #{"Health And Longevity"}
+---
 # Tracking Health
 
 ![Health Stats XKCD](/docs/health-and-longevity/xkcd_health_stats.png)
@@ -25,7 +29,7 @@ Tracking them is useful to correlate them with outputs.
 
 ### Food
 
-See ["Tracking Food"]({{< relref "/docs/health-and-longevity/tracking-food.md" >}})
+See ["Tracking Food"]({{< relref "/docs/health-and-longevity/food/tracking-food.md" >}})
 
 ### Exercise
 
@@ -126,21 +130,3 @@ healthspan?
 ### Mood and Mental State
 
  - Mood tracking via heart data: https://upmood.com/
-
-
-
-
-
-
-
-
-
-
-
-
-
-Categories: [Health And Longevity]({{< relref "/" >}}?Health-And-Longevity=true)
-
-Backlinks: [Continuous Glucose Monitoring]({{< relref "/docs/health-and-longevity/continuous-glucose-monitoring.md" >}}), 
-[Tracking Food]({{< relref "/docs/health-and-longevity/tracking-food.md" >}}), 
-[What And Why]({{< relref "/docs/lifelogging/what-and-why.md" >}}), 

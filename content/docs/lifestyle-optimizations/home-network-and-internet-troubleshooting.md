@@ -1,3 +1,7 @@
+---
+backlinks-set: 
+categories-set: #{"Lifestyle Optimizations"}
+---
 # Internet and Home Network Troubleshooting
 
 ## Lag when playing games
@@ -14,5 +18,3 @@ Another thing to try is to run `ping <your-routers-ip> -t` in a windows cmd
 prompt. This measures the latency between your computer and the router - if
 this is high, then something internal to the network may be causing the
 latency.
-
-Categories: [Lifestyle Optimizations]({{< relref "/" >}}?Lifestyle-Optimizations=true)

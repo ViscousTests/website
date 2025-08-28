@@ -1,3 +1,7 @@
+---
+backlinks-set: 
+categories-set: #{"Lifestyle Optimizations"}
+---
 # Hang (Air) Drying Cloths
 
 I've found that hang drying cloths over using a cloths dryer has some pretty
@@ -60,5 +64,3 @@ hang on a clothesline.  When doing this it's important to tie regularly spaced
 knots in the rope for the hangers to rest against (like this:
 https://www.reddit.com/r/interestingasfuck/comments/vf4upz/this_man_tying_knots/)
 to make sure the clothes don't bunch up (reducing airflow).
-
-Categories: [Lifestyle Optimizations]({{< relref "/" >}}?Lifestyle-Optimizations=true)

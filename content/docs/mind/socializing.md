@@ -1,3 +1,7 @@
+---
+backlinks-set: 
+categories-set: #{"Mind"}
+---
 # Socializing
 
 ## Positive Vibes
@@ -28,5 +32,3 @@ looking for things to do - but it is good to be aware of.
 
 If you constantly voice your own roil of thoughts as a way to manage it, or
 simply be social, you can be exhausting to be around.
-
-Categories: [Mind]({{< relref "/" >}}?Mind=true)
