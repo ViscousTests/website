@@ -1,3 +1,7 @@
+---
+backlinks-set: 
+categories-set: #{"Society"}
+---
 # Solving Societal Problems
 
 Here I'm defining a "societal problem" as a large problem facing many people
@@ -184,7 +188,3 @@ truly believe.
 Right now this line of thinking is just a plausible (at least to me) idea.  I
 would love to see some evidence for this, but don't have any at hand right now
 to cite.  So (as always) I might be totally wrong :).
-
-Categories: [Society]({{< relref "/" >}}?Society=true)
-
-Backlinks: [Optimism]({{< relref "/docs/mind/optimism.md" >}}), 

@@ -1,3 +1,7 @@
+---
+backlinks-set: 
+categories-set: #{"Investing And Finances"}
+---
 # Expected Returns for Buying a House
 
 A simpler alternative for a quick calcution is
@@ -223,5 +227,3 @@ front.
    you are planning to sell at.  This will tell you how much money per month
    you are saving (or losing) per month compared to your **Personal monthly
    "rent"**.
-
-Categories: [Investing And Finances]({{< relref "/" >}}?Investing-And-Finances=true)

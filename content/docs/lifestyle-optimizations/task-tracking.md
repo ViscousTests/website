@@ -1,3 +1,7 @@
+---
+backlinks-set: #{"content/docs/health-and-longevity/sleep.md" "content/docs/lifelogging/what-and-why.md"}
+categories-set: #{"Lifestyle Optimizations"}
+---
 # Task Tracking
 
 ## The Problem
@@ -44,17 +48,3 @@ Setting recurring reminders at specific times is also an extremely effective
 way of building [atomic habits](https://jamesclear.com/atomic-habits). I find
 that doing this proactively is much better than trying to track adherence to a
 habit reactively (e.g. tracking workouts).
-
-
-
-
-
-
-
-
-
-
-Categories: [Lifestyle Optimizations]({{< relref "/" >}}?Lifestyle-Optimizations=true)
-
-Backlinks: [Sleep]({{< relref "/docs/health-and-longevity/sleep.md" >}}), 
-[What And Why]({{< relref "/docs/lifelogging/what-and-why.md" >}}), 

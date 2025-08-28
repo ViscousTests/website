@@ -1,3 +1,7 @@
+---
+backlinks-set: 
+categories-set: #{"Mind"}
+---
 # What standard of thought should we expect from people?
 
 I recently read *What's Our Problem* by Tim Urban, where he makes the case that
@@ -36,6 +40,3 @@ to make decisions.
 
 I don't think freedom of speech should be suppressed by any means here.
 I'm purely speaking about cultural norms, not legal changes.
-
-Categories: [Mind]({{< relref "/" >}}?Mind=true),
-[Recent]({{< relref "/" >}}?Recent=true)

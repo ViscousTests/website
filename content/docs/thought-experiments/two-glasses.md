@@ -1,3 +1,7 @@
+---
+backlinks-set: 
+categories-set: #{"Thought Experiments"}
+---
 # Mixing Milk Tea
 
 Given a glass of tea and a glass of (almond) milk, each 9/10ths full, how many
@@ -61,5 +65,3 @@ about 16 mixes.
 
 If I only wanted to mix N times, how much milk tea can I make with two glasses
 of fixed size?
-
-Categories: [Thought Experiments]({{< relref "/" >}}?Thought-Experiments=true)

@@ -1,3 +1,7 @@
+---
+backlinks-set: 
+categories-set: #{"Investing And Finances"}
+---
 # Monthly Costs of Car Ownership
 
 Reasoning about the total monthly cost of owning a car can be tricky, due to
@@ -9,5 +13,3 @@ https://docs.google.com/spreadsheets/d/1aWen0619-9HZTL8dhSQKnDlkHNerlN0Nvb_ipLL-
 
 **If you have any questions or** ***especially*** **if you notice errors in the
 spreadsheet, please comment on it to let me know.**
-
-Categories: [Investing And Finances]({{< relref "/" >}}?Investing-And-Finances=true)

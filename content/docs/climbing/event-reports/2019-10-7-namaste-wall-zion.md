@@ -1,3 +1,7 @@
+---
+backlinks-set: 
+categories-set: #{"Climbing" "Event Reports"}
+---
 # Namaste Wall - Zion National Park
 
 Done on October 7th, 2019.
@@ -38,15 +42,3 @@ Here is a complete album: https://photos.app.goo.gl/kLGvWTqGBEjh2Dzv7
 ![Rock](/docs/climbing/event-reports/2019-10-07-namaste-wall-zion-pics/rock.jpg)
 
 ![Trees](/docs/climbing/event-reports/2019-10-07-namaste-wall-zion-pics/trees.jpg)
-
-
-
-
-
-
-
-
-[Event Reports]({{< relref "/" >}}?Event-Reports=true)
-
-Categories: [Climbing]({{< relref "/" >}}?Climbing=true),
-[Event Reports]({{< relref "/" >}}?Event-Reports=true)

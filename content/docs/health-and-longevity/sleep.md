@@ -1,3 +1,7 @@
+---
+backlinks-set: #{"content/docs/manifesto.md" "content/docs/health-and-longevity/aging-science.md" "content/docs/lifestyle-optimizations/daily-physiological-tricks.md"}
+categories-set: #{"Health And Longevity" "Important"}
+---
 # Sleep
 
 Some tips and tricks that work for me to get better sleep.
@@ -134,21 +138,3 @@ TODO: Put some actual raw data here.
 
  - Interesting take on the effects sleep has on your physiology:
    https://guzey.com/theses-on-sleep/
-
-
-
-
-
-
-
-
-
-
-
-Categories: [Health And Longevity]({{< relref "/" >}}?Health-And-Longevity=true),
-[Important]({{< relref "/" >}}?Important=true)
-
-Backlinks: [Manifesto]({{< relref "/docs/manifesto.md" >}}), 
-[Aging Science]({{< relref "/docs/health-and-longevity/aging-science.md" >}}), 
-[Daily Physiological Tricks]({{< relref "/docs/lifestyle-optimizations/daily-physiological-tricks.md" >}}), 
-[Task Tracking]({{< relref "/docs/lifestyle-optimizations/task-tracking.md" >}}), 

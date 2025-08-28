@@ -1,3 +1,7 @@
+---
+backlinks-set: 
+categories-set: #{"Investing And Finances"}
+---
 # Personal Portfolio Thoughts
 
 Historically 100% VTSAX due to long time horizon and simplicity.
@@ -34,5 +38,3 @@ See some discussion of this strategy at https://www.reddit.com/r/Bogleheads/s/6c
 ## Bonds
 
 See https://www.youtube.com/watch?v=JlgMSDYnT2o for some thoughts.
-
-Categories: [Investing And Finances]({{< relref "/" >}}?Investing-And-Finances=true)

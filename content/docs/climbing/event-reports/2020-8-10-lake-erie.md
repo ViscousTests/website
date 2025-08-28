@@ -1,3 +1,7 @@
+---
+backlinks-set: 
+categories-set: #{"Climbing" "Event Reports"}
+---
 # Mt. Erie Climbing
 
 
@@ -39,7 +43,4 @@ scramble](/docs/climbing/event-reports/2020-8-10-lake-erie-pics/approach-scrambl
 
 
 
-[Event Reports]({{< relref "/" >}}?Event-Reports=true)
-
-Categories: [Climbing]({{< relref "/" >}}?Climbing=true),
 [Event Reports]({{< relref "/" >}}?Event-Reports=true)

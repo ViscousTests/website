@@ -1,3 +1,7 @@
+---
+backlinks-set: 
+categories-set: #{"Aging" "Health And Longevity"}
+---
 # Aging Overview
 
 ## Why is Aging Important?
@@ -7,7 +11,7 @@ It kills by slowly disabling the body and the mind over many years, leading to
 a massive amount of unnecessary physical and emotional suffering.
 
 People die with a lot of valuable experience/training/education.
-How would the world be different if people who faught in the civil war we're still
+How would the world be different if people who fought in the civil war we're still
 alive?  Or people from the feudal age?
 
 ## Defeating Aging
@@ -31,26 +35,15 @@ ideas for why aging might occur.
 
 ### Lifestyle Optimization
 
-[Exercising]({{< relref
-"/docs/health-and-longevity/exercise.md" >}}), [sleeping well]({{< relref
-"/docs/health-and-longevity/sleep.md" >}}), [eating intentionally]({{< relref
-"/docs/health-and-longevity/food.md" >}}), [reducing cronic stress]({{< relref
-"/docs/health-and-longevity/chronic-stress.md" >}}), among other things all
-can delay the effects of aging.
-Regular fxercise, for one, probably has the potential to [add 1-7 years to your
+[Exercising]({{< relref "/docs/health-and-longevity/exercise.md" >}}),
+[sleeping well]({{< relref "/docs/health-and-longevity/sleep.md" >}}),
+[eating intentionally]({{< relref "/docs/health-and-longevity/food/personal-food-habits.md" >}}),
+[reducing cronic stress]({{< relref "/docs/health-and-longevity/chronic-stress.md" >}}),
+among other things all can delay the effects of aging.
+Regular exercise, for one, probably has the potential to [add 1-7 years to your
 life](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3395188/).
 
 However, these kinds of optimizations have not been seen to dramatically extend
 lifespan beyond 80-90 years.
 
 ### "Unnatural" Interventions
-
-Categories: [Aging]({{< relref "/" >}}?Aging=true),
-[Health And Longevity]({{< relref "/" >}}?Health-And-Longevity=true)
-
-Backlinks: [Chronic Stress]({{< relref "/docs/health-and-longevity/chronic-stress.md" >}}), 
-[Exercise]({{< relref "/docs/health-and-longevity/exercise.md" >}}), 
-[Food]({{< relref "/docs/health-and-longevity/food.md" >}}), 
-[Sleep]({{< relref "/docs/health-and-longevity/sleep.md" >}}), 
-[Theories Of Aging]({{< relref "/docs/health-and-longevity/theories-of-aging.md" >}}), 
-[What To Believe]({{< relref "/docs/understanding-the-world/what-to-believe.md" >}}), 

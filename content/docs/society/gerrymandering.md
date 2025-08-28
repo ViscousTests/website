@@ -1,3 +1,7 @@
+---
+backlinks-set: 
+categories-set: #{"Society"}
+---
 # Gerrymandering
 
 In the US, a mostly agreed upon problem is that our legislative districts are
@@ -84,7 +88,3 @@ It looks like Germany does this in part by giving parties extra seats in their
 legislature based on their total national vote share after all constituencies
 have been given seats:
 https://en.wikipedia.org/wiki/Politics_of_Germany#Bundestag.
-
-Categories: [Society]({{< relref "/" >}}?Society=true)
-
-Backlinks: [The Black Swan]({{< relref "/docs/books/The-Black-Swan.md" >}}), 

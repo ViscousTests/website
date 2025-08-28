@@ -1,3 +1,7 @@
+---
+backlinks-set: #{"content/docs/lifelogging/2025-update.md" "content/docs/lifelogging/what-and-why.md"}
+categories-set: #{"Lifelogging"}
+---
 # Lifelogging with a Camera
 
 ## To Try
@@ -31,15 +35,3 @@ Or around `116 GB/year` if a took a picture every minute.
 ## Using the Narrative Clip
 
 A much more user friendly experience!  Unfortunately the company no longer exists.
-
-
-
-
-
-
-
-
-Categories: [Lifelogging]({{< relref "/" >}}?Lifelogging=true)
-
-Backlinks: [2025 Update]({{< relref "/docs/lifelogging/2025-update.md" >}}), 
-[What And Why]({{< relref "/docs/lifelogging/what-and-why.md" >}}), 

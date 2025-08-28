@@ -1,3 +1,7 @@
+---
+backlinks-set: 
+categories-set: #{"Software Dev"}
+---
 # Choosing a Language
 
 When deciding what programming language to use, there are several important
@@ -19,5 +23,3 @@ example is Javascript, which has tons and tons of libraries.
 
 This is a cool way to directly compare the look and feel of different languages:
 http://www.rosettacode.org/wiki/Rosetta_Code.
-
-Categories: [Software Dev]({{< relref "/" >}}?Software-Dev=true)
