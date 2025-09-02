@@ -61,6 +61,13 @@ yet.
    Reforged helps with this as the dynamic perks give you something to be
    excited about beyond raw stats in a new recruit.
 
+## Moments and Stories
+
+This fight was particularly hard, and taught me that it's important to have a few forward tanks stall time while everyone else cleans up the necrosavants.
+
+![](/docs/gaming/games/tactics-rpg/bbros-undead-map.jpg)
+![](/docs/gaming/games/tactics-rpg/bbros-undead-fight.jpg)
+
 Feelings: 
 
   - [Reactive Randomness Stress]({{< relref "/docs/feelings.md" >}}#reactive-randomness-stress)
