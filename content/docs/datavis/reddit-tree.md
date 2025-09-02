@@ -28,3 +28,4 @@ The code can be found at
 
  - [Map of Reddit](https://anvaka.github.io/map-of-reddit/), an amazing
    visualization of all subreddits and how they are related (by user activity).
+ - [The "first comment effect"](https://www.reddit.com/r/gamedev/s/mef3dVi6vh)

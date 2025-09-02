@@ -51,6 +51,12 @@ seem to work on linux.
 Someone online said you can use AutoHotKey via wine but I haven't tried that
 yet.
 
+## Resources
+
+ - [New player FAQ](https://steamcommunity.com/sharedfiles/filedetails/?id=2549815780)
+ - [Perk Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=2001196860)
+ - [Backgrounds Reference](https://docs.google.com/spreadsheets/d/14WmAFNdYft-YVDjEW_BHQHFPfnuBhmMs-SKR6tIQ2Ws/edit)
+
 ## Tips
 
  - The game is more fun when not stressing too much about the starting stats of
