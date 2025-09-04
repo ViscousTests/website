@@ -22,4 +22,12 @@ For MTG: Arena, I highly recommend using draftsim.com's "ultimate draft guides"
 to learn about new formats, and https://www.17lands.com/ to keep track of
 progress.
 
-Try to keep your expectations low to avoid dissapointment!
+Try to keep your expectations low to avoid disappointment!
+
+### Draft Moments
+
+#### 10 wins Blue / White Edge of Eternities Quick Draft
+
+Quantum Riddler with some 2 spell synergy.
+Thought the deck was not great, but it worked really well.
+One mana removal in cryoshatter and focus fire is extremely good.
