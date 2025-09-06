@@ -1,3 +1,7 @@
+---
+backlinks-set: 
+categories-set: #{"Mind"}
+---
 # Pressure and Integrity
 
 When people end up stressed or under pressure, they will more often "cheat" or

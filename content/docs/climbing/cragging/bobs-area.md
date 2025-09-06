@@ -1,3 +1,7 @@
+---
+backlinks-set: 
+categories-set: #{"Climbing" "Cragging"}
+---
 # Bob's Area
 
 ## The Magician Longs to See - 5.11d
