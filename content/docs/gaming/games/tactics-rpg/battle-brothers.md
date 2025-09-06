@@ -76,4 +76,4 @@ This fight was particularly hard, and taught me that it's important to have a fe
 
 Feelings: 
 
-  - [Reactive Randomness Stress]({{< relref "/docs/feelings.md" >}}#reactive-randomness-stress)
+  - Reactive Randomness Stress

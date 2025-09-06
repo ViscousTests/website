@@ -23,4 +23,4 @@ Played first in June 2022.
 
 Feelings:
 
- - [Watching with Extra Information]({{< relref "/docs/feelings.md" >}}#watching-with-extra-information)
+ - Watching with Extra Information

@@ -53,7 +53,7 @@ A more complex form of wordle, with a higher frequency of [BS words](https://www
 
 Feelings: 
 
-  - [Scanning through possibilities]({{< relref "/docs/feelings.md" >}}#scanning-through-possibilities)
+  - Scanning through possibilities
 
 ## [DAT Creativity](https://www.datcreativity.com/)
 
@@ -61,7 +61,7 @@ A test about trying to come up with the most different words possible.
 
 Feelings: 
 
-  - [Scanning through possibilities]({{< relref "/docs/feelings.md" >}}#scanning-through-possibilities)
+  - Scanning through possibilities
 
 ## [Semantle](https://semantle.novalis.org/)
 

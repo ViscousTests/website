@@ -13,7 +13,7 @@ A real-time-with-pause strategy game with excellent art.
 
 Feelings: 
 
-  - [Fitting puzzle pieces together]({{< relref "/docs/feelings.md" >}}#fitting-puzzle-pieces-together)
+  - Fitting puzzle pieces together
 
 ## [Slipways](https://slipways.net/)
 

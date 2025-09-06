@@ -8,4 +8,4 @@ Cool turn based city builder made with a beautiful art style.
 
 Feelings: 
 
-  - [Scanning through possibilities]({{< relref "/docs/feelings.md" >}}#scanning-through-possibilities)
+  - Scanning through possibilities
