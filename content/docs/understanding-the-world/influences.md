@@ -25,3 +25,4 @@ Representative articles:
 
 - [danluu](http://danluu.com)
 - [Paul Graham](http://www.paulgraham.com/articles.html)
+- [Apenwarr](https://apenwarr.ca/log/20231006)
