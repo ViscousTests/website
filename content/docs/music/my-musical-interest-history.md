@@ -39,16 +39,31 @@ For each period are listed some of my most listened to albums.
 
 ## 20s
 
- - Unprocessed, *Covenant*
  - Hubris, all albums
- - Russian Circles, all albums
-   - Amazing live
  - Night Verses, *From the Gallery of Sleep*
    - Saw live as an opener for another band and thought they were bad.
      As I listened more this became one of my favorite albums.
  - Tool, *Lateralus*, *10,000 Days*
  - Shiny Toy Guns, *III*
  - Jeremy Blake, [*Juvenile Hyperobject*](https://soundvision.bandcamp.com/album/juvenile-hyperobject-deluxe-edition)
+ - [hubris.](https://hubrisband.bandcamp.com/)
+ - [jakob](https://jakob.bandcamp.com/)
+ - [God is an Astronaut](https://www.youtube.com/watch?v=yhXHH2sZlQU)
+ - [Intervals](https://intervalsmusic.bandcamp.com/album/the-way-forward)
+ - [65daysofstatic](https://birdsrobe.bandcamp.com/album/wild-light)
+ - [Unprocessed, *Covenant*](https://unprocessed.bandcamp.com/album/covenant)
+ - [Russian Circles](https://russiancircles.bandcamp.com/)
+   - Amazing live
+ - [Zeal and Ardor](https://zealandardor.bandcamp.com/)
+ - [Tender](https://tender.bandcamp.com/album/fear-of-falling-asleep)
+ - [Metal Mother](https://metalmother.bandcamp.com/)
+ - [Pair of Arrows](https://pairofarrows.bandcamp.com/)
+ - Neon Trees
+ - Ratatat
+ - [El Ten Eleven](https://fakerecordlabel.bandcamp.com/album/el-ten-eleven-album)
+ - [Glitch Mob](https://theglitchmob.bandcamp.com/)
+ - [Tim Hecker](https://timhecker.bandcamp.com/)
+ - [Nick Johnston](https://www.youtube.com/watch?v=MfiNRE6IZJM)
 
 ## 30s
 

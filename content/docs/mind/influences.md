@@ -36,3 +36,7 @@ chapters.
 ## [Robert Sapolsky's Human Behavioral Biology Lecture](https://www.youtube.com/watch?v=NNnIGh9g6fA&list=PLD7E21BF91F3F9683)
 
 Cool lecture series, not done yet!
+
+## Blog Posts
+
+- https://nabeelqu.substack.com/p/principles
