@@ -30,6 +30,21 @@ If you take too much chip damage, get in cover and use lesser heal.
 Sometimes this will bait people to push you, which you can punish by switching
 back to melee.
 
+### Falchion Platelock
+
+Swing when people get close, cast when they are far.
+I like using dark bolt a lot because if people push you when you are casting
+it's easy to land headshots.
+
+![gear](/docs/gaming/games/competitive-fps/platelock_gear.png)
+
+![spells](/docs/gaming/games/competitive-fps/platelock_spells.png)
+
+Had a really fun prolonged fight with a druid in the crypts pyramid.
+Was able to go toe to toe and space bear form with falchion!
+
+Curse of pain is good to prevent rat form.
+
 ### Hybrid Warlock
 
 Been trying to make a crystal sword casting warlock work.
