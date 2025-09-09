@@ -28,7 +28,14 @@ Luckily you can stem before/after to rest and think.
 
 ### Rainy Day Woman - 5.12a
 
-Done on TR, very close on lead.
+Done on lead on 9/8/2025!
+Super intense crux clip.
+I think I got my right foot too high, and was barn dooring off the right hand
+hold and foot as I clipped.
+Managed to keep it together then very slowly finished the route, resting a lot
+on the good final holds.
+Didn't really feel that exciting at the end; I didn't feel like I really
+mastered the route.
 
 #### Beta
 
