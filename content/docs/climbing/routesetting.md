@@ -4,6 +4,23 @@ categories-set: #{"Climbing"}
 ---
 # Routesetting
 
+## 9/11/2025
+
+Evening set, played:
+
+ - Wave Machine, Makari
+ - I Don't Know What I Am, Reliqa
+ - Slow Burn, Conquer Divide
+ - Rush, Maneskin
+
+Set 2 routes on overhanging tall wall rope 20.
+
+ - Blue:
+   - Dual texture big half moon holds.  Hard to fit :/
+ - Green:
+   - Lots of upside down "tubelike" horn holds.
+   - Probably lots of heel hooks to stabilize necessary.
+
 ## 8/10/2025
 
 2 routes on "two crack" rope 13.  
