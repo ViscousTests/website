@@ -50,6 +50,23 @@ At the upper roof I need to not be scared and get my feet up constantly,
 
 Then foot up on crimp above roof, then onto stairsteps.
 
+## World Wall 2
+
+### Orgasmatron - 5.12a
+
+Very cool endurance route.
+
+First time up I didn't make it all the way to the anchor and my partner decided
+to TR it with extreme swing potential.
+Then after we were done we tried to set up a TR on renaissance, and I got too
+far away from the wall, subjecting my partner to _another_ "swing-y" TR session.
+
+### Renaissance - 5.12b
+
+Sooo hard.
+Pockets are better than they appear, but I still had to usually crimp the
+outside of them, then readjust to get my fingers in deeper.
+
 ## Other
 
 ### Lay of the Land - 5.12a

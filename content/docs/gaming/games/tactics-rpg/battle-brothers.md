@@ -11,6 +11,16 @@ Lots of character customization via different weapon types, and stat/perk
 assignment on level up.
 Not to mention the starting stats given to each character.
 
+## Build Ideas
+
+Builds that I used for some of my vanilla playthroughs: https://docs.google.com/spreadsheets/d/1roXzfQcoudn073bf7BsIQQbeax3z3JoyxRfDRcV9Tf0/edit?gid=0#gid=0
+
+### Headhunter flail -> axe
+
+Need a high FAT, high mATK bro.
+The idea is you lash to hit the head with a flail, then quick hands into a 1h
+axe and do very high headshot damage.
+
 ## RNG
 
 Unfortunately, the randomness in this game will lead to characters dying, so if
@@ -40,8 +50,6 @@ Mods to use:
 Mods I have yet to try:
 
  - https://github.com/Suor/battle-brothers-xbe with https://github.com/Sile735/mod_backgrounds_reforged_compatibility
-
-Builds that I used for some of my vanilla playthroughs: https://docs.google.com/spreadsheets/d/1roXzfQcoudn073bf7BsIQQbeax3z3JoyxRfDRcV9Tf0/edit?gid=0#gid=0
 
 I wish there were mods for this game that let you rebind the WASD camera
 controls.
