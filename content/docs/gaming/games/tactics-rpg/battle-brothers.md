@@ -21,6 +21,14 @@ Need a high FAT, high mATK bro.
 The idea is you lash to hit the head with a flail, then quick hands into a 1h
 axe and do very high headshot damage.
 
+## Roles / "Classes"
+
+The more I get into the endgame the more I realize how much survivability is
+important on bros.
+
+My next run I want to have a really solid frontline full of high defense shield
+bros using phalanx, then swap out the damaging backline based on the opponent.
+
 ## RNG
 
 Unfortunately, the randomness in this game will lead to characters dying, so if

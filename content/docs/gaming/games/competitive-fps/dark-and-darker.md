@@ -38,7 +38,14 @@ it's easy to land headshots.
 
 ![gear](/docs/gaming/games/competitive-fps/platelock_gear.png)
 
+I think it's actually better to swap the spellbook for a longsword so that you
+have a reasonable matchup against clerics and barbarians, who otherwise will
+generally beat this build.
+
 ![spells](/docs/gaming/games/competitive-fps/platelock_spells.png)
+
+Can also swap weakness/bolt for eldrich shield and spell predation to get dark
+shards.
 
 Had a really fun prolonged fight with a druid in the crypts pyramid.
 Was able to go toe to toe and space bear form with falchion!
