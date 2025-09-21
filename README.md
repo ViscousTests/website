@@ -1,9 +1,14 @@
 # My Personal Website
 
-## TODOs
+## Updating via Android
 
- - auto detect private pages that are present in the private repo to avoid
-   needing frontmatter on every private page
+I had a terrible time getting this set up.  
+
+MGit failed in so many cryptic ways when trying to clone the repository.  
+
+ACode seemed to work, but would squash my remote changes.
+
+GitSync + Markor seems to be the best option so far.
 
 ## Dependencies
 
