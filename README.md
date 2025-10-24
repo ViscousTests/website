@@ -7,7 +7,7 @@ Website setup was done using
 started by copying the example project in the hugo-book repository, and
 modifying the pages.  
 
-## Embedding Google Photos
+## Embedding Google Photo
 
 [This website](https://www.labnol.org/embed/google/photos/) makes it easy to
 embed Google Photos in my pages so I don't have to host the images myself when
